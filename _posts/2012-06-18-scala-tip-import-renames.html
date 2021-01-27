@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'Scala tip: import renames'
+date: '2012-06-18T16:44:00.001-07:00'
+author: Erik Bruchez
+tags:
+- programming
+- scala
+modified_time: '2015-11-12T09:10:25.299-08:00'
+blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-737207396629682363
+blogger_orig_url: https://blog.bruchez.name/2012/06/scala-tip-import-renames.html
+---
+
+<p>In Java, you often write things like this, which are rather verbose:</p> <pre><code class="java">URLEncoder.encode(...)<br />URLDecoder.decode(...)</code></pre> <p>Since Java 1.5 you can use static imports, but then you are stuck with the original function names as is, <code>encode(...)</code> and <code>decode(...)</code>.</p> <p>A cool feature of Scala is that imports support renaming, so you can write instead:</p> <pre><code class="scala">import java.net.URLEncoder.{encode ⇒ encodeURL}<br />import java.net.URLDecoder.{decode ⇒ decodeURL}</code></pre> <p>And then you just use the functions under their new name:</p> <pre><code class="scala">encodeURL(...)<br />decodeURL(...)</code></pre> <p>This is neat if you have to use these functions many times in a given file.</p> <p>Another common use of renames is to reduce name clashes. For example, Scala already has a number of things named <code>Map</code>. If you are using a Java API expecting a <code>java.util.Map</code>, you are likely to get name clashes.</p> <p>In Java, you would probably resort to full qualification, e.g. <code>java.util.Map</code>, and you can do the same in Scala, but that&#8217;s verbose. With renaming, you can write things like:</p> <pre><code class="scala">import java.util.{Map ⇒ JMap, List ⇒ JList}</code></pre> <p>And then use the Java <code>Map</code> as <code>JMap</code> and the Java <code>List</code> as <code>JList</code>. Nothing is changed at the VM level: it&#8217;s the same classes, but you now have a nice, short alias for them in the scope of the imports.</p>

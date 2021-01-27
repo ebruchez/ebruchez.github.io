@@ -1,0 +1,23 @@
+---
+layout: post
+title: Upgrading Your 17" MacBook Pro Hard Drive
+date: '2008-10-25T21:30:00.000-07:00'
+author: Erik Bruchez
+tags:
+- howto
+- apple
+- hardware
+- macbookpro
+- storage
+- harddisk
+- harddrive
+- laptop
+- macbook
+- mac
+modified_time: '2008-10-26T22:47:26.030-07:00'
+thumbnail: http://4.bp.blogspot.com/_DSqG0J8ANmg/SQPqQ_4jywI/AAAAAAAAANs/hg1k5RZcxl4/s72-c/IMG_0319.JPG
+blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-1901455506356688540
+blogger_orig_url: https://blog.bruchez.name/2008/10/upgrading-your-17-macbook-pro-hard.html
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_DSqG0J8ANmg/SQPqQ_4jywI/AAAAAAAAANs/hg1k5RZcxl4/s1600-h/IMG_0319.JPG"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; height: 250px;" src="http://4.bp.blogspot.com/_DSqG0J8ANmg/SQPqQ_4jywI/AAAAAAAAANs/hg1k5RZcxl4/s400/IMG_0319.JPG" alt="" id="BLOGGER_PHOTO_ID_5261306367446338306" border="0" /></a>A few days ago I upgraded my MacBook Pro's hard drive after realizing 320 GB drives sell for USD 110 - which made constantly worrying about disk space ridiculous. This also should extend my old MBP's life a little bit.<br /><br />Here are the steps needed to replace the drive:<ul><li>Buy the new drive ;-) I <a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16822136280">got mine from Newegg</a>. I picked a 7200 rpm 320 GB drive instead of a 5400 rpm 500 GB drive hoping that performance will be slightly better.<br /></li><li>Backup your system. I use Time Machine and Time Capsule so that part was easy. Just make sure you don't do any significant work after the last backup.<br /></li><li>Follow the <a href="http://www.ifixit.com/Guide/Mac/MacBook-Pro-17-Inch-Core-Duo/Hard-Drive-Replacement/87/8/">ifixit instructions to open the laptop and replace the drive</a>. Count about 1 hour to go through this, unless like me you have<span> to run to Home Depot to get one of those funny TORX T6 screwdrivers.</span><br /></li><li>Reassemble the laptop.</li></ul><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_DSqG0J8ANmg/SQPlHcRrPII/AAAAAAAAANk/BOY4vpzWi0I/s1600-h/IMG_0321.JPG"><img style="margin: 0pt 0pt 10px 10px; float: right; clear: both; cursor: pointer; width: 250px;" src="http://2.bp.blogspot.com/_DSqG0J8ANmg/SQPlHcRrPII/AAAAAAAAANk/BOY4vpzWi0I/s400/IMG_0321.JPG" alt="" id="BLOGGER_PHOTO_ID_5261300705711045762" border="0" /></a>Now for the software part:<br /><ul><li>Boot on the Leopard install DVD.</li><li>In the menu, chose <span style="font-style: italic;">Disk Utility</span>. Use that to partition and format the new drive.</li><li>Make sure the MBP has a way to connect to the network. I connected it by ethernet directly to Time Capsule to shorten the restore time.</li><li>Restart the machine. I had to do this or the Time Machine restore wouldn't see the new drive.</li><li>This time choose <span style="font-style: italic;">Restore System from backup</span>. There you pick a source backup. First, you pick your Time Capsule (if that's what you use), then the backup sparse bundle file, and finally the backup version. For the destination, obviously, choose your newly-installed drive.</li><li>The restore tool then spends a lot of time computing the size of the backup to make sure the data fits in the destination. In my case this took between 30 and 60 minutes.</li><li>Finally, start the restoration process proper. I let this run overnight so I don't know exactly how long this required, but it took less than 12 hours to restore about 140 GB of data.</li></ul>Et voilà, <span class="entry-content">174.76 GB of free space! That won't last long...</span><br /><br />You may also want to read <a href="http://duncandavidson.com/2008/01/restoring-from-time-machine.html">this excellent post by James Duncan Davidson</a>, with much better photos than the ones I took with my iPhone.<br /><br />UPDATE: I forgot to mention the following caveats:<br /><ul><li>Time Machine does not backup the spotlight index, so spotlight will run for a while after your first boot with the new drive.</li><li>The same goes for the Mail.app caches when using IMAP: Mail.app takes quite a while resynchronizing all your email folders.<br /></li><li>I had rented a movie from iTunes before upgrading. Guess what: that wasn't backed up either, and I had to pay again for the rental as it doesn't appear you can just download the movie again.<br /></li></ul>
