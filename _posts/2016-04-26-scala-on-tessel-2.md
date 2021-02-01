@@ -7,13 +7,14 @@ tags:
 - hardware
 - iot
 - scala
+category: Programming
 modified_time: '2016-04-26T19:01:15.803-07:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-1285687697298780515
 blogger_orig_url: https://blog.bruchez.name/2016/04/scala-on-tessel-2.html
 ---
 ![Tessel 2 and its relay module](https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/images/2016-04-23-tessel2-1024.jpg)
 
-### What is Tessel 2?
+## What is Tessel 2?
 
 [Tessel 2](https://tessel.io/) is a Wi-Fi-enabled development board programmable in JavaScript with [Node.js](https://nodejs.org/en/). The first units shipped this month. There is a lot that I like about Tessel 2:
 
@@ -24,7 +25,7 @@ blogger_orig_url: https://blog.bruchez.name/2016/04/scala-on-tessel-2.html
 
 It short Tessel 2 seems perfect for playing with [IoT](https://en.wikipedia.org/wiki/Internet_of_Things)!
 
-### From JavaScript to Scala
+## From JavaScript to Scala
 
 As soon as I got my Tessel 2, I followed the [tutorial](http://tessel.github.io/t2-start/) to get a basic hang of it, and that went quite smoothly.
 
@@ -77,7 +78,7 @@ object Demo extends js.JSApp {
 
 Notice how I can call Tessel APIs from Scala without much ado.[^ado] When used this way, Scala.js works like JavaScript: it's all dynamic.[^dynamic]
 
-### Types and facades
+## Types and facades
 
 But a major reason to use Scala instead of JavaScript is to get help from *types*. So after that initial attempt I wrote some minimal [facades](https://www.scala-js.org/doc/interoperability/facade-types.html)[^typescript] for the Tessel and Node APIs I needed. Facades expose typed APIs to Scala, which allows the compiler to check that you are calling the APIs properly, and also gives your text editor a chance to provide autocompletion and suggestions. You can see this in action in [IntelliJ](https://www.jetbrains.com/idea/):
 
@@ -129,7 +130,7 @@ object Demo extends js.JSApp {
 
 As you can see, it's not very different from the dynamic example, except that I now get help from the editor and compiler.
 
-### Why do this, again?
+## Why do this, again?
 
 Now you might argue that in both cases the code looks more or less like JavaScript, so why go through the trouble?
 
@@ -149,7 +150,7 @@ And I could go on with features like case classes, pattern matching and destruct
 
 So who would want to program Tessel in Scala? Probably not everybody, but it's a great option to have if you already know the language or are interested in learning it, especially if you are going to write large amounts of code.
 
-### What's next?
+## What's next?
 
 I plan to continue playing with Tessel 2 and Scala. The next step is to try to do something fun (and maybe even useful) beyond blinking LEDs and relays!
 
