@@ -26,6 +26,7 @@
 
   {% endif %}
 
+  {% comment %}
   {% include trending-tags.html %}
 
   {% if trending_tags.size > 0 %}
@@ -42,6 +43,7 @@
     </div>
   {% endif %}
   </div> <!-- .access -->
+  {% endcomment %}
 
   {% if include.toc %}
     <!-- BS-toc.js will be loaded at medium priority -->
