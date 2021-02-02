@@ -66,3 +66,4 @@ jobs:
           fi
 
           bash tools/deploy.sh
+
