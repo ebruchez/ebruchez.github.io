@@ -1,0 +1,20 @@
+---
+---
+
+@import "jekyll-theme-chirpy";
+
+// add your style below
+
+// #post-wrapper
+figure img {
+  border-radius: 10px;
+}
+
+figcaption {
+  text-align: center;
+  color: var(--text-muted-color)
+}
+
+#sidebar {
+  background: rgb(27, 27, 30);
+}
