@@ -1,20 +1,29 @@
 ---
 ---
 
+$tab-count: {{ site.tabs | size | plus: 1 }};
+
 @import "jekyll-theme-chirpy";
 
 // add your style below
-
-// #post-wrapper
-figure img {
-  border-radius: 10px;
-}
-
-figcaption {
+figure {
   text-align: center;
-  color: var(--text-muted-color)
+
+  img {
+    border-radius: 10px;
+  }
+
+  figcaption {
+    text-align: center;
+    color: var(--text-muted-color);
+    font-style: italic;
+  }
 }
 
 #sidebar {
   background: rgb(27, 27, 30);
+}
+
+.post-tail-wrapper {
+  margin-top: 3rem;
 }
