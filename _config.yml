@@ -138,17 +138,17 @@ defaults:
       breadcrumb:
         -
           label: Posts
-  -
-    scope:
-      path: tags
-    values:
-      breadcrumb:
-        -
-          label: Home
-          url: /
-        -
-          label: Tags
-          url: /tabs/tags/
+#  -
+#    scope:
+#      path: tags
+#    values:
+#      breadcrumb:
+#        -
+#          label: Home
+#          url: /
+#        -
+#          label: Tags
+#          url: /tabs/tags/
   -
     scope:
       path: categories
@@ -199,10 +199,10 @@ exclude:
   - .idea
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [categories]
   layouts:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/
+#    tag: /tags/:name/
     category: /categories/:name/
