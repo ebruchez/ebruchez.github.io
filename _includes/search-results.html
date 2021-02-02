@@ -3,6 +3,7 @@
 -->
 <div id="search-result-wrapper" class="d-flex justify-content-center unloaded">
   <div class="col-12 col-xl-11 post-content">
+    {% comment %}
     <div id="search-hints">
       <h4 class="text-muted mb-4">{{ site.data.label.panel.trending_tags | default: 'Trending Tags' }}</h4>
 
@@ -14,6 +15,7 @@
       {% endfor %}
 
     </div>
+    {% endcomment %}
     <div id="search-results" class="d-flex flex-wrap justify-content-center text-muted mt-3"></div>
   </div>
 </div>
