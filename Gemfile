@@ -6,6 +6,7 @@ gem "jekyll-theme-chirpy"
 group :jekyll_plugins do
   # gem "jekyll-xxx", "~> x.y"
   gem 'jekyll-redirect-from'
+  gem 'jekyll-relative-links'
 end
 
 group :test do

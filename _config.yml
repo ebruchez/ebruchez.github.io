@@ -210,3 +210,8 @@ jekyll-archives:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-relative-links
+
+relative_links:
+  enabled:     true
+  collections: true
