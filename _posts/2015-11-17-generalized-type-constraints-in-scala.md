@@ -745,7 +745,7 @@ As for me, I am keeping generalized type constraints in my toolbox, but I like s
 
 [^u]: Often, when dealing with such parameters types, programmers just use letters such as `T`, `U`, `A`, `B`, etc. But you can use any identifier which is not already in scope.
 
-[^debasishg]: [Using generalized type constraints - How to remove code with Scala 2.8](http://debasishg.blogspot.com/2010/08/using-generalized-type-constraints-how.html).
+[^debasishg]: [Using generalized type constraints - How to remove code with Scala 2.8](https://debasishg.blogspot.com/2010/08/using-generalized-type-constraints-how.html).
 
 [^naming]: Martin Odersky [explains](http://debasishg.blogspot.com/2010/08/using-generalized-type-constraints-how.html): "we could not use <: and <% [because] these are reserved (i.e. keywords). As I have explained above, <:< and <%< are user-defined. So we could not have taken the same operators for them".
 
@@ -759,7 +759,7 @@ As for me, I am keeping generalized type constraints in my toolbox, but I like s
 
 [^implicit-search]: That's how all implicit searches work, see [Where does Scala look for implicits?](http://docs.scala-lang.org/tutorials/FAQ/finding-implicits.html).
 
-[^identity]: In versions of Scala prior to 2.8, the predefined `identity` function was defined as `implicit`, and you could use it to implement generalized type constraints. However this early implementation had issues related to implicit search, therefore a new solution was implemented in 2.8 and `<:<` was introduced. But in fact `<:<` acts exactly like an implicit identity function under another name! [James Iry]((http://debasishg.blogspot.com/2010/08/using-generalized-type-constraints-how.html#c844646259627614220)) commented on this topic:
+[^identity]: In versions of Scala prior to 2.8, the predefined `identity` function was defined as `implicit`, and you could use it to implement generalized type constraints. However this early implementation had issues related to implicit search, therefore a new solution was implemented in 2.8 and `<:<` was introduced. But in fact `<:<` acts exactly like an implicit identity function under another name! [James Iry](https://debasishg.blogspot.com/2010/08/using-generalized-type-constraints-how.html#c844646259627614220) commented on this topic:
 
     > BTW, prior to 2.8 the idea could more or less be expressed with
     >
