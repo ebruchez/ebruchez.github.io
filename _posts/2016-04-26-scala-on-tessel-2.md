@@ -52,7 +52,7 @@ object Demo extends js.JSApp {
 
     val relay = relayMono.use(tessel.port.A)
 
-    relay.on("ready", () ⇒ {
+    relay.on("ready", () => {
       println("Relay ready!")
 
       js.timers.setInterval(2.seconds) {
@@ -64,7 +64,7 @@ object Demo extends js.JSApp {
       }
     })
 
-    relay.on("latch", (channel: Int, value: Boolean) ⇒ {
+    relay.on("latch", (channel: Int, value: Boolean) => {
         println(s"Latch on relay channel $channel switched to $value")
 
         if (value)
@@ -115,7 +115,7 @@ object Demo extends js.JSApp {
       }
     }
 
-    relay.onLatch { (channel, value) ⇒
+    relay.onLatch { (channel, value) =>
         println(s"Latch on relay channel $channel switched to $value")
 
         if (value)

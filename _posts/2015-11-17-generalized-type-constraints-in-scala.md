@@ -355,7 +355,7 @@ Let's look at the implementation of `<:<`, which we find in the Scala `Predef` o
 
 ```scala
 @implicitNotFound(msg = "Cannot prove that ${From} <:< ${To}.")
-sealed abstract class <:<[-From, +To] extends (From ⇒ To) with Serializable
+sealed abstract class <:<[-From, +To] extends (From => To) with Serializable
 
 private[this] final val singleton_<:< = new <:<[Any, Any] {
   def apply(x: Any): Any = x
@@ -412,7 +412,7 @@ This is called *covariance* (the subtyping of the type argument goes in the *sam
 Besides collections, functions are another example where variance and contravariance matter. Say the following `process` function expects a single parameter, which is a function of one argument:
 
 ```scala
-def process(f: Banana ⇒ Fruit)
+def process(f: Banana => Fruit)
 ```
 
 I can of course pass to `process` a function with these exact same types:
@@ -453,13 +453,13 @@ After this detour in variance land, let's get back to `<:<` and the implicit par
 This is the same as `Function1[-From, +To]` and in fact `<:<` extends `Function1`! So our problem comes down to the following question: if somebody requires a function:
 
 ```scala
-T ⇒ U
+T => U
 ```
 
 what constraints must be satisfied so I can pass the following function:
 
 ```scala
-A ⇒ A
+A => A
 ```
 
 With variance rules, we know it will work if:
@@ -477,18 +477,18 @@ Which means of course that `T <: U`: `T` must be a subtype of `U`!
 
 To summarize the reasoning: the only eligible implicit definition in scope which can possibly be selected by the compiler to pass to our function is selected if and only if `T` is a subtype of `U`! And that's exactly what we were looking for! [^about-conformance]
 
-You can look at this from a slightly more general angle, which is that a function `A ⇒ A` can only be passed to a function `T ⇒ U` if `T` is a subtype of `U`. [^identity] You can in fact test the matching logic very simply with the built-in `identity` function:
+You can look at this from a slightly more general angle, which is that a function `A => A` can only be passed to a function `T => U` if `T` is a subtype of `U`. [^identity] You can in fact test the matching logic very simply with the built-in `identity` function:
 
 ```scala
-val f: Banana ⇒ Fruit  = identity // ok
-val f: Fruit  ⇒ Banana = identity // not ok
+val f: Banana => Fruit  = identity // ok
+val f: Fruit  => Banana = identity // not ok
 ```
 
 The same works with `$conforms`, which returns an `<:<`, which is also an identity function:
 
 ```scala
-val f: Banana ⇒ Fruit  = $conforms // ok
-val f: Fruit  ⇒ Banana = $conforms // not ok
+val f: Banana => Fruit  = $conforms // ok
+val f: Fruit  => Banana = $conforms // not ok
 ```
 
 So it is a neat trick that the library authors [^zaugg] pulled off here, combining implicits and conformance of function types to implement constraint checking.
@@ -500,7 +500,7 @@ The rest of the related code in `Predef` is about defining the actual `<:<` type
 You could write it minimally (using `<::<` in these attempts so as to not clash with the standard `<:<`):
 
 ```scala
-sealed trait <::<[-From <: To, +To] extends (From ⇒ To) {
+sealed trait <::<[-From <: To, +To] extends (From => To) {
   def apply(x: From): To = x
 }
 
@@ -519,7 +519,7 @@ scala> def tupleIfSubtype[T, U](t: T, u: U)(implicit ev: T <::< U) = (t, u)
 The good news is that the following version, using an intermediate class, works:
 
 ```scala
-sealed trait <::<[-From, +To] extends (From ⇒ To)
+sealed trait <::<[-From, +To] extends (From => To)
 
 final class $conformance[A] extends <::<[A, A] {
   def apply(x: A): A = x
@@ -532,9 +532,9 @@ implicit def $conforms[A]: A <::< A =
 So this works great, with a caveat: every time you use my version of `<::<`, a new instance of the anonymous class is created. Since we just want an identity function, which works the same for all types and doesn't hold state, it would be good to use a singleton so as to avoid unnecessary allocations. We could try using an object, since that's how we do singletons in Scala, but that's a dead-end because objects cannot take type parameters:
 
 ```scala
-scala> implicit object Conforms[A] extends (A ⇒ A) { def apply(x: A): A = x }
+scala> implicit object Conforms[A] extends (A => A) { def apply(x: A): A = x }
 <console>:1: error: ';' expected but '[' found.
-implicit object Conforms[A] extends (A ⇒ A) { def apply(x: A): A = x }
+implicit object Conforms[A] extends (A => A) { def apply(x: A): A = x }
 
 ```
 
@@ -577,7 +577,7 @@ One thing you might wonder is what to do with the `ev` parameter. After all, a v
 
 A first answer is that you don't absolutely need to use it. It's there first so the compiler can check the constraint. That's why it's commonly called `ev`, for "evidence": its presence stands there as a proof that something (an implicit) exists.
 
-Nonetheless, `ev` must have a value. What is it? It's the *result* of the `$conforms[A]` function, which is of course of type `<:<[T, U]`. And we have seen above that `<:<` extends `T ⇒ U`. So the result of `$conforms[A]` is a *function*, which takes an `A` and returns an `A`, that is, an identity function. And it not only returns a value of the same type `A`, but it actually returns the same value which was passed (that's the idea of an identity function).
+Nonetheless, `ev` must have a value. What is it? It's the *result* of the `$conforms[A]` function, which is of course of type `<:<[T, U]`. And we have seen above that `<:<` extends `T => U`. So the result of `$conforms[A]` is a *function*, which takes an `A` and returns an `A`, that is, an identity function. And it not only returns a value of the same type `A`, but it actually returns the same value which was passed (that's the idea of an identity function).
 
 And you see that in the implementation:
 
@@ -763,7 +763,7 @@ As for me, I am keeping generalized type constraints in my toolbox, but I like s
 
     > BTW, prior to 2.8 the idea could more or less be expressed with
     >
-    >     def accruedInterest(convention: String)(implicit ev: I ⇒ CouponBond): Int = ...
+    >     def accruedInterest(convention: String)(implicit ev: I => CouponBond): Int = ...
     >
     > I say more or less because ev could be supplied by any implicit function that converts I to CouponBond. Normally you expect ev be the identity function, but of course somebody could have written an implicit conversion from say DiscountBond to CouponBond which would screw things up royally.
 

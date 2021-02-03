@@ -15,15 +15,15 @@ If you have done some Scala for a while, you know about pattern matching and `ma
 
 ```scala
 value match {
-    case Some(value) ⇒ …
-  case None ⇒ …
+    case Some(value) => …
+  case None => …
 }
 ```
 
 But there is another use of the `case` keyword, without `match`, as in:
 
 ```scala
-map foreach { case (k, v) ⇒ println(k + " → " + v) }
+map foreach { case (k, v) => println(k + " -> " + v) }
 ```
 
 The first time I saw this kind of things I was a bit puzzled: in which situations could `case` be used without `match`? Well, it turns out [^1] that a block with a bunch of `case` inside is one way of defining an *anonymous function*.
@@ -33,7 +33,7 @@ There is nothing new with anonymous functions of course, and Scala has a very co
 But there is more. Consider:
 
 ```scala
-scala> List(41, "cat") map { case i: Int ⇒ i + 1 }
+scala> List(41, "cat") map { case i: Int => i + 1 }
 scala.MatchError: cat (of class java.lang.String)
 ```
 
@@ -42,7 +42,7 @@ As expected this crashes, because the pattern match doesn't know what to do when
 On the other hand, this example doesn't crash:
 
 ```scala
-scala> List(41, "cat") collect { case i: Int ⇒ i + 1 }
+scala> List(41, "cat") collect { case i: Int => i + 1 }
 res1: List[Int] = List(42)
 ```
 
@@ -101,7 +101,7 @@ This takes us back to the use of `case` to define partial functions. The exact s
 
 ```scala
 val fraction: PartialFunction[Int, Int] =
-  { case d: Int if d != 0 ⇒ 42 / d }
+  { case d: Int if d != 0 => 42 / d }
 ```
 
 (Notice that you must specify that the `PartialFunction[Int, Int]` type. It would be great if Scala had a syntax to make this even more compact but it doesn't as of Scala 2.11.)
@@ -121,7 +121,7 @@ The idea doesn't apply only to numbers. In our `collect` example above, the part
 
 ```scala
 val incAny: PartialFunction[Any, Int] =
-  { case i: Int ⇒ i + 1 }
+  { case i: Int => i + 1 }
 ```
 
 The function takes an `Any` as parameter because `List(41, "cat")` is a `List[Any]`. But it is only defined for inputs that are of type `Int`:
@@ -155,7 +155,7 @@ Notice that partial functions can lie:
 
 ```scala
 scala> val liar: PartialFunction[Any, Int] =
-  { case i: Int ⇒ i; case s: String ⇒ s.toInt }
+  { case i: Int => i; case s: String => s.toInt }
 liar: PartialFunction[Any,Int] = <function1>
 scala> liar.isDefinedAt(42)
 res10: Boolean = true
@@ -169,7 +169,7 @@ Here `liar` says incorrectly that it's defined for `"cat"`. It would probably be
 
 ```scala
 scala> val honest: PartialFunction[Any, Int] =
-  { case i: Int ⇒ i; case s: String if isParsableAsInt(s) ⇒ s.toInt }
+  { case i: Int => i; case s: String if isParsableAsInt(s) => s.toInt }
 honest: PartialFunction[Any,Int] = <function1>
 scala> honest.isDefinedAt("cat")
 res12: Boolean = false

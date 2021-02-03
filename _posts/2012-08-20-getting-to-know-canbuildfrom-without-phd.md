@@ -18,8 +18,8 @@ a sequence of `(name, some collection of all the values having that name)` pairs
 def combineValues(pairs: Seq[(String, String)]): Seq[(String, Seq[String])] = {
   val result = LinkedHashMap[String, List[String]]()
 
-  for ((name, value) ← pairs)
-    result += name → (value :: result.getOrElse(name, Nil))
+  for ((name, value) <- pairs)
+    result += name -> (value :: result.getOrElse(name, Nil))
 
   result.toList
 }
@@ -114,10 +114,10 @@ def combineValues[U, T[_]](
 
   val result = LinkedHashMap[String, Builder[String, T[U]]]()
 
-  for ((name, value) ← pairs)
+  for ((name, value) <- pairs)
     result.getOrElseUpdate(name, cbf()) += value
 
-  result map { case (k, v) ⇒ k → v.result } toList
+  result map { case (k, v) => k -> v.result } toList
 }
 ```
 

@@ -23,7 +23,7 @@ It turns out that `Iterator.iterate` falls apart with `Option`, because it requi
 But we can write a better `Option`-aware `iterate` function:
 
 ```scala
-def iterate[T](start: T)(f: T ⇒ Option[T]): Iterator[T] = new Iterator[T] {
+def iterate[T](start: T)(f: T => Option[T]): Iterator[T] = new Iterator[T] {
   private[this] var acc = Option(start)
   def hasNext = acc.isDefined
   def next() = {

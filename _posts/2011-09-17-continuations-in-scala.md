@@ -25,7 +25,7 @@ The main source of information on Scala continuations is the [EPFL paper](http:/
 
 ```scala
 reset {
-  shift { k: (Int ⇒ Int) ⇒
+  shift { k: (Int => Int) =>
     k(k(k(7)))
   } + 1
 } * 2
@@ -57,9 +57,9 @@ def read(callback: Byte => Unit): Unit
 You must now write your program like this:
 
 ```scala
-read { byte1 ⇒
+read { byte1 =>
   println("byte1 = " + byte1)
-  read { byte2 ⇒
+  read { byte2 =>
     println("byte2 = " + byte2)
   }
 }
@@ -88,8 +88,8 @@ You notice the `reset` and `shift` constructs. These terms don't make any sense 
 To see how our example really works, let's look a the control flow. First, how would you go about implementing the non-blocking `read()` function? Obviously it would have to work hand in hand with an asynchronous framework of some sort. Let's say it's roughly equivalent to something like this:
 
 ```scala
-var myCallback: Byte ⇒ Unit = null
-def read(callback: Byte ⇒ Unit): Unit = myCallback = callback
+var myCallback: Byte => Unit = null
+def read(callback: Byte => Unit): Unit = myCallback = callback
 ```
 
 The key here is that `read()` is passed a callback function. `read()` just stores the callback in a variable and then returns immediately. There is just no waiting. This simulates what a real async framework would do.

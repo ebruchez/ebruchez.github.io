@@ -23,8 +23,8 @@ Since Java 1.5 you can use static imports, but then you are stuck with the origi
 A cool feature of Scala is that imports support renaming, so you can write instead:
 
 ```scala
-import java.net.URLEncoder.{encode ⇒ encodeURL}
-import java.net.URLDecoder.{decode ⇒ decodeURL}
+import java.net.URLEncoder.{encode => encodeURL}
+import java.net.URLDecoder.{decode => decodeURL}
 ```
 
 And then you just use the functions under their new name:
@@ -41,7 +41,7 @@ Another common use of renames is to reduce name clashes. For example, Scala alre
 In Java, you would probably resort to full qualification, e.g. `java.util.Map`, and you can do the same in Scala, but that's verbose. With renaming, you can write things like:
 
 ```scala
-import java.util.{Map ⇒ JMap, List ⇒ JList}
+import java.util.{Map => JMap, List => JList}
 ```
 
 And then use the Java `Map` as `JMap` and the Java `List` as `JList`. Nothing is changed at the VM level: it's the same classes, but you now have a nice, short alias for them in the scope of the imports.
