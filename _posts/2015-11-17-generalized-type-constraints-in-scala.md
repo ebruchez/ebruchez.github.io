@@ -9,6 +9,8 @@ category: Programming
 modified_time: '2015-12-10T15:10:23.147-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-3883264081183389253
 blogger_orig_url: https://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
+redirect_from:
+  - /2015/11/generalized-type-constraints-in-scala.html
 ---
 
 ## Introduction

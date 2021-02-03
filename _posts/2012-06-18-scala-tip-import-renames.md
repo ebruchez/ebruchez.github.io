@@ -9,6 +9,8 @@ category: Programming
 modified_time: '2015-11-12T09:10:25.299-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-737207396629682363
 blogger_orig_url: https://blog.bruchez.name/2012/06/scala-tip-import-renames.html
+redirect_from:
+  - /2012/06/scala-tip-import-renames.html
 ---
 
 In Java, you often write things like this, which are rather verbose:

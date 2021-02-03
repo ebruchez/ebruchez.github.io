@@ -9,6 +9,8 @@ category: Programming
 modified_time: '2015-11-12T09:14:39.114-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-6137668523224516694
 blogger_orig_url: https://blog.bruchez.name/2012/06/scala-tip-getorelseupdate.html
+redirect_from:
+  - /2012/06/scala-tip-getorelseupdate.html
 ---
 
 I found myself recently looking at the following code which I wrote when I was getting started with Scala:

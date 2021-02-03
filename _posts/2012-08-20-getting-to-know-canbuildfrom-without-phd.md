@@ -9,6 +9,8 @@ category: Programming
 modified_time: '2015-11-14T10:17:59.769-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-8165302943772847582
 blogger_orig_url: https://blog.bruchez.name/2012/08/getting-to-know-canbuildfrom-without-phd.html
+redirect_from:
+  - /2012/08/getting-to-know-canbuildfrom-without-phd.html
 ---
 
 Recently I needed to write a pretty simple function: given a sequence of `(name, value)` pairs, return

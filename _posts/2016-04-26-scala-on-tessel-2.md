@@ -11,6 +11,8 @@ category: Programming
 modified_time: '2016-04-26T19:01:15.803-07:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-1285687697298780515
 blogger_orig_url: https://blog.bruchez.name/2016/04/scala-on-tessel-2.html
+redirect_from:
+  - /2016/04/scala-on-tessel-2.html
 ---
 ![Tessel 2 and its relay module](https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/images/2016-04-23-tessel2-1024.jpg){:standalone}
 

@@ -9,6 +9,8 @@ category: Programming
 modified_time: '2015-11-12T09:36:36.860-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-3609386509598405865
 blogger_orig_url: https://blog.bruchez.name/2012/07/more-iterators-goodness.html
+redirect_from:
+  - /2012/07/more-iterators-goodness.html
 ---
 
 Following-up on [the previous post about iterators](http://ebruchez.blogspot.com/2012/07/scala-iterators-and-iteratoriterate.html),

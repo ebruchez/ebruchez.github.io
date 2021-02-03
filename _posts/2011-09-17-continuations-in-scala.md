@@ -9,6 +9,8 @@ category: Programming
 modified_time: '2015-11-12T09:32:14.453-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-7646493105465093357
 blogger_orig_url: https://blog.bruchez.name/2011/09/continuations-in-scala.html
+redirect_from:
+  - /2011/09/continuations-in-scala.html
 ---
 
 With [@avernet](https://twitter.com/avernet) we have been thinking lately about [continuations](https://en.wikipedia.org/wiki/Continuation), for a few reasons:

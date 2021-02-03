@@ -9,6 +9,8 @@ category: Programming
 modified_time: '2017-01-17T22:18:43.354-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-3036986710428869478
 blogger_orig_url: https://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
+redirect_from:
+  - /2011/10/scala-partial-functions-without-phd.html
 ---
 
 If you have done some Scala for a while, you know about pattern matching and `match/case`. Things like:

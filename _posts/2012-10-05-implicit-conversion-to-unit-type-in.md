@@ -9,6 +9,8 @@ category: Programming
 modified_time: '2015-11-14T11:34:05.808-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-2619114618400983867
 blogger_orig_url: https://blog.bruchez.name/2012/10/implicit-conversion-to-unit-type-in.html
+redirect_from:
+  - /2012/10/implicit-conversion-to-unit-type-in.html
 ---
 
 In Scala, you have a few ways to express that a function returns the `Unit` type.[^1] A common way is to use the

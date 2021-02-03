@@ -8,6 +8,8 @@ category: Programming
 modified_time: '2015-11-12T09:28:44.293-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-3954886043167965835
 blogger_orig_url: https://blog.bruchez.name/2014/06/thoughts-on-swift-language.html
+redirect_from:
+  - /2014/06/thoughts-on-swift-language.html
 ---
 
 ## What it is
