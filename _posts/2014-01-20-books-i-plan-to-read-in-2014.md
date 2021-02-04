@@ -8,6 +8,8 @@ tags:
 modified_time: '2015-11-13T21:00:15.590-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-5584126790274256644
 blogger_orig_url: https://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html
+redirect_from:
+  - /2014/01/books-i-plan-to-read-in-2014.html
 ---
 
 ![Photo by Matthias Buehler](https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/images/2014-01-20-books-700.jpg){:standalone}
