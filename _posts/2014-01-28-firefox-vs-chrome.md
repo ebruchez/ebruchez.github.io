@@ -5,6 +5,7 @@ date: '2014-01-28T10:44:00.000-08:00'
 author: Erik Bruchez
 tags:
 - technology
+category: Technology
 modified_time: '2015-11-13T21:50:47.942-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-8665492127808090390
 blogger_orig_url: https://blog.bruchez.name/2014/01/firefox-vs-chrome.html

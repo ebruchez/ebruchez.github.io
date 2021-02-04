@@ -7,6 +7,7 @@ tags:
 - technology
 - shopping
 - iphone
+category: Technology
 modified_time: '2015-11-13T21:09:40.460-08:00'
 blogger_id: tag:blogger.com,1999:blog-2849901641571065621.post-1572775997837511806
 blogger_orig_url: https://blog.bruchez.name/2014/09/rationalizing-iphone-6-plus.html
