@@ -17,7 +17,11 @@
     disqusConfig: function() {
       this.page.title = '{{ page.title }}';
       this.page.url = '{{ page.url | absolute_url }}';
+      {% if page.redirect_from[0] %}
+      this.page.identifier = '{{ page.redirect_from[0] }}';
+      {% else %}
       this.page.identifier = '{{ page.url }}';
+      {% endif %}
     }
   };
 
