@@ -32,24 +32,21 @@ The following deconstruction turns out to be fairly long, but even though `<:<` 
 If you search the Scala standard library, you find a few other occurrences of `<:<`, in particular:
 
 - on `Option`:
-
-    ```scala
-    def orNull[A1 >: A](implicit ev: Null <:< A1): A1
-    ```
+  ```scala
+  def orNull[A1 >: A](implicit ev: Null <:< A1): A1
+  ```
 - on `Traversable` (via traits like `GenTraversableOnce`):
-
-    ```scala
-    def toMap[K, V](implicit ev: A <:< (K, V)): Map[K, V]
-    ```
+  ```scala
+  def toMap[K, V](implicit ev: A <:< (K, V)): Map[K, V]
+  ```
 - on `Either`:
-
-    ```scala
-    def joinRight[A1 >: A, B1 >: B, C](implicit ev: B1 <:< Either[A1, C]): Either[A1, C]
-    ```
+  ```scala
+  def joinRight[A1 >: A, B1 >: B, C](implicit ev: B1 <:< Either[A1, C]): Either[A1, C]
+  ```
 - on `Try`:
-    ```scala
-    def flatten[U](implicit ev: T <:< Try[U]): Try[U]
-    ```
+  ```scala
+  def flatten[U](implicit ev: T <:< Try[U]): Try[U]
+  ```
 
 You notice that, in all these examples, `<:<` is used in the same way:
 
@@ -378,7 +375,6 @@ def makeMeASandwich(implicit logger: Logger) = ...
 implicit def findMyLogger: Logger = ...
 
 val mySandwich = makeMeASandwich
-
 ```
 
 The compiler, when you write `makeMeASandwich` without an explicit parameter, looks for an implicit in scope *of type `Logger`*. Here, the obvious matching implicit is `findMyLogger`, because it *returns* a `Logger`. So the compiler selects the implicit and in effect rewrites your code as:
@@ -537,7 +533,6 @@ So this works great, with a caveat: every time you use my version of `<::<`, a n
 scala> implicit object Conforms[A] extends (A => A) { def apply(x: A): A = x }
 <console>:1: error: ';' expected but '[' found.
 implicit object Conforms[A] extends (A => A) { def apply(x: A): A = x }
-
 ```
 
 So in the end the standard implementation cheats by creating an untyped singleton using `Any`, and casting to `[A <:< A]` in the implementation of `$conforms`. Here is my attempt, which works fine:
@@ -625,7 +620,6 @@ scala> def tToU[T, U](t: T, u: U): U = t
  found   : t.type (with underlying type T)
  required: U
        def tToU[T, U](t: T, u: U): U = t
-
 ```
 
 You can see how `Option.flatten` makes use of the `ev()` function:
@@ -701,7 +695,6 @@ class C extends T[Banana, Fruit] {
   type U = Fruit
   type V = String
 }
-
 ```
 
 You can even go further and constrain not only these types directly, but higher-order types, as in this (math- and symbol-heavy) [example from Miles Sabin](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/):
