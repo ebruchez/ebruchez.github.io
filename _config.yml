@@ -12,7 +12,7 @@ description: >-                        # used by seo meta and the atom feed
   Erik's blog, essays, and other content.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://blog.bruchez.name'
 
 author: Erik Bruchez                  # change to your full name
 
