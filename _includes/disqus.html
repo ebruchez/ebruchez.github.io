@@ -17,8 +17,8 @@
     disqusConfig: function() {
       this.page.title = '{{ page.title }}';
       this.page.url = '{{ page.url | absolute_url }}';
-      {% if page.redirect_from[0] %}
-      this.page.identifier = 'https://blog.bruchez.name{{ page.redirect_from[0] }}';
+      {% if page.disqus_identifier %}
+      this.page.identifier = '{{ page.disqus_identifier }}';
       {% else %}
       this.page.identifier = '{{ page.url }}';
       {% endif %}
