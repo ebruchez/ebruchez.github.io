@@ -17,7 +17,7 @@
     disqusConfig: function() {
       this.page.title = '{{ page.title }}';
       {% if page.blogger_orig_url %}
-      this.page.identifier = '{{ page.blogger_orig_url }}';
+      this.page.url = '{{ page.blogger_orig_url }}';
       {% else %}
       this.page.identifier = '{{ page.url }}';
       {% endif %}
