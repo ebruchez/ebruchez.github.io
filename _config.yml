@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
 title: Erik's Ponderings
-tagline: A blog and more
+tagline: A blog and More
 
 description: >-                        # used by seo meta and the atom feed
   Erik's blog, essays, and other content.
