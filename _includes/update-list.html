@@ -1,13 +1,17 @@
 {% comment %}
   Get the last 5 posts from lastmod list.
+  EB: 2021-02-04: Only consider posts that are less than 5 year old.
 {% endcomment %}
 
 {% assign MAX_SIZE = 5 %}
 
 {% assign all_list = "" | split: "" %}
 
+{% capture five_years_ago %}{{'now' | date: '%s' | minus: 157680000 }}{% endcapture %}
+
 {% for post in site.posts %}
-  {% if post.last_modified_at %}
+  {% capture post_date %}{{post.date | date: '%s'}}{% endcapture %}
+  {% if post_date > five_years_ago %}
     {% capture elem %}
       {{- post.last_modified_at | date: "%Y%m%d%H%M%S" -}}::{{- forloop.index0 -}}
     {% endcapture %}
