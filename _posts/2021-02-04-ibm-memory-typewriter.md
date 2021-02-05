@@ -116,7 +116,7 @@ In 2020, I bought a 1980 IBM Electronic Typewriter 75 locally, out of curiosity 
 
 But how is the Electronic Typewriter related to the Memory Typewriter? If the 1978 "Electronic Typewriter" is "the first electronic typewriter", how come there is so much "electronics" in the Mag Card Typewriter and Memory Typewriter?
 
-Part of it is marketing and branding. But another, real aspect is that the Electronic Typewriter has less mechanical parts and more electronics, including a processor board. The keyboard of the Electronic Typewriter is more like a computer keyboard, with individual switches, unlike the Memory Typewriter keyboard which is essentially a Selectric keyboard with reed relays to capture their movement. [^mechanical-keyboard] As a start, you can compare the following layout with the layout of the IBM Memory Typewriter above.
+Part of it is marketing and branding. But another, real aspect is that the Electronic Typewriter has less mechanical parts and more electronics, including a processor board. The keyboard too, while still mechanical but with 6 selection switches, is not quite like the Memory Typewriter's. [^mechanical-keyboard] As a start, you can compare the following layout with the layout of the IBM Memory Typewriter above.
 
 ![Layout of the IBM Electronic Typewriter 75](/assets/posts/ibm-memory-typewriter/2x/electronic-75-layout.jpg){:standalone}
 
@@ -165,7 +165,7 @@ Does that sound like a plan?
 
 [^price-confirmation]: The pricing range is confirmed in a comment to that video saying that a US brochure had it priced at USD 4,900.
 
-[^mechanical-keyboard]: If that's the fact, interestingly, they were calling those keyboard "electronic" in the 1970s, while today those same types of keyboards with switches are referred to as "mechanical keyboards"!
+[^mechanical-keyboard]: One could argue that these were *true* "mechanical keyboards", unlike today's mechanical keyboards named so just because they have individual switches!
 
 [^twdb-first]: These are the first entries on TWDB for the IBM Memory Typewriter and the IBM Electronic Typewriter 75!
 
