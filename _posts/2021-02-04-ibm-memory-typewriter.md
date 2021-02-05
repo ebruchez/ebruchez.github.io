@@ -116,7 +116,7 @@ In 2020, I bought a 1980 IBM Electronic Typewriter 75 locally, out of curiosity 
 
 But how is the Electronic Typewriter related to the Memory Typewriter? If the 1978 "Electronic Typewriter" is "the first electronic typewriter", how come there is so much "electronics" in the Mag Card Typewriter and Memory Typewriter?
 
-Part of it is marketing and branding. Another aspect is that the Electronic Typewriter appears to have less mechanical parts and more modern electronics, including a processor board. The keyboard too, while still mechanical (but with 6 selection switches), is not quite like the Memory Typewriter's. [^mechanical-keyboard] As a start, you can compare the following layout with the layout of the IBM Memory Typewriter above.
+Part of it is marketing and branding. Another aspect is that the Electronic Typewriter appears to have less mechanical parts and more modern electronics, including a processor board. The keyboard too, while still mechanical (but with 6 selection switches), is not quite like the Memory Typewriter's. As a start, you can compare the following layout with the layout of the IBM Memory Typewriter above.
 
 ![Layout of the IBM Electronic Typewriter 75](/assets/posts/ibm-memory-typewriter/2x/electronic-75-layout.jpg){:standalone}
 
@@ -124,11 +124,13 @@ Part of it is marketing and branding. Another aspect is that the Electronic Type
 
 The IBM Memory Typewriter is a hybrid machine: it contains a *lot* of mechanical parts, and at the same time has a large electronic part.
 
-For example, the keyboard appears almost unmodified compared with a regular Selectric. It remains truly *mechanical*, with moving keylevers and interposers. It interfaces with the electronics using reed relays.
+For example, the keyboard appears almost unmodified compared with a regular Selectric. It remains truly *mechanical*, with moving keylevers and interposers. It interfaces with the electronics using reed relays. [^mechanical-keyboard]
+
+![The mechanical keyboard](/assets/posts/ibm-memory-typewriter/2x/memory-keyboard.jpg){:standalone}
 
 Conversely, the *printer* part is of course a mechanical unit, but activated from the electronics using solenoids and electromagnets.
 
-One of my initial questions after obtaining the machine was whether there was a way to use it in a purely electromechanical way, like a Selectric, and the answer is no: the machine *requires* the electronics in order to operate. Even if you use the machine in "typewriter mode", the signals go through the electronics. So if the planar package is bust, the machine won't work.
+One of my initial questions after obtaining the machine was whether there was a way to use the machine in a purely electromechanical mode, like a Selectric, and the answer is no: the machine *requires* the electronics in order to operate. Even if you use the machine in "typewriter mode", the signals go through the electronics. So if the planar package is bust, the machine won't work.
 
 ## Operation of the Memory Typewriter
 
@@ -143,6 +145,10 @@ I can't operate the machine right now since it doesn't work, but a few interesti
   - Backspace both erases the character on paper with the correction tape and removes the previous character from memory.
   - You can delete a word or a line in memory.
   - You can automatically underscore a word.
+  - You can automatically center text on a line.
+  - A "smart" decimal tabulator backspaces automatically until you press the decimal point.
+
+This is a pretty good list for an early 1970s machine!
 
 ## Next steps
 
