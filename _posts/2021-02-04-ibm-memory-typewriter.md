@@ -10,31 +10,35 @@ category: Typewriters
 
 Last weekend, I picked up an IBM Memory Typewriter that otherwise would have been scrapped. Many thanks go to the kind soul who tipped the Golfballtypewritershop group and allowed me to pick it up locally!
 
+![The IBM Memory Typewriter](/assets/posts/ibm-memory-typewriter/2x/IMG_8159.jpg){:standalone}
+
+I already own several IBM typewriters in various conditions, and even an IBM Electronic Typewriter 75 (see below), but I was not familiar with the Memory Typewriter. However, it appears to be a very interesting machine, as we will see. First, just look at how it looks like under the hood!
+
 ![The IBM Memory Typewriter with covers off](/assets/posts/ibm-memory-typewriter/2x/IMG_8113.jpg){:standalone}
 
-I already own several IBM typewriters in various conditions, and even an IBM Electronic Typewriter 75, but I was not familiar with the Memory Typewriter. However, it appears to be a very interesting machine, as we will see.
+Maybe the most impressive part is the electronic board (called the "planar package" in the IBM service manuals) in the back, with lots of IBM chips. [^schematics]
 
-![IBM Memory Typewriter logo](/assets/posts/ibm-memory-typewriter/2x/IMG_8154.jpg){:standalone}
+![The "planar package"](/assets/posts/ibm-memory-typewriter/2x/IMG_8134.jpg){:standalone}
 
 ## Condition of the machine
 
-Currently, the machine turns on in the sense that the power supply fan and one light turn on, but the AC motor doesn't turn on. It should turn on immediately after power on, like on a regular Selectric.
+There is no doubt that the machine is in rough condition! Needless to say, it doesn't quite work.
 
-There is some damage to the top cover: one part has broken off on the right side, and one is missing on the left side. The left platen knob is also missing. The good news is that these parts are not necessary to the good working of the machine. The bad news is that there is bigger fish to fry!
+When turning it on, the power supply fan and one light turn on, but the AC motor doesn't. It should turn on immediately after power on, like on a regular Selectric.
 
-The inside of the machine is filthy. It's typical for the soundproofing foam to disintegrate into a sort of goo in Selectrics, but there is also a lot of dust and debris in there. However, there is no immediately visible damage - but I noticed that two screws were unscrewed on the left side, and a short metal rod lying at the bottom of the machine! That will need investigating.
+There is some damage to the top cover: one part has broken off on the right side, and one is missing on the left side. The left platen knob is also missing. The good news is that these parts are not necessary to the good working of the machine. The bad news is that there is probably bigger fish to fry!
 
-## What is the IBM Memory Typewriter?
-
-It is essentially an [IBM Selectric](https://en.wikipedia.org/wiki/IBM_Selectric_typewriter) typewriter with an important addition: the ability to record characters both in *solid-state memory* and on a built-in *magnetic tape*. There is an electronic board (called the "planar package" in the IBM service manuals) in the back, with lots of IBM chips. [^schematics]
-
-![The "planar package"](/assets/posts/ibm-memory-typewriter/2x/IMG_8134.jpg){:standalone}
+The inside of the machine is filthy. It's typical for the soundproofing foam to disintegrate into a sort of goo in Selectrics, but there is also a lot of dust and debris in there. However, there is no immediately visible damage - but I noticed two screws and a short metal rod lying at the bottom of the machine! That will need investigating.
 
 ## Gathering information
 
 ### Manuals
 
-The Golfballtypewritershop group was very helpful to get started. This way I was able to get a copy of the service manuals for this machine. They contain an incredible amount of very useful information.
+The Golfballtypewritershop group was very helpful to get started. Through this group I was able to get a copy of the service and diagnostic manuals for this machine. They contain an incredible amount of very useful information.
+
+So what's special about it? Well, the IBM Memory Typewriter is essentially an [IBM Selectric](https://en.wikipedia.org/wiki/IBM_Selectric_typewriter) typewriter with an important addition: the ability to record text both in *solid-state memory* and on a built-in *magnetic tape*, and to play it back. In short, this was one of the first word-processing machines. This makes it all the more tempting to get this one to work. Here is an excerpt from the service manual.
+
+![Introduction](/assets/posts/ibm-memory-typewriter/2x/memory-introduction.jpg){:standalone width="60%"}
 
 ### IBM's sites
 
@@ -76,7 +80,7 @@ That video also clarifies the following points:
 
 Based on that YouTube video, let's try to estimate the original price point of this machine.
 
-Using online currency tools, in 1974, 1 USD was about 3 CHF. 1 USD in 1974 is about 5 USD in 2021. So I infer a price of about 5,300 USD in 1974, [^price-confirmation] which would be more than US 25,000 in today's currency! The machine might well have been more expensive in Switzerland than in the US, but it was certainly a very expensive machine.
+Using online currency tools, in 1974, 1 USD was about 3 CHF. 1 USD in 1974 is about 5 USD in 2021. So I infer a price of about 5,300 USD in 1974, [^price-confirmation] which would be more than USD 25,000 in year 2021 currency! The machine might well have been more expensive in Switzerland than in the US, but it was certainly a very expensive machine.
 
 This explains why few of these machines are around: they were way more expensive than the regular Selectric, which itself was not a cheap machine.
 
@@ -133,8 +137,6 @@ I can't operate the machine right now since it doesn't work, but a few interesti
   - You can delete a word or a line in memory.
   - You can automatically underscore a word.
 
-In short, this was one of the first word-processing machines!
-
 ## Next steps
 
 I am not a Selectric technician but this machine appears daunting and is probably one step up for most such technicians. Still, it would be incredible to make this machine work. Can that be done? I am tentatively laying out the following initial steps:
@@ -144,10 +146,16 @@ I am not a Selectric technician but this machine appears daunting and is probabl
 - See if the electronics appear to do something after that. If not, check the service manual for more steps.
 - Consult with a Selectric repair person, especially for the mechanical part.
 
+Does that sound like a plan?
+
 ## More
 
-- [TWDB entry](https://typewriterdatabase.com/197x-ibm-memory-typewriter.15426.typewriter) [^twdb-first]
-- [Photo album](https://photos.app.goo.gl/JTvsqt6j7iD8pMK9A)
+- IBM Memory Typewriter
+  - [TWDB entry](https://typewriterdatabase.com/197x-ibm-memory-typewriter.15426.typewriter) [^twdb-first]
+  - [Photo album](https://photos.app.goo.gl/JTvsqt6j7iD8pMK9A)
+- IBM Electronic Typewriter 75
+  - [TWDB entry](https://typewriterdatabase.com/1980-ibm-electronic-typewriter-75.15451.typewriter) [^twdb-first]
+  - [Photo album](https://photos.app.goo.gl/hpdgZWUHUK7Tndgn9)
 
 ---
 
@@ -159,7 +167,7 @@ I am not a Selectric technician but this machine appears daunting and is probabl
 
 [^mechanical-keyboard]: If that's the fact, interestingly, they were calling those keyboard "electronic" in the 1970s, while today those same types of keyboards with switches are referred to as "mechanical keyboards"!
 
-[^twdb-first]: This is the first entry for the IBM Memory Typewriter on TWDB!
+[^twdb-first]: These are the first entries on TWDB for the IBM Memory Typewriter and the IBM Electronic Typewriter 75!
 
 <!--
 Interesting stuff from John J. G. Savard:
