@@ -30,6 +30,8 @@ There is some damage to the top cover: one part has broken off on the right side
 
 The inside of the machine is filthy. It's typical for the soundproofing foam to disintegrate into a sort of goo in Selectrics, but there is also a lot of dust and debris in there. However, there is no immediately visible damage - but I noticed two screws and a short metal rod lying at the bottom of the machine! That will need investigating.
 
+*UPDATE: I was kindly pointed out that this shaft is the hand-cycle tool extension! So that's a slight relief.*
+
 ## Gathering information
 
 ### Manuals
