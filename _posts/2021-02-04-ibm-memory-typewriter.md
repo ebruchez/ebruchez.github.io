@@ -69,7 +69,7 @@ Checking the "Adjustment Parts Manual", which covers all Mag Card and Memory typ
 
 ### YouTube
 
-I also found, on YouTube, a [2013 video](https://www.youtube.com/watch?v=H8P1JrivTsE) from Switzerland showing a Memory Typewriter printing its test track, which is recorded on "secret" track 51 of the machine. That machine looks in wonderful condition, and no wonder: the description says it was in use until 2011, and then "fully overhauled" in 2012.
+I also found, on YouTube, a [2013 video](https://www.youtube.com/watch?v=H8P1JrivTsE) from Switzerland showing a Memory Typewriter printing its test track, which is recorded on "secret" track 51 of the machine. That machine looks in fantastic condition, and no wonder: the description says it was in use until 2011, and then "fully overhauled" in 2012.
 
 That video also clarifies the following points:
 
@@ -88,7 +88,7 @@ This explains why few of these machines are around: they were way more expensive
 
 ### Dating of this instance
 
-The model was introduced in March 1974 and was probably produced for a few years. What year exactly is this model? I haven't located the serial number yet. There is a marking on the power supply cover that says "Aug 2 1974". This would put a lower bound on the date to August 1974. But of course that specific part might have been made then, and the rest of the machine later.
+The model was introduced in March 1974 and was probably produced for a few years. What year exactly is my instance? I haven't located the serial number yet. There is a marking on the power supply cover that says "Aug 2 1974". This would put a lower bound on the date to August 1974. But of course that specific part might have been made then, and the rest of the machine later.
 
 For now I am considering this to be a "1974 IBM Memory Typewriter" and I will revise this if more information is available.
 
