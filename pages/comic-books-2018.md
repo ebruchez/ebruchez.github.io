@@ -1,0 +1,172 @@
+---
+layout: page
+title: Comic Books (2018)
+---
+
+- [Comic books](../comic-books/)
+- [2021](../comic-books-2021/)
+- [2020](../comic-books-2020/)
+- [2019](../comic-books-2019/)
+- [2018](../comic-books-2018/)
+- [2017](../comic-books-2017/)
+- [2016](../comic-books-2016/)
+- [2015](../comic-books-2015/)
+
+# Comic Books (2018)
+
+- 2018-12: Donjon Crépuscule
+    - Language: French
+    - tags: #reread
+    - 101-106
+- 2018-12-2x: [Disney d'autore - Fabio Celoni](https://www.amazon.com/Disney-dautore-Fabio-Celoni/dp/8852218858/)
+    - "Da Topolino a PK, I magnifici racconti di uno straordinario viaggiatore del segno"
+    - Language: Italian
+    - NOTES: Some really good stories and an interesting style.
+- 2018-12-03: [Disney d'autore - Corrado Mastantuono](https://www.amazon.com/Disney-dautore-Corrado-Mastantuono/dp/8852217258)
+    - "Le straordinarie avventure dei personaggi di Paperopoli et di Topolinia tra ironia e divertimento"
+    - Language: Italian
+    - NOTES: I didn't realize before reading this that I had read a number of stories by Mastantuono. I really like his style. The character of Bum Bum is interesting in that he takes the central spot of a number of stories, playing the role usually taken by Donald Duck (Paperino). Instead, when Bum Bum is present, Paperino is repositioned as a character who behaves more normally.
+- 2018-10-30: [Le complexe du chimpanzé](https://www.bedetheque.com/serie-15177-BD-Complexe-du-chimpanze.html)
+    - tags: #reread
+    - Rating: 3/5
+    - NOTES: My main issue with this series is the lack of explanations. A lot of the story seems arbitrary. I would have preferred a more classic story.
+- 2018-10-22: [Les cosmonautes du futur](https://www.bedetheque.com/BD-Cosmonautes-du-futur-Tome-1-1934.html)
+    - tags: #reread
+    - Rating: 5/5
+    - Note: Cute and funny.
+- 2018-10-19: [Le rayon U](https://www.bedetheque.com/BD-Rayon-U-27159.html)
+    - tags: #reread
+    - Rating: 5/5
+    - NOTES: A great classic.
+- 2018-10-19: [Spirou et Fantasio - 50. Aux sources du Z](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-50-Aux-sources-du-Z-79695.html)
+    - tags: #reread
+    - Rating: 4/5
+    - NOTES: This is not a story like most others. It has lots of references to older albums, and plays over the Spirou and Fantasio timeline. It feels more like an experiment than a story to take "seriously".
+- 2018-10-17: [Le troisième Testament](https://www.bedetheque.com/albums-23-BD-Troisieme-Testament.html)
+    - tags: #reread
+    - Rating: 5/5
+- 2018-10-11: [Le Mystère de la Grande Pyramide](https://www.bedetheque.com/BD-Blake-et-Mortimer-Historique-Tome-3-7644.html)
+    - 1954-1955
+    - Edgar P. Jacobs
+    - Rating: 5/5
+    - tags: #reread
+- 2018-10-10: [Le secret de l'Espadon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-1-Le-Secret-de-l-Espadon-T1-7652.html)
+    - 1950-1953
+    - Edgar P. Jacobs
+    - Rating: 5/5
+    - tags: #reread
+    - NOTES: Yes, it is about the "Yellows" (probably Chinese) against the rest of the world, and we wouldn't dare write a story like this today, but it is a fantastic story about fighting a totalitarian regime wanting to take over the world, and a wonderful story of resistance for freedom. I think that the story is really well written, especially given the fact that the author had to go very fast, and you eagerly follow over three volumes the heroes as they have setback upon setback. Not everybody is depicted in a negative way: resistance fighters are Indian, Arabs, and near the end Shanghai's "Tchang-Li-Tchek" joins the resistance as well.
+- 2018-10: [Une mystérieuse mélodie]
+    - Language: French
+    - Cosey
+- 2018-10: [Moby Dick]
+    - Language: Italian
+    - Scenario: Francesco Artibani
+    - Drawings: Paolo Mottura
+    - Topolino Limited De Luxe Edition
+- 2018-09-15: [Donald's Happiest Adventures]
+    - 2018
+    - Scénario: Lewis Trondheim
+    - Dessin: Nicolas Keramidas
+- 2018-09-12: [Les mondes de Thorgal - La jeunesse, Tome 3. Runa](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-3-Runa-241654.html)
+    - 2015
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2018-09-07: Mickey's craziest adventures
+    - 2016
+    - Scénario: Lewis Trondheim
+    - Dessin: Nicolas Keramidas
+- 2018-09-03:[Les Mondes de Thorgal - Kriss de Valnor - Tome 2 - La sentence des Walkyries](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-2-La-sentence-des-Walkyries-156670.html)
+- 2018-08-30: [Retour sur Aldébaran - Episode 1](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-1-Episode-1-332186.html)
+    - 2018
+- 2018-08-28: Yoko Tsuno l'intégrale, tome 4: Vinéa en péril
+    - 8\. Les Titans
+        - tags: #reread
+        - Rating: 5/5
+    - 10\. La lumière d'Ixo
+        - tags: #reread
+        - Rating: 5/5
+    - 13\. Les archanges de Vinéa
+        - tags: #reread
+        - Rating: 4/5
+- 2018-08-1x: [Meta-Baron - Tome 4 - Simak le Transhumain](https://www.bedetheque.com/BD-Meta-Baron-Tome-4-Simak-le-Transhumain-298307.html)
+    - 2017
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
+- 2018-08-12: [Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal](https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html)
+    - 2016
+    - tags: #reread
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
+- 2018-08-03: [Ralph Azham - 3. Noires sont les étoiles](https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html)
+- 2018-08-02: [Ralph Azham - 2. La mort au début du chemin](https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html)
+- 2018-08-01: [Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?](https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html)
+    - tags: #reread
+- 2018-07-30: [Centaurus - 4. Terre d'angoisse](https://www.bedetheque.com/BD-Centaurus-Tome-4-Terre-d-angoisse-335592.html)
+    - Scénario: Léo & Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2018
+- 2018-07: [Centaurus - 3. Terre de folie](https://www.bedetheque.com/BD-Centaurus-Tome-3-Terre-de-folie-300530.html)
+    - Scénario: Leo, Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2017
+    - tags: #reread
+- 2018-05-27: [Dragonero - Minaccia all'Impero](http://shop.sergiobonelli.it/dragonero/2017/08/21/libro/dragonero-minaccia-all-impero-1001525/)
+    - Language: Italian
+    - Scénario: Luca Enoch
+    - Dessins: Giancarlo Olivares
+    - 4/5
+- 2018-05: [La saga di Messer Papero e di Ser Paperone](http://it.paperpedia.wikia.com/wiki/Saga_di_Messer_Papero_e_di_Ser_Paperone)
+    - 1983
+    - Language: Italian
+    - Disney Golden Edition
+    - Guido Martina, Giovan Battista Carpi
+    - 3/5
+- 2018-03-23: Goofy - Eine komische Historie - Teil 1
+    - Language: German
+    - I have always loved this series full of humor.
+    - 5/5
+- 2018-03-05: [Storia e Gloria della dinastia dei Paperi](https://it.wikipedia.org/wiki/Storia_e_gloria_della_dinastia_dei_paperi)
+    - 1970
+    - Disney Golden Edition
+    - Guido Martina, Romano Scarpa, Giovan Battista Carpi, Giorgio Cavazzano
+    - 3/5
+- 2018-02-18: [Dragonero - Nelle terre dei Ghoul](http://shop.sergiobonelli.it/libro/libri/41223/dragonero-nelle-terre-dei-ghoul.html)
+    - Language: Italian
+    - 4/5
+- 2018-01-23: [Alix Senator: 4. Les démons de Sparte](https://www.bedetheque.com/BD-Alix-Senator-Tome-4-Les-Demons-de-Sparte-253345.html)
+- 2018-01-14: [Yoko Tsuno - 23. La pagode des brumes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-23-La-pagode-des-brumes-6009.html)
+    - 2001
+    - tags: #reread
+- 2018-01-12: [Yoko Tsuno - 22. La jonque céleste](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-22-La-jonque-celeste-1344.html)
+    - 1998
+    - tags: #reread
+- 2018-01-11: [Yoko Tsuno - 16. Le dragon de Hong Kong](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-16-Le-dragon-de-Hong-Kong-4642.html)
+    - 1986
+    - tags: #reread
+- 2018-01-09: [Valérian - L'empire des mille planètes](https://www.bedetheque.com/BD-Valerian-Tome-2-L-empire-des-mille-planetes-2578.html)
+    - 1971
+    - tags: #reread
+- 2018-01-07: [Les naufragés d'Ythaq - 14. Le Joyau du Génie](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-14-Le-Joyau-du-Genie-293592.html)
+    - 2016
+    - tags: #reread
+- 2018-01-06: [Les naufragés d'Ythaq - 13. Glèbe la Singulière](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-13-Glebe-la-Singuliere-258181.html)
+    - 2015
+    - tags: #reread
+- 2018-01-04: [Les naufragés d'Ythaq - 12. Les Clefs du néant](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-12-Les-Clefs-du-neant-226732.html)
+    - 2014
+    - tags: #reread
+- 2018-01-03: [Les naufragés d'Ythaq - 11. L'Haleine de l'Ogre](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-11-L-Haleine-de-l-Ogre-197183.html)
+    - 2013
+    - tags: #reread
+- 2018-01-02: [Les naufragés d'Ythaq - 10. Nehorf-Capitol Transit](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-10-Nehorf-Capitol-Transit-171913.html)
+    - 2012
+    - tags: #reread
+- 2018-01-01: [Les naufragés d'Ythaq - 9. L'Impossible Vérité](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-9-L-Impossible-Verite-136859.html)
+    - 2011
+    - tags: #reread
+- 2018-01-01: [Les naufragés d'Ythaq - 8. Le miroir des mensonges](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-8-Le-miroir-des-mensonges-116943.html)
+    - 2010
+    - tags: #reread

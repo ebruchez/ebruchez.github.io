@@ -1,0 +1,257 @@
+---
+layout: page
+title: Comic Books (2016)
+---
+
+- [Comic books](../comic-books/)
+- [2021](../comic-books-2021/)
+- [2020](../comic-books-2020/)
+- [2019](../comic-books-2019/)
+- [2018](../comic-books-2018/)
+- [2017](../comic-books-2017/)
+- [2016](../comic-books-2016/)
+- [2015](../comic-books-2015/)
+
+# Comic Books (2016)
+
+- 2016-12-04: Lefranc - Le mystère Borg
+    - 1964-1965
+    - one of the best Lefranc albums
+    - Rating: 5/5
+- The Don Rosa Library Vol. 1
+    - 2016-11-27: Uncle Scrooge and the Son of the Sun
+        - tags: #reread
+        - 1987-07
+        - Don Rosa
+        - Rating: 5/5
+- Super Picsou Géant 194, Juillet 2016
+    - 2016-11-24: L'Île au Trésor
+        - 2015 (L’isola del tesoro)
+        - Scénario: Teresa Radice
+        - Dessins: Stefano Turconi
+        - Rating: 5/5
+    - Donald, balayeur de problèmes
+        - Scénario: Lars Jensen
+        - Dessins: Andrea Ferraris
+        - Rating: 3/5
+    - La tactique hanséatique
+        - Scénario: Knut Nærum, Tormod Løkling
+        - Dessins: Arild Midthun
+        - Rating: 4/5
+    - Picsou - La chance du fantastimilliardaire
+        - Scénario: Michael T. Gilbert
+        - Dessins: Andrea Ferraris
+        - Rating: 3/5
+    - Dingo superchanceux
+        - Scénario: Casty
+        - Dessins: Lorenzo Pastrovicchio
+        - Rating: 3/5
+- Les trésors de Picsou 35 - Aventures aquatiques
+    - Donald - Gammes aquatiques
+        - 1956
+        - Carl Barks
+    - Donald - Ouragan sur le calme !
+        - 2007
+        - Daan Jippes
+    - Donald - 20000 cadeaux sous les mers
+        - 1955
+        - Carl Barks
+    - Donald - Les Castors Juniors perdent le nord
+        - 1960
+        - Carl Barks
+    - Picsou - Un rubis pour la haute
+        - 1963
+        - Carl Barks
+    - Picsou - 20 milliards sous les mers
+        - 2000
+        - wanda Gattino & Daniel Branca
+    - Donald - Capitaine de choc
+        - 1984
+        - Scénario: Evert Geradts
+        - Dessins: Ben Verhagen
+    - Picsou - Poule mouillée !
+        - 2009
+        - Scénario: Lars Jensen
+        - Dessins: Vicar
+    - Donald Duck - Chasseur de perles
+        - 1948
+        - Carl Barks
+    - Picsou - Pêche aux perles
+        - 1984
+        - Carl Barks
+    - Donald - Gaffeur sous-marin
+        - 1965
+        - Scénario: Dick Kenney
+        - Dessins: Al Hubbard
+    - Donald - La chasse au faido d'eau
+        - 1995
+        - William Van Horn
+    - Donald - Le maître du tuba
+        - 1996
+        - Scénario: Pat McGreal
+        - Dessins: Vicar
+    - Donald - Profond problème
+        - 1997
+        - Scénario: Per Hedman
+        - Dessins: Vicar
+    - Donald - Le siphon océanique
+        - 2001
+        - Scénario: Gorm Transgaard
+        - Dessins: Vicar
+    - Donald - Les prix plongent
+        - 2013
+        - Scénario: L. & M. Shaw
+        - Dessins: M. Tortajada
+    - Donald - Cauchemar en mer
+        - 2007
+        - Marco Rota
+- 2016-11: [Les Fils d'El Topo - Tome 01: Caïn](https://www.amazon.fr/Fils-dEl-Topo-01-Caïn/dp/2344004483/)
+    - 2016
+    - Scénario: Alexandro Jodorowsky
+    - Dessin: José Ladronn
+- 2016-11: [Une aventure de Spirou et Fantasio: Le tombeau des Champignac](https://www.amazon.fr/Une-aventure-Spirou-Fantasio-Champignac/dp/280013805X/)
+    - 2007
+    - Scénario: [Yann](https://fr.wikipedia.org/wiki/Yann_(auteur))
+    - Dessin: Fabrice Tarrin
+- 2016-11-07: [Méta-Baron - Tome 1 - Wilhelm 100, le techno-amiral](https://www.amazon.fr/M%C3%A9ta-Baron-Wilhelm-100-Techno-Amiral-Jerry-Frissen/dp/2731681276/)
+    - 2016
+    - Scenario: Jerry Frissen
+    - Dessin et couleur: Valentin Sécher
+    - D'après: Alexandro Jodorowsky
+- 2016-11: [Dragonero - Le Origini](https://www.amazon.it/origini-Dragonero-Luca-Enoch/dp/8869610160)
+    - 2015
+    - Language: Italian
+    - Scénario: Luca Enoch
+    - Scénario: Stefano Vietti
+    - Dessins: Giuseppe Matteoni
+- 2016-10: [Flash Gordon: Dan Barry Volume 1 - The City of Ice](https://www.amazon.com/gp/product/1782766839/)
+    - 1951-1953
+    - I was familiar with Flash Gordon only for having seen a few pages of "Guy L'éclair" in French Mickey Mouse magazines as a kid.
+    - I enjoyed these stories more than I would have thought: it is 100% adventure but with a major science and even geekiness  background (kids build rockets and dream about space!).
+- 2016-08: [Astérix - 36. Le papyrus de César](https://fr.wikipedia.org/wiki/Le_Papyrus_de_C%C3%A9sar)
+    - 2015
+    - Scénario: Jean-Yves Ferri
+    - Dessin: Didier Conrad
+    - The second post-Uderzo Astérix.
+- 2016-08: [Les naufragés d'Ythaq - 13. Glèbe la Singulière](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-13-Glebe-la-Singuliere-258181.html)
+    - 2015
+    - Scénario: Arleston
+    - Dessin: Floch
+- 2016-08: [Les naufragés d'Ythaq - 12. Les Clefs du néant](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-12-Les-Clefs-du-neant-226732.html)
+    - tags: #reread
+    - 2014
+    - Scénario: Arleston
+    - Dessin: Floch
+- 2016-08: [Les naufragés d'Ythaq - 11. L'Haleine de l'Ogre](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-11-L-Haleine-de-l-Ogre-197183.html)
+    - tags: #reread
+    - 2013
+    - Scénario: Arleston
+    - Dessin: Floch
+- 2016-08-09: [Les naufragés d'Ythaq - 10. Nehorf-Capitol Transit](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-10-Nehorf-Capitol-Transit-171913.html)
+    - tags: #reread
+    - 2012
+    - Beginning of the second cycle (books 1-9 cover the first cycle).
+    - Scénario: Arleston
+    - Dessin: Floch
+- 2016-08-03: [Centaurus - 2. Terre étrangère](http://www.bedetheque.com/BD-Centaurus-Tome-2-Terre-etrangere-273728.html)
+    - Scénario: Leo, Rodolphe
+    - Dessin: Janjetov, Zoran
+    - 2016
+    - Follow-up to [Centaurus - 1. Terre promise](http://www.bedetheque.com/BD-Centaurus-Tome-1-Terre-promise-237683.html)
+- [MPG 353](http://fandemickeyetpicsou.fra.co/t780-mickey-parade-geant-353)
+    - Chauffe, Donald ! - Commend devenir maître nageur ?
+        - Rudy Salvagnini
+        - Francesco Guerrini
+        - 2003
+        - from MPG 353
+    - Picsou: L'arbitre était presque parfait
+        - Rudy Salvagnini
+        - Valerio Held
+        - 2002
+    - Picsou: Un sort à sortir
+        - Pat McGreal & Carol McGreal
+        - Giorgio Cavazzano
+        - 2015
+    - Fantomiald: Comme un poison dans l'eau
+        - Sune Troelstrup
+        - Andrea Freccero
+        - 2015
+    - Le cycle des magiciens: L'héritage - Les gardiens de la mémoire
+        - Matteo Venerus
+        - Alessandro Perina
+        - 2013
+    - Dingo reporter: La plume d'or
+        - Teresa Radice
+        - Stefano Turconi
+        - 2013
+    - Donald Junior: La plage au trésor
+        - Augusto Macchetto
+        - Emilio Urbano
+        - 2003
+    - Mickey "Les Experts: Anderville": Calypso
+        - Francesco Artibani
+        - Claudio Scarrone
+        - 2000
+- 2016-07: [Orion - 3. Le pharaon](http://www.bedetheque.com/BD-Orion-J-Martin-Tome-3-Le-pharaon-3319.html)
+    - tags: #reread #french
+    - Jacques Martin
+    - Christophe Simon
+    - 1998
+- 2016-07: [Jhen - 6. Le lys et l'ogre](http://www.casterman.com/Bande-dessinee/Catalogue/jhen-les-albums-de-jhen/le-lys-et-logre)
+    - tags: #reread #french
+    - Scénario: Jacques Martin
+    - Dessin: Jean Pleyers
+- 2016-07: Après l'Incal / Incal Final
+    - tags: #reread #french
+    - except tome 3 which I don't have yet
+- 2016-07: Avant l'Incal
+    - tags: #reread #french
+- 2016-07: L'Incal
+    - tags: #reread #french
+- 2016-07: [Spirou - Le Groom vert-de-gris](https://fr.wikipedia.org/wiki/Le_Groom_vert-de-gris)
+    - tags: #reread #french
+    - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
+    - Scénario: Yann
+    - Dessin: Olivier Schwartz
+    - 2009
+- 2016-07: [Spirou - Les Marais du temps](https://fr.wikipedia.org/wiki/Les_Marais_du_temps)
+    - tags: #reread #french
+    - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
+    - Auteur: Frank Le Gall
+    - 2007
+- 2016-07: [Spirou - Les Géants pétrifiés](https://fr.wikipedia.org/wiki/Les_G%C3%A9ants_p%C3%A9trifi%C3%A9s)
+    - tags: #reread #french
+    - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
+    - Scénario: Fabien Vehlmann
+    - Dessin: Yoann
+    - 2006
+- 2016: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e il Torneo dell'Argaar #italian
+    - Massimo De Vita
+    - 1983-1984
+- 2016: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e la Spada di Ghiaccio #italian
+    - Massimo De Vita
+    - 1982-1983
+    - This is the first part of a series placing Mickey Mouse and Goofy (Topolino and Pippo, in Italian) in a fantasy setting, namely the world of Argaar.
+
+
+(ordered 10 décembre 2015)
+
+- Lefranc, Tome 26: Mission Antarctique
+- [Ultime Frontière - 2. Épisode 2](https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-2-Episode-2-256969.html)
+- Sillage T18 - Psycholocauste
+- [Le Monde Perdu 1. Tome 1](http://www.bedetheque.com/BD-Monde-perdu-Tome-1-193957.html)
+    - 2013
+    - Scénario: Christophe Bec
+    - Dessin:  Mauro Salvatori, Fabrizio Fain
+- Yoko Tsuno l'intégrale, tome 1: De la Terre à Vinéa
+    - Le Trio de l'étrange
+        - tags: #reread
+        - 1972
+    - La forge de Vulcain
+        - tags: #reread
+        - 1973
+    - Les trois soleils de Vinéa
+        - tags: #reread
+        - 1976
+- Centaurus T01: Terre Promise
+- Donjon Crépuscule, Tome 105: Les nouveaux Centurions

@@ -1,0 +1,969 @@
+---
+layout: page
+title: Comic Books (2020)
+---
+
+- [Comic books](../comic-books/)
+- [2021](../comic-books-2021/)
+- [2020](../comic-books-2020/)
+- [2019](../comic-books-2019/)
+- [2018](../comic-books-2018/)
+- [2017](../comic-books-2017/)
+- [2016](../comic-books-2016/)
+- [2015](../comic-books-2015/)
+
+# Comic Books (2020)
+
+- 2020-11: [Les survivants - 5](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-5-Episode-5-300283.html)
+    - tags: #reread
+    - Scénario et dessins: Leo
+- 2020-11: [Les survivants - 4](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-4-Episode-4-276324.html)
+    - tags: #reread
+    - Scénario et dessins: Leo
+- 2020-11: [Les survivants - 3](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-3-Episode-3-222832.html)
+    - tags: #reread
+    - Scénario et dessins: Leo
+- 2020-11: [Les survivants - 2](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-2-Episode-2-171120.html)
+    - tags: #reread
+    - Scénario et dessins: Leo
+- 2020-11: [Les survivants - 1](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-1-Episode-1-120743.html)
+    - tags: #reread
+    - Scénario et dessins: Leo
+- 2020-11: [Centaurus](https://www.bedetheque.com/serie-46385-BD-Centaurus.html)
+    - Language: French
+    - tags: #reread
+    - Scénario: Léo & Rodolphe
+    - Dessin: Zoran Janjetov
+- 2020-11: [Terres lointaines](https://www.bedetheque.com/serie-20088-BD-Terres-Lointaines.html)
+    - Language: French
+    - tags: #reread
+- 2020-11: [Ultime frontière](https://www.bedetheque.com/serie-44332-BD-Ultime-Frontiere.html)
+    - Language: French
+    - tags: #reread
+- 2020-11: [Retour sur Aldébaran - Episode 2](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-2-Episode-2-366478.html)
+    - Language: French
+    - tags: #reread
+- 2020-11: [Retour sur Aldébaran - Episode 1](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-1-Episode-1-332186.html)
+    - Language: French
+    - tags: #reread
+- 2020-11: [Antarès épisodes 1-6](https://www.bedetheque.com/serie-15179-BD-Antares-Leo.html)
+    - tags: #reread
+    - Language: French
+    - Author: Leo
+    - NOTES:
+        - This is the third saga with Kim Keller, after the 5-tome Aldébaran, and the 5-tome Bételgeuse. In this series, Earth is looking at colonizing a planet in the Antarès system. It's a mostly private enterprise, led from New York by Forward Enterprises and its president, Elijah Thornton. However, the leaders of the project happen to be under the influence of a sect, led by Jedediah Thornton, Elijah's brother. His idea is that he wants to go to Antarès to found the "new human society".
+        Tome 1
+            - The sect's ideas are extremely conservative, mostly about women. Jedediah is a true believer. He has absolute faith. He thinks God is telling him to go there and meet some advanced intelligence. But little really supports his ideas. He is often pictured with his mouth and eyes widely open.
+            - Earth has become poor, and its air is very polluted. Species like orangutans, gorillas, and bonobos are extinct. There is only one chimpanzee left in a zoo in Paris. Europe has become very cold and gray. Interestingly, there are robotaxis. The year is 2196.
+            - Kim Keller is convinced by Elijah to join the project, promising he will help free Kim's friends: Alexa (Komarova), Marc (Sorensen) and Pad (Eldermore Paderewsky). Kim can't refuse under these conditions, of course.
+            - Kim learns she is pregnant from the "extraterrestrial", Sven, she had met in previous stories.
+            - On Antarès, we follow three "kamikaze", who are the first to land and observe the planet. Their role is to observe and report on the conditions of the planet for their bosses - the promoters of the Antarès colonization project. But they witness an animal vanishing into thin air. And then it's the turn of Mei, one of the three kamikaze.
+        - 2 years later, on Bételgeuse, we learn that Alexa, Marc and Pad have been indeed released. They come to meet Kim, who gave birth to Lynn, her daughter. She has a dorsal fin and gills. But those are slowly going away.
+        - Tome 2
+            - Kim, Lynn, Marc, Maï lan are on their way to Antarès. The atmosphere on the ship is tense. The crew and passengers don't like Kim. Under-commandant Ashley Scott clearly shows this to Kim. They learn that women are forced to wear inflatable suits that fully hide their shape. They meet Julius  White, an aggressive man, who attempts to rape Maï Lan. Her aggressors get 15 days of prison, but Alex gets 40 for fighting and injuring them, and Maï Lan 20 days for provocation. The doctor of the ship, Amos Blum, is told to examine Lynn. He decides to be kind and just report an eye malformation. Internal TVs and kids mock her.
+            - The expedition reaches Antarès. The kamikaze report the abnormal phenomena. Kim's team is outraged. The Thorntons defend their expedition. The planet turns out to be much more dangerous than expected, but the Thorntons glossed over that.
+            - The cargo shuttle bringing down Maï Lan and Lynn crashes. It also includes stowaways. One dies and one is severely injured. Kim and her team try to reach them, They are also the victims of a collision with a very large bird. Lynn shows the ability to detect people without seeing them. They find two unconscious teenagers hidden in a vehicle from the crashed cargo shuttle.
+            - The main landing site plans to send a helicopter to rescue Kim and the others. But they don't pay attention to signs indicating danger from sea creatures coming to eat plants, and the helicopter is destroyed in the process. Kim will have to find another way to come back. But they now have a vehicle, undamaged in the cargo shuttle crash.
+        - Tome 3
+            - The trip back is dangerous. They lose the injured stowaway and another member. Kim gets closer from Amos even though she is supposed to be with Marc. Ashley Scott shows her weaknesses. She eventually warms up to Kim.
+            - Lorna, the teenage girl, plays deceptive tricks to Kim.
+            - Lynn is saved from a bird attack by a strange small sphere. But she then disappears into thin air from Maï Lan's arms. They pinpoint that planet Antarès 4 was in sight at that time.
+        - Tome 4
+            - Alexa, Pad and xxx try to steal a helicopter to go help Kim. They are caught.
+            - The Thorntons plan to go to Antarès 4.
+            - Maï Lan thinks that Lorna is in love with Kim. The teenage boy, Erwan, dies from a blood-sucking animal.
+            - There are some thoughts about human's right to colonize planets.
+            - Alexa manages to steal the helicopter following with the help of an ex-policewoman. More animal attacks. But Alexa rescues the team.
+            - Lorna turns out to be the daughter of the brutal White, who hits her.
+            - At the base camp, the sect attempts to enforce new rules against women. Kim's team reject that. Alexa fights again. They are rescued by another team from the ship.
+            - The trip to Antarès 4 is planned. Jedediah Thornton will be part of it.
+        - Tome 5
+            - Trip to Antarès 4. Jedediah is insufferable. He sabotages a drone and Kim hits him. She is demoted.
+            - They are trying to reach "point X". They find a weird sphere. Jedediah is more and more in a sort of delirium.
+            - Lorna reveals that she found a girlfriend, Lana. But their love is found, and she is taken away.
+            - Jedediah steals the mission's helicopter to go back to point X. His is caught by a large carnivorous plant.
+            - Alex and Zao use the lift to go save him. Zao falls and is critically injured. Kim and Ashley Scott go instead. They have to sedate Jedediah.
+            - Lorna is abused by her parents. She is rescued by Marc and the police. Lana visits her.
+            - We learn that the extraterrestrials are also on Antarès 4. Ashley again shows her weakness.
+            - Lynn and Mei appear as holograms. A replica of their shuttle appears nearby. They plan to enter it.
+        - Tome 6
+            - They prevent Jedediah from entiring that shuttle. Instead, Kim and Alexa go. They find Lynn and Mei in a strange virtual-looking world. Then they come back.
+            - The extraterrestrials show up: it's Sven, Lynn's daughter, and another one, Eltven. They are not responsible for the disappearances. They just witness the spheres, which are probably automated and very old, and explore.
+            - Jedediah is fully rebutted by Sven. He passes out.
+            - They tell Kim needs to go with them to go through her childhood. She will soon revert to her more acquatic form.
+            - Jedediah commits suicide.
+            - All come back to Antarès's base camp. There has been a flood. The mining operations there are halted. The expedition is bankrupt.
+            - Kim goes with Amos, Marc with Maï Lan.
+            - The ET's are called "Tsalterians". They want contact with the humans. But only through Kim. Their first project will be studying, on Aldébaran, a strange cube which is a quantum door to another world. Alex will be ambassador on the Tsalterians' planet.
+        - TODO
+- 2020-10-xx: [Astérix - 6. Astérix et Cléopâtre](https://www.bedetheque.com/BD-Asterix-Tome-6-Asterix-et-Cleopatre-22950.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1965-01
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-10-xx: [Astérix - 5. Le tour de Gaule](https://www.bedetheque.com/BD-Asterix-Tome-5-Le-tour-de-Gaule-22948.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1965-01
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-10-xx: [Astérix gladiateur](https://www.bedetheque.com/BD-Asterix-Tome-4-Asterix-Gladiateur-22946.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1964-07
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-10-xx: [Jhen, Tome 10: Les sorcières](https://www.bedetheque.com/BD-Jhen-Tome-10-Les-sorcieres-78492.html)
+    - 2008
+    - tags: #reread
+    - Scénario: Hugues Payen, Jacques Martin (?)
+    - Dessin: Thierry Cayman
+    - NOTES:
+        - I really wanted to like this story, because it takes place in Switzerland, between Sion and Chillon.
+        - However, the drawings, while detailed, are inconsistent and inelegant.
+- 2020-10-xx: [Jhen, Tome 15: Les portes de fer](http://www.bedetheque.com/BD-Jhen-Tome-15-Les-portes-de-fer-259663.html)
+    - 2015
+    - tags: #reread
+    - Scénario: Jerry Frissen
+    - Dessin: Paul Teng
+    - NOTES:
+        - This story is brutal and dark, but it is pretty good.
+- 2020-09-18: [Les naufragés d'Ythaq - 1. Terra incognita](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-1-Terra-Incognita-48226.html)
+    - 2005
+    - tags: #reread
+    - 5/5
+    - NOTES:
+        - As I reread this, I realized that it is really, really good! The SF aspects are really nice: the "Brume de comète" ship, weapons, etc.
+        - The non-human characters are compelling. I particularly like the Feng (Tao), and their (usual) non-violence, and their desire for capturing and sharing history.
+        - The personalities of the three main human characters start to show.
+        - The ending of this first volume is surprising and suspenseful. We can only know that Callista is up to no good.
+- 2020-09-15: [Astérix - 36. Le papyrus de César]
+    - 2015
+    - tags: #reread
+    - Scénario: Jean-Yves Ferri
+    - Dessin: Didier Conrad
+    - The second post-Uderzo Astérix.
+    - Rating: 4/5
+    - NOTES:
+        - It's really a pretty good story, built with a lot of care.
+        - Some didn't like the homage on the last page, but I think it fits perfectly with the rest of the story.
+        - I haven't yet read the two following albums, but their reviews appear less than flattering. Too bad, as this one was giving a lot of hope for the future of the series.
+- 2020-09-14: [Les Fils d'El Topo - Tome 01: Caïn](https://www.amazon.fr/Fils-dEl-Topo-01-Caïn/dp/2344004483/)
+    - 2016
+    - tags: #reread
+    - Scénario: Alexandro Jodorowsky
+    - Dessin: José Ladronn
+    - NOTES:
+        - TODO
+- 2020-09: [Les Druides - 1-9](https://www.bedetheque.com/serie-12636-BD-Druides.html)
+    - tags: #reread
+    - 2014-TODO
+    - NOTES:
+        - Two arcs.
+        - Tomes 1-6 cover solving the mystery of the decapitated monks. The church and people want to blame it on the druids, who are innocents. Gwenc’hlan and Taran work hard to find the real culprits. This takes them all the way to the new world in the end. There is magic and fantastic. It's not a realistic world.
+        - Tomes 7-9 cover the mystery of the killing of Ronan and his family. The body is found with its guts removed. They follow the track to a weird family of apparent cannibals. They turned out to have, maybe, faked that (although the boy is caught trying to eat somebody's finger)? They had sworn the destruction of those who had broken a truce and killed 3 wise old men. In the end, the entire family except the boy dies fighting the Christians, who also are mostly destroyed. Gwenc’hlan makes peace with "Pa", the head of the cannibal family. Yet the family only looks for revenge and coldly kills. It's not a sweet ending. The reader's feelings are mixed. There is pity for the kind family of Ronan. We learn that he was killed for having made weapons for Pa's family's enemies. There is disgust for Pa's family's appearance and behavior.
+        - Some male characters are truly ugly - bad guys, monks. The hero and Taran are fairly good-looking. Women are very attractive but usually hide treachery. The drawings are superb. The colors too "computerized" to my taste at times.
+- 2020-09-04: [Meta-Baron - Tome 4 - Simak le Transhumain](https://www.bedetheque.com/BD-Meta-Baron-Tome-4-Simak-le-Transhumain-298307.html)
+    - 2017
+    - tags: #reread
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
+- 2020-09-03: [Meta-Baron - 3. Orne-8 le Techno-Cardinal](https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html)
+    - 2016
+    - tags: #reread
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
+    - NOTES: I prefer the drawings of Valentin Sécher. I am glad that volumes 5 and 6, which I haven't read yet, also feature Valentin Sécher.
+- 2020-09-03: [Meta-Baron - 2. Khonrad l'Anti-Baron](https://www.bedetheque.com/BD-Meta-Baron-Tome-2-Khonrad-l-Anti-Baron-279962.html)
+    - tags: #reread
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Valentin Sécher
+    - D'après: Alexandro Jodorowsky
+- 2020-09-02: [Meta-Baron - 1. Wilhelm-100, le Techno-Amiral](https://www.bedetheque.com/BD-Meta-Baron-Tome-1-Wilhelm-100-le-Techno-Amiral-257296.html)
+    - tags: #reread
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Valentin Sécher
+    - D'après: Alexandro Jodorowsky
+    - NOTES:
+        - The main character, is one of the most brutal characters in any book. He is cruel for the sake of it, because he enjoys it.
+        - The tortures described are designed to shock.
+        - The techno-pope ...
+        - It is a very dark universe: exploitation, suffering, and pointless projects, for the sake of power and pleasure of a tiny, tiny few
+        -
+        - xxx TODO
+- 2020-09-01: [L'homme qui tua Lucky Luke](https://www.bedetheque.com/BD-Lucky-Luke-vu-par-Tome-1-L-Homme-qui-tua-Lucky-Luke-276314.html)
+    - 2016
+    - tags: #reread
+    - Rating: 5/5
+    - Scénario et dessin: Matthieu Bonhomme
+    - NOTES:
+        - This is a masterpiece.
+        - The story is dark, tense.
+        - It's an "hommage" story.
+- 2020-08: [Sillage - 19. Temps mort](https://www.bedetheque.com/BD-Sillage-Tome-19-Temps-mort-287061.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [Sillage - 18. Psycholocaust](https://www.bedetheque.com/BD-Sillage-Tome-18-Psycholocauste-255956.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [Sillage - 17. Grands froids](https://www.bedetheque.com/BD-Sillage-Tome-17-Grands-froids-224321.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [Sillage - 16. Liés par le sang](https://www.bedetheque.com/BD-Sillage-Tome-16-Lies-par-le-sang-195997.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [Sillage - 15. Chasse gardée](https://www.bedetheque.com/BD-Sillage-Tome-15-Chasse-gardee-170161.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+    - NOTES: Start of a new cycle.
+- 2020-08: [Sillage - 14. Liquidation totale](https://www.bedetheque.com/BD-Sillage-Tome-14-Liquidation-totale-138186.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [Sillage - 13. Dérapage contrôlé](https://www.bedetheque.com/BD-Sillage-Tome-13-Derapage-controle-114669.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [Sillage - 12. Zone franche](https://www.bedetheque.com/BD-Sillage-Tome-12-Zone-franche-93337.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [Sillage - 11. Monde flottant](https://www.bedetheque.com/BD-Sillage-Tome-11-Monde-flottant-78482.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [Sillage - 10. Retour de flammes](https://www.bedetheque.com/BD-Sillage-Tome-10-Retour-de-flammes-67415.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+- 2020-08: [La vengeance du Comte Skarbek 2. Un cœur de bronze](http://www.bedetheque.com/BD-Vengeance-du-Comte-Skarbek-Tome-2-Un-coeur-de-bronze-51850.html)
+    - 2005
+    - Scénario: Yves Sente
+    - Dessin et Couleurs: Grzegorz Rosinski
+    - tags: #reread
+    - Rating: 5/5
+- 2020-08: [La vengeance du Comte Skarbek 1. Deux mains d'or](http://www.bedetheque.com/BD-Vengeance-du-Comte-Skarbek-Tome-1-Deux-mains-d-or-32249.html)
+    - 2004
+    - Scénario: Yves Sente
+    - Dessin et Couleurs: Grzegorz Rosinski
+    - tags: #reread
+    - Rating: 5/5
+    - NOTES: Another re-read. The last one was in 2017. But this is such a great graphic novel that it's worth it.
+- 2020-08-17: [Les cités obscures - H11. Souvenirs de l'Éternel Présent](https://www.bedetheque.com/BD-Cites-obscures-H11-Souvenirs-de-l-Eternel-Present-26801.html)
+    - 1993/2009
+    - tags: #reread
+    - Language: French
+    - NOTES:
+        - Based on the sketches for the movie Taxandria ("les auteurs ont adapté et complété les images que Schuiten avait réalisées pour le film de Raoul Servais").
+        - With explanations of the project at the end of the book.
+- 2020-08-16: [Les cités obscures - 11. La théorie du grain de sable - Tome 2](https://www.bedetheque.com/BD-Cites-obscures-Tome-11-78735.html)
+    - 2008
+    - tags: #reread
+    - Language: French
+- 2020-08-16: [Les cités obscures 10. La théorie du grain de sable - Tome 1](https://www.bedetheque.com/BD-Cites-obscures-Tome-10-66174.html)
+    - 2007
+    - tags: #reread
+    - Language: French
+- 2020-07-26: [PK Giant 21 Luglio 2016 - Antico futuro](http://www.papersera.net/forum/index.php?topic=11019.0)
+    - Language: Italian
+    - Soggetto e sceneggiatura: Gianfranco Cordara
+    - Disegno e chine: Marco Forcelloni
+    - Chine: Luciano Milano
+    - Lettering: Fiorenza Gallazzi
+    - NOTES:
+        - This is a magazine about "PK" or "Pikappa" in Italian, which is the super-hero version of Donald Duck.
+        - This issue contains a main story, and a secondary story that doesn't involve PK.
+        - It's not a bad story, with some humor.
+        - Issue from 2016, but celebrtates 20 years of PK, so might the story be from earlier?
+- 2020-07-20: Goofy - Eine komische Historie - Teil 2
+    - Language: German
+    - 5/5
+    - NOTES: I have always loved this series full of humor. I hadn't read all of these stories yet.
+- 2020-07-07: [Largo Winch - 18. Colère Rouge](https://www.bedetheque.com/BD-Largo-Winch-Tome-18-Colere-rouge-165936.html)
+    - 2012
+    - tags: #reread
+    - Scénario: Jean Van Hamme
+    - Dessin: Philippe Francq
+    - NOTES:
+        - TODO
+- 2020-07-06: [Largo Winch - 17. Mer Noire](https://www.bedetheque.com/BD-Largo-Winch-Tome-17-Mer-noire-117360.html)
+    - 2010
+    - tags: #reread
+    - Scénario: Jean Van Hamme
+    - Dessin: Philippe Francq
+    - Rating: 5/5
+    - NOTES:
+        - I find the scenario and drawings excellent. There is some adult content, a lot of humor too. Things move.
+- 2020-07-05: [Largo Winch - 16. La voie et la vertu](https://www.bedetheque.com/BD-Largo-Winch-Tome-16-La-voie-et-la-vertu-79681.html)
+    - 2008
+    - tags: #reread
+    - Scénario: Jean Van Hamme
+    - Dessin: Philippe Francq
+    - NOTES:
+        - TODO
+- 2020-06-18: [Yoko Tsuno - 1. Le trio de l'étrange](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-1-Le-trio-de-l-etrange-49289.html)
+    - tags: #reread
+    - Roger Leloup
+    - 1972
+    - NOTES:
+        - xxx
+- 2020-06-16: [Une aventure de Spirou et Fantasio: Le tombeau des Champignac](https://www.amazon.fr/Une-aventure-Spirou-Fantasio-Champignac/dp/280013805X/)
+    - tags: #reread
+    - 2007
+    - Scénario: [Yann](https://fr.wikipedia.org/wiki/Yann_(auteur))
+    - Dessin: Fabrice Tarrin
+    - NOTES: This is a really good story, with a lot of humor, and really well drawn.
+- 2020-06-xx: [Tif et Tondu - L'intégrale - tome 12]()
+- 2020-06-xx: [Tif et Tondu - L'intégrale - tome 11]()
+- 2020-06-xx: [Tif et Tondu - L'intégrale - tome 10]()
+- 2020-06-xx: [Tif et Tondu - L'intégrale - tome 9]()
+- 2020-06-xx: [Tif et Tondu - L'intégrale - tome 8]()
+- 2020-06-xx: [Tif et Tondu - L'intégrale - tome 7]()
+- 2020-06-xx: [Tif et Tondu - L'intégrale - tome 6]()
+- 2020-05-29: [Tif et Tondu - L'intégrale - tome 5]()
+    - tags: #reread
+    - [10. Les flèches de nulle part](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-10-Les-fleches-de-nulle-part-4445.html)
+        - 1967
+        - Rosy, Maurice (Scénario)
+        - Will (Dessin)
+- 2020-05-28: [Tif et Tondu - L'intégrale - tome 4]()
+    - tags: #reread
+    - [20. Les ressuscités](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-20-Les-ressuscites-4455.html)
+        - 1973
+        - Tillieux (Scénario)
+        - Will (Dessin)
+        - NOTES
+            - This is not bad. Counterfeiters hiding in a small isolated hamlet in Brittany, a low-IQ henchman, a hooked-nose villain, and a slightly naive soap salesman. There is the usual kidnapping of Tondu, and some detective work. The atmosphere is nice.
+    - [22. Un plan démoniaque](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-22-Un-plan-demoniaque-4457.html)
+        - 1975
+        - Tillieux (Scénario)
+        - Will (Dessin)
+        - NOTES
+            - Here the scenario is a little bit scarier: taking the brains of recently-deceased unclaimed bodies to revive them and put them in big armored robots, to take over Portugal (and then presumably the world). The evil scientist here is truly bad: he would just kill his partner's niece to avoid problems.
+            - Tif falls in love. We learn he is 36 and can be passionate. But he is too old for the young lady who, by the way, lacks personality. While Kiki (Amélie d'Yeu) is the more interesting woman, and she has personality and a body. But Tif just can't stand her apparently.
+            - The two henchmen are also rough, especially Schmutz, who just kills his partner coldly when the latter tries to escape.
+            - Augusto Maia De Cintra, who bankrolls doctor Bolco, is not as evil. But he can't stop Bolco in the end, and is killed by Schmutz. "The only one I would have wanted to save", says Tondu.
+    - [25. Le retour de la Bête](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-25-Le-retour-de-la-Bete-4460.html)
+        - 1977
+        - Tillieux (Scénario)
+        - Will (Dessin)
+        - NOTES:
+            - Really nice atmosphere and characters in this story.
+            - The bad guy, Aspumo, is nicely evil and brutal. He hits Tondu 3 times on the head.
+            - Professor White is also an interesting character: you would think that he was a regular person who couldn't resist becoming suddenly immensely rich. But for that he also becomes truly ruthless, shooting at Tondu without hesitation. He remains serious and unrepentant to the end.
+            - There is a scene where Tondu jumps down the house in several steps: roof to attic to balcony to ground. His jumps look absolutely unrealistic!
+            - Also, it's a little bit too much to find a basic drawing of the whole plan in White's secret lab.
+            - The first 3 pages of the story are nicely done. You just don't know what this is about, and then you understand.
+- 2020-05-27: [Tif et Tondu - L'intégrale - tome 3]()
+    - tags: #reread
+    - NOTES:
+        - TODO: evaluation of the 3 stories
+        - [7. Plein Gaz](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-7-Plein-gaz-4442.html)
+            - 1959
+            - Rosy, Maurice (Scénario)
+            - Will (Dessin)
+            - SYNOPSIS
+                - "The most dangerous car race in the world", taking place in a fictitious South American country, Sambaguay.
+                - Choc (the bad guy), it turns out, wants to steal Tif et Tondu's supercar, in order to sell the tech to a rival country.
+                - His plan consists in pretending the car was destroyed in an accident and steal it.
+                - The car is called the "Narval". I don't know where it comes from. Neither Tif nor Tondu drive it: they hired a driver, Prunelle.
+                - In the end, the plan is discovered, Tondu replaces the driver and wins the race while Choc, who was driving another car, has a serious accident. Tif and Tondu still haven't seen his face but think he will be out of commission for a long time.
+            - EVALUATION
+                - The story has some adventure, but is very classical.
+                - It does have an older feel, and yes, it is from 1959.
+        - [8. La Villa du Long-cri](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-8-La-villa-du-Long-Cri-4443.html)
+            - 1966
+            - Rosy, Maurice (Scénario)
+            - Will (Dessin)
+            - SYNOPSIS
+                - The atmosphere here is of a remote area on the coast of Southern France.
+                - Tif and Tondu are invited to a mysterious villa. The owner is nowhere to be seen but weird things happen. Tondu wants to leave, and without Tif who'd like to stay longer.
+                - Tondu has to ask for gas at the nearby villa. We are immediately suspicious of its people. The owner, De Forlon, shows he is hosting a collection of rough diamonds, who will leave for the US soon.
+                - Tif is arrested, as the owner finally arrives and knows nothing about Tif or Tondu.
+                - Tondu figures it out, and is helped by an old sailor, Bruno, and goes explore the villa.
+                - Tif is brought there by the police, as the owner says he just got robbed. Tif is then abducted and hidden in a cellar.
+                - Tif and Tondu are found by Choc, who is behind this. It turns out Choc wants to make everybody believe Tif and Tondu stole the diamonds, by using realistic humanoid automata. Inspecteur Allumette arrives and is convinced Tif and Tondu are trying to escape and shoot at him.
+                - The plan fails when Tif and Tondu overrun Choc and manage to make them known to inspecteur Allumette. De Forlon doesn't fight.
+                - Choc escapes, but it turns out the escaping Choc was an automaton as well.
+                - Bruno turns out to be the insurance company's agent, who was watching over the collection.
+            - EVALUATION
+        - [9. Choc au Louvre](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-9-Choc-au-Louvre-4444.html)
+            - 1966
+            - Rosy, Maurice (Scénario)
+            - Will (Dessin)
+            - SYNOPSIS
+                - A car chase causes the injury of the driver of a car. A few minutes later, there is no trace of the accident. The hospital doesn't have knowledge of it. But Tif and Tondu have a small suitcase belonging to the driver and forgotten.
+                - The suitcase is stolen. Tondu is abducted by Choc, and placed in the same house the driver, still recovering, is hostage.
+                - Tondu tries to escape but fails. Tif and Allumette finds him and are made prisonners as well.
+                - Choc organises a theft at Le Louvre. He wants to sell back the paintings to the goverment, paid in gold, on Place de la Concorde, a very busy Parisian area.
+                - They bring the first suitcase, while all the police is watching. But the suitcase disappears anyway after a power outage on the plaza.
+                - Tif, Tondu and Allumette come back at night, and figured the suitcase was still on the plaza, but underground.
+                - Choc comes to recover it, and tries to escape by boat, but the boat crashes and his body is not found. Tondu is unconscious but recovers. The gold is also recovered, as well as the paintings, and Choc's helpers are arrested.
+            - EVALUATION
+- 2020-05-23: [Lefranc - La grande menace]()
+    - 1954
+    - tags: #reread
+    - Jacques Martin
+    - version facsimile
+    - Rating: 5/5
+    - NOTES:
+        - I reread it about 2.5 years ago.
+        - This is the first Lefranc story, where we meet Axel Borg, Jeanjean, and inspecteur Renard.
+        - Jacques Martin had started with Alix and was pioneer of bandes dessinées set in a historical context. His editor, I believed, suggested that he create a more contemporary hero. That became reporter Lefranc, a 20th century copy of Alix.
+        - Synopsis
+            - Lefranc, by pure chance, gets on the track of an organization, led by Axel Borg, which blackmails the French government to pay an enormous ransom in gold. Later, the government is also asked to fully disarm its military. Borg's plan is to take over France,then Europe, and the world. If the demands are not met, Paris will be destroyed, although initially we don't know how. We learn later that Borg has a rocket able to launch a nuclear bomb. The danger is very narrowly averted.
+            - The story takes place in a different world from today: phones are scarce, women are nowhere to be seen, and travel slow, except by the occasional small plane.
+            - The first part of the story is more of a detective story. The second one, pure action.
+            - But the action is constant throughout. We chase smugglers at the Swiss-French border, find the car dropped down a ravine. The car is then set on fire, and a helicopter comes to fully destroy the remnants of the vehicles.
+            - Somebody is about to tip Lefranc but is found dead. Another person shoots at him, then falls off the dungeon of a castle.
+            - Lefranc immediately finds sympathy with inspector Renard.
+            - Lefranc takes Jeanjean along chasing armed and obviously dangerous people. Even after that, he is sent back to his boy scouts camp on his own, and gets abducted while hitchhiking. Later, surviving a car crash, he walks himself back to Lefranc. He accompanies him down the ruins of the Black Tower, only to fall down a shaft where he is finally captured by Borg.
+            - The bandits are seriously violent: shootings, bombs dropped from helicopters, booby-trapped cars! They don't take much care to hide, using a red helicopter, which might not have been very wise.
+            - But in addition to the action, there is also the mystery of the "Black Tower", which is a hint that points to Borg.
+            - Lefranc himself is eventually abducted by Borg.
+            - The French government is about to fall. Finally, it gets the powers needed to act. The Black Tower is attacked with incredible air power.
+            - Lefranc manages to free himself, save Jeanjean, and escape. The tower, or rather's Borg's entire installations, are taken, Lefranc manages to steer the rocket away from Paris at the last second.
+            - Borg, of course, escapes, but other than that, and casulaties during the attack, all is well.
+        - Thoughts
+            - Jeanjean shows no personality whatsover and is mostly passive. But Lefranc, not even knowing the boy, takes him through very dangerous action. We don't know anything about Jeanjean's background in this story: where he comes from, does he have family, etc. He was introduced at the demand of the editor,to appeal to younger readers. But clearly this is one of the weakest parts of the plot.
+            - The drawings are pretty good.
+            - Alex Borg shows himself the typical uber-villain. While he shows interest for nice architecture and art, in his house, he doesn't seem to worry about destroying the wonders of Paris. This might be something he develops later.
+            - Cars, planes, rockets: like Roger Leloup, Jacques Martin was truly into nice vehicles, and it starts with La grance menace.
+        - TODO
+- 2020-05-20: [Tintin - L'étoile mystérieuse](https://fr.wikipedia.org/wiki/L%27%C3%89toile_myst%C3%A9rieuse)
+    - 1942
+    - tags: #reread
+    - NOTES:
+        - This is a facsimile of the 1942 version.
+        - This version was created under German occupation. The other ship is American; the "bad guy" is a caricatural New York Jewish banker. These details were changed in the new 1954 edition.
+        - xxx science; madness; caricature; adventure; God; nationalism; pre-apocalyptic
+- 2020-05-19: [Largo Winch - 20. 20 Secondes](https://www.bedetheque.com/BD-Largo-Winch-Tome-20-20-secondes-262495.html)
+    - tags: #reread
+    - Scénario: Jean Van Hamme
+    - Dessin: Philippe Francq
+- 2020-05-18: [Largo Winch - 19. Chassé-Croisé](https://www.bedetheque.com/BD-Largo-Winch-Tome-19-Chasse-Croise-228020.html)
+    - tags: #reread
+    - Scénario: Jean Van Hamme
+    - Dessin: Philippe Francq
+- 2020-05: [Luc Orient - xxxx. xxx]()
+    - tags: #reread
+- 2020-04-26: [Luc Orient - 2. Les soleils de glace](https://www.bedetheque.com/BD-Luc-Orient-Tome-2-Les-soleils-de-glace-24355.html)
+    - 1970
+    - Eddy Paape
+    - Greg
+    - tags: #reread
+    - xxx
+    - NOTES:
+        - This album directly follows "Les dragons de feu". In fact, there is no reason there should be more than one album except for publishing constraints.
+        - xxx
+- 2020-04-24: [Luc Orient - 1. Les dragons de feu](https://www.bedetheque.com/BD-Luc-Orient-Tome-1-Les-dragons-de-feu-4003.html)
+    - 1969
+    - Eddy Paape
+    - Greg
+    - tags: #reread
+    - xxx
+    - NOTES:
+        - A muscular, almost indestructible blond hero: Luc Orient. He is clearly inspired by Flash Gordon, whose French name is Guy L'Éclair: Guy → Luc, two short first names, and an inspiring last name. Professor Hugo Kala (the counterpart of Hans Zarkov in Flash Gordon) is the super-scientist who can solve any problem, build any machine, and is a hero in his own terms. Finally, Lora Jordan (counterpart of Dale Arden in Flash Gordon) is the feminine element. She is also a scientist, but shows a number of clichés associated with her gender. And, of course, the genre of the stories is science-fiction. The choice of sci-fi by the editor was of course deliberate.
+        - This said, even though a lot of the setup is inspired by Flash Gordon, the stories are quite different. Flash Gordon goes back to the 1940s, and the style consists of action upon action and very improbable encounters. Here, we are in the 1960s and 1970s. The stories are much more plausible: Humanoid aliens landing on Earth long ago and getting stuck, Alien tech, travel to a distant planet, similar-but-different everything. And it's really well executed too.
+        - I have to say I always had a week spot for the idea of the ultramodern research lab. Here, "Eurocrystal 1". It's in the mountains, but not too far from a city.
+        - The first story
+        - xxx
+        - xxx
+        - xxx
+- 2020-04-15: [Yoko Tsuno - 27. Le Secret de Khâny](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-27-Le-Secret-de-Khany-247977.html)
+    - 2015
+    - Roger Leloup
+    - 46 pages
+    - format: large ("Esquisses d'une œuvre")
+    - NOTES:
+        - I don't recall reading this story! Yet I ordered it in 2015 when it came out. Did I read it but forget so deeply about it? Or did I simply not read it?
+        - Setting: Scotland, following the two previous albums.
+        - At night, Émilia and Angela the android Vinean angel see a quadcopter near the cottage. Émilia takes out a disintegrator, but the drone explodes before she can use it. Yoko arrives to inquire, and says it's the neighbor's drone. (Why would it come so close to the window of a teenage girl?) Anyway, who destroyed that drone?
+        - Another flying object arrives and projects a ray towards Yoko's head. This looks like Vinean tech. This time, the disintegrator is used and the vehicle falls into the loch.
+        - Yoko tries to reach Khâny, without success. But she arrives in a big shuttle (like that of "La servante de Lucifer") with Balbok and Zhyttâ (same album) and Myna ("Les exiles de Kifa"). Khâny explains that she was following that robot, who took Yoko for Khâny, since their thought waves are "aligned" (a recurrent thing in Yoko Tsuno). They find parts of the robot in the water, trying to get its memories, but they self-destruct. They sink the robot back into the loch (it's not toxic, we learn, but we also know there might some more explosives in that drone!).
+        - Khâny tells Yoko she made a mistake. She found, during "bio-verification", a hibernating gifted teenager who was "barely viable" but conditioned to control a program called "purification". That name was Karpan's project to purify Earth by killing all germs so that Vineans could live on the surface, which would in effect kill life on Earth. The project was "deactivated", but it turns out it's saved in that hibernating teenager's memory. But the teenager disappeared (hence Khâny's mistake, to have let that happen). Khâny suspects she made it to Mars, where a launcher pointed towards Earth is available.
+        - So the plan is clear: Yoko must join Khâny to go to Mars to neutralize the girl and stop the destruction of Earth.
+        - Still, there is doubt, at the cottage, that Khâny told the whole truth.
+        - As a little intermission, we see Bonnie ("Le Maléfice de l'améthyste"), who handles horses and dogs at the castle. She and Mieke will stay there. Leloup says he wanted to reassure the readers that Bonnie would find a good life in the 21st century.
+        - 2 nights later, Khâny comes to pick up Yoko & friends, in a big interplanetary shuttle - the same as in "Les trois soleils de Vinéa". Khâny lets slip that she lied to Yoko to get her to join her.
+        - Émilia meets again with Lâthy (her new "friend" from "La servante de Lucifer"). Poky is there too. So Yoko, Vic & Pol, Rosée, Myna, Khâny, Lâthy, Emilia, Zhyttâ, Balbok, and Angela are of the trip. It's a lot! In addition, the ship is controlled by Akina, the ship intelligence that bonded with Yoko in earlier albums. Leloup justifies taking the two young kids (Rosée and Poky, but also "Zhyttâ and Balbok", says Leloup) as they would be "in danger" on Earth (witness the robot that tried to do something to Yoko). He also justifies the return of Akina as she has the knowledge that the humans, Vineans and other androids don't have to handle the thip and other aspects of the mission. She has the knowledge, with Myna's assistance.
+        - As usual, Pol is packing food.
+        - The ship must add a stage to reach Mars. It does so behind the moon.
+        - Myna lets slip that the "hybrid" is in danger.
+        - Pol cooks crêpes on the ship, with the usual clumsiness.
+        - Lathy lets slip that she is not "bio-compatible". Another hint.
+        - The ship reaches Mars. The "spider", a tiny ship, allows Yoko and Khâny to reach the surface. During the trip, we learn about the "bio-compatiblity" Vinean experiment. They made a being with genes mixed from Earth and Vinea. Yoko disapproves on an ethical basis. Khâny thinks Yoko should meet her first before judging.
+        - They reach the surface. Echoes of other stories where the autopilot recognizes the terrain. We learn that the area was shaped by "thermal" explosions (an alternative to "nuclear" explosions, without radiation, as described in earlier stories).
+        - Khâny tells Yoko about an emergency system on the little ship. We can guess that will be useful later.
+        - Yoko walks out, and a sort of robot-medusa comes out of the ground, and takes the 2 girls to an underground base. We see that  the robots are not human-friendly. They meet Gorka, the second of the defunct Karpan. Gorka reiterate his support for Karpan's project and ideas.
+        - We learn that the hybrid teenage girl's name is Têvy. Leloup reveals that Khâny named her, from a mix of "Terre" ("Earth") and "Vinea". The project, per Leloup, was called initially "Terra-Vinea". Gorka doesn't hide that he despises her. She is brought in. She is a little frail and weak. Her skin is the same as Yoko's (although she looked more white to me initially), and we learn that Khâny even used some of Yoko's DNA for that! Têvy can be fed using capsules that fit on her pectoral. But she can't be fed enough, before a robot intervenes.
+        - Gorka reveals that he wants Yoko to take Têvy with her, and Khâny will go to Earth on the "purification module". Gorka wants revenge as Khâny caused Karpan's demise. He also thinks that if Khâny is on board the "module", the Vineans won't destroy it before it reaches Earth. Khâny gives Yoko a bracelet, which she tells Gorka is to control the spider, but in fact is a remote control for a bomb.
+        - We get a view of the "module" on its ramp. Têvy tells Yoko she had volunteered for the mision, and blames her and Khâny for disrupting that. Yoko tells her she would destroy humans and Vineans on Earth? Yoko tries a last attempt to prevent Khâny from being put in the module, but fails. She and Têvy are brought back to the surface.
+        - Once out, Têvy reveals she modified the launcher's program: Gorka will have to ignite the launcher's thermal propulsion while in the tube. This will cause the module to have to delay its trip and go into Mars orbit instead. Têvy justifies her plan saying that this way, she again will be the "elect".
+        - Yoko throws her disintegrator next to the mouth of the launcher.
+        - Têvy weakens. Yoko carries her to the spider, which Gorka has already invalidated. The robot-medusas try to take the spider, but Yoko destroys one and activates the spider's emergency system, which causes it to fly up and allows it to reach orbit.
+        - In orbit, Têvy is placed in a survival tube. They locate Khâny in the module in orbit, but can't see her. Yoko wants to know whether Khâny's disintegrator is with her.
+        - Gorka calls in and wants to exchange Têvy for Khâny. Yoko pretends to accept, and Gorka shows her an image of Khâny and also reveals that the disintegrator is in his own hands. Yoko tricks Gorka into opening a channel so she can show her an image of Têvy. Instead of an image, she sends the code that causes both disintegrators to explode - Myna pressed the button as Yoko hesitated. That's the end of Gorka and of the launcher tube. Similarly to "La servante de Lucifer", where Vic kills Lucifer so that Khâny doesn't have to do it.
+        - Khâny is recovered from the module. Lâthy tells Yoko she has to step in to save Têvy, as she too is "aligned" with Yoko and Khâny. Leloup's idea is that in Têvy's brain, two sides, two types of neurons, from Earth and Vinea, are in conflict. This prevents her from functioning well. Her brain needs a little push of the Earth side. So Yoko is connected to Têvy for a kind of jump start. Akina had to help, but the "transfer" works and Têvy is saved, as Khâny wakes up.
+        - Akina reveals to Yoko that Khâny was secretive with Yoko as she feared failure. Khâny gave a lot to save Têvy, including some of her own heart stem cells. She needed help for that, and it's how Têvy was discovered and then abducted. They threatened Yoko so that Khâny would have to come to Mars where she would be eliminated.
+        - Têvy becomes a friend. She can now exist, and choose which of her two sides to follow, or both. Yoko tells her she will have rights but also duties. Têvy reveals she planned to crash on the moon, not on Earth, had she been in the module.
+        - The module is destroyed, and the team goes back to Earth.
+        - Misc
+            - This is a story where Khâny takes back the foreground. Leloup wanted to do this, as "he missed Khâny lately".
+            - The scenes on Mars are quite nice. The colorists did a good job, as usual.
+            - So the secret of Khâny was that she had given her a lot of her time and attention and concern, down to her own physical stem cells, to save Têvy. That attachment, and the danger for earth, drives her actions in the story.
+            - Leloup explains that Yoko goes from an ethical rejection of the idea of the hybrid, but then, meeting the being in person, connects to her and dedicates herself to saving her.
+            - Still per Leloup, Yoko's conscience made her hesitate to kill Gorka. That's why Leloup made Myna do the push of the last button. So Yoko is, ultimately, not responsible. But it was the right thing to do, right? It's a trolley problem!
+            - Leloup also explains that Khâny becomes the biological mother of Têvy, while Yoko becomes her moral mother.
+            - Weird style that Khâny says "your atmosphere", still. They have been on Earth for a while!
+        - Conclusion
+            - This story is, again, more complex than it seems. The reader cannot miss the small details sprinkled along the story, as there is little redundancy in the action and text. The dossier by Leloup, in the large format of the album, helps.
+            - Now do I care much about the story? Many of the later Leloup stories are not as mythical as, say, "Les trois soleils de Vinéa". They are a little bit narrower. But still, there is here a threat of destruction of all of life on Earth, and the exploration of the morality of designing and creating a sentient being from parts. Other moral issues are tackled, such as the idea of hiding a program in somebody's mind, and the conscious killing of a Vinean being by the press of a button.
+            - In this story, men are even more absent than usual. In fact, besides Vic and Pol, who play their usual small roles, there is only Gorka, who is shown as truly evil (or at least misled without a chance of redemption), and is brutally eliminated in the end.
+            - One could complain about this: why are all the nice and even less nice characters women? But look at most comic books of the past, and you will find something like the opposite situation: it's only men, and women have accessory roles. Although, to be fair, the bad guys were, usually, guys too. Still, in this light, I think Leloup's approach is an interesting counterpoint. I wouldn't mind male partners in the action at times, but this is Leloup's call, and he has been following this schema since the beginning.
+- 2020-04-1x: [Yoko Tsuno - 26. Le Maléfice de l'améthyste](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-26-Le-Malefice-de-l-amethyste-171439.html)
+    - 2012
+    - Roger Leloup
+    - 46 pages
+    - tags: #reread
+    - format: large ("Esquisses d'une œuvre")
+    - NOTES:
+        - I didn't take note of when I read this, but I think I did, and even reread it.
+        - Setting: Scotland, following the previous album.
+        - TODO
+- 2020-04-08: : [Yoko Tsuno - 25. La servante de Lucifer](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-25-La-servante-de-Lucifer-117991.html)
+    - 2010
+    - Roger Leloup
+    - 45 pages
+    - tags: #reread
+    - format: large ("Esquisses d'une œuvre")
+    - NOTES:
+        - This story is easier to understand than "Le septième code".
+        - Yoko and Émilia are flying to Loch Castle, where Cécilia ("La proie et l'ombre") lives, not far from Edinburgh. From the dossier, we learn that Émilia studies music there, and Yoko had invested money in Cécilia's business (from "L'or du Rhin", apparently). When they land, it turns out that the plane is a gift from Cécilia to Yoko (Cécilia is wealthy]). Cécilia tells the girls they will live for very cheap in a really nice cottage next to the castle. So from this album on, Yoko and her followers reside in Scotland.
+        - There, she shows them an old wooden box, with two mysterious objects in it.
+        - Cécilia found, in the cellars of the castle under restoration, a box with writings by her great grandfather. He wrote about a discovery he made in 1923.
+        - They drive, in a Mini, to the ruins of the abbey. There Cécilia first shows the girls a large claw, outside, with weird properties. Then she takes them to an old cellar that her great grandfather had found, and then sealed back. There, they find "The servant of Lucifer": an inactive android, chained to a stone structure since the 13th century. Cécilia has to leave, but Yoko insists that she wants to check the servant out immediately. She and Émilia stay. Yoko unchains the android. Placing one of the two ojbects in a slot in her arm, the android wakes for a moment, not before showing she has eyes able to throw disintegrating rays.
+        - Yoko calls Khâny for help. She arrives in a shuttle, and, taking the obviously Vinean android with them, they join a Vineans' underground base, by going first underwater.
+        - In the shuttle is another teenage girl, Lâthy, She worked on the shuttle, to take care of the Vineans under lethargy. She is a "bio-verificator". This new character is meant to be a friend to Émilia. (Although she, like all the young Vineans that have been taken out of hibernation, has to work a job and make use of her talents. The Vineans still have that big project to return all of their people back to their planet, Vinea.)
+        - It's the first time that Émilia meets with the Vineans. After all, she was only introduced in the previous album, whose story, while having some sci-fi aspecs (antigrav), still takes in a human context.
+        - They meet again with Myna, the little flying robot ("Les exilés de Kifa").
+        - Lâthy, when not working in the shuttle, takes care of hibernating Vineans. She made a mistake with one named Lyorkâ, and is upset about it. Lyorkâ just won't wake up.
+        - Similarly, they try to wake up the android brought back from the surface, but can't wake her up. They learn that she came from the "forbidden zone", whatever that is. But, when they are not looking, the wakes up and falls, and a programming key falls on the floor, making her inactive again. Yoko comes, places the key back in the android's wrist, and she finally wakes up for good. Her name is Zarkâ. She can probe (read?) people's minds. "Zar" means "at the service of". We see later that she is at the service of Khâr, so "Zarkâ" means just that.
+        - Zarkâ is intrigued by Lyorkâ, goes to check her out, and says she can wake them up. In exchange, she wants the Vineans to take her back to where she came from, in the forbidden zone. The Vineans don't want to commit, but Yoko does it for them. She calls her "team" down: Vic, Rosée, and Pol (no Mieke).
+        - They also meet up with Poky (Khâny's twin sister who was woken up much later than Khâny and so is still a little girl). Rosée an Poky meet up and then, a new minor character appears: Angela, a little flying robot angel, made to believe she came out of a book that Rosée had lent to Poky (not sure when). Leloup explains that this character is introduced in a little intermission between two parts of action. In 1968, Leloup had imagined a short story with a little angel. After Yoko playing the angel in 1970, an aborted project in the 1980s, another episode in 2006, he finally got to insert his angel in a Yoko story. He says that Angela is "an extrapolation" of Myna, who is the guardian angel of Poky, and asks for forgiveness about the whole thing.
+        - The team (Yoko, Vic, Pol, Khâny, Myna, and Zarkâ) leave on an underground magnetic/antigrav (thermal propulsion is out of the question underground, per Leloup) shuttle, while Emilia and Lâthy take a smaller "survoleur" to reach the forbidden zone. Zarkâ reveals that she suggested the idea of hell into Lyorkâ's head to make her want to wake up, and that hell is the idea of immortality.
+        - The forbidden zone is closed by an armored door.
+        - We learn about the forbidden zone's history. Just after Khâny and her other Vinean people arrived on Earth, another spacehip came, with a different plan, and with lots of machines. Only one Vinean survived, and went underground, but using humans as slaves, offering them immortality. The forbidden zone contains a dying underground sun, and a partially ruined underground cathedral ("abbey"). But the human monks are dead.
+        - They meet first with Zhyttâ, a "café au lait" child android (another one after Myna and Angela), and her android dragon, Balbok, which can change size. We learn that this is some "intermolecular compression" combined with "antigravity" technology that the Vineans had brought to Earth, and they have a collection of machines based on the same principle: miniaturized for storage or transport, but which can expand to a large size for use. Leloup wanted to introduce "plausible" robot dragons.
+        - The lord of the forbidden zone is lord Khâr, the only surviving biological Vinean of that expedition. To stay alive indefinitely, he has to regenerate, and in the meanwhile transfer his knowledge, memories and powers to an android. This last time, 800 years ago, it was Zarkâ, but she fled using a "perceur", a machine that, like a mole, can crunch though the earth, and got caught by the monks on the surface, where she remained inactive until Yoko woke her up. Zarkâ gone, loard Khâr's powered were lost, the sun weakened, and the months died.
+        - Zhyttâ seems nice but serves and protects loard Khâr. In the meanwhile, Zarkâ leaves to meet with Khâr, who is regenerating in his sarcophagus in a "perceur" the "crypt", where other android dragons stay, as well as all the miniaturized machines the Vineans had brought with them.
+        - Zarkâ wants to neutralize Khâr before he can destroy her after his regeneration, as he always destroys the androids after using them for this purpose. Zhyttâ could help her, but she has to serve Khâr. But Zarkâ manages to open the regeneration sarcophagus.
+        - A regenerating Khâr is revealed. He looks like a mix of human, dragon, and devil. We learn that these transformations, and the other dragons, and the "servant of Lucifer" were designed by Khâr after he read the monks' minds to find their worst fears.
+        - In the meanwhile, Khâr apparently regains consciousness, the sarcophagus gets back into the perceur, and the latter starts and forges ahead through the crypt's walls, with Émilia in tow on a survoleur. Khâr is abducting her, taking her as a hostage. Follows a battle, with Yoko, Émilia, and Zarkâ apparently stuck as Khâr, on his dragon Galkhâ, is about to destroy them with the dragon's destruction ray. But Zhyttâ arrives with Balbok, hits Galkhâ, who misses, and his ray hits the internal sun, rebounds, and destroys himself instead. Khâr flies on his own to Yoko to destroy her. Yoko hits his wing with her disintegrator, which destabilizes Khâr, which is in turn hit by a ray coming from Khâny's shuttle. It was Vic who shot to protect Yoko.
+        - Zarkâ leaves to neutralize another dragon which Khâr had summoned. She reprograms the dragon to watch over the whole site to prevent it from being used for evil ends. Only she and Êmilia, whose kindness she had witnessed, will be able to control that dragon.
+        - So Zarkâ alone stays, while everybody else leaves, including Zhyttâ and Balbok, who are asking to be protected by Khâny and the Vineans.
+        - Khâny says that Émilia can come visit Lâthy through a new "well" from the surface that they can build. Yoko is worried about the dragon and Emilia but falls asleep, exhausted.
+        - Final notes
+            - In this story we meet the following new characters: Zarkâ, Angela, Lâthy, Lyorkâ, Zhyttâ, Balbok, Khâr, (and Galkhâ his dragon). That's a lot, after Émilia in the previous story!
+            - We meet again of course Khâny, Rosée, and Myna, in addition to Vic and Pol.
+            - All the sympathetic new characters are female (except maybe Balbok the small android dragon). The big bad guy is Khâr.
+            - Zarkâ and Zhyttâ convert from an unclear position to being friendly. Zarkâ, per Leloup, is "complex": she appears authoritarian, but is also sensitive to Yoko's humanism and Émilia's freshness. Still per Leloup, her intentions remain blurry on purpose.
+            - Vic saves Yoko, so he plays a role, while Pol mostly just tags along unil he causes the unpacking a survoleur, which Émilia uses, which precipitates the final action as Khâr attempts to abduct Émilia on the survoleur.
+            - We visit 3 different locations: Loch Castle, the underground Vinean base, and the forbiden zone.
+            - We fly with lots of machines: Yoko's plane, bought for her by Cécilia, the big Vinean shuttle, another one to go to the forbidden zone, survoleurs, and android dragons.
+            - The story is uncommon because it's a Vinea story but it takes place entirely on Earth (like "La forge de Vulcain"). One reason is that Leloup didn't want to send Émilia in space just yet. After all, she has a father who might object.
+            - Lâthy is introduced, per Leloup, to provide a way for  Émilia to get anwers to her questions.
+            - When I say that the story is easier to understand, I mean it. But I didn't say "easy". "Effleuré, mais révélé", says Leloup" "barely touched upon, but revealed". Some tiny pieces of dialog are key to understanding the story.
+- 2020-03-29: [Yoko Tsuno - 24. Le septième code](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-24-Le-septieme-code-50621.html)
+    - 2005
+    - Roger Leloup
+    - 45 pages
+    - tags: #reread
+    - format: large ("Esquisses d'une œuvre")
+    - NOTES:
+        - This is one of those Yoko Tsuno stories that require you to think as they are fairly complex. You have to figure out who all those characters are, and why they do what they do, as that is not obvious - at last to me! That's a difficult excercise in [*theory of mind*](https://en.wikipedia.org/wiki/Theory_of_mind).
+        - The story starts with Yoko, Vic and Pol, and Rosée flying over the Amazon in a [Catalina plane](https://en.wikipedia.org/wiki/Consolidated_PBY_Catalina). Yoko has temporarily taken over as a pilot, replacing the official pilot Brian Mac Kinley (Scottish father of Émilia, the new main character introduced in this story). Mac Kinley is constantly drinking.
+        - We learn that Pol is a good chess player, and responded to an invitation to go to the Amazon to perform a a certain task which involves chess playing. Vic, Yoko and Rosée naturally accompany him.
+        - We meet 14-year-old red-hair Émilia dangerously flying a [Stearman biplane](https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75) close to Yoko's plane. We learn late that the biplane is used to spread insecticide, and is often piloted by Émilia, who is light and therefore allows the plane to carry more insecticide. She doesn't have a license.
+        - They land near small warehouse that belong to M. Krüger, the host who invited Pol to play chess. He stays on a very large luxury yacht on the Amazon.
+        - We hear that previous chess players have come and disappeared.
+        - Yoko and Émilia meet after she lands, after a stunt that sends Pol into the water.
+        - We also hear that Pol took something "special" with him, an "idea". What is it? In any case it's in a bag that falls into the water as well. I suspect that it is just his food. It is a recurring theme that Pol packs heavy food in all his trips, to the annoyance of the others.
+        - Krüger's helper, Schnaps, a somber and unpleasant character, takes the team and Emilia to the yacht. Emilia and her father obviously know Schnaps and Krüger already.
+        - Krüger is not happy to see a team of 4 instaed of just Pol. The justification is that Vic helps him with a computer that runs software written by Yoko. They pretend that the software is in Pol's bag in the water (when it is not) so that Yoko and Émilia can dive to not only recover Pol's bag, but visit a German submarine sunk there. We learn that that was Krüger's father's submarine (later it is said that the submarine's commander was Krüger's grandfather) and "treasure". Émilia found one ingot of something.
+        - Krüger is happy to stay with just Vic and Pol and keep Yoko and Émilia and Rosée away. It's unclear how Rosée just goes with the girls, as they only later hand her to Mac Kinkley for child sitting. So they left to dive with a little girl without a plan for her? At the same time, Krüger drugs Vic and Pol to take them to the place where they will have to play their chess game. But why does he drug them? Didn't they come on their own volition? UNANSWERED QUESTION 1! Maybe because they just want to take Vic and Pol and not have to deal with Yoko and Émilia and Rosée? But then the glasses with the drug were ready to go before he knew there was more than one "chess player"? Or he was warned by Mac Kinley on the way? Possible.
+        - To help (?) Krüger is the Russian countess Olga from "L'or du Rhin", armed with some kind of automatic (?) weapon. She helps getting Vic and Pol in the plane to go to the other location. So she is supporting Krüger? But she insists on taking Rosée with the unconcious Vic and Pol, against Schnaps and Mac Kinley. Then, Schnaps and another armed helper leave to go get Yoko and Émilia, still diving. But the countess decides to warn the girls with an underwater explosion. So she is not 100% with Krüger?
+        - In any case, it works: Yoko and Émilia understand and manage to fool Schnaps and his helper. Émilia communicates by radio with her father Mac Kinley, now again in the Catalina with Olga, the presumably still unconscious Vic and Pol, and Rosée. She is warned that Krüger wants to keep her and Yoko as hostages. It's unclear why!
+        - Yoko and Émilia escape Schnaps and his helper by opening the insecticide tap, and fly away with the Stearman biplane to "the pastor", a Russian pastor, an hour away, upon Mac Kinley's direction.
+        - While resting at the pastor's, a small high-tech autonomous plane, the "Tsar", is sent by Mac Kinley and the others to pick up Yoko and Émilia. Their destination is the "iron temple". Yoko pilots the Tsar part of the way. The small plane appears to fly using anti-gravity. We learn along the way that Émilia's mother died of a heart issue when she was 6, and her dad has taken drinking since then.
+        - Yoko and Émilia are welcomed by Olga, Mac Kinley. Rosée has met Raspoutine, Olga's dog, which was given to Olga by her dad. It appears that there is something between Olga and Mac Kinley, which is not to Émilia's taste. We also hear that Krüger's yacht will be there in a day, and that they "intercept" Krüger's radio calls. So Olga and Mac Kinley, and Yuri "their" computer guy ("informaticien"). So Olga and Mac Kinley and others, while working for Krüger, appear to have something else going on.
+        - The "iron temple" is an old steel mill. It was built over the site of a meteorite containing a metal with special properties. The iron temple was built in 1936 to mine the site. The Germans used the material, then the Russians. The submarines were used to move the cargo. Émilia's treasure is an ingot of that metal, presumably. It's also what allows the Tsar to fly. The site was bought by Krüger or his father or grandfather with the money obtained by the content of the sunk submarine. We learn that the iron temple contains a forgotten Russian missile with a nuclear warhead, and pointed towards Florida. But it is guarded by a code.
+        - We learn that the meteorite's leftover antigravitational content slowly seeps through the ground and flies up.
+        - So Olga is working for the Russian government, trying to get access to the code of the warhead before Krüger does. So she acts as a Russian agent, unbeknown to Krüger, presumably. But how could he not suspect? We are told that teams of Russians have in the past have worked there, the last one directed by Olga's father, who hibernated his whole team in a cold room, and designed a special chess game to unlock it! He provided Olga with a hint "to play chess like him" to open the door.
+        - So now we find Vic and Pol awake and nicely working on trying to play the chess game. They say that champions have tried and failed. So Olga and the Russians are behind the idea of getting Pol and Yoko there to try to open that door, but Krüger doesn't like it. Still, why were Pol and Vic then welcome on Krüger's yacht, then drugged?
+        - But now we know that Krüger wants to steal the warhead and the Russians must open the door first.
+        - Then Olga shows Yoko, with the Tsar, an "injector", a more modern device which was designed to raise the meteorite to facilitate its extraction, but now threatens to let the whole meteorite fly up, taking with it the nuclear warhead, which would explode high up in the middle of that anti-gravitational stuff, which would create an "end of the world hurricane". The key to stopping this is finding the code to stop that injectors. But why did Olga's father not stop those injectors directly, instead of creating that sophisticated chess key?
+        - So was Pol's heavy "idea" just cans of "cassoulet"?
+        - Yoko, helped by Émilia, figures out that by throwing all the chess pieces on the floor in one shot, the door would open, and it does. The enter, soon followed by the others. All the hibernated men are dead. So each of the 7 dead scientists has a code in a chip in their shoulders. Except Olga's father. One code allows climbing up to a control room, the next two give access to the missile.
+        - Except the seventh code is missing. At that moment, Krüger, Schnaps and others, arrive. They are told the "seventh code" opens the missile silo's opening. But it's for ejecting the nuclear head. Émilia finds that Raspoutine, gifted by Olga's father to Olga, contains the code.
+        - So Olga's father predicted a catastrophe if the meteorite is touched. Krüger didn't believe him.
+        - Krüger tells Schnaps to shoot Émilia just to injure her lightly. Olga intervenes. Émilia is safe, but Olga hurt. This appears to have been Krüger's plan to make sure everybody was flying away fast while he and his men take care of the site and the warhead.
+        - Only Émilia, Yoko, Olga, and Yuri know that they have the seventh code. Yuri places a shortcut on the computer. Krüger asks Yoko to stay. Émilia joins, saying she reads Russian.
+        - With everybody gone, Yoko helps Krüger to activate the injectors. Things are starting to move and matter is ejected from underground. Krüger goes to check, falls and dies. Schnaps takes over, and wants to recover the warhead. But Krüger and Schnaps's henchmen all realize the site is unstable and want to leave. One of them kills Schnaps. While everybody flees, Yoko and Émilia take over the control computer and fire the missile. Then they manage to activate the shortcut put in place by Yuri, and flee in the Tsar, just before the meteorite flies away, leaving a huge crater in the jungle. They witness the nuclear warhead safely flying down, attached to a double parachute.
+        - For Olga, her father was a hero because he sacrificed himself to avoid a disaster. But at the same time he forced his team to do the same and so is a murderer.
+        - The Russians will come to recover the nuclear warhead. Émilia finds her mother's violin in the Tsar.
+        - Conclusion:
+            - The relationship between Krüger and the Russians appears to be key. The Russians control the site, but Krüger owns it. The Russians want primarily to recover the missile's warhead, but Krüger wants to get it from them and also exploit the meteorite. He doesn't believe in the doom scenario predicted by Olga's father. But that scenario was real.
+            - So Krüger drugged Vic and Pol to keep Yoko and Émilia hostages, that we know. He did this because Vic and Pol wouldn't have accepted leaving to the iron temple without Yoko. Having Yoko and Émilia as hostages, he would then have been able to pressure the Russians, somehow. Maybe it was a bad plan anyway. But if the Russians got Pol and Yoko there to open the door, why is Krüger involved? Because he is the owner of the site, probably. Now, I still don't understand why Olga's father would have gone through such a complicated scheme to lock down the controls of the injectors and the missile, instead of somehow disabling both. Imagine: building that hibernation room, creating the lock, then killing everybody by freezing them instead of letting them hibernate? If that's indeed what happened, and if the freezing was not an accident.
+            - I told you it was complicated, and I still have open questions!
+            - One question, facing this complexity, is whether it is all consistent and explainable in the end, with detailed analysis like what I am trying to do above, or whether - annoying thought - Leloup is simply a little messy and inconsistent in his stories.
+            - One recurrent component of Yoko Tsuno is the presence of beautifully drawn vehicles, especially planes. Here we have the Catalina, the Stearman, and the Tsar, with which he clearly had fun. Remember that Leloup started with Hergé (of Tintin), drawing planes. There is never anything bad to say about the rendition of planes or other spaceships in Leloup's stories.
+        - Other thoughts
+            - Krüger's demise is fairly anticlimactic.
+            - The story mixes very realistic scenes, like the Amazon, some fantastic ones, like the iron temple and its missile, and some sci-fi ones, with the Tsar, the antigravity metal, and the failed hibernation.
+            - The drawings are really good.
+            - In typical Leloup fashion, women rule and men are either plain uninteresting or big losers. Pol remains himself, Vic is just plain bland, the bad guys are plain. Mac Kinley appears weak, although he obviously cares about his daughter and appears to be a good guy. Yuri, the computer guy, does good, and his abilities are in fact crucial, but he doesn't get much credit. Olga's father was a sort of genius, but we don't know the details. All of this is in the background, while the foreground is reserved to Yoko, Émilia, and Olga.
+            - After Krüger's death, why is Schnaps still in function? He first seemed like just a servant of Krüger. Now he wants to take over.
+            - The thought that Krüger would just order Schnaps to shoot 14 year-old Émilia is fairly shocking. As much as they don't like the girl, shooting even just to injure appears extremely cruel (and Schnaps was doing it with pleasure). So these two appear truly evil in this scene.
+            - The Nazi/cold war background is there.
+            - From a random [blog post](https://www.senscritique.com/bd/Le_Septieme_Code_Yoko_Tsuno_tome_24/critique/104732408) online, I gather the idea that the story is a little too compressed and would have benefited from having more pages.
+            - From a review [here](https://www.babelio.com/livres/Leloup-Yoko-Tsuno-tome-24--Le-septieme-code/12909):
+                - "une équipe de mercenaires russes dirigée par la Comtesse Olga (voir tome 19) et une équipe de mercenaires apatrides dirigés par les dénommés Krüger et Schnaps"
+                - " je n'ai pas compris pourquoi ils se démènent pour récupérer une arme nucléaire alors qu'ils pourraient faire fortune avec la technologie anti-gravité qui est juste sous leur nez"
+                - "je n'ai pas compris pourquoi l'équipe commandée par son père s'était cryogénisée sans espoir de survie en laissant la gestion de leur merdier à leurs successeurs..."
+            - From [here](https://www.planetebd.com/bd/dupuis/yoko-tsuno/le-septieme-code/1681.html): "beaucoup trop de choses qui ne s’imbriquent pas vraiment de manière limpide. Le scénario de Roger Leloup est donc une nouvelle fois complexe et confu à souhait".
+    - [This review in French](http://www.sceneario.com/bande-dessinee/yoko-tsuno/le-septieme-code/4553.html) summarizes the plot and is very positive. But the author doesn't dig into all the details of the story.
+- 2020-03-22: [Yoko Tsuno - 29. Anges et faucons](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-29-Anges-et-faucons-375004.html)
+    - 2019
+    - Roger Leloup
+    - 62 pages
+    - 3/5
+    - NOTES:
+        - This might be Roger Leloup's last work (although I hope not), as he is now 86 year-old. But I want to be nice to an author whom I really love.
+        - I bought the "Esquisse d'une oeuvre", the large format album, with a dossier in the end.
+        - The story is actually two stories in one, as explained in the dossier.
+        - The decors: planes, scenery, and so on, are still amazing, in typical Leloup fashion.
+        - The characters, however, have suffered. Yoko's face, in particular, looks bad in a few places, and she is usually, of course, very pretty. This is the main reason I am taking points out of my rating.
+        - Reading Roger Leloup's explanations help understand this album: they are stories inspired by his childhood. He also points to the relations with some other Yoko Tsuno stories.
+        - I cannot say that the stories are that exciting.
+        - I love Leloup's work. I hope, now that he got this double story out, that he gets to make more albums, avoiding the drawing mistakes of this one. I realize that this is asking a lot from somebody past his mid-eighties and who has produced so much already.
+        - I found online, in a [post](http://bdzoom.com/146755/actualites/yoko-tsuno-roger-leloup-toujours-au-top%E2%80%A6/) dated October 6, 2019, the mention: "Que les amoureux de la jolie japonaise se rassurent, son créateur travaille déjà sur un trentième épisode qui permettra à Yoko d’affronter des humains robotisés." ("Those who love the pretty Japanese shouldn't worry, her creator is already working on a thirtieth episode which will allow her to fight roboticized humans.")
+- 2020-03-15: [daytripper](https://www.goodreads.com/book/show/8477057-daytripper)
+    - 2011
+    - Fábio Moon
+    - Gabriel Bá
+    - Rating: 5/5
+    -
+- 2020-03-13: [Le retour à la terre - 6. Les métamorphoses]
+    - 2019
+    - Scénario: Jean-Yves Ferri
+    - Dessin: Manu Larcenet
+    - Rating: 4/5
+- 2020-03-11: [Lefranc - Tome 28. Le principe d'Heisenberg](https://www.bedetheque.com/BD-Lefranc-Tome-28-Le-Principe-d-Heisenberg-315474.html)
+    - 2017
+    - Scénario: François Corteggiani
+    - Dessin: Christophe Alvès
+    - Rating: 4/5
+    - NOTES:
+        - Like for the other albums by the same authors (*Mission Antarctique* and *Lune Rouge*), the drawings are consistent and the story reasonably good.
+        - I know that's placing the bar low, but it's nice to have good drawings and characters that don't seem awkward or inconsistent.
+        - Based on reviews seen on bedetheque.com, this appears to be one of the best "after Martin" stories.
+        - Reviewers have noted references to Tintin, including La Castafiore, Irma and Wagner sitting at a table on page 23!
+        - Checking again the various dessinateurs of Lefranc and Alix, I noted recently that Christophe Simon (with *La conjuration de Baal*) did a pretty good job with Alix! But now I remember I really didn't like his Lefrance. I will have to re-read the Lefrancs again.
+- 2020-03-07: [Alix - Tome 38. Les Helvètes](https://www.bedetheque.com/BD-Alix-Tome-38-Les-Helvetes-377356.html)
+    - 2019
+    - Scénario: Mathieu Bréda
+    - Dessin: Marc Jailloux
+    - Rating: x/5
+    - NOTES:
+        -
+- 2020-03-05: [Alix - Tome 35. L'or de Saturne](https://www.bedetheque.com/BD-Alix-Tome-35-L-or-de-Saturne-291161.html)
+    - 2016
+    - tags: #reread
+    - Scénario: Marco Venanzi, Pierre Valmour
+    - Dessin: Marco Venanzi
+    - Rating: x/5
+    - NOTES:
+        -
+- 2020-03-04: [Alix - Tome 33. Britannia](https://www.bedetheque.com/BD-Alix-Tome-33-Britannia-212776.html)
+    - 2014
+    - tags: #reread
+    - Scénario: Marc Jailloux, Mathieu Bréda
+    - Dessin: Marc Jailloux
+    - Rating: x/5
+    - NOTES:
+        -
+- 2020-03: [Alix - Tome 20. La dernière conquête](https://www.bedetheque.com/BD-Alix-Tome-32-La-Derniere-Conquete-187727.html)
+    - 2013
+    - tags: #reread
+    - Scénario: Géraldine Ranouil
+    - Dessin: Marc Jailloux
+    - Rating: 4/5
+    - NOTES:
+        - Marc Jailloux is definitely the cartoonist closest to Jacques Martin so far. And his characters look more standard too, although Enak is not as handsome as Christophe Simon's!
+        - The story is pretty good.
+        - The context of the story is that of Alexander the Great.
+- 2020-02-28: [Alix - Tome 30. La conjuration de Baal](https://www.bedetheque.com/BD-Alix-Tome-30-La-conjuration-de-Baal-142141.html)
+    - 2011
+    - tags: #reread
+    - Scénario: Michel Lafon
+    - Dessin: Christophe Simon
+    - Rating: 3/5
+    - NOTES:
+        - The story is pretty good although it recalls other stories (I had just re-read L'île maudite which also features Moloch/Baal).
+        - Both Alix and Enak are good-looking in this story, in particular Enak, but they don't quite look like their usual selves!
+        - It's true, as some have noted, that having a huge statue of Moloch/Baal in a cave is not very realistic.
+        - There is a fight scene where swords are shown piercing various characters. The blood splashes shown around the wounds, and that is unseen in Alix stories I believe, and it's also not realistic at all. This struck me immediately as just wrong.
+        - After this and the previous reread, I think that I prefer Christophe Simon's drawings to Marco Venanzi. I remember, looking back, that the cartoonist I liked the least so far was Raphael Moralès.
+        - Like for Lefranc, some cartoonists are better than others, but so far, after Jacques Martin's time, there is no album that combines a great story, great drawings, and great décors.
+- 2020-02-27: [Alix - Tome 29. Le testament de César](https://www.bedetheque.com/BD-Alix-Tome-29-Le-Testament-de-Cesar-116568.html)
+    - 2010
+    - tags: #reread
+    - Scénario et dessin: Marco Venanzi
+    - Rating: 3/5
+    - NOTES:
+        - The first album after Martin's passing?
+        - The story is pretty good! I would give it 5/5. It also shows a lot of the antique customs of Rome.
+        - But a striking thing is that around page 29, suddenly the drawings or the inking become coarser. It's quite shocking.
+        - In addition, I don't like how Alix or Enak look like in this album.
+        - For these reasons, I lower my overall rating.
+- 2020-02-24: [Alix - Tome 3. L'île maudite](https://www.bedetheque.com/BD-Alix-Tome-3-L-Ile-maudite-12436.html)
+    - 1957
+    - tags: #reread
+    - édition facsimilé
+    - Jacques Martin
+    - Rating: 5/5
+    - NOTES: One of the classic Alix stories, with a lot of adventure. Moloch, volcanoes, advanced technology that gets lost - it echoes the myth of Atlantis. Rating 5/5 for the sheer adventure,detailed drawings, nostalgia, and historical appeal.
+- 2020-02-16: [Mermaid Project - Episode 4](https://www.bedetheque.com/BD-Mermaid-Project-Tome-4-Episode-4-251489.html)
+    - 2015
+    - Scénario: Léo, Corine Jamar
+    - Dessin: Fred Simon
+    - Rating: 4/5
+    - NOTES: I like the story, the colors, and some of the characters. I can't entirely buy the reverse racism background, but the idea of a world where other countries are on top is a good one. The main story keeps going. It's fine, although I am not exactly eager to know what's behind it as it seems fairly predictable. But let's see with part 5!
+- 2020-02-15: [Mermaid Project - Episode 3](https://www.bedetheque.com/BD-Mermaid-Project-Tome-3-Episode-3-215764.html)
+    - 2014
+    - tags: #reread
+    - Scénario: Léo, Corine Jamar
+    - Dessin: Fred Simon
+    - Rating: 4/5
+- 2020-02-14: [Les naufragés d'Ythaq - 16.  Les Assiégés de Glèbe](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-16-Les-Assieges-de-Glebe-374327.html)
+    - 2019
+- 2020-02-13: [Les naufragés d'Ythaq - 15. Imperator Express - La Caravane de l'étrange](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-15-Imperator-Express-La-Caravane-de-l-etrange-340750.html)
+    - 2018
+    - Rating: 4/5
+    - NOTES: The "Imperator Express", a fantastic suspended train, has a definite steampunk feel to it.
+- 2020-02-xx: [Les naufragés d'Ythaq - 14. Le Joyau du Génie](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-14-Le-Joyau-du-Genie-293592.html)
+    - 2016
+    - tags: #reread
+- 2019-02-xx: [Blake et Mortimer - 26. La vallée des immortels - Le millième bras du Mékong](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-aventures-de-Tome-26-377354.html)
+    - Language: French
+    - Rating: 4/5
+    - NOTES: Looking online, it seems that many readers really disliked this second part, specifically the fantastic aspects to the story. It didn't bother me much.
+- 2019-02-xx: [Blake et Mortimer - 25. La vallée des immortels - Menace sur Hong Kong](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-aventures-de-Tome-25-348626.html)
+    - Language: French
+    - Rating: 4/5
+    - NOTES: The story is interesting, the setting, in Hong-Kong, is intriguing, and the historical aspects are great. But the drawings are, at times, just wrong, in particular Mortimer and Blake's faces and proportions!
+- 2019-02-xx: [Les mondes de Thorgal - La jeunesse, Tome 3. Runa](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-3-Runa-241654.html)
+    - 2015
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2019-02-xx: [Les mondes de Thorgal - La jeunesse, Tome 2. L'œil d'Odin](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-2-L-oeil-d-Odin-206812.html)
+    - 2014
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2020-01-xx [Thorgal, Tome 37. L'Ermite de Skellingar](https://www.bedetheque.com/BD-Thorgal-Tome-37-L-Ermite-de-Skellingar-375436.html)
+    - 2019
+    - Rating: 4.5/5
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - NOTES:
+        - We are back to a classic Thorgal story in one album. I think that the story is quite good.
+- 2020-01-xx [Thorgal, Tome 36. Aniel](https://www.bedetheque.com/BD-Thorgal-Tome-36-Aniel-348589.html)
+    - 2018
+    - Rating: 3/5
+    - Scénario: Yann
+    - Dessin: Rosinski
+    - NOTES:
+        - The conclusion of the cycle that started with the abduction of Aniel.
+        - Also the last album drawn by Rosinski.
+        - The drawings are not as good as they have been. They are still interesting, but maybe a little messier. It is probable that Rosinski's age didn't allow him to use the same care as he
+         used to. Still, it is not bad.
+        - The album is a little anticlimactic compared with the fury of "Le feu écarlate".
+- 2020-01-xx [Thorgal, Tome 35. Le feu écarlate](http://www.bedetheque.com/BD-Thorgal-Tome-35-Le-feu-ecarlate-292474.html)
+    - 2016
+    - Rating: 4/5
+    - tags: #reread
+    - NOTES: Red, red, red! It is a dark and shocking album. The drawings are sometimes still stunning, but not quite as good as earlier. Yet there is something to this album.
+- 2020-01-xx [Thorgal, Tome 34. Kah-Aniel](http://www.bedetheque.com/BD-Thorgal-Tome-34-Kah-Aniel-199374.html)
+    - 2013
+    - Rating: 4/5
+    - tags: #reread
+- 2020-01-xx [Thorgal, Tome 33. Le Bateau-Sabre](http://www.bedetheque.com/BD-Thorgal-Tome-33-Le-Bateau-Sabre-140423.html)
+    - 2011
+    - Rating: 5/5
+    - tags: #reread
+    - NOTES: The drawings are still beautiful in this album.
+- 2020-01-xx [Thorgal, Tome 32. La Bataille d'Asgard](http://www.bedetheque.com/BD-Thorgal-Tome-32-La-Bataille-d-Asgard-117408.html)
+    - 2010
+    - tags: #reread
+    - NOTES:
+        - Jolan comes back from Asgard.
+        - Thorgal starts his search for Aniel
+- 2020-01-xx [Thorgal, Tome 31. Le bouclier de Thor](http://www.bedetheque.com/BD-Thorgal-Tome-31-Le-Bouclier-de-Thor-80551.html)
+    - 2008
+    - tags: #reread
+    - NOTES:
+        - Mahara finds out about Aniel's existence.
+        - Jolan learns about the "army that lives": an army of puppets, created daily by Vylnia, whom we cannot see.
+        - Thorgal and other vikings go into the forest to get trees for their new drakkars.
+        - Manthor tells the 5 kids that they need to go to Asgard to steal Thor's shield. All kids need to work together to open 5 locks on the door to Asgard.
+        - Jolan learns about Loki's treachery and how he burnt the face of Manthor, as Vylnia was fleeing Asgard. Thor brought them to the entremonde.
+        - There, Vylnia taught the red magic to Manthor. He searched how to stop his mother from aging.
+        - Mahara sends a message to a red magician about Aniel.
+        - The kids enter Asgard. Again, Jolan, in spite of the treachery of his teammates, succeeds and returns the shield to Manthor, while saving his 4 teammates from the gods.
+        - The red magicians abduct Aniel.
+        - The 4 other kids must swear allegeance to Jolan, who becomes the "elect". Manthor will reveal to him his next task.
+        - Thorgal comes back from the forest and learns of Aniel's abduction. He leaves immediately to search for him.
+        - Manthor sends Thorgal the image of Jolan in the starry sky, and echo to the last volume's ending.
+- 2020-01-xx [Thorgal, Tome 30. Moi, Jolan](http://www.bedetheque.com/BD-Thorgal-Tome-30-Moi-Jolan-67373.html)
+    - 2007
+    - tags: #reread
+    - Rating: 5/5
+    - NOTES:
+        - Jolan is taken by Manthor, who gives him and 4 other kids a challenge. Each child has a special gift.
+        - Aaricia, against Thorgal's will, visits Mahara, a witch, in the forest. She tells of the fraternity of the red magic.
+            - Kahaniel was Manthor's father. He went to Asgard and had a child, Manthor, with the goddess Vylnia.
+            - Kahaniel was caught and frozen at the boundary with Mitgard. Vylnia was exiled from Asgard.
+            - When Kahaniel unfroze, he quickly prepared a reincarnation potion, which had to be used the same day.
+            - He conceived with Olgave, then died. Olgave gave birth to Kriss de Valnor.
+        - So Kriss is the daughter of Kahaniel, and Kriss and Shaigan's (Thorgal's) son, Aniel, raised by Thorgal's family, is Manthor's male descendant, into whom Kahaniel planned to reincarnate.
+        - Thanks to Jolan's intelligence, the kids pass Manthor's test.
+        - Manthor sends Jolan the image of Thorgal in the starry sky.
+- 2020-01-xx: [Centaurus - 5. Terre de mort](https://www.bedetheque.com/BD-Centaurus-Tome-5-Terre-de-mort-366495.html)
+    - Scénario: Léo & Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2018
+    - NOTES: The end of the cycle.
+- 2020-01-xx: [Astérix - 6. Astérix et Cléopâtre](https://www.bedetheque.com/BD-Asterix-Tome-6-Asterix-et-Cleopatre-22950.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1965-01
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-01-xx: [Centaurus - 4. Terre d'angoisse](https://www.bedetheque.com/BD-Centaurus-Tome-4-Terre-d-angoisse-335592.html)
+    - tags: #reread
+    - Scénario: Léo & Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2018
+- 2020-01-xx: [Centaurus - 3. Terre de folie](https://www.bedetheque.com/BD-Centaurus-Tome-3-Terre-de-folie-300530.html)
+    - tags: #reread
+    - Scénario: Leo, Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2017
+- 2020-01-xx: [Astérix - 5. Le tour de Gaule](https://www.bedetheque.com/BD-Asterix-Tome-5-Le-tour-de-Gaule-22948.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1965-01
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-01-xx: Yoko Tsuno l'intégrale, tome x: xxx
+    - 4\. [Aventures électroniques](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-4-Aventures-electroniques-22226.html)
+        - tags: #reread
+        - Rating: x/5
+    - 18\. [Les exilés de Kifa](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-18-Les-exiles-de-Kifa-496.html)
+        - tags: #reread
+        - Rating: x/5
+    - 21\. [La porte des âmes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-21-La-porte-des-ames-908.html)
+        - tags: #reread
+        - Rating: x/5
+        - NOTES:
+            - I remember I was unimpressed when reading this the first time.
+            - The mention of "âme" all over is a little annoying. In the extra documentation in the book, Roger Leloup mentions he was probably misguided by using this name, and should have used something else, such as "memories", or xxx.
+- 2020-01-17: [Astérix gladiateur](https://www.bedetheque.com/BD-Asterix-Tome-4-Asterix-Gladiateur-22946.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1964-07
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-01-15: [Lefranc - 30. Lune rouge](https://www.bedetheque.com/BD-Lefranc-Tome-30-Lune-rouge-366379.html)
+    - tags: #reread
+    - Language: French
+    - Date: 2019-05
+    - Rating: 4-/5
+    - Story: François Corteggiani
+    - Drawings: Christophe Alvès
+    - Color: Bonaventure
+    - NOTES:
+        - TODO
+- 2020-01-11: [Lefranc - 20. Noël noir](https://www.bedetheque.com/BD-Lefranc-Tome-20-Noel-noir-95437.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 4+/5
+    - Story: Michel Jacquemart
+    - Drawings: Régric
+    - Color: Loli
+    - NOTES:
+        - The story is rich but very dark.
+        - I like the explanatory footnotes and the general research that clearly went into the topic.
+        - The drawings are pretty good in general, although as mentioned before I don't like Régric's style as much as others'.
+        - This is so far my favorite post-Jacques Martin Lefranc (although I haven't read all of them yet).
+- 2020-01-10: [Lefranc - 27. L'Homme-oiseau](https://www.bedetheque.com/BD-Lefranc-Tome-27-L-Homme-oiseau-276389.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 3/5
+    - Story: Roger Seiter
+    - Drawings: Régric
+    - Color: Bruno Walter
+    - NOTES:
+        - I don't like Régric's drawings as much as Alvès's, but they are not too bad.
+        - The twist about Yuri Gagarin is fun. But I don't find the story as good as "Mission Antarctique" or even "L'éternel shogun".
+- 2020-01-09: [Lefranc - 26. Mission Antarctique](https://www.bedetheque.com/BD-Lefranc-Tome-26-Mission-Antarctique-258679.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 4/5
+    - Story: François Corteggiani
+    - Drawings: Christophe Alvès
+    - Color: Bonaventure
+    - NOTES:
+        - This is a pretty good story.
+        - The drawings by [Christophe Alvès](https://christophealves.com/) are consistent and detailed throughout. I like them. They easily beat the art of volumes 22, not talking about the terrible volume 19.
+        - Christophe Alvès has also worked on volume 30 "Lune rouge" and volume 28 "Le principe d'Heisenberg", and is working on volumne 32 which is scheduled for 2021. I am looking forward to it!
+        - This said, Lefranc doesn't look exactly like Martin's Lefranc. This is not a big problem to me.
+- 2020-01-07: [Lefranc - 23. L'éternel shogun](https://www.bedetheque.com/BD-Lefranc-Tome-23-L-eternel-shogun-160598.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 3/5
+    - Story: Thierry Robberecht
+    - Drawings: Régric
+    - NOTES:
+        - A much better story than "Londres en péril", with much better drawings as well.
+- 2020-01-06: [Lefranc - 19. Londres en péril](https://www.bedetheque.com/BD-Lefranc-Tome-19-Londres-en-peril-75321.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 1/5
+    - Story: Thierry Robberecht
+    - Drawings: Erwin & André Taymans
+    - NOTES:
+        - The most shocking aspect of this album is that the drawings are terrible. For example:
+            - The characters' faces, in particular Lefranc's, are consistently inconsistent.
+            - Norman, the boy, looks out of proportions from one appearance to the other.
+            - I see that there are two authors credited for the drawings: is this part of the problem?
+        - The story is just ok with lots of issues. I think the premise of the story was not too bad, but it should have been worked out much better.
+            - It's hard to understand how that bomb would work (contrast with Jacobs's sometimes crazy ideas, which at least came with fancy explanatory diagrams, like for "La marque jaune").
+            - There is a ridiculous comment by Lefranc about "A drop of water touching those wires would send London's taxicabs flying through the air." That's not quite how electricity works!
+            - The keyboard of the interface to Hannah looks ridiculous, and so does the font shown on the screen, no matter what year you place the story in.
+            - Using that very complex setup just to, essentially, act as the switch for a bomb seems unnecessary, and it doesn't come with any explanation.
+            - The whole orchid subplot also seems unnecessary.
+
+- 2020-01-03: [Flash Gordon Volume 4: The Storm Queen of Valkir]
+    - Language: English
