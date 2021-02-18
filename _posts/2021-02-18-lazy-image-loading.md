@@ -17,4 +17,4 @@ One way to improve on this would be to have not only blank placeholder images bu
 
 Some sites do this better than others. For example [iFixit](https://www.ifixit.com/), which makes heavy use of images in their repair guides, uses lazy image loading. However all images have the same predefined size and no jittering happens when scrolling. But if you try to print a guide or export it as PDF, guess what: most of the images won't appear unless you have patiently scrolled down the page first.
 
-At this point I can only see this as another mostly misguided fad in web development. There might be valid use cases for high traffic sites, but I suspect that this benefits mostly sites which throw a lot of unwanted stuff at the user anyway. For a personal blog post, there is really no reason to enable this and damage the user experience.
+At this point I can only see this as another mostly misguided fad in web development. There might be valid use cases for high traffic sites, but I suspect that this benefits mostly sites which throw a lot of unwanted stuff at the user anyway. For a personal blog post there is really no reason to enable this and damage the user experience.
