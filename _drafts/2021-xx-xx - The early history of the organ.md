@@ -4,11 +4,13 @@ title: The early history of the organ
 author: Erik Bruchez
 tags:
 category: Technology
+mermaid: true
 ---
 
 TODO:
 
 1. continue to revise "keyboard" section (not that great)
+    - maybe just delegate that to the next post on the keyboard "The origin of the modern musical keyboard"
 1. write conclusion
 1. move some stuff to footnotes?
 1. review text again
@@ -20,9 +22,7 @@ In October 2013, as part of a quest to know more about the origins of the modern
 
 ![Jean Perrot's book](/assets/posts/early-history-of-the-organ/perrot.jpg){:standalone width="50%"}
 
-It took me about four months to finish it, relatively leisurely, after which I started writing an article about what I learned. I then left the draft untouched until 2021![^meanwhile]
-
-You migh think that this is an obscure topic! However, there is a lot of fascinating information in this solid book. This article attempts to summarize some key takeaways.
+You might think that this is an obscure topic! However, there is a lot of fascinating information in this book. It took me about four months to finish it, relatively leisurely, after which I started writing an article about what I learned. I then left the draft untouched until 2021![^meanwhile] Finally, I am publishing this attempt at summarizing some key takeaways.
 
 ## An old instrument
 
@@ -156,6 +156,11 @@ About 50 years after the arrival of this instrument, in 826, an organ builder an
 To summarize the amazing voyage of the organ so far, paraphrasing Perrot:
 
 > The organ traveled from Egypt in a Greek milieu to the entire Roman world, survived in Constantinople, and finally came back to Europe's Frankish kingdom.
+
+```mermaid
+graph LR
+  A["Egypt (Greek Milieu)"]-->|traveled|B[Roman World]-->|survived|C[Constantinople]-->|came back|D[Frankish Kingdom]
+```
 
 ## How the organ made it to the church
 
