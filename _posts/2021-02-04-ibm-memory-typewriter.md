@@ -166,10 +166,10 @@ Does that sound like a plan?
 ## More
 
 - IBM Memory Typewriter
-  - [TWDB entry](https://typewriterdatabase.com/197x-ibm-memory-typewriter.15426.typewriter) [^twdb-first]
+  - [TWDB entry](https://typewriterdatabase.com/197x-ibm-memory-typewriter.15426.typewriter) [^twdb-first-memory]
   - [Photo album](https://photos.app.goo.gl/JTvsqt6j7iD8pMK9A)
 - IBM Electronic Typewriter 75
-  - [TWDB entry](https://typewriterdatabase.com/1980-ibm-electronic-typewriter-75.15451.typewriter) [^twdb-first]
+  - [TWDB entry](https://typewriterdatabase.com/1980-ibm-electronic-typewriter-75.15451.typewriter) [^twdb-first-electronic]
   - [Photo album](https://photos.app.goo.gl/hpdgZWUHUK7Tndgn9)
 
 ---
@@ -184,18 +184,6 @@ Does that sound like a plan?
 
 [^mechanical-keyboard]: One could argue that these were *true* "mechanical keyboards", unlike today's mechanical keyboards named so just because they have individual switches!
 
-[^twdb-first]: These are the first entries on TWDB for the IBM Memory Typewriter and the IBM Electronic Typewriter 75!
+[^twdb-first-memory]: The first entry on TWDB for the IBM Memory Typewriter!
 
-<!--
-Interesting stuff from John J. G. Savard:
-
-- http://www.quadibloc.com/comp/pro04.htm
-- http://www.quadibloc.com/comp/propint.htm
-- http://www.quadibloc.com/comp/pro0402.htm
-- http://www.quadibloc.com/comp/pro040301.htm
-- http://www.quadibloc.com/comp/pro0403.htm
-- http://www.quadibloc.com/comp/pro01.htm
-- http://www.quadibloc.com/comp/pro040307.htm
-- http://www.quadibloc.com/comp/pro0401.htm
-- maybe more?
--->
+[^twdb-first-electronic]: The first entry on TWDB for the IBM Electronic Typewriter 75!
