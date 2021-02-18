@@ -10,7 +10,7 @@ figure {
   text-align: center;
 
   img {
-    border-radius: 10px;
+    border-radius: .5rem;
   }
 
   figcaption {
@@ -26,4 +26,52 @@ figure {
 
 .post-tail-wrapper {
   margin-top: 3rem;
+}
+
+@media print {
+
+  #panel-wrapper, #topbar-wrapper, #post-extend-wrapper {
+    display: none;
+  }
+
+  #sidebar {
+    display: none !important;
+    width: auto;
+
+  }
+
+  #main .post-tail-wrapper {
+    display: none;
+  }
+
+  #post-wrapper {
+
+    margin-top: 0; // reset (won't work, see longer rule below)
+    max-width: 100%;
+
+    .post {
+
+      h1 {
+        margin-top: 1rem;
+      }
+
+      figure img {
+        max-height: 30rem;
+      }
+    }
+  }
+
+  #main > div.row:first-child > div:nth-child(1) {
+    margin-top: 0; // reset #post-wrapper
+  }
+
+  #main-wrapper {
+    margin-left: 0;
+  }
+
+  blockquote {
+    // Override Bootstrap
+    border: none;
+    border-left: 5px solid var(--blockquote-border-color);
+  }
 }
