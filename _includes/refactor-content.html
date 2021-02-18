@@ -35,6 +35,11 @@
   %}
 {% endif %}
 
+{% comment %}
+  EB: 2021-02-18: Don't do that crazy lazy loading stuff.
+{% endcomment %}
+{% comment %}
+
 {% if _content contains '<img src="' %}
 
   {% if site.img_cdn != '' %}
@@ -57,6 +62,8 @@
   {% assign _content = _content | replace: '<img src="', lozad_replacement %}
 
 {% endif %}
+
+{% endcomment %}
 
 <!-- return -->
 {{ _content }}
