@@ -115,6 +115,8 @@ The type element had a broken tab, but I got it out following instructions [in t
 
 ![Bookface Acad 72 10 CPI type element](/assets/posts/ibm-memory-typewriter/2x/IMG_8419.jpg){:standalone}
 
+I found the broken tab inside the carrier!
+
 xxxx
 
 ## More covers
@@ -134,6 +136,25 @@ The paper pan and feed rollers also got the same treatment.
 Two more covers, including for the fuses.
 
 ![More covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8444.jpg){:standalone}
+
+## Cleaning the mechanical parts
+
+I wondered whether I should disassemble more of the machine to clean it. I was advised to clean things in place. I put rags to absorb liquids just in case, as I really don't want liquids to reach the planar, and I used mineral spirits and a toothbrush to loosen grime and grease. I used compresed air to get the stuff out. It's a slow and tiresome process, which I did with a headlight to see what I was doing.
+
+Halfway through the process, I tried the machine again. Things on the carrier appear to move much better now.
+
+However, I hit a possible issue: my carriage returns didn't seem to be memorized anymore. I had managed to get them to work earlier. So did I damage something? Did grease hit the carriage return reed relay? But then, why can I type a carriage return just fine?  I tried to clean better around the reed relay, and to make sure that it is activated correctly, but to no avail.
+
+Single carriage returns are handled specially by the machine. In effect, this means that the machine has the notion of a paragraph, and is
+able to replay a page with different right margin settings. However, this should only kick in if the "No zone" button is up. Also, this is supposed to only handle carriage returns in the end zone, near the right margin.
+
+On the other hand, I used a Code-Carriage return, and this seemed to store and replay them. This is curious. I don't know if this is working as expected or not. I am still unclear about this behavior.
+
+## Clear and restore all tabs
+
+I tried the tab key, and it tabbed only a few spaces at a time. Looking at the manual, I noticed that this was on purpose: by default, tabs are every xxx characters. Holding Clr-Carriage return, you can clear all tabs. Holding Set-Carriage return, you can restore all tabs to that default configuration. I tried it and it worked!
+
+xxx
 
 ---
 
@@ -247,6 +268,29 @@ Vol. 12 No. 4
 
 ---
 
+Details on Composer and Mag Card from Fred Woodworth's letter:
+
+xxx
+
+---
+
+That's the key lock. It was an optional feature. It doesn't prevent using the machine, but it prevents access to the tape loop (read or write)! It's a nifty feature :)
+
+---
+
+For "antique" typewriter aficionados, probably 1. This kind of artifacts have not yet reached much of a level of desirability in general and so have been completely neglected. I am restoring this one and plan to make it work and look good. Even so, I don't expect it will appeal to typewriter collectors in general. It can appeal more to people into other vintage technology areas, probably. But by showing and telling about these machines we can raise awareness of their existence and save them. […]  I'd say the Selectric proper is another case. They machines were made by the millions and still have a good following even today. They are workhorses, and can even be pretty (especially the I). Selectric derivatives like the IBM Memory Typewriter are already almost all gone as far as I can tell. IBM was often leasing them to customers, and the technology was quickly obsolete so the machines were probably disposed of when returned. Also, they cost the equivalent of $25,000 in today's US dollars, so there were not that many produced in the first place, probably, at least compared with the regular Selectric. If machines like this get *some* traction at some point, it's going to be because there is more awareness and information about them. Just maybe.
+
+https://www.facebook.com/groups/TypewriterCollectors/?multi_permalinks=10158524872169678&comment_id=10158524927099678&notif_id=1614301230944693&notif_t=feedback_reaction_generic&ref=notif
+
+---
+
+other links:
+
+Law Office Memos
+More Efficiency at Less Cost
+By Fosdick P. Harrison of Harrison, Maguire, and Mohahan, Boston
+
+https://books.google.com/books?id=Xh4wsrgAKoIC&pg=PA254&dq=%22ibm+memory+typewriter%22&hl=en&sa=X&ved=2ahUKEwiz8dL0ud3uAhWE_J4KHd-TBpQQ6AEwAXoECAAQAg#v=onepage&q=%22ibm%20memory%20typewriter%22&f=false
 
 <!--
 Interesting stuff from John J. G. Savard:
