@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Restoring an Oliver 5
+title: Restoring an Oliver 5 typewriter
 author: Erik Bruchez
 tags:
 category: Typewriters
@@ -8,25 +8,32 @@ category: Typewriters
 
 ## Background
 
-Back in September 2018, I saw an Oliver 5 for sale a few hours away for a good price. We took a family trip and we got the machine, which came complete with base, cover, manuals. And it had its two ribbon spool covers as well! It was sold by a really nice 98 year-old gentleman, who said the machine had been his father's. I love this kind of history! This became my acquisition number 45.
+Back in September 2018, I saw an Oliver 5 for sale a few hours away for a good price. We took a family trip and we got the machine, which came complete with base, cover, and manuals. And it had its two ribbon spool covers as well! It was sold by a really nice 98 year-old gentleman, who said the machine had been his father's. I love this kind of history! This became my acquisition number 45.
 
 ![The machine just after I got it](/assets/posts/restoring-oliver5/2x/IMG_0784.jpg){:standalone}
 
+## The Oliver 5
+
+xxxx
+
 ## Dating
 
-The machine is from about 1911-1912 based on its 255684 serial number.
+The machine is from about 1911-1912 based on its 255684 serial number, which you find in two locations in the back:
 
-![The serial](/assets/posts/restoring-oliver5/2x/IMG_0772.jpg){:standalone}
+- on the carriage
+- on the main body of the machine
 
-I read that the backspace was "added about 282,000 approximately 1911." My serial is under that, and my machine does not have a backspace key, so I think that it would be from 1911.
+![The serial on the carriage](/assets/posts/restoring-oliver5/2x/IMG_0772.jpg){:standalone}
 
-## Restoration
+I read that the backspace key was "added about 282,000 approximately 1911." My serial is under that, and my machine does not have a backspace key, so I think that 1911 is a solid guess.
 
-The machine was very dusty and grimy, in spite of having a cover.
+## Initial evaluation
+
+You might think that the machine looked good based on the first picture above. But a closer examination reveals problems. The machine was in fact very dusty and grimy, in spite of having the protection of a cover.
 
 ![Grime](/assets/posts/restoring-oliver5/2x/IMG_0909.jpg){:standalone}
 
-Also, it didn't work. It obviously had a broken draw cord.
+It didn't work at all. Part of this was, obviously, the broken draw cord.
 
 ![Broken draw cord](/assets/posts/restoring-oliver5/2x/IMG_0771.jpg){:standalone}
 
@@ -34,7 +41,7 @@ But was anything else broken?
 
 I got started on it the initial dusting and disassembly.
 
-I polished the bell.
+I derusted and polished the bell as an early win.
 
 ![Polished bell](/assets/posts/restoring-oliver5/2x/IMG_0917.jpg){:standalone}
 
@@ -50,7 +57,11 @@ I noticed soon that, unfortunately, one of the escapement wheel's teeth was brok
 
 ![Broken escapement tooth](/assets/posts/restoring-oliver5/2x/IMG_0939.jpg){:standalone}
 
-This would prevent the machine from working properly. Luckily, I found a kind typewriter collector who provided me with a replacement part. I removed the "spaceship" assembly and replaed the wheel. Success!
+This would prevent the machine from working properly. Luckily, I found a kind typewriter collector who provided me with a replacement part. I removed the "spaceship" assembly and replaced the wheel. Success!
+
+## Restoration
+
+xxx
 
 ## Spring
 
@@ -58,9 +69,9 @@ I did a few more tasks, when I noticed that the spring was broken in two places.
 
 ![Broken spring](/assets/posts/restoring-oliver5/2x/IMG_1001.jpg){:standalone}
 
-I considered fixing it: grinding a hole at the end of the non-broken part. But I believe I was told it might break again. I was also directed to look at clock springs. I started looking, but other things happened and the project was paused in February 2019.
+I considered fixing it: grinding a hole at the end of the non-broken part. But I was told it might break again. I was also directed to look at clock springs. I started looking, but other things happened and the project was paused in February 2019.
 
-In the meanwhile, I acquired a couple of parts Oliver 9 machines. It dawned on me way not long ago that maybe one of them might have an intact spring. One of the machines was missing the spring box, but the other one had it with an intact spring! I checked whether the spring was compatible, and it was. The Oliver 5 and 9 have identical spring boxes. I transferred the spring to the Oliver 5 spring box, which, while not looking perfect, was in better condition. Then I figured I would just complete the cleaning and restoration.
+In the meanwhile, I acquired a couple of parts Oliver 9 machines. It dawned on me that maybe one of them might have an intact spring. One of the machines was missing the spring box, but the other one had it with an intact spring! I checked whether the spring was compatible, and it was! The Oliver 5 and 9 have identical spring boxes. I transferred the spring to the Oliver 5 spring box, which, while not looking perfect, was in better condition. Then I figured I would just complete the cleaning and restoration.
 
 ## After disassembly
 
@@ -227,5 +238,7 @@ xxx It is tricky and I can't claim I have the best way. I first start cleaning e
 
 xxxxx shellac (email)
 xxxxx base handles (missing?)
+
+xxx links to 3 scanned manuals
 
 - [The 103 Year Old Oliver Twins](https://myoldtypewriter.com/2016/04/01/the-103-year-old-oliver-twins/#comments) (by myoldtypewriter)
