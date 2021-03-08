@@ -754,7 +754,7 @@ title: Comic Books (2020)
     - Scénario: Léo, Corine Jamar
     - Dessin: Fred Simon
     - Rating: 4/5
-- 2020-02-14: [Les naufragés d'Ythaq - 16.  Les Assiégés de Glèbe](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-16-Les-Assieges-de-Glebe-374327.html)
+- 2020-02-14: [Les naufragés d'Ythaq - 16. Les Assiégés de Glèbe](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-16-Les-Assieges-de-Glebe-374327.html)
     - 2019
 - 2020-02-13: [Les naufragés d'Ythaq - 15. Imperator Express - La Caravane de l'étrange](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-15-Imperator-Express-La-Caravane-de-l-etrange-340750.html)
     - 2018

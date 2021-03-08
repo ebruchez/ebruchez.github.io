@@ -14,6 +14,79 @@ title: Comic Books (2021)
 
 # Comic Books (2021)
 
+- 2021-02: [Les naufragés d'Ythaq - 17. La Grotte des faces](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-17-La-Grotte-des-faces-408928.html)
+    - 2020
+    - Language: French
+- 2021-02: [Les naufragés d'Ythaq - 16. Les Assiégés de Glèbe](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-16-Les-Assieges-de-Glebe-374327.html)
+    - 2019
+    - Language: French
+    - tags: #reread
+- 2021-02: [Thorgal - 38. La Selkie](https://www.bedetheque.com/BD-Thorgal-Tome-38-La-Selkie-405264.html)
+    - 2020
+    - Language: French
+    - Scénario: Yann Vignaux
+    - Dessin: Fred Georges
+- 2021-02: [Yoko Tsuno l'intégrale, tome 8: Menaces pour la Terre](https://www.bedetheque.com/BD-Yoko-Tsuno-Integrale-Tome-8-Menaces-pour-la-terre-99045.html)
+    - 2009 (intégrale)
+    - [Message pour l'éternité](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-5-Message-pour-l-eternite-22227.html)
+        - tags: #reread
+        - 1975
+        - Rating: 5/5
+    - [Le canon de Kra](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-15-Le-canon-de-Kra-1026.html)
+        - tags: #reread
+        - 1985
+        - Rating: 5/5
+    - [Le septième code](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-24-Le-septieme-code-50621.html)
+        - tags: #reread
+        - 2005
+        - Rating: x/5
+- 2021-02: [Retour sur Aldébaran - Episode 3](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-3-Episode-3-402397.html)
+    - Language: French
+- 2021-02: [Retour sur Aldébaran - Episode 2](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-2-Episode-2-366478.html)
+    - Language: French
+    - tags: #reread
+- 2021-02: [Largo Winch - 22. Les Voiles écarlates](https://www.bedetheque.com/BD-Largo-Winch-Tome-22-Les-Voiles-ecarlates-378097.html)
+    - 2019
+    - tags: #reread
+- 2021-02: [Largo Winch - 21. L'étoile du matin](https://www.bedetheque.com/BD-Largo-Winch-Tome-21-L-etoile-du-matin-312659.html)
+    - 2017
+    - tags: #reread
+- 2021-02: [Donjon Xénith 7. Hors des remparts](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-7-Hors-des-remparts-381458.html)
+    - 2020
+    - Language: French
+    - Scénario: Lewis Trondheim
+    - Dessin: Boulet
+- 2021-02: [Mermaid Project - Episode 5](https://www.bedetheque.com/BD-Mermaid-Project-Tome-5-Episode-5-298111.html)
+    - 2017
+    - Language: French
+    - Scénario: Léo, Corine Jamar
+    - Dessin: Fred Simon
+- 2021-02-20: [Mermaid Project - Episode 4](https://www.bedetheque.com/BD-Mermaid-Project-Tome-4-Episode-4-251489.html)
+    - tags: #reread
+    - Language: French
+    - 2015
+    - Scénario: Léo, Corine Jamar
+    - Dessin: Fred Simon
+- 2021-02-20: [Namibia - 1. Épisode 1](https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-1-Episode-1-105592.html)
+    - Language: French
+    - Scénario: Leo et Rodolphe
+    - Dessin: Bertrand Marchal
+- 2021-02-19: [Ralph Azham - 4. Un caillou enterré n'apprend jamais rien](https://www.bedetheque.com/BD-Ralph-Azham-Tome-4-Un-caillou-enterre-n-apprend-jamais-rien-173204.html)
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: I really like this series. The humor is great.
+- 2021-02-18: [Ralph Azham - 3. Noires sont les étoiles](https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html)
+    - tags: #reread
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+- 2021-02-16: [Ralph Azham - 2. La mort au début du chemin](https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html)
+    - tags: #reread
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+- 2021-02-16: [Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?](https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html)
+    - tags: #reread
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
 - 2021-02-15: [Donjon Antipodes -10000. L'Armée du Crâne](https://www.bedetheque.com/BD-Donjon-Antipodes-Tome-10000-L-Armee-du-Crane-382307.html)
     - Language: French
     - Scénario: Joann Sfar, Lewis Trondheim
