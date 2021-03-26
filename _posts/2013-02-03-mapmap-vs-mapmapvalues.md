@@ -16,8 +16,8 @@ redirect_from:
 I just hit a bug caused by a misunderstanding of how `Map.mapValues` works. Consider:
 
 ```scala
-val original = Map("a" → 1, "b" → 2)
-val modified = original map { case (k, v) ⇒ k → (v + 1) }
+val original = Map("a" -> 1, "b" -> 2)
+val modified = original map { case (k, v) => k -> (v + 1) }
 ```
 
 The result is an immutable map[^1] which is a transformation of the original map (all values are incremented by one). Once the `map` method terminates, the new map is actually holding those new values.
@@ -25,7 +25,7 @@ The result is an immutable map[^1] which is a transformation of the original map
 Now `Map` also has a `mapValues` method, which seems like an attractive shortcut for the rather verbose transformation above. So you write:
 
 ```scala
-val original = Map("a" → 1, "b" → 2)
+val original = Map("a" -> 1, "b" -> 2)
 val modified = original mapValues (_ + 1)
 ```
 
