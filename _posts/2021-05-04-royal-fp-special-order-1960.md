@@ -99,10 +99,11 @@ This Royal FP is probably not a machine I will display at the center of my colle
 
 ## More
 
-- [TWDB entry](https://typewriterdatabase.com/1960-royal-fp.15985.typewriter)
+- [My Typewriter Database gallery](https://typewriterdatabase.com/1960-royal-fp.15985.typewriter)
 - [Pictures after cleaning](https://photos.app.goo.gl/hcxZSeYTsKNT5Bw17)
 - [Pictures during cleaning](https://photos.app.goo.gl/kM1fKhHgMKxEuTFL9)
-- [Reddit post](https://www.reddit.com/r/typewriters/comments/mvk3n8/royal_fp_special_order_from_1960_just_cleaned/)
+- [My Reddit post](https://www.reddit.com/r/typewriters/comments/mvk3n8/royal_fp_special_order_from_1960_just_cleaned/) (with close to 100 upvotes!)
+- [myoldtypewriter](https://myoldtypewriter.com/2016/05/16/number-12-the-royal-fp/)'s wonderful post about her FP
 
 ---
 
