@@ -89,7 +89,7 @@ Besides the "FPS" for "special order", the Royal FP also came with the prefix "F
 
 ![Typeface sample](/assets/posts/royal-fps/2x/typeface.jpg){:standalone}
 
-I have now typed a few journal pages with it, and it's very solid! The machine will not budge when typing, thanks to its weight and large rubber feet. The carriage is not exactly light, but that's something I would expect for such a large machine. The action is not the lightest but it's pleasant. Unsurprisingly, it reminds me of [my Royal KHM](../royal-khm-1938.md), which I think is a little lighter to type with, although without trying several instances of a given model it's hard to tell for sure. I should really put them next to each other and compare more closely.
+I have now typed a few journal pages with it, and it's very solid! The machine will not budge when typing, thanks to its weight and large rubber feet. The carriage is not exactly light, but that's something I would expect for such a large machine. The action is not the lightest but it's pleasant. Unsurprisingly, it reminds me of [my Royal KHM](../2018-10-16-royal-khm-1938.md), which I think is a little lighter to type with, although without trying several instances of a given model it's hard to tell for sure. I should really put them next to each other and compare more closely.
 
 ![Royal KHM (1938)](/assets/posts/royal-fps/2x/IMG_3479.jpg){:standalone}
 
