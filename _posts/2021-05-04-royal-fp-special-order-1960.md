@@ -2,7 +2,7 @@
 layout: post
 title: The 1960 Royal FP "special order"
 author: Erik Bruchez
-date: '2021-05-04T13:15:00.000-08:00'
+date: '2021-05-04T21:45:00-08:00'
 tags:
 category: Typewriters
 ---
