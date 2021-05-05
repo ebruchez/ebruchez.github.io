@@ -27,7 +27,7 @@ I rarely get machines that are truly usable out of the box (even though there wa
 - lightly waxing the body panels for a little extra shine and protection
 - replacing the ribbon
 
-This expedited process took me about 2-3 hours, during which I can listen to podcasts most of the time.
+This expedited process took me about 2-3 hours. [^podcasts]
 
 ![During cleaning](/assets/posts/royal-fps/2x/IMG_9973.jpg){:standalone}
 
@@ -51,7 +51,7 @@ The machine requires special Royal spools. These are large plastic spools which 
 
 ![Bottom of a spool](/assets/posts/royal-fps/2x/IMG_9976.jpg){:standalone}
 
-Interestingly, this systems is a descendant of the system introduced with the 1894 Remington 6! [^remington2]
+Interestingly, this system is a descendant of the system introduced with the upstrike 1894 Remington 6! [^remington2]
 
 ![A Remington 6 spool](/assets/posts/royal-fps/2x/IMG_1457.jpg){:standalone}
 
@@ -85,18 +85,17 @@ Based on the sticker under the carriage, this machine was used at the University
 
 ## The machine in action
 
-
 Besides the "FPS" for "special order", the Royal FP also came with the prefix "FPP" for Pica and "FPE" for Elite, according to [TWDB](https://typewriterdatabase.com/royal.72.typewriter-serial-number-database). My FPS happens to feature an Elite (12 CPI) typeface, which I tend to prefer to Pica. Here is a typeface sample.
 
 ![Typeface sample](/assets/posts/royal-fps/2x/typeface.jpg){:standalone}
 
-I have now typed a few journal pages with it, and it's very solid! The machine will not budge when typing, thanks to its weight and large rubber feet. The carriage is not exactly light, but that's something I would expect for such a large machine. The action is not the lightest but it's pleasant. Unsurprisingly, it reminds me of my Royal KHM, which I think is a little lighter to type with, although without trying several instances of a given model it's hard to tell for sure. I should really put them next to each other and compare more closely.
+I have now typed a few journal pages with it, and it's very solid! The machine will not budge when typing, thanks to its weight and large rubber feet. The carriage is not exactly light, but that's something I would expect for such a large machine. The action is not the lightest but it's pleasant. Unsurprisingly, it reminds me of [my Royal KHM](../royal-khm-1938.md), which I think is a little lighter to type with, although without trying several instances of a given model it's hard to tell for sure. I should really put them next to each other and compare more closely.
 
 ![Royal KHM (1938)](/assets/posts/royal-fps/2x/IMG_3479.jpg){:standalone}
 
 ## Conclusion
 
-This Royal FP is probably not a machine I will display at the center of my collection, although in fairness I think it looks pretty good! There is still a sort of office feeling to it. This is a machine designed to be used. It's a writer's machine. It's what you use when you need to get work done and don't want to be bothered by little annoyances. So far I haven't found any issues with it. I think that I will use it regularly for writing my journal and the occasional letter.
+This Royal FP is probably not a machine I will display at the center of my collection. Although in fairness I think it looks quite good, there is still a sort of office feeling to it. This is a machine designed to be used. It's a writer's machine. It's what you use when you need to get work done and don't want to be bothered by little annoyances. So far I haven't found any issues with it. I think that I will use it regularly for writing my journal and the occasional letter.
 
 ## More
 
@@ -108,3 +107,4 @@ This Royal FP is probably not a machine I will display at the center of my colle
 ---
 
 [^remington2]: I don't think the Remington 2 had this system, but I might be incorrect. Please let me know!
+[^podcasts]: I manage to listen to podcasts during a good portion of the time.
