@@ -7,7 +7,7 @@
 # Usage: bash /path/to/test.sh [indicated path]
 
 DEST=_site
-URL_IGNORE=cdn.jsdelivr.net
+URL_IGNORE="cdn.jsdelivr.net,/archives"
 
 _build=false
 
