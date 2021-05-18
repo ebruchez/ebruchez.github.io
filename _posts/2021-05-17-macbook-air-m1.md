@@ -10,11 +10,11 @@ modified_time: '2021-05-18T12:09:00.000-07:00'
 
 ## Introduction
 
-I've had a 10-core iMac Pro for over 3 years now. It's a superb machine with a beautiful 27" 5K display. Its thermal design is excellent and even when the fans run, they tend to be pretty silent, unlike the Intel-based MacBook Pro. The machine has been very reliable. Also, Apple has announced that they are discontinuing it.
+I've had a 10-core iMac Pro for over 3 years now. It's a superb machine with a beautiful 27" 5K display. Its thermal design is excellent and even when the fans run, they tend to be pretty silent, unlike the Intel-based MacBook Pro. The machine has been very reliable. (Also, Apple has announced that they are discontinuing it.)
 
-For travel this summer I will need a laptop. One of my kids has been using my "older" MacBook Pro with butterfly keyboard. That machine has been pretty good as well, except for the terrible keyboard, but I have only rarely had to use that keyboard.
+For travel this summer I will need a laptop. One of my kids has been using my "older" MacBook Pro with butterfly keyboard during the pandemic's distance learning. That machine has been pretty good as well, except for the terrible keyboard, which luckily I have only rarely had to use.
 
-So I ordered a MacBook Air M1 with 16 GB of RAM and 512 GB of storage. I would never have bought a MacBook Air in the past, due to the abysmal performance compared to other Apple machines. But the [M1-powered](https://en.wikipedia.org/wiki/Apple_M1) machines are different.
+So I ordered a MacBook Air M1 with 16 GB of RAM and 512 GB of storage. I would never have bought a MacBook Air before, due to the abysmal performance compared to other Apple machines. But the [M1-powered](https://en.wikipedia.org/wiki/Apple_M1) machines are different.
 
 ![Rendering of the Apple M1](/assets/posts/macbook-air-m1/apple-m1-render.jpg){:standalone width="50%"}
 
@@ -44,7 +44,7 @@ So I am taking this as an upper bound for the SoC. For comparison, here are some
 |[2018 Mac Mini i7](https://support.apple.com/en-us/HT201897)|19.9 W|122 W|
 |[2020 Mac Mini M1](https://support.apple.com/en-us/HT201897)|6.8 W|39 W|
 
-The difference is staggering. An M1-powered MacBook Air will barely warm up even during a serious compilation.
+The difference in power usage is staggering. An M1-powered MacBook Air will barely warm up even during a serious compilation.
 
 The MacBook Air is also a relatively low-end machine for Apple, price-wise: the iMac Pro was a $5,000 machine, while the MacBook Air is a $1,450 machine in my configuration. There are differences, of course: larger monitor, SSD, and RAM count for something. Even if I bump the SSD to 1 TB to match the iMac Pro, the MacBook Air would be $1,650 (there is no 32 GB RAM option for the MacBook Air yet).
 
@@ -64,11 +64,11 @@ I have also started using Docker, which now supports the `arm64` CPU architectur
 
 ## Conclusion
 
-My rough basic initial benchmark, and the fact that I have been able to install all the software that I need so far including native versions of key software, confirms that the M1 rocks for my software development use cases.
+My rough basic initial benchmark, and the fact that I have been able to install all the software that I need so far including native versions of key applications, confirms that the M1 should rock for my software development use cases.
 
-I now own a much cheaper, quieter, cooler, and less power-hungry computer, which happens to be also significantly faster than my iMac Pro. All it needs is a little more RAM (although I have not yet had an issue with the 16 GB capacity) and a larger monitor.
+I now own a much cheaper, quieter, cooler, and less power-hungry computer, which happens to be also significantly faster than my iMac Pro. All it needs is a little more RAM (although I have not yet had an issue with the 16 GB capacity) and a larger monitor to truly surpass it.
 
-I am looking forward to seeing how it behaves over the next few months, and I can't wait for the "Pro" versions of the CPU to come out soon in new higher-end iMacs and laptops. Then my iMac Pro will be ready to move on - although there is no real hurry as it still performs wonderfully, if about 20% slower (and significantly hotter) during my compilations.
+I am looking forward to seeing how it behaves over the next few months, and I can't wait for the "Pro" versions of the CPU to come out soon in new higher-end iMacs and laptops. Then my iMac Pro will be ready to move on - although there is no real hurry as it still performs very well, if about 20% slower (and significantly hotter) during compilations.
 
 ---
 
