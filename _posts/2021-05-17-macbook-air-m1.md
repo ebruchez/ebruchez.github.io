@@ -5,6 +5,7 @@ date: '2021-05-17T22:43:00.000-07:00'
 author: Erik Bruchez
 tags:
 category: Technology
+modified_time: '2021-05-18T12:01:00.000-07:00'
 ---
 
 ## Introduction
@@ -59,7 +60,7 @@ I struggled a little to update my local Jekyll installation (which powers this b
 
 At this time, I am running software such as 1Password 6, the Plex player, Google Backup and Sync, Evernote, and Marked 2, via Rosetta.
 
-I have also started using Docker, which now supports the `arm64` CPU architecture of the M1 macs, as well as emulation of the Intel CPU architecture. However, Docker does not recommend emulation and says that there are limitations. For now, I have managed to run MySQL using the `mysql/mysql-server` package natively with the `arm64` architecture.
+I have also started using Docker, which now supports the `arm64` CPU architecture of the M1 macs, as well as emulation of the Intel CPU architecture. However, Docker does not recommend emulation and says that there are limitations. `I have managed to run MySQL using the `mysql/mysql-server` package natively with the `arm64` architecture.
 
 ## Conclusion
 
