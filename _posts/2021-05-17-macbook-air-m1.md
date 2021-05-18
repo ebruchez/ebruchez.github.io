@@ -11,7 +11,7 @@ category: Technology
 
 I've had a 10-core iMac Pro for over 3 years now. It's a superb machine with a beautiful 27" 5K display. Its thermal design is excellent and even when the fans run, they tend to be pretty silent, unlike the Intel-based MacBook Pro. The machine has been very reliable. Also, Apple has announced that they are discontinuing it.
 
-For travel this summer I will need a laptop. One of my kids has been using my "older" MacBook Pro with butterfly keyboard machine. That machine has been pretty good as well, except for the terrible keyboard, but I have only rarely had to use the built-in keyboard.
+For travel this summer I will need a laptop. One of my kids has been using my "older" MacBook Pro with butterfly keyboard. That machine has been pretty good as well, except for the terrible keyboard, but I have only rarely had to use that keyboard.
 
 So I ordered a MacBook Air M1 with 16 GB of RAM and 512 GB of storage. I would never have bought a MacBook Air in the past, due to the abysmal performance compared to other Apple machines. But the [M1-powered](https://en.wikipedia.org/wiki/Apple_M1) machines are different.
 
@@ -19,7 +19,7 @@ So I ordered a MacBook Air M1 with 16 GB of RAM and 512 GB of storage. I would n
 
 ## A first benchmark
 
-As a quick benchmark, I ran a [Scala](https://www.scala-lang.org/) compilation and packaging task from my work project. What I am testing here is running the `package` command from scratch (deleting all `target` directories), but without any artifact downloads. This is very CPU-intensive task (Scala compilation tends to be on the expensive side), but also happens to touch lots of files.
+As a quick benchmark, I ran a [Scala](https://www.scala-lang.org/) compilation and packaging task from my work project. What I am testing here is the `package` command running from scratch (after deleting all `target` directories), without any artifact downloads. This is very CPU-intensive task (Scala compilation tends to be on the expensive side), but also happens to touch lots of files. Here is the result (lower is better):
 
 |2017 iMac Pro Xeon W|2020 MacBook Air M1|
 |---:|---:|
@@ -57,11 +57,15 @@ I used [SDKMAN!](https://sdkman.io/) to install the Java JDK as well as [`sbt`](
 
 I struggled a little to update my local Jekyll installation (which powers this blog), but switching to `rbenv` appears to have been enough to solve the issue.
 
-At this time, I note that I am running 1Password 6, the Plex player, Google Backup and Sync, Evernote, and Marked 2, via Rosetta.
+At this time, I am running software such as 1Password 6, the Plex player, Google Backup and Sync, Evernote, and Marked 2, via Rosetta.
+
+I have also started using Docker, which now supports the `arm64` CPU architecture of the M1 macs, as well as emulation of the Intel CPU architecture. However, Docker does not recommend emulation and says that there are limitations. For now, I have managed to run MySQL using the `mysql/mysql-server` package natively with the `arm64` architecture.
 
 ## Conclusion
 
-My rough basic initial benchmark, and the fact that I have been able to install all the software that I need so far including native versions of key software, confirms that the M1 rocks for my software development use cases. So I'd say that things are looking very good!
+My rough basic initial benchmark, and the fact that I have been able to install all the software that I need so far including native versions of key software, confirms that the M1 rocks for my software development use cases.
+
+I now own a much cheaper, quieter, cooler, and less power-hungry computer, which happens to be also significantly faster than my iMac Pro. All it needs is a little more RAM (although I have not yet had an issue with the 16 GB capacity) and a larger monitor.
 
 I am looking forward to seeing how it behaves over the next few months, and I can't wait for the "Pro" versions of the CPU to come out soon in new higher-end iMacs and laptops. Then my iMac Pro will be ready to move on - although there is no real hurry as it still performs wonderfully, if about 20% slower for my compilations.
 
