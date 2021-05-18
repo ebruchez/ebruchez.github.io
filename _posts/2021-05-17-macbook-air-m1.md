@@ -68,7 +68,7 @@ My rough basic initial benchmark, and the fact that I have been able to install 
 
 I now own a much cheaper, quieter, cooler, and less power-hungry computer, which happens to be also significantly faster than my iMac Pro. All it needs is a little more RAM (although I have not yet had an issue with the 16 GB capacity) and a larger monitor.
 
-I am looking forward to seeing how it behaves over the next few months, and I can't wait for the "Pro" versions of the CPU to come out soon in new higher-end iMacs and laptops. Then my iMac Pro will be ready to move on - although there is no real hurry as it still performs wonderfully, if about 20% slower and hotter during my compilations.
+I am looking forward to seeing how it behaves over the next few months, and I can't wait for the "Pro" versions of the CPU to come out soon in new higher-end iMacs and laptops. Then my iMac Pro will be ready to move on - although there is no real hurry as it still performs wonderfully, if about 20% slower (and significantly hotter) during my compilations.
 
 ---
 
