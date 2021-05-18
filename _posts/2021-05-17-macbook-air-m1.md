@@ -5,7 +5,7 @@ date: '2021-05-17T22:43:00.000-07:00'
 author: Erik Bruchez
 tags:
 category: Technology
-modified_time: '2021-05-18T12:01:00.000-07:00'
+modified_time: '2021-05-18T12:09:00.000-07:00'
 ---
 
 ## Introduction
@@ -28,11 +28,11 @@ As a quick benchmark, I ran a [Scala](https://www.scala-lang.org/) compilation a
 
 The MacBook Air M1 is roughly 20% faster at this task.
 
-Intuitively it's not exactly surprising given what we have known about the M1 Macs over the last few months, and the fact that I am comparing to a 3-year-old machine. [^xeon] On the other hand, the iMac Pro has 10 cores [^parallelism] and 32 GB of RAM, and the performance of Intel CPUs has barely budged in 3 years, so I could have been surprised either way.
-
 ## Apples to Apples
 
-This result is pretty impressive when you think that the MacBook Air does this *without a fan* and within a 10 W CPU thermal envelope. To be fair, I am not sure what the exact numbers are for the MacBook Air, in particular the split between the CPU (or SoC) and the rest of the computer. Apple does [say](https://www.apple.com/az/mac/m1/):
+Intuitively it's not exactly surprising given what we have known about the M1 Macs over the last few months, and the fact that I am comparing to a 3-year-old machine. [^xeon] On the other hand, the iMac Pro has 10 cores [^parallelism] and 32 GB of RAM, and the performance of Intel CPUs has barely budged in 3 years, so I could have been surprised either way.
+
+But this result is pretty impressive when you think that the MacBook Air does this *without a fan* and within a 10 W CPU thermal envelope. To be fair, I am not sure what the exact numbers are for the MacBook Air, in particular the split between the CPU (or SoC) and the rest of the computer. Apple [does say](https://www.apple.com/az/mac/m1/):
 
 > 10 watts (the thermal envelope of a MacBook Air)
 
@@ -56,11 +56,11 @@ I transferred my main installation from my iMac Pro (which I still use, of cours
 
 I used [SDKMAN!](https://sdkman.io/) to install the Java JDK as well as [`sbt`](https://www.scala-sbt.org/). I first installed Java from [Azul](https://www.azul.com/downloads/), but I failed to install `sbt` with Homebrew. It turns out that `sbt` includes native code as well for OS integration! [^SDKMAN]
 
-I struggled a little to update my local Jekyll installation (which powers this blog), but switching to `rbenv` appears to have been enough to solve the issue.
+I struggled a little to update my local Jekyll installation (which powers this blog), but switching to `rbenv` and telling it to use Ruby 3.0.0 appears to have been enough to solve the issue.
 
 At this time, I am running software such as 1Password 6, the Plex player, Google Backup and Sync, Evernote, and Marked 2, via Rosetta.
 
-I have also started using Docker, which now supports the `arm64` CPU architecture of the M1 macs, as well as emulation of the Intel CPU architecture. However, Docker does not recommend emulation and says that there are limitations. `I have managed to run MySQL using the `mysql/mysql-server` package natively with the `arm64` architecture.
+I have also started using Docker, which now supports the `arm64` CPU architecture of the M1 macs, as well as emulation of the Intel CPU architecture. However, Docker does not recommend emulation and says that there are limitations. I have managed to run MySQL using the `mysql/mysql-server` package natively with the `arm64` architecture.
 
 ## Conclusion
 
@@ -68,7 +68,7 @@ My rough basic initial benchmark, and the fact that I have been able to install 
 
 I now own a much cheaper, quieter, cooler, and less power-hungry computer, which happens to be also significantly faster than my iMac Pro. All it needs is a little more RAM (although I have not yet had an issue with the 16 GB capacity) and a larger monitor.
 
-I am looking forward to seeing how it behaves over the next few months, and I can't wait for the "Pro" versions of the CPU to come out soon in new higher-end iMacs and laptops. Then my iMac Pro will be ready to move on - although there is no real hurry as it still performs wonderfully, if about 20% slower for my compilations.
+I am looking forward to seeing how it behaves over the next few months, and I can't wait for the "Pro" versions of the CPU to come out soon in new higher-end iMacs and laptops. Then my iMac Pro will be ready to move on - although there is no real hurry as it still performs wonderfully, if about 20% slower and hotter during my compilations.
 
 ---
 
