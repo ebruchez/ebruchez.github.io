@@ -64,7 +64,7 @@ I have also started using Docker, which now supports the `arm64` CPU architectur
 
 ## Conclusion
 
-My rough basic initial benchmark, and the fact that I have been able to install all the software that I need so far including native versions of key applications, confirms that the M1 should rock for my software development use cases.
+My rough initial benchmark, and the fact that I have been able to install all the software that I need so far including native versions of key applications, confirms that the M1 should rock for my software development use cases.
 
 I now own a much cheaper, quieter, cooler, and less power-hungry computer, which happens to be also significantly faster than my iMac Pro. All it needs is a little more RAM (although I have not yet had an issue with the 16 GB capacity) and a larger monitor to truly surpass it.
 
