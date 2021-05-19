@@ -14,7 +14,7 @@ I've had a 10-core iMac Pro for over 3 years now. It's a superb machine with a b
 
 For travel this summer I will need a laptop. One of my kids has been using my "older" MacBook Pro with butterfly keyboard during the pandemic's distance learning. That machine has been pretty good as well, except for the terrible keyboard, which luckily I have only rarely had to use.
 
-So I ordered a MacBook Air M1 with 16 GB of RAM and 512 GB of storage. I would never have bought a MacBook Air before, due to the abysmal performance compared to other Apple machines. But the [M1-powered](https://en.wikipedia.org/wiki/Apple_M1) machines are different.
+So I ordered a MacBook Air M1 with 16 GB of RAM and 512 GB of storage. I would never have bought a MacBook Air in the past for tasks that include software development, due to the abysmal performance compared to other Apple machines. But the [M1-powered](https://en.wikipedia.org/wiki/Apple_M1) machines are different.
 
 ![Rendering of the Apple M1](/assets/posts/macbook-air-m1/apple-m1-render.jpg){:standalone width="50%"}
 
@@ -26,13 +26,13 @@ As a quick benchmark, I ran a [Scala](https://www.scala-lang.org/) compilation a
 |---:|---:|
 |111 s|92 s|
 
-The MacBook Air M1 is roughly 20% faster at this task.
+In short the MacBook Air M1 is roughly 20% faster at this task.
 
 ## Apples to Apples
 
-Intuitively it's not exactly surprising given what we have known about the M1 Macs over the last few months, and the fact that I am comparing to a 3-year-old machine. [^xeon] On the other hand, the iMac Pro has 10 cores [^parallelism] and 32 GB of RAM, and the performance of Intel CPUs has barely budged in 3 years, so I could have been surprised either way.
+Intuitively, this result is not surprising given what we have known about the M1 Macs over the last few months, and the fact that I am comparing to a 3-year-old machine. [^xeon] On the other hand, the iMac Pro has 10 cores [^parallelism] and 32 GB of RAM, and the performance of Intel CPUs has barely budged in 3 years, so I could have been surprised either way.
 
-But this result is pretty impressive when you think that the MacBook Air does this *without a fan* and within a 10 W CPU thermal envelope. To be fair, I am not sure what the exact numbers are for the MacBook Air, in particular the split between the CPU (or SoC) and the rest of the computer. Apple [does say](https://www.apple.com/az/mac/m1/):
+But it is pretty impressive when you think that the MacBook Air does this *without a fan* and within a 10 W CPU thermal envelope. To be fair, I am not sure what the exact numbers are for the MacBook Air, in particular the split between the CPU (or SoC) and the rest of the computer. Apple [does say](https://www.apple.com/az/mac/m1/):
 
 > 10 watts (the thermal envelope of a MacBook Air)
 
