@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 1960 Royal FP "special order"
+title: The 1960 Royal FP &quot;special order&quot;
 author: Erik Bruchez
 date: '2021-05-04T21:45:00-07:00'
 tags:
