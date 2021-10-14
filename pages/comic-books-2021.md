@@ -14,6 +14,302 @@ title: Comic Books (2021)
 
 # Comic Books (2021)
 
+- 2021-10-12: [Dragonero - Cacciatori di Kraken](https://shop.sergiobonelli.it/dragonero/2020/08/26/libro/dragonero-cacciatori-di-kraken-1008597/)
+  - 2020
+  - Language: Italian
+  - Soggetto:Vietti Stefano
+  - Sceneggiatura: Vietti Stefano
+  - Disegni: Rizzato Francesco
+- 2021-10-05: [Dragonero - La principessa delle sabbie](https://shop.sergiobonelli.it/dragonero/2020/03/06/libro/dragonero-la-principessa-delle-sabbie-1007813/)
+  - 2020
+  - Language: Italian
+  - Soggetto: Enoch Luca
+  - Sceneggiatura: Enoch Luca
+  - Disegni: Bignamini Alessandro
+  - NOTES: I really liked the drawings in this album.
+- 2021-08-23: [Tif et Tondu - 18. Le roc maudit](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-18-Le-roc-maudit-4453.html)
+    - 1972
+    - Language: French
+    - tags: #reread
+    - Tillieux: Scénario
+    - Dessin: Will
+    - NOTES: Good detective story with an uneasy atmosphere at a lighthouse.
+- 2021-08-22: [Tif et Tondu - 17. Tif et Tondu contre le Cobra](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-17-Tif-et-Tondu-contre-le-Cobra-4452.html)
+    - 1971
+    - Language: French
+    - tags: #reread
+    - Tillieux: Scénario
+    - Dessin: Will
+    - NOTES: First appearance of Kiki, the Comtesse d'Yeu. Nice setup involving a movie studio and special effects to make people think she is going crazy. Kiki ends up very rich.
+- 2021-08-21: [Tif et Tondu - 16. L'ombre sans corps](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-16-L-ombre-sans-corps-4451.html)
+    - 1970
+    - Language: French
+    - tags: #reread
+    - Tillieux: Scénario
+    - Dessin: Will
+    - NOTES: Good story, although the invisibility bit is even less plausible than a brain transplant.
+- 2021-08-20: [Tif et Tondu - 6. Passez muscade](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-6-Passez-muscade-36495.html)
+    - 1958
+    - Language: French
+    - tags: #reread
+    - Rosy: Scénario
+    - Dessin: Will
+- 2021-08-18: [Tif et Tondu - 5. Le retour de Choc](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-5-Le-retour-de-Choc-85917.html)
+    - 1957
+    - Language: French
+    - tags: #reread
+    - Rosy: Scénario
+    - Dessin: Will
+    - NOTES:
+- 2021-08-17: [Tif et Tondu - 4. La main blanche](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-4-Tif-et-Tondu-contre-la-main-blanche-15698.html)
+    - 1956
+    - Language: French
+    - tags: #reread
+    - Rosy: Scénario
+    - Dessin: Will
+    - NOTES: The first appearance of Choc. Drawings still a little clumsy. A lot of action all over the place.
+- 2021-06-15: [Olympus Mons - 3. Hangar 754](https://www.bedetheque.com/BD-Olympus-Mons-Tome-3-Hangar-754-318688.html)
+    - 2018
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+- 2021-06-11: [Olympus Mons - 2. Opération Mainbrace](https://www.bedetheque.com/BD-Olympus-Mons-Tome-2-Operation-Mainbrace-309885.html)
+    - 2017
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+- 2021-08-12: [Olympus Mons - 1. Anomalie 1](https://www.bedetheque.com/BD-Olympus-Mons-Tome-1-Anomalie-un-294405.html)
+    - 2017
+    - Language: French
+    - tags: #reread
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+    - Rating: 4/5
+- 2021-08-11: [Dragonero - Nato dalle fiamme](https://shop.sergiobonelli.it/libri/2019/08/29/libro/dragonero-nato-dalle-fiamme-1005132/)
+    - Language: Italian
+    - Scénario: Luca Enoch
+    - Dessins: Alfio Buscaglia
+- 2021-08-06: [Topolino e l'Impero Sottozero](https://disney-comics.fandom.com/it/wiki/Topolino_e_l%27impero_sottozero)
+    - 2015
+    - Language: Italian
+    - Scénario: Casty
+    - Dessin: Casty
+- 2021-08-01: [Donjon Zénith - 8. En sa mémoire](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-8-En-sa-memoire-405140.html)
+    - 2020
+    - Language: French
+    - Scénario: Lewis Trondheim
+    - Dessin: Boulet
+- 2021-07-30: [Donjon Zénith - 7. Hors des remparts](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-7-Hors-des-remparts-381458.html)
+    - 2020
+    - tags: #reread
+    - Language: French
+    - Scénario: Lewis Trondheim
+    - Dessin: Boulet
+    - NOTES: Re-reading before reading volume 8.
+- 2021-07-29: [Ralph Azham - 6. L'ennemi de mon ennemi](https://www.bedetheque.com/BD-Ralph-Azham-Tome-6-L-ennemi-de-mon-ennemi-208631.html)
+    - 2014
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+- 2021-07-28: [Ralph Azham - 5. Le pays des démons bleus](https://www.bedetheque.com/BD-Ralph-Azham-Tome-5-Le-pays-des-demons-bleus-189943.html)
+    - 2013
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+- 2021-07-27: [Ralph Azham - 4. Un caillou enterré n'apprend jamais rien](https://www.bedetheque.com/BD-Ralph-Azham-Tome-4-Un-caillou-enterre-n-apprend-jamais-rien-173204.html)
+    - 2012
+    - tags: #reread
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: Re-reading before reading volume 5.
+- 2021-07-26: [Ralph Azham - 3. Noires sont les étoiles](https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html)
+    - 2012
+    - tags: #reread
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+- 2021-07-25: [Les mondes de Thorgal - La jeunesse, Tome 5. Slive](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-5-Slive-312951.html)
+    - 2017
+- 2021-07-24: [Les mondes de Thorgal - La jeunesse, Tome 4. Berserkers](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-4-Berserkers-276397.html)
+    - 2016
+- 2021-07-16: [Achille Talon - 19. Achille Talon et le grain de la folie](https://www.bedetheque.com/BD-Achille-Talon-Tome-19-Achille-Talon-et-le-grain-de-la-folie-21.html)
+    - 1978
+    - tags: #reread
+- 2021-07-19: [Achille Talon - 18. Achille Talon et le coquin de sort](https://www.bedetheque.com/BD-Achille-Talon-Tome-18-Achille-Talon-et-le-coquin-de-sort-20.html)
+    - 1977
+    - tags: #reread
+- 2021-07-18: [Achille Talon - 17. Le roi des Zôtres](https://www.bedetheque.com/BD-Achille-Talon-Tome-17-Le-roi-des-Zotres-19.html)
+    - 1977
+    - tags: #reread
+- 2021-07-16: [Achille Talon - 16. Achille Talon et le trésor de Virgule](https://www.bedetheque.com/BD-Achille-Talon-Tome-16-Achille-Talon-et-le-tresor-de-Virgule-18.html)
+    - 1977
+    - tags: #reread
+- 2021-07-14: [Achille Talon - 15. Achille Talon et le quadrumane optimiste](https://www.bedetheque.com/BD-Achille-Talon-Tome-15-Achille-Talon-et-le-quadrumane-optimiste-17.html)
+    - 1976
+    - tags: #reread
+- 2021-07-13: [Achille Talon - 14. Achille Talon et le mystère de l'homme à deux têtes](https://www.bedetheque.com/BD-Achille-Talon-Tome-14-Achille-Talon-et-le-mystere-de-l-homme-a-deux-tetes-16.html)
+    - 1976
+    - tags: #reread
+- 2021-07-12: [Achille Talon - 13. Pas de pitié pour Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-13-Pas-de-pitie-pour-Achille-Talon-15.html)
+    - 1976
+    - tags: #reread
+- 2021-07-11: [Achille Talon - 12. Achille Talon au coin du feu...](https://www.bedetheque.com/BD-Achille-Talon-Tome-12-Achille-Talon-au-coin-du-feu-14.html)
+    - 1975
+    - tags: #reread
+- 2021-07-10: [Achille Talon - 11. Brave et honnête Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-11-Brave-et-honnete-Achille-Talon-13.html)
+    - 1975
+    - tags: #reread
+- 2021-07-04: [Achille Talon - 10. Le roi de la science-diction](https://www.bedetheque.com/BD-Achille-Talon-Tome-10-Le-roi-de-la-science-diction-12.html)
+    - 1974
+    - tags: #reread
+- 2021-07-03: [Achille Talon - 9. Les petits desseins d'Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-9-Les-petits-desseins-d-Achille-Talon-11.html)
+    - 1974
+    - tags: #reread
+- 2021-07-02: [Achille Talon - 8. Achille Talon méprise l'obstacle](https://www.bedetheque.com/BD-Achille-Talon-Tome-8-Achille-Talon-meprise-l-obstacle-30307.html)
+    - 1973
+    - tags: #reread
+- 2021-07-01: [Achille Talon - 7. Les insolences d'Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-7-Les-insolences-d-Achille-Talon-9.html)
+    - 1973
+    - tags: #reread
+- 2021-06-30: [Achille Talon - 6. Achille Talon au pouvoir](https://www.bedetheque.com/BD-Achille-Talon-Tome-6-Achille-Talon-au-pouvoir-83235.html)
+    - 1972
+    - tags: #reread
+- 2021-06-29: [Achille Talon - 5. L'indispensable Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-5-L-indispensable-Achille-Talon-29350.html)
+    - 1971
+    - tags: #reread
+- 2021-06-28: [Achille Talon - 4. Achille Talon... mon fils à moi !](https://www.bedetheque.com/BD-Achille-Talon-Tome-4-Achille-Talon-mon-fils-a-moi-6.html)
+    - 1970
+    - tags: #reread
+- 2021-06-27: [Achille Talon - 3. Achille Talon persiste et signe !](https://www.bedetheque.com/BD-Achille-Talon-Tome-3-Achille-Talon-persiste-et-signe-5.html)
+    - 1969
+    - tags: #reread
+- 2021-06-26: [Achille Talon - 2. Achille Talon aggrave son cas !](https://www.bedetheque.com/BD-Achille-Talon-Tome-2-Achille-Talon-aggrave-son-cas-4.html)
+    - 1967
+    - tags: #reread
+- 2021-06-25: [Achille Talon - 1. Les idées d'Achille Talon cerveau-choc !](https://www.bedetheque.com/BD-Achille-Talon-Tome-1-Les-idees-d-Achille-Talon-cerveau-choc-3.html)
+    - 1966
+    - tags: #reread
+- 2021-06: [La quête de l'oiseau du temps](https://www.bedetheque.com/serie-5-BD-Quete-de-l-oiseau-du-temps.html)
+    - 1983-1987
+    - tags: #reread
+    - Tomes 1-4: Premier cycle, qui constitue la série originale.
+    - Tome 5: Début d'un second cycle qui comporte 6 volumes au 2021-06-23. Nous n'avons pas, semble-t-il, le reste. Le tome 5 a été ensuite renuméroté tome 1 d'"Avant la quête".
+- 2021-06-11: [Olympus Mons - 1. Anomalie 1](https://www.bedetheque.com/BD-Olympus-Mons-Tome-1-Anomalie-un-294405.html)
+    - 2017
+    - Language: French
+    - tags: #reread
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+    - Rating: 4/5
+- 2021-06: [Le retour à la terre - 6. Les métamorphoses]
+    - 2019
+    - Scénario: Jean-Yves Ferri
+    - Dessin: Manu Larcenet
+    - tags: #reread
+- 2021-06: [Le combat ordinaire - 4. Planter des clous]
+    - 2008
+    - Scénario: Manu Larcenet
+    - Dessin: Manu Larcenet
+    - tags: #reread
+- 2021-06: [Le cycle de Cyann](https://www.bedetheque.com/serie-37-BD-Cycle-de-Cyann.html)
+    - Scénario: Claude Lacroix
+    - Dessin: François Bourgeon
+    - tags: #reread
+- 2021-05: [Lefranc - Tome 28. Le principe d'Heisenberg](https://www.bedetheque.com/BD-Lefranc-Tome-28-Le-Principe-d-Heisenberg-315474.html)
+    - 2017
+    - Scénario: François Corteggiani
+    - Dessin: Christophe Alvès
+    - tags: #reread
+- 2021-05: [Thorgal - 38. La Selkie](https://www.bedetheque.com/BD-Thorgal-Tome-38-La-Selkie-405264.html)
+    - 2020
+    - Language: French
+    - Scénario: Yann Vignaux
+    - Dessin: Fred Georges
+    - tags: #reread
+- 2021-05: [Les mondes de Thorgal - La jeunesse, Tome 3. Runa](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-3-Runa-241654.html)
+    - 2015
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+    - tags: #reread
+- 2021-05: [Les mondes de Thorgal - La jeunesse, Tome 2. L'œil d'Odin](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-2-L-oeil-d-Odin-206812.html)
+    - 2014
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2021-05 [Thorgal, Tome 37. L'Ermite de Skellingar](https://www.bedetheque.com/BD-Thorgal-Tome-37-L-Ermite-de-Skellingar-375436.html)
+    - 2019
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - tags: #reread
+- 2021-05: [Blake et Mortimer - 25. La vallée des immortels - Menace sur Hong Kong](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-aventures-de-Tome-25-348626.html)
+    - Language: French
+    - tags: #reread
+- 2021-04-26: [Blake et Mortimer - 24. Le Testament de William S.](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-24-Le-Testament-de-William-S-293206.html)
+    - Language: French
+    - tags: #reread
+    - NOTES: About the discovery in Venice of a manuscript explaining that Shakespeare consisted, in fact, of two people.
+- 2021-04-23: [Blake et Mortimer - 21. Le serment des cinq lords](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-21-Le-Serment-des-cinq-lords-170145.html)
+    - Language: French
+    - tags: #reread
+    - NOTES: I like this story. It's maybe a little slow, but it holds together fairly well.
+- 2021-04-20: [Blake et Mortimer - 23. Le bâton de Plutarque](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-23-Le-Baton-de-Plutarque-226934.html)
+    - Language: French
+    - tags: #reread
+- 2021-03:[Il s'appelait Ptirou](https://www.bedetheque.com/BD-Mademoiselle-J-Tome-1-Il-s-appelait-Ptirou-311092.html)
+    - Language: French
+    - Scénario: Yves Sentes
+    - Dessin et couleur: Laurent Verron
+    - Rating: 5/5
+- 2021-03: [Blake & Mortimer - 27. Le cri du Moloch](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-27-Le-cri-du-Moloch-405221.html)
+    - Language: French
+    - 2020
+    - NOTES: "L'Onde Septimus" part 2.
+    - Rating: 2/5
+    - NOTES:
+        - Unfortunately, the whole "L'Onde Septimus" arc is not very convincing.
+        - I don't particularly like the original idea of reviving the Marque Jaune. It was a wonderful invention and one of the most gripping Blake and Mortimer stories. But building on that doesn't work so well for me.
+        - The idea of spaceships buried under London, why not.
+        - The drawings were better in Tome 22. Yes, it's hard to draw Blake (see Bob de Moor), but Mortimer too looks weird more often than not.
+- 2021-03: [Blake & Mortimer - 22. L'Onde Septimus](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-22-L-Onde-Septimus-197200.html)
+    - Language: French
+    - 2013
+    - tags: #reread
+    - Rating: 2/5
+- 2021-03: [Sillage - 20. Mise à jour](https://www.bedetheque.com/BD-Sillage-Tome-20-Mise-a-jour-377557.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - Rating: TODO
+- 2021-03: [Sillage - 19. Temps mort](https://www.bedetheque.com/BD-Sillage-Tome-19-Temps-mort-287061.html)
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+    - Rating: 4/5
+- 2021-03: [Les Fils d'El Topo - Tome 02: Abel](https://www.amazon.fr/Fils-dEl-Topo-02-Abel/dp/2344005927/)
+    - 2019
+    - Scénario: Alexandro Jodorowsky
+    - Dessin: José Ladronn
+- 2021-03: [Les Fils d'El Topo - Tome 01: Caïn](https://www.amazon.fr/Fils-dEl-Topo-01-Caïn/dp/2344004483/)
+    - 2016
+    - tags: #reread
+    - Scénario: Alexandro Jodorowsky
+    - Dessin: José Ladronn
+- 2021-03-12: [Meta-Baron - Tome 4 - Simak le Transhumain](https://www.bedetheque.com/BD-Meta-Baron-Tome-4-Simak-le-Transhumain-298307.html)
+    - 2017
+    - tags: #reread
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
+- 2021-03-11: [Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal](https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html)
+    - 2016
+    - tags: #reread
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
+- 2021-03: [6. Sans-Nom le Techno-Baron](https://www.bedetheque.com/BD-Meta-Baron-Tome-6-Sans-Nom-le-Techno-Baron-340731.html)
+    - 2018
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Valentin Sécher
+- 2021-03: [5. Rina la Méta-Gardienne](https://www.bedetheque.com/BD-Meta-Baron-Tome-5-Rina-la-Meta-Gardienne-312626.html)
+    - 2017
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Valentin Sécher
 - 2021-02: [Les naufragés d'Ythaq - 17. La Grotte des faces](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-17-La-Grotte-des-faces-408928.html)
     - 2020
     - Language: French
@@ -51,7 +347,7 @@ title: Comic Books (2021)
 - 2021-02: [Largo Winch - 21. L'étoile du matin](https://www.bedetheque.com/BD-Largo-Winch-Tome-21-L-etoile-du-matin-312659.html)
     - 2017
     - tags: #reread
-- 2021-02: [Donjon Xénith 7. Hors des remparts](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-7-Hors-des-remparts-381458.html)
+- 2021-02: [Donjon Zénith - 7. Hors des remparts](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-7-Hors-des-remparts-381458.html)
     - 2020
     - Language: French
     - Scénario: Lewis Trondheim
