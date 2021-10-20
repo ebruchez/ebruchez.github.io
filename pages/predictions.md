@@ -102,7 +102,7 @@ Content:
 - From: @otazi:
 - Text: "Apple will be dead in 10 years."
 - Comments:
-    - What will "dead" mean? I will interpret it not as "out of business" as that seems impossible for a company of this size, but as "largely irrelevant". This means significantly less relevant than in 2013. How does this translate in terms of market share or number of devices or services? Maybe we can set the bar at 5% market share, a suggested by @avernet.
+    - What will "dead" mean? I will interpret it not as "out of business" as that seems impossible for a company of this size, but as "largely irrelevant". This means significantly less relevant than in 2013. How does this translate in terms of market share or number of devices or services? Maybe we can set the bar at 5% market share, as suggested by @avernet.
 - Resolution:
     - WAIT until 2023-07-20
 
