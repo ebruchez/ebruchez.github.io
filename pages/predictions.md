@@ -21,17 +21,6 @@ Content:
 
 ## My pending predictions
 
-### PREDICTION-0025: 2020-11-10: Support for 32 GB of RAM in Apple's ARM-based 13" MacBook Pro
-
-- From: @ebruchez
-- Text: "Within 6 months, Apple will add the option of having 32 GB of RAM in the 13 MacBook Pro."
-- Comments
-    - Today, Apple released their first Macs with Apple silicon. But none of the existing machines support more than 16 GB of RAM.
-    - I suspect that this is due to the availability of memory chips to reach 32 GB. I don't think this means that there won't be any larger configurations.
-    - So here I am predicting that 32 GB of RAM (at least) will happen within 6 months.
-- Resolution:
-    - __WAIT__: Until May 10, 2021 at the latest.
-
 {% comment %}
 
 ### PREDICTION-001x: xxx self-driving cars
@@ -118,6 +107,17 @@ Content:
     - WAIT until 2023-07-20
 
 ## Completed predictions
+
+### PREDICTION-0025: 2020-11-10: Support for 32 GB of RAM in Apple's ARM-based 13" MacBook Pro
+
+- From: @ebruchez
+- Text: "Within 6 months, Apple will add the option of having 32 GB of RAM in the 13 MacBook Pro."
+- Comments
+    - Today, Apple released their first Macs with Apple Silicon. But none of the existing machines support more than 16 GB of RAM.
+    - I suspect that this is due to the availability of memory chips to reach 32 GB. I don't think this means that there won't be any larger configurations.
+    - So here I am predicting that 32 GB of RAM (at least) will happen within 6 months.
+- Resolution:
+    - __FAIL__: This is the case only since October 18, 2021, when Apple announced laptops with M1 Pro and M1 Max CPUs. The M1 Pro supports 32 FB of RAM, while the M1 Max supports 64 GB. I was a little over 5 months off in my prediction.
 
 ### PREDICTION-0024: 2020-11-07: 2020 Presidential election aftermath and transition of power
 
