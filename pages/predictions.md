@@ -140,7 +140,8 @@ Content:
     - The fastest Mac multi-core score if 19155 for the "Mac Pro (Late 2019) Intel Xeon W-3275M @ 2.5 GHz (28 cores)".
     - The fastest multi-core score is 23944 for the "AMD Ryzen Threadripper 3990X 2.9 GHz (64 cores)".
 - Resolution:
-	- __FAIL__: I was further away with this one than for the single-core performance. The [Mac Benchmarks](https://browser.geekbench.com/mac-benchmarks) shows 7396 (while I predicted 10,000) for the Mac Mini.
+  - __FAIL__: I was further away with this one than for the single-core performance. The [Mac Benchmarks](https://browser.geekbench.com/mac-benchmarks) shows 7396 (while I predicted 10,000) for the Mac Mini.
+  - UPDATE: 2021-10-20: The M1 Max appears to have a multi-core Geekbench score of 12693. This clearly beats my prediction, 16 months after the introduction of the M1.
 
 ### PREDICTION-0020: 2020-06-30: Single-core performance of the first Apple Mac ARM chips
 
@@ -154,7 +155,8 @@ Content:
         - The fastest ARM CPU single-core score is 1327 for the "iPhone 11 Pro Apple A13 Bionic @ 2.7 GHz". This means that Apple would have to increase their single-core by 40% between this CPU and their new CPU.
         - The fastest single-core score overall is 1419 for the "Intel Core i9-10900K 3.7 GHz (10 cores)". (This means that Apple would have to increase their single-core by 30% between this CPU and their new CPU.)
 - Resolution:
-	- __FAIL__: I was pretty close with this one! As of 2021-02-06, Geekbench shows some 1744 scores (while I predicted 1840). The [Mac Benchmarks](https://browser.geekbench.com/mac-benchmarks) shows, however, 1708 for the Mac Mini, a little lower.
+  - __FAIL__: I was pretty close with this one! As of 2021-02-06, Geekbench shows some 1744 scores (while I predicted 1840). The [Mac Benchmarks](https://browser.geekbench.com/mac-benchmarks) shows, however, 1708 for the Mac Mini, a little lower.
+  - UPDATE: 2021-10-20: The M1 Max appears to have a single-core Geekbench score of 1783. This doesn't beat my prediction, 16 months after the introduction of the M1.
 
 ### PREDICTION-0022: 2020-07-09: Donald Trump will lose the 2020 US presidential election
 
