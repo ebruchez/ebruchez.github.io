@@ -19,6 +19,8 @@ It's common sense but probably has to be said:
 
 __The Yamaha Clavinova is an electric device. Some parts inside are live with 110V. So make sure you disconnect the power cord before doing any work, and if you have to plug the piano while open don't put your fingers in the wrong spots! It's probably better to do this only if you have some experience with electric and electronic devices already. Also, if you put things back together incorrectly don't blame me!__
 
+![You've been warned](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/risk-of-electric-shock.jpg){:standalone}
+
 ## Trying things
 
 I had already used compressed air between the keys, thinking it might dislodge dust or other debris that might cause the problem. But that didn't seem to achieve any results.
