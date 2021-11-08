@@ -195,14 +195,22 @@ Once the keyboard was back together I gave it some more compressed air and place
 So I put everything else back together:
 
 1. I screwed the left and right wooden blocks.
+
    ![The left wooden block](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5585.jpg){:standalone}
+
 2. I screwed the keyboard in its final position.
+
    ![The keyboard is back in place](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5586.jpg){:standalone}
-4. I reinstalled the front panel. I used the opportunity to clean the red felt alongside the keys from underneath.
+
+3. I reinstalled the front panel. I used the opportunity to clean the red felt alongside the keys from underneath.
+
    ![Cleaning the felt](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5583.jpg){:standalone}
-5. I put back all connectors.
-6. I put the keyboard cover back on its rails.
-7. Finally I replaced the top cover.
+
+4. I put back all connectors.
+
+5. I put the keyboard cover back on its rails.
+
+6. Finally, I replaced the top cover.
 
 And voilà!
 
