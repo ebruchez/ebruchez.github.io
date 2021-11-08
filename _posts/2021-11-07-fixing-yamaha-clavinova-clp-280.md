@@ -29,7 +29,7 @@ So I decided to have a look inside. I remembered that when I moved the piano onc
 
 ![Removing the entire top of the piano](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5522.jpg){:standalone}
 
-But it turned out not to be necessary! In fact, the top opens by removing 3 screws at the top from the back, and then sliding the top cover towards the front. Then you can remove the top cover and see inside. You have to disconnect 3 cables for speakers and microphones as well.
+But it turned out not to be necessary! In fact, the top opens by removing 3 screws at the top from the back, and then sliding the top cover towards the front. Then you can remove the top cover and see inside. You have to disconnect 3 cables for speakers and microphones as well. I found out by chance and then a [video](https://www.youtube.com/watch?v=2imrOPpQhoY) confirmed that as well.
 
 ![Remove just the top cover](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5526.jpg){:standalone}
 
@@ -55,7 +55,7 @@ So one day later I opened the piano again and did further disassembly:
 
    ![Front panel metal support screws](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5541.jpg){:standalone}
 
-3. I removed the two wooden blocks on each side of the keyboard. Each has one screw. I am not sure that this step was strictly necessary.
+3. I removed the two wooden blocks on each side of the keyboard. Each is kept in place with a single screw. The right-side block also holdes the power button. I am not sure that this step was strictly necessary.
 
 4. I removed the screws that hold the keyboard in the back. There are 9 main identical screws (I think) and 2 secondary wood screws.
 
@@ -220,7 +220,7 @@ And voilà!
 
 I am glad that this simple cleaning and fixing appears to have addressed the issues. While this is not a new digital piano, I like it, and it looks good in its polished ebony ("PE") version. It would be a shame if it was inoperable.
 
-I must say that this digital piano is well built and easy to service once you know the order in which to remove the assemblies. The main issue I see with these is the availability of parts: everything is custom and if Yamaha cannot provide a part, or if you can't find it on eBay, you are probably stuck. Luckily in this case I didn't need to replace parts.
+I must say that this digital piano is well built and easy to service once you know the order in which to remove the assemblies. The main issue I see is the availability of parts: everything is custom and if Yamaha cannot provide a part, or if you can't find it on eBay, you are probably stuck. Luckily in this case I didn't need to replace any parts.
 
 ![The piano back in operation](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5591.jpg){:standalone}
 
