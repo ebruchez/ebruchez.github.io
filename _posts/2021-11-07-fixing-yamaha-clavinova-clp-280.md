@@ -218,9 +218,9 @@ And voilà!
 
 ## Conclusion
 
-I am glad that this simple cleaning and fixing appears to have addressed the issues. While this is not a new digital piano, I like it, and it looks good in its polished ebony ("PE") version. It would be a shame if it was inoperable.
+I am glad that this simple cleaning and fixing appears to have addressed the issues. While this is not a new digital piano, it's a beautiful instrument in its "polished ebony" ("PE") version. It would be a shame if it was inoperable.
 
-I must say that this digital piano is well built and easy to service once you know the order in which to remove the assemblies. The main issue I see is the availability of parts: everything is custom and if Yamaha cannot provide a part, or if you can't find it on eBay, you are probably stuck. Luckily in this case I didn't need to replace any parts.
+I must say that this digital piano is well-built and easy to service once you know the order in which to remove the assemblies. The main issue I see is the availability of parts: everything is custom and if Yamaha cannot provide a part, or if you can't find it on eBay, you are probably stuck. Luckily in this case I didn't need to replace any parts.
 
 ![The piano back in operation](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5591.jpg){:standalone}
 
