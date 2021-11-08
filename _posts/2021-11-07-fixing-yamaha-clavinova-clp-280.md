@@ -43,7 +43,7 @@ Even with the top removed I could only see the back of the keyboard and nothing 
 
 ## Going further
 
-But then I found a couple of videos online about replacing Clavinova keys, including removing the entire keyboard, and that encouraged me to go further. It seemed like it wouldn't be that difficult after all since others had done it without too many issues along the way.
+But then I found a couple of videos online about replacing Clavinova keys, including removing the entire keyboard, and that encouraged me to go further (as did my wife!). It seemed like it wouldn't be that difficult after all since others had done it without too many issues along the way.
 
 So one day later I opened the piano again and did further disassembly:
 
@@ -218,8 +218,23 @@ And voilà!
 
 ## Conclusion
 
-I am glad that this simple cleaning and fixing appears to have addressed the issues. While this is not a new digital piano, I like it and it looks good in its polished ebony ("PE") version. It would be a shame if it was inoperable.
+I am glad that this simple cleaning and fixing appears to have addressed the issues. While this is not a new digital piano, I like it, and it looks good in its polished ebony ("PE") version. It would be a shame if it was inoperable.
+
+I must say that this digital piano is well built and easy to service once you know the order in which to remove the assemblies. The main issue I see with these is the availability of parts: everything is custom and if Yamaha cannot provide a part, or if you can't find it on eBay, you are probably stuck. Luckily in this case I didn't need to replace parts.
 
 ![The piano back in operation](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5591.jpg){:standalone}
 
 Let's see if the issue is gone for good over the next few weeks and months.
+
+## More
+
+Here are a couple of online videos that helped me with my repair:
+
+- [How to Remove and Clean Piano Keys in a Yamaha Clavinova](https://www.youtube.com/watch?v=2imrOPpQhoY)
+- [How to repair a Yamaha Clavinova CLP 860 with a loud and/or silent key](https://www.youtube.com/watch?v=aVk817mJqJY&t=181s)
+
+(I also found a couple of other videos that applied to older Clavinovas but they turned out not to be relevant to the CLP-280.)
+
+Finally, here are all the pictures I took during the process:
+
+- [Clavinova CLP-280 - Repair in progress](https://photos.app.goo.gl/c3aA1kWyDTV4TjNg7)
