@@ -33,7 +33,9 @@ But it turned out not to be necessary! In fact, the top opens by removing 3 scre
 
 ![Remove just the top cover](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5526.jpg){:standalone}
 
-I looked inside, cleaned with compressed air as things were a little dusty, but that didn't do anything to fix the issues. In addition, while trying the piano again, I also noticed that the A#3 key was moving too much laterally, and while doing so was making noise. It was the only key like this one the keyboard. Was this a new issue? Or maybe I hadn't noticed it before? I still don't know.
+I looked inside, cleaned with compressed air as things were a little dusty, but that didn't do anything to fix the issues. I even found a dime resting on one of the speaker boards! But that wasn't the cause of an actual issue either.
+
+In addition, while trying the piano again, I noticed that the A#3 key was moving too much laterally, and while doing so was making noise. It was the only key like this one the keyboard. Was this a new issue? Or maybe I hadn't noticed it before? I still don't know.
 
 Not that it matters but here you can see the main board. There are some Samsung as well as Yamaha chips.
 
@@ -226,7 +228,7 @@ I must say that this digital piano is well-built and easy to service once you kn
 
 Let's see if the issue is gone for good over the next few weeks and months.
 
-## More
+## Resources
 
 Here are a couple of online videos that helped me with my repair:
 
