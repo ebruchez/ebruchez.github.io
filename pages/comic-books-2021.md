@@ -14,19 +14,24 @@ title: Comic Books (2021)
 
 # Comic Books (2021)
 
+- 2021-10: [Mademoiselle J., 1938](https://www.bedetheque.com/BD-Mademoiselle-J-Tome-2-Je-ne-me-marierai-jamais-1938-404383.html)
+    - Language: French
+    - Scénario: Yves Sentes
+    - Dessin et couleur: Laurent Verron
+    - Rating: 5/5
 - 2021-10-12: [Dragonero - Cacciatori di Kraken](https://shop.sergiobonelli.it/dragonero/2020/08/26/libro/dragonero-cacciatori-di-kraken-1008597/)
-  - 2020
-  - Language: Italian
-  - Soggetto:Vietti Stefano
-  - Sceneggiatura: Vietti Stefano
-  - Disegni: Rizzato Francesco
+    - 2020
+    - Language: Italian
+    - Soggetto:Vietti Stefano
+    - Sceneggiatura: Vietti Stefano
+    - Disegni: Rizzato Francesco
 - 2021-10-05: [Dragonero - La principessa delle sabbie](https://shop.sergiobonelli.it/dragonero/2020/03/06/libro/dragonero-la-principessa-delle-sabbie-1007813/)
-  - 2020
-  - Language: Italian
-  - Soggetto: Enoch Luca
-  - Sceneggiatura: Enoch Luca
-  - Disegni: Bignamini Alessandro
-  - NOTES: I really liked the drawings in this album.
+    - 2020
+    - Language: Italian
+    - Soggetto: Enoch Luca
+    - Sceneggiatura: Enoch Luca
+    - Disegni: Bignamini Alessandro
+    - NOTES: I really liked the drawings in this album.
 - 2021-08-23: [Tif et Tondu - 18. Le roc maudit](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-18-Le-roc-maudit-4453.html)
     - 1972
     - Language: French
