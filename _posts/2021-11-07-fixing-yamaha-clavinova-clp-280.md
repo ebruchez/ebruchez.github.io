@@ -204,7 +204,7 @@ So I put everything else back together:
 
    ![The keyboard is back in place](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5586.jpg){:standalone}
 
-3. I reinstalled the front panel. I used the opportunity to clean the red felt alongside the keys from underneath.
+3. I reinstalled the front panel. I used the opportunity to clean the red felt alongside the keys from underneath with a lint roller.
 
    ![Cleaning the felt](/assets/posts/fixing-yamaha-clavinova-clp-280/2x/IMG_5583.jpg){:standalone}
 
