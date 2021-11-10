@@ -7,7 +7,7 @@ tags:
 category: Technology
 ---
 
-## What was wrong
+## The problem
 
 Over the last few months our Yamaha Clavinova CLP-280, which we bought around 2007, had developed issues: some keys, starting with A3, but then also G3, and then a couple of other keys, would sound at the maximum volume even when just pressed softly. Initially the issue would mostly go away after the first few minutes of the instrument being turned on. But more recently it started persisting, being more random, and essentially made the instrument unplayable.
 
