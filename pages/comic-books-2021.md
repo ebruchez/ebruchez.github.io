@@ -14,6 +14,72 @@ title: Comic Books (2021)
 
 # Comic Books (2021)
 
+- 2021-12: [Wizards of Mickey - 3.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
+    - Language: English
+- 2021-12: [Wizards of Mickey - 2.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
+    - Language: English
+- 2021-12: [Wizards of Mickey - 1.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
+    - Language: English
+- 2021-12: [Flash Gordon - Sundays: Dan Barry Volume I - The Death Planet](https://titan-comics.com/c/1009-flash-gordon-sundays-dan-barry-volume-1-the-death-/)
+    - 1967-1971
+    - released: 2017
+    - Author: Dan Barry
+- 2021-12: [Yoko Tsuno l'intégrale, tome 7: Menaces pour la Terre](https://www.bedetheque.com/BD-Yoko-Tsuno-Integrale-Tome-7-Sombres-complots-87578.html)
+    - 2009 (intégrale)
+    - Language: French
+    - [La fille du vent](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-9-La-fille-du-vent-4640.html)
+        - tags: #reread
+        - 1979
+        - Rating: 5/5
+    - [La proie et l'ombre](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-12-La-proie-et-l-ombre-1539.html)
+        - tags: #reread
+        - 1982
+        - Rating: 5/5
+    - [L'or du Rhin](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-19-L-or-du-Rhin-497.html)
+        - tags: #reread
+        - 1993
+        - Rating: 4/5
+- 2021-11: Les compagnons du crépuscule
+    - Author: François Bourgeon
+    - Language: French
+    - [1. Le sortilège du bois des brumes](https://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-1-Le-sortilege-du-bois-des-brumes-7737.html)
+        - Rating: 5/5
+    - [2. Les Yeux d'étain de la ville glauque](https://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-2-Les-Yeux-d-etain-de-la-ville-glauque-7738.html)
+        - Rating: 5/5
+    - [3. Le dernier chant des Malaterre](http://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-3-Le-dernier-chant-des-Malaterre-142.html)
+        - Rating: 5/5
+        - NOTES: I would rate this album 6/5 as it is truly a masterpiece. The research needed for this album must have been incredible. The characters, decors, atmosphere, all contribute to an atmosphere that is truly incredible. There is also so much cruelty, yet a few of the characters are like the supposed reader: they despise envy, injustice, power, and pain, yet have to endure that in this dark ages world. I just realized that there is a book, ["Dans le sillage des sirènes"](https://www.bedetheque.com/BD-Compagnons-du-crepuscule-HS-Dans-le-sillage-des-sirenes-985.html), on the topic. I need to get it.
+- 2021-11: [Pk Cronaca di un ritorno](https://disney-comics.fandom.com/it/wiki/Cronaca_di_un_ritorno)
+    - Language: Italian
+    - Topolino Limited De Luxe Edition
+    - Artists: Alessandro Sisti, Claudio Sciarrone, Max Monteduro
+- 2021-11: [Tif et Tondu (Intégrale) - 12. Crimes ordinaires](https://www.bedetheque.com/BD-Tif-et-Tondu-Integrale-Tome-11-Sortileges-et-manipulations-156866.html)
+    - Language: French
+    - tags: #reread
+    - [40. Prise d'otages](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-40-Prise-d-otages-4471.html)
+        - NOTES: First short stories by Sikorski and Lapière. They are still a little clumsy and graphically not very attractive to me. But they are not bad, however they are dark!
+    - [41. À feu et à sang](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-41-A-feu-et-a-sang-4472.html)
+        - NOTES: Better than the previous volume.
+    - [42. L'assassin des trois villes soeurs](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-42-L-assassin-des-trois-villes-soeurs-4473.html)
+        - NOTES: A more mature story by Sikorski and Lapière.
+- 2021-11: [Tif et Tondu (Intégrale) - 11. Sortilèges et manipulations](https://www.bedetheque.com/BD-Tif-et-Tondu-Integrale-Tome-11-Sortileges-et-manipulations-156866.html)
+    - Language: French
+    - tags: #reread
+    - [36. Magdalena](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-36-Magdalena-4467.html)
+    - [37. Les phalanges de Jeanne d'Arc](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-37-Les-phalanges-de-Jeanne-d-Arc-4468.html)
+        - NOTES: First part of the last story done by Will.
+    - [38. La tentation du bien](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-38-La-tentation-du-bien-4469.html)
+        - NOTES: Second part of the last story done by Will. Even the last drawing shows that Will was done with Tif et Tondu. However, this dark story is pretty good.
+    - [39. Coups durs](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-39-Coups-durs-4470.html)
+          - short story "La cible"
+- 2021-11: [Tif et Tondu (Intégrale) - 10. Le Retour de Choc](https://www.bedetheque.com/BD-Tif-et-Tondu-Integrale-Tome-10-Le-Retour-de-Choc-138308.html)
+    - Language: French
+    - tags: #reread
+    - [32. Traitement de Choc](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-32-Traitement-de-Choc-4463.html)
+    - [33. Choc 235](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-33-Choc-235-4464.html)
+    - [35. Dans les griffes de la Main Blanche](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-35-Dans-les-griffes-de-la-Main-Blanche-4466.html)
+    - [39. Coups durs](https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-39-Coups-durs-4470.html)
+        - short story "Corps sur table"
 - 2021-10: [Mademoiselle J., 1938](https://www.bedetheque.com/BD-Mademoiselle-J-Tome-2-Je-ne-me-marierai-jamais-1938-404383.html)
     - Language: French
     - Scénario: Yves Sentes
