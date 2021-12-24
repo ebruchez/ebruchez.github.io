@@ -16,10 +16,102 @@ title: Comic Books (2021)
 
 - 2021-12: [Wizards of Mickey - 3.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
     - Language: English
-- 2021-12: [Wizards of Mickey - 2.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
+    - The Ancient Evil
+        - The Never Ending War
+            - Story by Stefano Ambrosio
+            - Art by Alessandro Pastrovicchio
+        - The Mysterious Sleeper
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The Titans of Ice
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The Furnace of the Abyss
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The Dawn of a New World
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+    - The New World
+        - The Lord of the Seas
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The Crypt of One Hundred Lions
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The Siege of Shadows
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The Kingdom Below (Part One)
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The Kingdom Below (Part Two)
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+- 2021-12: [Wizards of Mickey - 2. The Dark Age](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
     - Language: English
-- 2021-12: [Wizards of Mickey - 1.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
+    - The Tournament of the Wicked Sorcerer
+        - Story by Stefano Ambrosio
+        - Art by Marco Palazzi
+    - The Great Betrayal
+        - Story by Stefano Ambrosio
+        - Art by Alessandro Perina
+    - The Day Without Sun
+        - Story by Stefano Ambrosio
+        - Art by Roberto Vian
+    - The Dragons' Fury
+        - Story by Stefano Ambrosio
+        - Art by Lorenzo Pastrovicchio
+    - The Waterfall Labyrinth
+        - Story by Stefano Ambrosio
+        - Art by Alessandro Pastrovicchio
+    - The Cursed Keys
+        - Story by Stefano Ambrosio
+        - Art by Vitale Mangiatordi
+    - The Shadow Guardians
+        - Story by Stefano Ambrosio
+        - Art by Francesco D'Ippolito
+    - The Dragons' Stronghold
+        - Story by Stefano Ambrosio
+        - Art by Alessandro Perina
+    - The Horns of Oggoth
+        - Story by Stefano Ambrosio
+        - Art by Alessandro Pastrovicchio
+    - The Way Home
+        - Story by Stefano Ambrosio
+        - Art by Lorenzo Pastrovicchio
+- 2021-12: [Wizards of Mickey - 1. Origins](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
     - Language: English
+    - The Grand Tournament
+        - Story by Stefano Ambrosio
+        - Art by Lorenzo Pastrovicchio
+    - The Dolmen Swamp
+      - Story by Stefano Ambrosio
+        - Art by Marco Gervaslo
+    - The Secret Of The Great Crown
+        - Story by Stefano Ambrosio
+        - Art by Marco Palazzi
+    - Moon Diamond
+        - Story by Stefano Ambrosio
+        - Art by Alessandro Perina
+    - The Well of Dragons
+        - Story by Stefano Ambrosio
+        - Art by Marco Mazzarello
+    - Witches in the Palace
+        - Story by Stefano Ambrosio
+        - Art by Vitale Mangiatordi
+    - The Iron Dragon
+        - Story by Stefano Ambrosio
+        - Art by Lorenzo Pastrovicchio
+    - The Monster Hunters
+        - Story by Stefano Ambrosio
+        - Art by Alessandro Pastrovicchio
+    - The Return of Phantom Blot
+        - Story by Stefano Ambrosio
+        - Art by Marco Gervasio
+    - The Supreme Sorcerer
+        - Story by Stefano Ambrosio
+        - Art by Marco Palazzi
 - 2021-12: [Flash Gordon - Sundays: Dan Barry Volume I - The Death Planet](https://titan-comics.com/c/1009-flash-gordon-sundays-dan-barry-volume-1-the-death-/)
     - 1967-1971
     - released: 2017
