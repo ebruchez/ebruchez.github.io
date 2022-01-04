@@ -14,6 +14,35 @@ title: Comic Books (2021)
 
 # Comic Books (2021)
 
+- 2021-12: [Wizards of Mickey - 4.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
+    - Language: English
+    - Lemuria
+        - Dwellers of The Dark
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The City of Machines
+            - Story by Stefano Ambrosio
+            - Art by Lorenzo Pastrovicchio
+        - The Heart of Albion
+            - Story by Stefano Ambrosio
+              - Art by Lorenzo Pastrovicchio
+    - Legacy
+        - The Army of The Night
+            - Story by Matteo Venerus
+            - Art by Alessandro Perina
+        - The Custodians of Memory
+            - Story by Matteo Venerus
+            - Art by Alessandro Perina
+        - The Ancestral Banner
+            - Story by Matteo Venerus
+            - Art by Lorenzo Pastrovicchio
+        - The Master of Magic
+            - Story by Matteo Venerus
+            - Art by Alessandro Perina
+    - The Lost Legends
+        - The Sparkling Dragon
+            - Story by Maria Muzzolini
+            - Art by Marco Palazzi
 - 2021-12: [Wizards of Mickey - 3.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
     - Language: English
     - The Ancient Evil
