@@ -14,6 +14,8 @@ title: Comic Books (2021)
 
 # Comic Books (2021)
 
+- 2021-12: [Walt Disney's Uncle Scrooge - 17. Secret of Hondorica]
+    - Author: Carl Barks
 - 2021-12: [Wizards of Mickey - 4.](https://en.wikipedia.org/wiki/Wizards_of_Mickey)
     - Language: English
     - Lemuria
