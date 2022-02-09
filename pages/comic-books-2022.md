@@ -14,15 +14,39 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2022-02-04: [Les Mondes de Thorgal - Kriss de Valnor - Tome 3 - Digne d'une reine](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-3-Digne-d-une-reine-170895.html)
+    - 2012
+    - Scénario: Yves Sente
+    - Dessin: Giulio De Vita
+- 2022-02-02: [Les Mondes de Thorgal - Kriss de Valnor - Tome 2 - La sentence des Walkyries](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-2-La-sentence-des-Walkyries-156670.html)
+    - 2012
+    - tags: #reread
+    - Scénario: Yves Sente
+    - Dessin: Giulio De Vita
+- 2022-02-01: [Les Mondes de Thorgal - Kriss de Valnor - Tome 1 - Je n'oublie rien !](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-1-Je-n-oublie-rien-116231.html)
+    - 2010
+    - tags: #reread
+    - Scénario: Yves Sente
+    - Dessin: Giulio De Vita
+- 2022-01-26: [Ralph Azham - 7. Une fin à toute chose](https://www.bedetheque.com/BD-Ralph-Azham-Tome-7-Une-fin-a-toute-chose-229692.html)
+    - 2014
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: Fin du premier cycle de Ralph Azham.
+- 2022-01-25: [Ralph Azham - 6. L'ennemi de mon ennemi](https://www.bedetheque.com/BD-Ralph-Azham-Tome-6-L-ennemi-de-mon-ennemi-208631.html)
+    - 2014
+    - tags: #reread
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
 - 2022-01-24: [Donjon Crépuscule - 111. La fin du Donjon](https://www.bedetheque.com/BD-Donjon-Crepuscule-Tome-111-La-fin-du-Donjon-212137.html)
     - 2014
     - Scénario: Joann Sfar
     - Dessin: Mazan
 - 2022-01-23: [Donjon Crépuscule - 110. Haut Septentrion](https://www.bedetheque.com/BD-Donjon-Crepuscule-Tome-110-Haut-Septentrion-212136.html)
     - 2014
+    - tags: #reread
     - Scénario: Joann Sfar
     - Dessin: Alfred
-    - tags: #reread
 - 2022-01-22: [Lefranc - Tome 32. Les juges intègres](https://www.bedetheque.com/BD-Lefranc-Tome-32-Les-juges-integres-435974.html)
     - 2021
     - Scénario: François Corteggiani

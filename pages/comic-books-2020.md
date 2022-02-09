@@ -52,13 +52,13 @@ title: Comic Books (2020)
     - Author: Leo
     - NOTES:
         - This is the third saga with Kim Keller, after the 5-tome Aldébaran, and the 5-tome Bételgeuse. In this series, Earth is looking at colonizing a planet in the Antarès system. It's a mostly private enterprise, led from New York by Forward Enterprises and its president, Elijah Thornton. However, the leaders of the project happen to be under the influence of a sect, led by Jedediah Thornton, Elijah's brother. His idea is that he wants to go to Antarès to found the "new human society".
-        Tome 1
+        - Tome 1
             - The sect's ideas are extremely conservative, mostly about women. Jedediah is a true believer. He has absolute faith. He thinks God is telling him to go there and meet some advanced intelligence. But little really supports his ideas. He is often pictured with his mouth and eyes widely open.
             - Earth has become poor, and its air is very polluted. Species like orangutans, gorillas, and bonobos are extinct. There is only one chimpanzee left in a zoo in Paris. Europe has become very cold and gray. Interestingly, there are robotaxis. The year is 2196.
             - Kim Keller is convinced by Elijah to join the project, promising he will help free Kim's friends: Alexa (Komarova), Marc (Sorensen) and Pad (Eldermore Paderewsky). Kim can't refuse under these conditions, of course.
             - Kim learns she is pregnant from the "extraterrestrial", Sven, she had met in previous stories.
             - On Antarès, we follow three "kamikaze", who are the first to land and observe the planet. Their role is to observe and report on the conditions of the planet for their bosses - the promoters of the Antarès colonization project. But they witness an animal vanishing into thin air. And then it's the turn of Mei, one of the three kamikaze.
-        - 2 years later, on Bételgeuse, we learn that Alexa, Marc and Pad have been indeed released. They come to meet Kim, who gave birth to Lynn, her daughter. She has a dorsal fin and gills. But those are slowly going away.
+            - 2 years later, on Bételgeuse, we learn that Alexa, Marc and Pad have been indeed released. They come to meet Kim, who gave birth to Lynn, her daughter. She has a dorsal fin and gills. But those are slowly going away.
         - Tome 2
             - Kim, Lynn, Marc, Maï lan are on their way to Antarès. The atmosphere on the ship is tense. The crew and passengers don't like Kim. Under-commandant Ashley Scott clearly shows this to Kim. They learn that women are forced to wear inflatable suits that fully hide their shape. They meet Julius  White, an aggressive man, who attempts to rape Maï Lan. Her aggressors get 15 days of prison, but Alex gets 40 for fighting and injuring them, and Maï Lan 20 days for provocation. The doctor of the ship, Amos Blum, is told to examine Lynn. He decides to be kind and just report an eye malformation. Internal TVs and kids mock her.
             - The expedition reaches Antarès. The kamikaze report the abnormal phenomena. Kim's team is outraged. The Thorntons defend their expedition. The planet turns out to be much more dangerous than expected, but the Thorntons glossed over that.
@@ -408,7 +408,7 @@ title: Comic Books (2020)
                 - Tif, Tondu and Allumette come back at night, and figured the suitcase was still on the plaza, but underground.
                 - Choc comes to recover it, and tries to escape by boat, but the boat crashes and his body is not found. Tondu is unconscious but recovers. The gold is also recovered, as well as the paintings, and Choc's helpers are arrested.
             - EVALUATION
-- 2020-05-23: [Lefranc - La grande menace]()
+- 2020-05-23: [Lefranc - La grande menace](https://www.bedetheque.com/BD-Lefranc-Tome-1-La-grande-menace-20051.html)
     - 1954
     - tags: #reread
     - Jacques Martin

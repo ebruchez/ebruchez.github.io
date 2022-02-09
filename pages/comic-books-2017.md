@@ -44,6 +44,9 @@ title: Comic Books (2017)
 - 2017-12-06: [Les nouvelles aventures de Lapinot - Un monde un peu meilleur]()
     - 4/5
 - 2017-12-01: [Les Mondes de Thorgal - Kriss de Valnor - Tome 1 - Je n'oublie rien !](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-1-Je-n-oublie-rien-116231.html)
+    - 2010
+    - Scénario: Yves Sente
+    - Dessin: Giulio De Vita
     - 4/5
 - 2017-11: [Mermaid Project - Épisode 2]()
     - Scénario: Léo, Corine Jamar
