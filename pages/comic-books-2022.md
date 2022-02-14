@@ -14,6 +14,11 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2022-02: [Ralph Azham - 8. Personne n'attrape une rivière](https://www.bedetheque.com/BD-Ralph-Azham-Tome-8-Personne-n-attrape-une-riviere-257602.html)
+    - 2015
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: Début du second cycle de Ralph Azham.
 - 2022-02-04: [Les Mondes de Thorgal - Kriss de Valnor - Tome 3 - Digne d'une reine](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-3-Digne-d-une-reine-170895.html)
     - 2012
     - Scénario: Yves Sente
