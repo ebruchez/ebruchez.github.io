@@ -14,6 +14,69 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2022-03: [Tif et Tondu - 46. Mais où est Kiki?](https://www.bedetheque.com/BD-Tif-et-Tondu-Mais-ou-est-Kiki-381510.html)
+    - 2020
+    - Scénario: Robber
+    - Dessin: Blutch
+    - NOTES:
+        - The last "real" Tif et Tondu album, by Sikorski et Lapière, dates back to 1997.
+        - This album instead is in the spirit of Tif et Tondu, but does not try to mimic the style of earlier albums.
+        - This obviously gives the cartoonist a lot of freedom, but the result is pretty good.
+        - The story is explicitly situated in 1986, and so it doesn't have to, as the 4th page of cover says, to show mobile phones or search engines.
+        - I cannot say I am enamored with the style of the drawings, but they work, and you are just taken by the story.
+- 2022-02: [Largo Winch - 23. La Frontière de la nuit](https://www.bedetheque.com/BD-Largo-Winch-Tome-23-La-Frontiere-de-la-nuit-433684.html)
+    - 2021
+    - Scénario: Éric Giacometti
+    - Dessin: Philippe Francq
+    - NOTES:
+        - Not a bad start for this diptych. This ends with a big cliffhanger.
+        - This is a modern story, with echoes of real companies and machines, in particular Paul Allen's space plane (Stratolaunch Systems Corp).
+        - I'd criticize, as often in the last 10-20 years, the colors, which feel too computerized (gradients) at times.
+- 2022-02: [Blake & Mortimer - 28. Le Dernier Espadon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-28-Le-Dernier-Espadon-436466.html)
+    - Language: French
+    - 2021
+    - Scénario: Jean Van Hamme
+    - Dessin: Teun Berserik, Peter Van Dongen
+    - Rating: 4/5
+    - NOTES:
+        - The story is pretty good, with some surprises along the way. It's a nice mix of espionage, action, and of course lots of flashbacks to the first Blake et Mortimer trilogy.
+        - Here Olrik appears truly like a duplicitous, cold-blooded character, not hesitating to kill others point blank, unlike in some other stories.
+        - The drawings are quite good in general. There are a couple of exceptions, where the cartoonist appears to draw the top part of the characters a little too narrowly, with small heads (for example on page 9, last strip, middle panel)! Blake in particulat tends to be a little inconsistent. Blake has always been hard to draw. But in some other places, you could believe that panels were done by Jacobs himself.
+        - This is in stark contrast with album 27, "Le cri du Moloch", which was a disaster.
+- 2022-02: [Alix - Tome 40. L'Œil du Minotaure](https://www.bedetheque.com/BD-Alix-Tome-40-L-OEil-du-Minotaure-434853.html)
+    - 2021
+    - Scénario: Valérie Mangin
+    - Dessin: Chrys Millien
+    - Rating: 4/5
+    - NOTES:
+        - The story is acceptable, without being unique, with the idea of a stone that radiates and gets people who get in prolonged contact with it sick. In fact that's also the idea in [the first story of Luc Orient](https://www.bedetheque.com/BD-Luc-Orient-Tome-1-Les-dragons-de-feu-4003.html), from 1969!
+        - The decors are rich and done with care, although they look to me a little too neat, with many straight lines, sometimes as if a computer had been used (as is the case with the colors). The characters are usually drawn well, in particular Alix, but it feels like the inking is sometimes off to my taste. The characters seem sometimes just pasted on existing decors, rather than truly integrated in them, which is a fault that occurs often in recent bandes dessinées. It just all seems too neat, which takes away some natural and elegance.
+        - I think it's one of the "good" post-Martin albums.
+- 2022-02: [Thorgal - 39. Neokóra](https://www.bedetheque.com/BD-Thorgal-Tome-39-Neokora-433699.html)
+    - 2021
+    - Language: French
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - NOTES: This story takes us back to the science-fiction world of the early Thorgals, with a voyage to Thorgal's people's spaceship. This is the first half (or just the beginning) of a longer story as the end is on a cliffhanger with Thorgal meeting Neokóra, presumably the spirit or computer of the ship, located at the core of it. I cannot say that I like, graphically, the last page panel of the album.
+- 2022-02-16: [Thorgal - 38. La Selkie](https://www.bedetheque.com/BD-Thorgal-Tome-38-La-Selkie-405264.html)
+    - 2020
+    - Language: French
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - tags: #reread
+- 2022-02-15: [Les mondes de Thorgal - La jeunesse, Tome 6. Le drakkar des glaces](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-6-Le-drakkar-des-glaces-326810.html)
+    - 2018
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2022-02-14: [Les mondes de Thorgal - La jeunesse, Tome 5. Slive](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-5-Slive-312951.html)
+    - 2017
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2022-02-13 [Les mondes de Thorgal - La jeunesse, Tome 4. Berserkers](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-4-Berserkers-276397.html)
+    - 2016
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
 - 2022-02: [Ralph Azham - 8. Personne n'attrape une rivière](https://www.bedetheque.com/BD-Ralph-Azham-Tome-8-Personne-n-attrape-une-riviere-257602.html)
     - 2015
     - Language: French

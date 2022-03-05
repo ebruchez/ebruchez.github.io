@@ -414,8 +414,8 @@ title: Comic Books (2021)
 - 2021-05: [Thorgal - 38. La Selkie](https://www.bedetheque.com/BD-Thorgal-Tome-38-La-Selkie-405264.html)
     - 2020
     - Language: French
-    - Scénario: Yann Vignaux
-    - Dessin: Fred Georges
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
     - tags: #reread
 - 2021-05: [Les mondes de Thorgal - La jeunesse, Tome 3. Runa](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-3-Runa-241654.html)
     - 2015
@@ -514,8 +514,8 @@ title: Comic Books (2021)
 - 2021-02: [Thorgal - 38. La Selkie](https://www.bedetheque.com/BD-Thorgal-Tome-38-La-Selkie-405264.html)
     - 2020
     - Language: French
-    - Scénario: Yann Vignaux
-    - Dessin: Fred Georges
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
 - 2021-02: [Yoko Tsuno l'intégrale, tome 8: Menaces pour la Terre](https://www.bedetheque.com/BD-Yoko-Tsuno-Integrale-Tome-8-Menaces-pour-la-terre-99045.html)
     - 2009 (intégrale)
     - [Message pour l'éternité](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-5-Message-pour-l-eternite-22227.html)

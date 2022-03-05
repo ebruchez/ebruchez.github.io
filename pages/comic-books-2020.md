@@ -684,7 +684,7 @@ title: Comic Books (2020)
     - Dessin: Marc Jailloux
     - Rating: x/5
     - NOTES:
-        -
+        - TODO
 - 2020-03-05: [Alix - Tome 35. L'or de Saturne](https://www.bedetheque.com/BD-Alix-Tome-35-L-or-de-Saturne-291161.html)
     - 2016
     - tags: #reread
@@ -692,7 +692,7 @@ title: Comic Books (2020)
     - Dessin: Marco Venanzi
     - Rating: x/5
     - NOTES:
-        -
+        - TODO
 - 2020-03-04: [Alix - Tome 33. Britannia](https://www.bedetheque.com/BD-Alix-Tome-33-Britannia-212776.html)
     - 2014
     - tags: #reread
@@ -700,7 +700,7 @@ title: Comic Books (2020)
     - Dessin: Marc Jailloux
     - Rating: x/5
     - NOTES:
-        -
+        - TODO
 - 2020-03: [Alix - Tome 20. La dernière conquête](https://www.bedetheque.com/BD-Alix-Tome-32-La-Derniere-Conquete-187727.html)
     - 2013
     - tags: #reread
