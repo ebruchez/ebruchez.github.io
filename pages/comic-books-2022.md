@@ -14,6 +14,81 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2022-04: [Luc Orient - Le mur]()
+    - 1994
+    - tags: #reread
+    - NOTES: An incomplete story. Paape wasn't enthused with how the scenario was going, and it was not pursued. 11 pages, with 6 completed and 5 of Greg's scenario only.
+- 2022-04: [Luc Orient - 18. Rendez-vous à 20 heures en enfer...](https://www.bedetheque.com/BD-Luc-Orient-Tome-18-Rendez-vous-a-20-heures-en-enfer-4005.html)
+    - 1984
+    - tags: #reread
+    -rating: 4/5
+    - NOTES: A really good story of time travel. Published in 1994 but created "10 years earlier".
+- 2022-04: [Luc Orient - 17. Les spores null part](https://www.bedetheque.com/BD-Luc-Orient-Tome-17-Les-spores-de-nulle-part-4004.html)
+    - 1990
+    - tags: #reread
+    - NOTES: Contains 4 stories: Les spores de nulle part, Mission en 2012 [not Luc Orient], La vengeance, Les rayons de feu du soleil.
+- 2022-04: [Luc Orient - 16. Caragal](https://www.bedetheque.com/BD-Luc-Orient-Tome-16-Caragal-8842.html)
+    - 1985
+    - tags: #reread
+    - rating: 2/5
+    - NOTES: This is one of my least favorite Luc Orient story. The first pages start well, but then Kala going berserk and having to fight Orient for… what exactly? I didn't get it the first time I read the story, and I still don't.
+- 2022-03: [Luc Orient - 15. Roubak - Ultime espoir](https://www.bedetheque.com/BD-Luc-Orient-Tome-15-Roubak-Ultime-espoir-1282.html)
+    - 1984
+    - tags: #reread
+    - NOTES: Continuation and end of the Dartz cycle. Everything is "explained", kind of. It's all Argos's doing? Anyway, the Dartz can settle on Roubak, no problem. The idea of settling on Terango appears forgotten.
+- 2022-03: [Luc Orient - 14. Le rivage de la fureur](https://www.bedetheque.com/BD-Luc-Orient-Tome-14-Le-rivage-de-la-fureur-95606.html)
+    - 1981
+    - tags: #reread
+    - NOTES: Continuation of the Dartz cycle. Not my favorite album. I don't like the cliché of the Amazones. Those, in addition, it turns out, were created by Argos, we learn later. I'd have hoped a little better for the big return to Terango.
+- 2022-03: [Luc Orient - 13. L'enclume de la foudre](https://www.bedetheque.com/BD-Luc-Orient-Tome-13-L-enclume-de-la-foudre-733.html)
+    - 1978
+    - tags: #reread
+    - NOTES: Continuation of the Dartz cycle. In short: Roubak is not a fun place. Good atmosphere (in the story, not on Roubak).
+- 2022-03: [Luc Orient - 12. La porte de cristal](https://www.bedetheque.com/BD-Luc-Orient-Tome-12-La-porte-de-cristal-24364.html)
+    - 1977
+    - tags: #reread
+    - NOTES: The beginning of the Dartz cycle. The atmosphere, in the forrest, with the car accident, is quite good. The colorful characters from the past are nice, although they do remain background characters. I like that they don't ask too many questions: like their 20th century counterparts, they are surprised, but then take the world as it comes.
+- 2022-03: [Luc Orient - 11. La vallée des eaux troubles](https://www.bedetheque.com/BD-Luc-Orient-Tome-11-La-vallee-des-eaux-troubles-24363.html)
+    - 1976
+    - tags: #reread
+    - NOTES: A decent story about the trope of the crazy scientist. The monsters are maybe just a tad overblown. I like that the crazy scientist looks like a frail, weak, smirking man.
+- 2022-03: [Luc Orient - 10. Le 6ème continent](https://www.bedetheque.com/BD-Luc-Orient-Tome-10-Le-6eme-continent-24362.html)
+    - 1976
+    - tags: #reread
+    - NOTES: A good story. Now one thing that doesn't make any sense is Luc Orient skiing! First, you cannot just go downhill all the time. You need cross-country skis and skins to explore an area like they do. Second, he looks like a beginner in some spots, and yet a more accomplished skier in some other spots. Skiing is something you learn over years, not something you just improvise. Also, I am not sure that there is a good rationale for the destruction of the underground city: they are discovered, therefore they must be destructed? That seems like a poor philosophy on the part of the (long dead) leader of the group.
+- 2022-03: [Luc Orient - 9. 24 heures pour la planète terre](https://www.bedetheque.com/BD-Luc-Orient-Tome-9-24-heures-pour-la-planete-terre-24361.html)
+    - 1975
+    - tags: #reread
+    - NOTES: TODO.
+- 2022-03: [Luc Orient - 8. La légion des anges maudits](https://www.bedetheque.com/BD-Luc-Orient-Tome-8-La-legion-des-anges-maudits-40220.html)
+    - 1975
+    - tags: #reread
+    - NOTES: I am not sure what I think of Lora settled in a suburb, and ready to take care of babies (even though not hers), after all the previous adventures.
+- 2022-03: [Luc Orient - 7. Le cratère aux sortilèges](https://www.bedetheque.com/BD-Luc-Orient-Tome-7-Le-cratere-aux-sortileges-24360.html)
+    - 1974
+    - tags: #reread
+    - NOTES: The atmosphere of the small mountain village, isolated by an incident, reminds me of Le Mystère Borg. The atmosphere of the small village is very well rendered. We can deplore Luc Orient's recklessness when going to the crater to take samples. It was pretty obvious that the fumes would be toxic.
+- 2022-03: [Luc Orient - 6. Le secret des 7 lumières](https://www.bedetheque.com/BD-Luc-Orient-Tome-6-Le-secret-des-7-lumieres-24359.html)
+    - 1974
+    - tags: #reread
+    - NOTES: A story completely separate from the Terango cycle. Orient and team are now well-grounded on Earth.
+- 2022-03: [Luc Orient - 5. La forêt d'acier](https://www.bedetheque.com/BD-Luc-Orient-Tome-5-La-foret-d-acier-24358.html)
+    - 1973
+    - tags: #reread
+    - NOTES: The end of the Terango cycle, which sees the demise of Sectan and, presumably, Argos.
+- 2022-03: [Luc Orient - 4. La planète de l'angoisse](https://www.bedetheque.com/BD-Luc-Orient-Tome-4-La-planete-de-l-angoisse-24357.html)
+    - 1972
+    - tags: #reread
+- 2022-03: [Luc Orient - 3. Le maître de Terango](https://www.bedetheque.com/BD-Luc-Orient-Tome-3-Le-maitre-de-Terango-24356.html)
+    - 1971
+    - tags: #reread
+    - NOTES: The caricature of the despot surrounded by yes-men whom he despises, the desire of power and expansion, and the launch of senseless attacks, does ring bells in light of the current events in Ukraine.
+- 2022-03: [Luc Orient - 2. Les soleils de glace](https://www.bedetheque.com/BD-Luc-Orient-Tome-2-Les-soleils-de-glace-24355.html)
+    - 1970
+    - tags: #reread
+- 2022-03: [Luc Orient - 1. Les dragons de feu](https://www.bedetheque.com/BD-Luc-Orient-Tome-1-Les-dragons-de-feu-4003.html)
+    - 1969
+    - tags: #reread
 - 2022-03: [Tif et Tondu - 46. Mais où est Kiki?](https://www.bedetheque.com/BD-Tif-et-Tondu-Mais-ou-est-Kiki-381510.html)
     - 2020
     - Scénario: Robber
