@@ -132,7 +132,7 @@ Next time, I plan to use polystyrene and/or polyethylene boards and possibly poo
 
 ## Conclusion
 
-It was risky to do a first large shipment all in one go without much experience. I think that overall I got lucky but My next shipments will be better. Most of the machines arrived in good condition, including this beautiful 1946 Hermes Media:
+It was risky to do a first large shipment all in one go without much experience. I think that overall I got lucky but my next shipments will be better. Most of the machines arrived in good condition, including this beautiful 1946 Hermes Media:
 
 ![1946 Hermes Media after refurbishing](/assets/posts/shipping-typewriters/2x/IMG_4249.jpg){:standalone}
 
