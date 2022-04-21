@@ -26,7 +26,7 @@ I knew, for having seen lots of examples of destroyed typewriters in online foru
 
 ## The packing
 
-Originally, typewriters were packed at the factory and ship well protected in wooden crates. It would be inconvenient and very expensive to crate a regular typewriter for international shipping (although that might be needed in some rare cases). But the good news is that you don't need to go to such extremes.
+Originally, typewriters were packed at the factory and shipped well protected in wooden crates. It would be inconvenient and very expensive to crate a regular typewriter for international shipping (although that might be needed in some rare cases). But the good news is that you don't need to go to such extremes.
 
 I had (or thought I had) an idea of what to do based on forum posts and videos:
 
@@ -61,19 +61,19 @@ I realized that putting 20-25 kg of content in a single cardboard box would be a
 
 ![Plywood base](/assets/posts/shipping-typewriters/2x/IMG_2869.jpg){:standalone}
 
-Portables got an extra treatment: I made sure all carriage locks were engaged, used packing tape to disengage carriages in a couple of cases, and to stabilize things. I put crumpled newspapers inside the cases to ensure that nothing would move inside. I also used packing tape to hold cases closed in case the locking mechanism would fail.
+Portables got an extra treatment: I made sure all carriage locks were engaged, used packing tape to disengage carriages in a couple of cases, and to stabilize things. I put crumpled newspapers inside the cases to ensure that nothing would move inside. I also used packing tape to hold cases closed in case the locking mechanism failed.
 
 I built a sandwich in each cardboard box:
 
 - plywood board
 - foam board
-- portable cases, vertically
-- more foam on the sides and packing peanuts to fill all voides
+- portable cases (vertically)
+- more foam on the sides and packing peanuts to fill all voids
 - plywood board on top
 
 I used extra tape to make sure the box would not open no matter what.
 
-The boxes I had chosen have handles, which I reinforced. I also made sure the holes were backed by cardboard.
+The boxes I had chosen have handles, which I reinforced. I also made sure the handle holes were backed by cardboard.
 
 The standards worried me, as they didn't have the extra protection afforded by the portables' cases. For the Smith Premier 5, in particular, I built a frame within the box to ensure more rigidity. I modified the cardboard box to set it up on its side as I needed it wider rather than taller.
 
