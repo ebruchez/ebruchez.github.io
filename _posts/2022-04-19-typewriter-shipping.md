@@ -20,7 +20,7 @@ In July 2021 I shipped 7 large boxes containing typewriters from Switzerland to 
 
 Vintage typewriters, while robust when used for their intended purpose, are also fragile: cast iron frames can break, platen knobs can shatter, paper tables can bend, carriages can move and break escapement wheels, delicate paint and decals can scratch.
 
-Typewriters are typically *heavy*: a portable typewriter weighs typically around 15 lbs/7 kg, while a standard (desktop) will weigh up to 50 lbs/23 kg.[^maxweight] If you have ever held in your hands on of these machines, imagine just dropping one from about 3 ft/1 m to the floor: it's not hard to imagine catastrophic damage resulting from such a fall - and even more so if the machine doesn't fall flat.
+Typewriters are typically *heavy*: a portable typewriter weighs typically around 15 lbs/7 kg, while a standard (desktop) will weigh up to 50 lbs/23 kg.[^maxweight] If you have ever held in your hands one of these machines, imagine just dropping one from about 3 ft/1 m to the floor: it's not hard to imagine catastrophic damage resulting from such a fall - and even more so if the machine doesn't fall flat.
 
 I knew, for having seen lots of examples of destroyed typewriters in online forums, that they need to be really well protected, and that carriers are extremely rough when shipping boxes. It's very clear that packing must be done with very special care and that the worst should be expected during transit including drops, throws, boxes stored and carried upside-down or sideways, boxes piled on top of each other, etc.
 
