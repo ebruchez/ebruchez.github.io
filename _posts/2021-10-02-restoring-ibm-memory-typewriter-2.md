@@ -66,7 +66,7 @@ The paper pan and feed rollers also got the same treatment.
 
 ![Paper pan and rollers](/assets/posts/ibm-memory-typewriter/2x/IMG_8441.jpg){:standalone}
 
-I remvoed two more covers, including one for the fuses.
+I removed two more covers, including one for the fuses.
 
 ![More covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8444.jpg){:standalone}
 
