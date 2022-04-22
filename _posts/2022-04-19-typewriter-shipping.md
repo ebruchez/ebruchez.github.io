@@ -126,7 +126,7 @@ Examining the damage and condition of the packing material upon arrival, I concl
 3. Better protect parts so they can't get in contact with each other.
 4. Better immobilize loose parts like spool covers.
 5. Definitely reinforce the boxes with strong packing tape as the cardboard will suffer.
-6. Probably keep using playwood as reinforcement, as I *think* that helped (although I cannot be certain).
+6. Probably keep using plywood as reinforcement, as I *think* that helped (although I cannot be certain).
 
 Next time, I plan to use polystyrene and/or polyethylene boards and possibly pool noodles. I might use a different type of peanuts if I find them. Double-boxing should really be considered for standards, but the difficulty is to find the right box sizes.
 
