@@ -14,6 +14,50 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2022-07: [Asterix - 11. Le bouclier arverne](https://www.bedetheque.com/BD-Asterix-Tome-11-Le-bouclier-Arverne-22956.html)
+    - 1968
+    - Scénario: Goscinni
+    - Dessin: Uderzo
+    - NOTES: No doubt a great Astérix story.
+- 2022-07: [Achille Talon - 24. Achille Talon et l'âge ingrat](https://www.bedetheque.com/BD-Achille-Talon-Tome-24-Achille-Talon-et-l-age-ingrat-26.html)
+    - 1980
+    - Author: Greg
+    - tags: #reread
+    - rating: 5/5
+- 2022-07: [Achille Talon - 23. Achille Talon et la main du serpent](https://www.bedetheque.com/BD-Achille-Talon-Tome-23-Achille-Talon-et-la-main-du-serpent-25.html)
+    - 1979
+    - Author: Greg
+    - tags: #reread
+    - rating: 5/5
+- 2022-07: [Achille Talon - 22. Le sort s'acharne sur Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-22-Le-sort-s-acharne-sur-Achille-Talon-24.html)
+    - 1979
+    - Author: Greg
+    - tags: #reread
+- 2022-07: [Achille Talon - 21. Ma vie à moi](https://www.bedetheque.com/BD-Achille-Talon-Tome-21-Ma-vie-a-moi-23.html)
+    - 1978
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES: I much prefer the long stories of Achille Talon. This is a collection of short gags, like most earlier Achille Talon albums, with uneven quality.
+- 2022-07: [Achille Talon - 20. Viva papa](https://www.bedetheque.com/BD-Achille-Talon-Tome-20-Viva-Papa-22.html)
+    - 1978
+    - Author: Greg
+    - tags: #reread
+    - rating: 5/5
+    - NOTES: A great, fun story.
+- 2022-07: [Fripounet et Marisette - 5. La bande blanche](https://www.bedetheque.com/BD-Fripounet-et-Marisette-Tome-5-La-bande-blanche-83259.html)
+    - 1954
+    - Author: René Bonnet
+    - NOTES: Good story with a couple of unexpected turns. The whaling is a little shocking, although it reflects the time. But sure, let's kill blue rorquals like they were sardines - it's just a job.
+- 2022-07: [Fripounet et Marisette - 4. Les semelles d'or](https://www.bedetheque.com/BD-Fripounet-et-Marisette-Tome-4-Les-semelles-d-or-83258.html)
+    - 1953
+    - Author: René Bonnet
+- 2022-07: [Fripounet et Marisette - 2. L'œil d'aigle](https://www.bedetheque.com/BD-Fripounet-et-Marisette-Tome-2-L-oeil-d-aigle-83257.html)
+    - 1953
+    - Author: René Bonnet
+- 2022-07: [Fripounet et Marisette - 9. L'écho d'enfer](https://www.bedetheque.com/BD-Fripounet-et-Marisette-Tome-9-L-echo-d-enfer-38939.html)
+    - 1983
+    - Author: René Bonnet
 - 2022-04: [Luc Orient - Le mur]()
     - 1994
     - tags: #reread
@@ -21,7 +65,7 @@ title: Comic Books (2022)
 - 2022-04: [Luc Orient - 18. Rendez-vous à 20 heures en enfer...](https://www.bedetheque.com/BD-Luc-Orient-Tome-18-Rendez-vous-a-20-heures-en-enfer-4005.html)
     - 1984
     - tags: #reread
-    -rating: 4/5
+    - rating: 4/5
     - NOTES: A really good story of time travel. Published in 1994 but created "10 years earlier".
 - 2022-04: [Luc Orient - 17. Les spores null part](https://www.bedetheque.com/BD-Luc-Orient-Tome-17-Les-spores-de-nulle-part-4004.html)
     - 1990
