@@ -9,7 +9,7 @@ category: Typewriters
 
 ## Introduction
 
-In a [previous post](../typewriter-shipping/), I covered the shipping of 7 boxes of typewriters in 2021. This year, I shipped another 3 boxes. Here is my report on this new experience.
+In a [previous post](../typewriter-shipping/), I covered the shipping of seven boxes of typewriters in 2021. This year, I shipped another three boxes. Here is my report on this new experience.
 
 ## The boxes
 
@@ -150,7 +150,11 @@ The Yost 20 cover is safe, although I plan to leave it alone for now.
 
 ![The Yost 20 cover](/assets/posts/shipping-typewriters-update/2x/IMG_4577.jpg){:standalone}
 
-I think that I can claim 100% success in this year's shipment! I am especially happy with the Victor 3 packing, and at the same time the other two boxes travelled safely too. This gives me confidence that, should I need to ship a particularly precious typewriter again, I will be able to do so, even though it is costly in packaging materials and time. I estimate that I spent on average about USD 40 in packing materials for each box.
+I think that I can claim 100% success in this year's shipment! I am especially happy with the Victor 3, while at the same time the other two boxes travelled safely as well. This gives me confidence that, should I need to ship a particularly precious typewriter again, I will be able to do so.
+
+Shipping typewriters, even heavy standards, can be done safely. But you have to deeply care about the process, and you have to be ready to spend time and money. In this case, I spent hours packing, and I estimate that I spent about USD 40 in packing materials for each of the three boxes.
+
+I hope again that this will be helpful to others!
 
 ---
 
