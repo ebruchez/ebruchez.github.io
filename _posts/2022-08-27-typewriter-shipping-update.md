@@ -68,7 +68,7 @@ You might notice on the picture below that the typewriter is wrapped in bubble w
 
 ![Piling up the two machines](/assets/posts/shipping-typewriters-update/2x/IMG_3986.jpg){:standalone}
 
-I shaped the styrofoam to take approximately the inner shape of the Yost 20 cover.
+I shaped the styrofoam to approximate the inner contours of the Yost 20 cover.
 
 ![The inside](/assets/posts/shipping-typewriters-update/2x/IMG_3992.jpg){:standalone}
 
@@ -106,7 +106,7 @@ One corner of the top plywood board had broken, without consequences.
 
 ![Broken corner](/assets/posts/shipping-typewriters-update/2x/IMG_4557.jpg){:standalone}
 
-But the contents of the box was in great shape, and that's what matters!
+But the contents of the box was in perfect condition, and that's what matters!
 
 ### Box 3
 
@@ -118,7 +118,9 @@ Here the top plywood board cracked.
 
 ![Cracked plywood](/assets/posts/shipping-typewriters-update/2x/IMG_4755.jpg){:standalone}
 
-The packing peanuts I had put inside proved useless again. But here too, the contents were in perfect shape.
+The packing peanuts I had put inside proved useless again, in that they were completely flattened. Luckily, I hadn't truly relied on them and here again, the contents were in perfect shape. I definitely won't put any such packing peanuts next time.
+
+The fact that the box was evidently compressed, and the top plywood cracked, indicates that there was a lot of weight put on the box at some point, as well as other conditions that I don't even want to think about. Next time, it might be a good idea to complete the inner frame with the 4 posts, as I did for the other two boxes. It's actually just a few more minutes of work to cut and screw those in, and the material is inexpensive.
 
 ### Box 1
 
