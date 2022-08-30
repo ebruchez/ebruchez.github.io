@@ -118,7 +118,7 @@ Here the top plywood board cracked.
 
 ![Cracked plywood](/assets/posts/shipping-typewriters-update/2x/IMG_4755.jpg){:standalone}
 
-The packing peanuts I had put inside proved useless again, in that they were completely flattened. Luckily, I hadn't truly relied on them and here again, the contents were in perfect shape. I definitely won't put any such packing peanuts next time.
+The packing peanuts I had put inside proved useless again, in that they were completely flattened. Luckily, I hadn't truly relied on them and here again, the contents were in perfect condition. I definitely won't put any such packing peanuts next time.
 
 The fact that the box was evidently compressed, and the top plywood cracked, indicates that there was a lot of weight put on the box at some point, as well as other conditions that I don't even want to think about. Next time, it might be a good idea to complete the inner frame with the 4 posts, as I did for the other two boxes. It's actually just a few more minutes of work to cut and screw those in, and the material is inexpensive.
 
@@ -134,7 +134,7 @@ The box wasn't in bad shape at all!
 
 ![The Victor 3's box](/assets/posts/shipping-typewriters-update/2x/IMG_4927.jpg){:standalone}
 
-I found the contents in perfect shape: the top and bottom plywood boards were in the best shape so far, and the inner box was pristine.
+I found the contents in perfect condition: the top and bottom plywood boards were in the best shape so far, and the inner box was pristine.
 
 ![Carefully pulling out the Victor 3](/assets/posts/shipping-typewriters-update/2x/IMG_4945.jpg){:standalone}
 
