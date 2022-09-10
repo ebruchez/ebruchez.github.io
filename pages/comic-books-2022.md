@@ -32,7 +32,7 @@ title: Comic Books (2022)
     - Language: English
 - 2022-07: [Asterix - 11. Le bouclier arverne](https://www.bedetheque.com/BD-Asterix-Tome-11-Le-bouclier-Arverne-22956.html)
     - 1968
-    - Scénario: Goscinni
+    - Scénario: Goscinny
     - Dessin: Uderzo
     - NOTES: No doubt a great Astérix story.
 - 2022-07: [Achille Talon - 24. Achille Talon et l'âge ingrat](https://www.bedetheque.com/BD-Achille-Talon-Tome-24-Achille-Talon-et-l-age-ingrat-26.html)

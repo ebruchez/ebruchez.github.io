@@ -212,7 +212,7 @@ title: Comic Books (2021)
 - 2021-10-12: [Dragonero - Cacciatori di Kraken](https://shop.sergiobonelli.it/dragonero/2020/08/26/libro/dragonero-cacciatori-di-kraken-1008597/)
     - 2020
     - Language: Italian
-    - Soggetto:Vietti Stefano
+    - Soggetto: Vietti Stefano
     - Sceneggiatura: Vietti Stefano
     - Disegni: Rizzato Francesco
 - 2021-10-05: [Dragonero - La principessa delle sabbie](https://shop.sergiobonelli.it/dragonero/2020/03/06/libro/dragonero-la-principessa-delle-sabbie-1007813/)
