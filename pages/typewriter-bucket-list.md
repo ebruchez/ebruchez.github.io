@@ -43,6 +43,8 @@ I'd love to find some of the "missing" models, such as the Model 1010, shown bel
 
 ![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone}
 
+I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
+
 ## IBM MT/ST
 
 I own an [IBM Mag Card/A](https://typewriterdatabase.com/1976-ibm-mag-carda.17985.typewriter), and an [IBM Memory Typewriter](https://typewriterdatabase.com/1974-ibm-memory-typewriter.15426.typewriter). I'd love to find other related IBM machines, including the probably impossible to find IBM Magnetic Tape/Selectric Typewriter (known as MT72 in Europe), which came integrated in a desk! But other machines, including newer ones like the Mag Card II, the Electronic Composer, and the Mag Card Executive, interest me as well, in addition to an  original Mag Card.
