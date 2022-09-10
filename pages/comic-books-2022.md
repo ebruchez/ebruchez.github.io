@@ -14,6 +14,12 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2022-09-10: [Alix - Tome 3. L'île maudite](https://www.bedetheque.com/BD-Alix-Tome-3-L-Ile-maudite-12436.html)
+    - 1957
+    - tags: #reread
+    - édition facsimilé
+    - Jacques Martin
+    - Rating: 5/5
 - 2022-09: [Dragonero - La muraglia dei troll](https://shop.sergiobonelli.it/dragonero/2021/02/12/libro/dragonero-la-muraglia-dei-troll-1009219/)
     - 2021
     - Language: Italian
