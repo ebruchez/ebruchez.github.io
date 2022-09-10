@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Typewriter Bucket List
+title: Typewriter bucket list
 ---
 
 # Typewriter Bucket List
