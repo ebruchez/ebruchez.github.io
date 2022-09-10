@@ -14,6 +14,16 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2022-09: [Dragonero - La muraglia dei troll](https://shop.sergiobonelli.it/dragonero/2021/02/12/libro/dragonero-la-muraglia-dei-troll-1009219/)
+    - 2021
+    - Language: Italian
+    - Soggetto: Vietti Stefano
+    - Sceneggiatura: Vietti Stefano
+    - Disegni: Gugliotta Gianluca
+- 2022-08: Prince Valiant - Vol. 22: 1977-1978
+    - Language: English
+- 2022-08: Prince Valiant - Vol. 21: 1977-1978
+    - Language: English
 - 2022-07: [Asterix - 11. Le bouclier arverne](https://www.bedetheque.com/BD-Asterix-Tome-11-Le-bouclier-Arverne-22956.html)
     - 1968
     - Scénario: Goscinni
