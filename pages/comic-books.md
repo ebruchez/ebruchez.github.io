@@ -11,6 +11,7 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 
 ## Latest reads
 
+- [2022](../comic-books-2022/)
 - [2021](../comic-books-2021/)
 - [2020](../comic-books-2020/)
 - [2019](../comic-books-2019/)
