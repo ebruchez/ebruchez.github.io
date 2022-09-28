@@ -14,6 +14,39 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2022-09-26: [Les passagers du vent - 6. La Petite Fille Bois-Caïman - Livre 1](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-6-La-Petite-Fille-Bois-Caiman-Livre-1-93413.html)
+    - 2009
+    - Scénario et dessins: François Bourgeon
+    - Rating: 4/5
+    - NOTES: This is the beginning of a second cycle, which takes place in Louisianne, long after the end of the first one. After 50 pages, we finally meet a 98 year-old Isa, and learn of her story. I am so far less taken by the story than by the first cycle.
+- 2022-09-20: [Les passagers du vent - 5. Le bois d'ébène](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-5-Le-bois-d-ebene-306.html)
+    - 1984
+    - tags: #reread
+    - Scénario et dessins: François Bourgeon
+    - Rating: 5/5
+    - NOTES: A lot happening quickly in this last album. It ends on a hopefully note that Isa's whole life is ahead of her, but the reader would be eager to know what happens then to Isa? To Hoël? And others?
+- 2022-09-20: [Les passagers du vent - 4. L'heure du serpent](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-4-L-heure-du-serpent-305.html)
+    - 1982
+    - tags: #reread
+    - Scénario et dessins: François Bourgeon
+    - Rating: 5/5
+- 2022-09-19: [Les passagers du vent - 3. Le comptoir de Juda](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-3-Le-comptoir-de-Juda-304.html)
+    - 1981
+    - tags: #reread
+    - Scénario et dessins: François Bourgeon
+    - Rating: 5/5
+    - NOTES: The atmosphere in this album is just incredible. This and volume 4 constitute a dyptich, with the story started in one concluding in the other. The character of Aouan in particular is wonderful and tragic. A reviewer complained that we see too much horror ("complaisance dans l'horreur), however this only reflects the horrible historic reality. Each death, however, is interesting and surprising in its own way.
+- 2022-09-18: [Les passagers du vent - 2. Le ponton](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-2-Le-ponton-303.html)
+    - 1980
+    - tags: #reread
+    - Scénario et dessins: François Bourgeon
+    - Rating: 5/5
+- 2022-09-xx: [Les passagers du vent - 1. La fille sous la dunette](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-1-La-fille-sous-la-dunette-302.html)
+    - 1980
+    - tags: #reread
+    - Scénario et dessins: François Bourgeon
+    - Rating: 5/5
+    - NOTES: Incredible story and art. The only criticism could be the slightly uneven lettering.
 - 2022-09-10: [Alix - Tome 3. L'île maudite](https://www.bedetheque.com/BD-Alix-Tome-3-L-Ile-maudite-12436.html)
     - 1957
     - tags: #reread
