@@ -3,11 +3,11 @@ layout: page
 title: Typewriter bucket list
 ---
 
-# Typewriter Bucket List
+# Typewriter bucket list
 
 ## Introduction
 
-I have a typewriter collection, which [you can see to a large extent on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection). But a collector is never entirely satisfied, and there are several machines I'd love to find, if they are affordable and/or in restorable condition. Below is a list of such machines.
+I have a typewriter collection which [you can see to a large extent on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection). But a collector is never entirely satisfied, and there are several machines I'd love to find, if they are affordable and/or in restorable condition. Below is a list of such machines.
 
 Please note that [shipping](../../posts/typewriter-shipping-update/) many of these machines is difficult, although possible with care.
 
@@ -35,11 +35,11 @@ I know that a few of those are around, as I've seen them for sale a couple of ti
 
 ## VariTyper Model 160/660/720/1010
 
-I own a small collection of Varityper-branded machines.
+I own a small collection of Varityper-branded machines, including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below, as well as models 160 and 720.
 
-![The current (2022) Varityper collection](/assets/posts/varityper-610f/2x/montage.jpg){:standalone width="50%"}
+[//]: # (![The current &#40;2022&#41; Varityper collection]&#40;/assets/posts/varityper-610f/2x/montage.jpg&#41;{:standalone width="50%"})
 
-I'd love to find some of the "missing" models, such as the Model 1010, shown below, or models 160, 660, and 720.
+![VariTyper Model 660F](/assets/pages/typewriter-bucket-list/varityper660.jpg){:standalone}
 
 ![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone}
 
@@ -47,6 +47,8 @@ I am also interested in completing my collection of Varityper shuttles (or fonts
 
 ## IBM MT/ST
 
-I own an [IBM Mag Card/A](https://typewriterdatabase.com/1976-ibm-mag-carda.17985.typewriter), and an [IBM Memory Typewriter](https://typewriterdatabase.com/1974-ibm-memory-typewriter.15426.typewriter). I'd love to find other related IBM machines, including the probably impossible to find IBM Magnetic Tape/Selectric Typewriter (known as MT72 in Europe), which came integrated in a desk! But other machines, including newer ones like the Mag Card II, the Electronic Composer, and the Mag Card Executive, interest me as well, in addition to an  original Mag Card.
+I own an [IBM Mag Card/A](https://typewriterdatabase.com/1976-ibm-mag-carda.17985.typewriter), and an [IBM Memory Typewriter](https://typewriterdatabase.com/1974-ibm-memory-typewriter.15426.typewriter). I'd love to find other related IBM machines, including the probably impossible to find IBM Magnetic Tape/Selectric Typewriter (known as MT72 in Europe), which came integrated in a desk!
+
+Other related machines, including the Mag Card II, the Electronic Composer, and Mag Card Executive, interest me as well, in addition to an original Mag Card.
 
 ![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone}
