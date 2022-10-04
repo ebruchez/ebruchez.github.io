@@ -52,3 +52,11 @@ I own an [IBM Mag Card/A](https://typewriterdatabase.com/1976-ibm-mag-carda.1798
 Other related machines, including the Mag Card II, the Electronic Composer, and Mag Card Executive, interest me as well, in addition to an original Mag Card.
 
 ![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone}
+
+## Olivetti Programma 101
+
+This is not a typewriter, and it's also probably a very long shot, but I'd love to find an Olivetti Programma 101, the first desktop computer ever produced, all the way back in 1965.
+
+![Olivetti Programma 101](/assets/pages/typewriter-bucket-list/olivetti-programma-101.jpg){:standalone}
+
+*Credit: [Museoscienza.org. Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano](https://www.museoscienza.org/it)*
