@@ -240,3 +240,5 @@ Here are a couple of online videos that helped me with my repair:
 Finally, here are all the pictures I took during the process:
 
 - [Clavinova CLP-280 - Repair in progress](https://photos.app.goo.gl/c3aA1kWyDTV4TjNg7)
+
+UPDATE: See also my newer post [Fixing a Yamaha Clavinova CLP-280 pedal](../fixing-yamaha-clavinova-clp-280-pedal/).
