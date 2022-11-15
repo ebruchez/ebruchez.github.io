@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I am returning my Seiki 39" 4K "monitor"
+title: Why I am returning my Seiki 39&quot; 4K &quot;monitor&quot;
 date: '2014-03-11T10:53:00.000-07:00'
 author: Erik Bruchez
 tags:
