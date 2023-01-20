@@ -73,7 +73,7 @@ This done, I put the keyboard back in the piano, and then tested the keyboard. T
 
 ## The result
 
-The keyboard now sounds like new. I am very happy with the result, even though I might not actually have had to replace the membranes, that should extend the life of the keyboard no matter what. You can here the result here.
+The keyboard now sounds like new. I am very happy with the result, and even though I might not actually have had to replace the membranes, that should extend the life of the keyboard no matter what. You can hear the result here.
 
 <script>
   var tag = document.createElement('script');
