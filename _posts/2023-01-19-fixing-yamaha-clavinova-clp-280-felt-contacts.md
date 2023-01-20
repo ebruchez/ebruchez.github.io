@@ -24,9 +24,9 @@ I was eager enough to try to fix the problem that I ordered a set of replacement
 
 I got a full set of membranes, as there are three different lengths:
 
-- 1 5-key membrane to the left side of the keyboard (VCZ74400/VCZ7440)
-- 6 12-key membranes in the middle (VCZ74300/VCZ7430)
-- 1 11-key membrane to the right side of the keyboard (VCZ74500/VCZ7450)
+- 1 × 5-key membrane to the left side of the keyboard (VCZ74400/VCZ7440)
+- 6 × 12-key membranes in the middle (VCZ74300/VCZ7430)
+- 1 × 11-key membrane to the right side of the keyboard (VCZ74500/VCZ7450)
 
 ![5-key membrane](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0251.jpg){:standalone}
 
