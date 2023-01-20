@@ -20,11 +20,7 @@ Given what I know about the CLP-280, I figured that there might be two different
 
 ## The parts
 
-I was eager enough to try to fix the problem that I ordered a set of replacement membranes and replacement felt. I found the replacement parts on eBay as those are no longer sold by Yamaha. However, those are OEM parts.
-
-These parts are for the GH3 ("Grade Hammer 3") Yamaha keyboards.
-
-In addition to that, as with the GH keyboard, we change the key weight (resistance) of the keyboard in gradual steps (Bass area = heavy <-> Treble area = light)
+I was eager enough to try to fix the problem that I ordered a set of replacement membranes and replacement felt. I found the replacement parts on eBay as those are no longer sold by Yamaha. However, those are OEM parts. These parts appear to be generally for the GH3 ("Grade Hammer 3") Yamaha keyboards, and are not specific to the CLP-280.
 
 I got a full set of membranes, as there are three different lengths:
 
