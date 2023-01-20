@@ -9,7 +9,7 @@ category: Technology
 
 ## The symptoms
 
-Recently, I started feeling that the touch of our Yamaha Clavinova CLP-280 in the mid-range was different: the responsiveness of the keys was not good anymore, and different from the lower and higher ranges. In addition, a couple of keys occasionally made a clacking sound.
+Recently, I started feeling that the touch of our 15-year-old Yamaha Clavinova CLP-280 in the mid-range was different: the responsiveness of the keys was not good anymore, and different from the lower and higher ranges. In addition, a couple of keys occasionally made a clacking sound.
 
 ![The Yamaha Clavinova CLP-280](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0273.jpg){:standalone}
 

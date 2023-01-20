@@ -58,3 +58,10 @@ I plugged back the connector and after a quick test that things were working, I 
 Luckily, my original guess appears to have been correct, and the pedal now works well again! Had that not been the case, I might have tried ordering an entire pedal assembly, one of which was for sale for about $150. But I am glad I didn't have to do that.
 
 So this is another happy repair story, and my CLP is still going strong!
+
+## See also
+
+Read about my other CLP-280 repairs:
+
+- [Fixing a Yamaha Clavinova CLP-280](2021-11-07-fixing-yamaha-clavinova-clp-280.md)
+- [Yamaha Clavinova CLP-280 felt and rubber contacts replacement](2023-01-19-fixing-yamaha-clavinova-clp-280-felt-contacts.md)

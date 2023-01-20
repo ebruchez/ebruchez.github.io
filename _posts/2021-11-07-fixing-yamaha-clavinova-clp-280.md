@@ -241,4 +241,9 @@ Finally, here are all the pictures I took during the process:
 
 - [Clavinova CLP-280 - Repair in progress](https://photos.app.goo.gl/c3aA1kWyDTV4TjNg7)
 
-UPDATE: See also my newer post [Fixing a Yamaha Clavinova CLP-280 pedal](../fixing-yamaha-clavinova-clp-280-pedal/).
+## See also
+
+Read about my later CLP-280 repairs:
+
+- [Fixing a Yamaha Clavinova CLP-280 pedal](2022-11-15-fixing-yamaha-clavinova-clp-280-pedal.md)
+- [Yamaha Clavinova CLP-280 felt and rubber contacts replacement](2023-01-19-fixing-yamaha-clavinova-clp-280-felt-contacts.md)
