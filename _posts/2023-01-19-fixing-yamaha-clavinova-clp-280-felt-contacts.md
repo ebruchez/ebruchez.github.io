@@ -40,7 +40,7 @@ The felt is called "stopper" or "upstop felt" (V8468201).
 
 ## The repair
 
-Like last time, I started by opening the top of the piano by removing the 3 screws in the back and removing the top cover. I could see the problem immediately: the felt had detached in the middle portion of the keyboard! Well, in retrospect, I should have checked done that step first!
+Like last time, I started by opening the top of the piano by removing the 3 screws in the back and removing the top cover. I could see the problem immediately: the felt had detached in the middle portion of the keyboard! Well, in retrospect, I should have done that step first!
 
 ![Inside of the piano](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0218.jpg){:standalone}
 
@@ -67,13 +67,13 @@ Putting them back is a little tricky, as you want them to fit perfectly in the s
 
 ![Membranes installation](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0262.jpg){:standalone}
 
-I installed the felt without an problem. The glue was quite strong, to the point that if touches the plastic it might be almost impossible to get it out without damage. So proceed carefully!
+I installed the felt without any problem. The glue was quite strong, to the point that if touches the plastic it might be almost impossible to get it out without damage. So proceed carefully!
 
 This done, I put the keyboard back in the piano, and then tested the keyboard. To my relief, the responsiveness of the keys was back to normal, and the clacking sound was gone (as I expected). I only had to put back the top of the piano.
 
 ## The result
 
-The keyboard now sounds like new. I am very happy with the result, and even though I might not actually have had to replace the membranes, that should extend the life of the keyboard no matter what. You can hear the result here.
+The keyboard now sounds like new. I am very happy with the result, and even though I might not actually have had to replace the membranes, doing so should extend the life of the keyboard, so it's all good. You can hear the result here.
 
 <script>
   var tag = document.createElement('script');
