@@ -263,23 +263,6 @@ title: Comic Books (2021)
     - Rosy: Scénario
     - Dessin: Will
     - NOTES: The first appearance of Choc. Drawings still a little clumsy. A lot of action all over the place.
-- 2021-06-15: [Olympus Mons - 3. Hangar 754](https://www.bedetheque.com/BD-Olympus-Mons-Tome-3-Hangar-754-318688.html)
-    - 2018
-    - Language: French
-    - Scénario: Christophe Bec
-    - Dessin: Stefano Raffaele
-- 2021-06-11: [Olympus Mons - 2. Opération Mainbrace](https://www.bedetheque.com/BD-Olympus-Mons-Tome-2-Operation-Mainbrace-309885.html)
-    - 2017
-    - Language: French
-    - Scénario: Christophe Bec
-    - Dessin: Stefano Raffaele
-- 2021-08-12: [Olympus Mons - 1. Anomalie 1](https://www.bedetheque.com/BD-Olympus-Mons-Tome-1-Anomalie-un-294405.html)
-    - 2017
-    - Language: French
-    - tags: #reread
-    - Scénario: Christophe Bec
-    - Dessin: Stefano Raffaele
-    - Rating: 4/5
 - 2021-08-11: [Dragonero - Nato dalle fiamme](https://shop.sergiobonelli.it/libri/2019/08/29/libro/dragonero-nato-dalle-fiamme-1005132/)
     - Language: Italian
     - Scénario: Luca Enoch
@@ -386,6 +369,16 @@ title: Comic Books (2021)
     - tags: #reread
     - Tomes 1-4: Premier cycle, qui constitue la série originale.
     - Tome 5: Début d'un second cycle qui comporte 6 volumes au 2021-06-23. Nous n'avons pas, semble-t-il, le reste. Le tome 5 a été ensuite renuméroté tome 1 d'"Avant la quête".
+- 2021-06-15: [Olympus Mons - 3. Hangar 754](https://www.bedetheque.com/BD-Olympus-Mons-Tome-3-Hangar-754-318688.html)
+    - 2018
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+- 2021-06-11: [Olympus Mons - 2. Opération Mainbrace](https://www.bedetheque.com/BD-Olympus-Mons-Tome-2-Operation-Mainbrace-309885.html)
+    - 2017
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
 - 2021-06-11: [Olympus Mons - 1. Anomalie 1](https://www.bedetheque.com/BD-Olympus-Mons-Tome-1-Anomalie-un-294405.html)
     - 2017
     - Language: French
@@ -553,9 +546,9 @@ title: Comic Books (2021)
     - Scénario: Léo, Corine Jamar
     - Dessin: Fred Simon
 - 2021-02-20: [Mermaid Project - Episode 4](https://www.bedetheque.com/BD-Mermaid-Project-Tome-4-Episode-4-251489.html)
+    - 2015
     - tags: #reread
     - Language: French
-    - 2015
     - Scénario: Léo, Corine Jamar
     - Dessin: Fred Simon
 - 2021-02-20: [Namibia - 1. Épisode 1](https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-1-Episode-1-105592.html)
@@ -579,6 +572,7 @@ title: Comic Books (2021)
     - Language: French
     - Scénario et dessin: Lewis Trondheim
 - 2021-02-15: [Donjon Antipodes -10000. L'Armée du Crâne](https://www.bedetheque.com/BD-Donjon-Antipodes-Tome-10000-L-Armee-du-Crane-382307.html)
+    - 2020
     - Language: French
     - Scénario: Joann Sfar, Lewis Trondheim
     - Dessin: Grégory Panaccione

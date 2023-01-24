@@ -4,6 +4,7 @@ title: Comic Books (2022)
 ---
 
 - [Comic books](../comic-books/)
+- [2022](../comic-books-2022/)
 - [2021](../comic-books-2021/)
 - [2020](../comic-books-2020/)
 - [2019](../comic-books-2019/)
@@ -14,6 +15,85 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
+- 2023-12: [Les mondes de Thorgal - La jeunesse, Tome 7. La dent bleue](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-7-La-dent-bleue-363692.html)
+    - 2019
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2023-12: [Les mondes de Thorgal - La jeunesse, Tome 6. Le drakkar des glaces](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-6-Le-drakkar-des-glaces-326810.html)
+    - 2018
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2022-12: [Paperino - n. 505](https://www.panini.it/shp_ita_it/paperino-505-1wpape505-it08.html)
+    - Language: Italian
+    - Stories
+        - Paperino e l'intervista col campione
+            - 2022
+            - Transgaard/Andersen
+            - NOTES: Ok story with a happy ending for DD (Paperino). Good art.
+        - Paperino e la storia istruttiva
+            - 2022
+            - Moe/Carmen & Tony
+        - Paperino pilota rompicollo
+            - 1974
+            - Siegel/Prego
+            - NOTES: DD signs up as a test pilot but the vehicles he is testing are rigged. The bad guys are caught thanks to him. Old-style, simple art.
+        - La FIFA viene dall radio
+            - 2009
+            - Faccini
+        - P.I.A. - Paperino & Paperoga missione ad alta tensione
+            - 2003
+            - Nigro/Gottardo
+            - NOTES: Good art. Paperino and Paperoga.
+        - Paperino e l'esperto in debitologia
+            - 1966
+            - Carpi/Bottaro
+            - NOTES. Not the best art. Also not the most moral story, as DD is being taught by Pico De Paperis how to escape his creditors, including Uncle Scrooge (Paperone).
+        - Zio Paperone e la pentola... autocuocente
+            - 1983
+            - Monti/Scala
+            - NOTE: Sort of a business lesson. A cooking appliance sells really well but appears to start using too much electricity. Even/odd days are allocated, and people then simply buy both an even and an odd machine. Except that in the end we learn that the issue of power consumption was completely separate and caused by another Gyro Gearloose invention.
+        - Zio Paperone e la guerra contropubblicitaria
+            - 1988
+            - IF/Russo
+            - NOTES: Another business story, with a duopoly trying to beat the other side with crazier and crazier ads. When they finally join forces, the consumers are sick and tired of their products and stop buying.
+        - Zio Paperone e il problema esponenziale
+            - 1999
+            - Enna/Deiana
+            - NOTES: A story about nanobots.
+- 2022-12: [Topolino in Team - 10. A spasso nel tempo](https://www.panini.it/shp_ita_it/topolino-a-spasso-nel-tempo-1wsudi097-it08.html)
+    - Language: Italian
+    - Stories
+        - Topolino e lo Scettro del Tempo
+            - 1992
+            - Sarda/Valussi
+            - NOTES: Your typical fantasy story. Here, Topolino (Mickey) and Pippo (Goofy) end up in a separate "weather" dimension, with 4 realms, one for each season. But a bad guy wants to steal the weather sceptre that is usually passed at each season transition between the realms. For that purpose, he captures one king, and plans to do the same with the other rulers. But the plan is thwarted. I rather like the graphics. The bad guy is particularly well done. Small love story in the background with a character who looks a little like Astérix.
+        - Topolino e il Mistero dei Dinosauri
+            - Conicna/Asteriti
+            - 1986
+            - NOTES: Asteriti's style is quite recognizable. In particular, Mickey's mouth is done differently. This is part of a set of stories that revolve around professor Zapotec and his assistant Marlin, who have a time machine. They send Topolino and Pippo in the past, here to understand what happened to the dinosaurs. Hint: they understood they were doomed and managed to go live underwater. Not that great of a premise, I'd say.
+        - Topolino e il segreto di Eta Beta
+            - Zemelo/Limido
+            - 2016
+            - NOTES: Another Zapotec/Marlin story. A typical time travel paradox.
+        - Topolino e l'Inseguimento Epocale
+            - Cirillo/Held
+            - 2017
+            - NOTES: Another Zapotec/Marlin story. Following a Doctor Who clone in the past. Instead of a police station, the character drives a London bus.
+        - Topolino e la Contessa Contesa
+            - Panini/Zironi
+            - 2014
+            - NOTES: No time travel here, but a story in a different universe, in London. Someone steals Mickey's identity, but the bad guy is unmasked and Mickey can be engaged with his Minnie.
+    - NOTES: A series of stories about time travel, except for the last one. See also [this review in Italian](https://emanueledigiuseppe.blogspot.com/2022/11/topolino-in-team-spasso-nel-tempo.html).
+- 2022-10-19: [Topolino e l'isola di quandomai](https://disney-comics.fandom.com/it/wiki/Topolino_e_l%27isola_di_Quandomai)
+    - 2010
+    - Sceneggiatura e disegni: Casty
+    - NOTES: Casty is one of the few modern authors of new Mickey ("Topolino" in Italian) stories. I read this story in the large format hardcover "Limited Deluxe Edition" collection, of which I have a few albums. I like Casty's style in general. His stories are definitely in the main tradition of comic books Mickey Mouse, including Floyd Gottfredson and earlier Italian artists. In this story you find Mickey, Minnie, Goofy, but also Peg Leg Pete ("Gambadilegno" in Italian) and his partner Trudy. There is jealousy involved, as well as a team of scientists. There is also a very strong environmental message, in fact that is the main point of the story.
+- 2022-10: [Dragonero - Sangue chiama sangue](https://shop.sergiobonelli.it/dragonero/2021/08/25/libro/dragonero-sangue-chiama-sangue-1020697/)
+    - Soggetto: Enoch Luca
+    - Sceneggiatura: Enoch Luca
+    - Disegni: Trono Walter
+    - NOTES: The story has a tragic element to it. It comes with a shorter, even more tragic story explaining the story of the "beast".
 - 2022-09-26: [Les passagers du vent - 6. La Petite Fille Bois-Caïman - Livre 1](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-6-La-Petite-Fille-Bois-Caiman-Livre-1-93413.html)
     - 2009
     - Scénario et dessins: François Bourgeon

@@ -1,0 +1,97 @@
+---
+layout: page
+title: Comic Books (2023)
+---
+
+- [Comic books](../comic-books/)
+- [2022](../comic-books-2022/)
+- [2021](../comic-books-2021/)
+- [2020](../comic-books-2020/)
+- [2019](../comic-books-2019/)
+- [2018](../comic-books-2018/)
+- [2017](../comic-books-2017/)
+- [2016](../comic-books-2016/)
+- [2015](../comic-books-2015/)
+
+# Comic Books (2023)
+
+- 2023-01-22: [Donjon Antipodes -9999. L'inquisiteur mégalomane](https://www.bedetheque.com/BD-Donjon-Antipodes-Tome-9999-L-inquisiteur-megalomane-418077.html)
+    - 2021
+    - Language: French
+    - tags: #reread
+    - Scénario: Joann Sfar, Lewis Trondheim
+    - Dessin: Grégory Panaccione
+    - NOTES: That inquisitor and his family are so detestable!
+- 2023-01-22: [Donjon Antipodes -10000. L'Armée du Crâne](https://www.bedetheque.com/BD-Donjon-Antipodes-Tome-10000-L-Armee-du-Crane-382307.html)
+    - 2020
+    - Language: French
+    - tags: #reread
+    - Scénario: Joann Sfar, Lewis Trondheim
+    - Dessin: Grégory Panaccione
+- 2023-01: [Olympus Mons - 4. Millénaires](https://www.bedetheque.com/BD-Olympus-Mons-Tome-4-Millenaires-340743.html)
+    - 2018
+    - tags: #reread
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+- 2023-01: [Olympus Mons - 3. Hangar 754](https://www.bedetheque.com/BD-Olympus-Mons-Tome-3-Hangar-754-318688.html)
+    - 2018
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+- 2023-01-18: [Lefranc - Tome 33. Le scandale Arès](https://www.bedetheque.com/BD-Lefranc-Tome-33-Le-scandale-Ares-446291.html)
+    - 2022
+    - Story: Roger Seiter
+    - Drawings: Régric
+    - Rating: 4/5
+    - NOTES: Good art. Lots of explanations, maybe too many. The story is a little implausible (Lefranc stories tend to be, anyway), but well-anchored in history. It seems that World War II is always a good setting. Here, we learn that a French inventor built prototypes of planes that could have stopped the Germans in 1940. In fact, they did use the prototypes to completely destroy a convoy of 30 German tanks. But, due to conflict of interest, their planes were not considered by the officials in charge of selecting the companies that would build planes for the French defense. The story was buried, but unearthed by Lefranc and the daughter of the sole German survivor of the 1940 attack. The officials involve try to brutally suppress the story, but Lefranc and his friends get the story out. The retired inventor flies the remaining working prototype out of france to fight Russians invading Hungary. That part especially is quite implausible, but it's timely with the Russian invasion of Ukraine.
+- 2023-01-17: [Ralph Azham - 10. Un feu qui meurt](https://www.bedetheque.com/BD-Ralph-Azham-Tome-10-Un-feu-qui-meurt-302472.html)
+    - 2017
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: Ralph and friends find the immortals. They are not so good, but not so bad. Eventually they all leave. It's getting complicated, as summarized on page 466: the king, who is definitely not so likable; Tilda Pönns, whom you learn suffered a lot, hence her radicalism; the new bad guy, prefect Potolsian; and, generally, other influence groups within the realm. Ralph is still good, mostly, with Zania an apparent positive influence on him. But the volume ends on a difficult note.
+- 2023-01-14: [Ralph Azham - 9. Point de rupture](https://www.bedetheque.com/BD-Ralph-Azham-Tome-9-Point-de-rupture-287647.html)
+    - 2016
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: Ralph and friends reach the Forteresse de Malène (very fantastic design) and save the "blued" while the fortress is destroyed.
+- 2023-01-14: [Ralph Azham - 8. Personne n'attrape une rivière](https://www.bedetheque.com/BD-Ralph-Azham-Tome-8-Personne-n-attrape-une-riviere-257602.html)
+    - 2015
+    - tags: #reread
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: Début du second cycle de Ralph Azham.
+- 2021-02-20: [Namibia - 2. Épisode 2](https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-2-Episode-2-117129.html)
+    - 2010
+    - Language: French
+    - Scénario: Leo et Rodolphe
+    - Dessin: Bertrand Marchal
+- 2021-02-20: [Namibia - 1. Épisode 1](https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-1-Episode-1-105592.html)
+    - 2010
+    - tags: #reread
+    - Language: French
+    - Scénario: Leo et Rodolphe
+    - Dessin: Bertrand Marchal
+- [Olivier Rameau - INT1. Intégrale 1](https://www.bedetheque.com/BD-Olivier-Rameau-INT1-Integrale-1-116100.html)
+    - 2023-01-13: [Olivier Rameau 3.Le château des 4 lunes](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-377-Le-chateau-des-4-lunes-10992.html)
+        - NOTES: Another challenge: two impostors come to Rêverose and introduce money and greed. Olivier, Colombe and Monsieur Pertinent, with the Mage Pas Sage, save the day.
+    - 2023-01-xx: [Olivier Rameau 2. La bulle de si-c'était-vrai](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-270-La-bulle-de-si-c-etait-vrai-44908.html)
+        - NOTES: New challange at Rêverose: an epidemic/pandemic. Olivier, Colombe, and Monsieur Pertinent must find the bubble that will dispense the antidote. But Colombe is abducted by a bad guy, who wants to get the bubble first and marry her. Neither her nor, of course, Olivier want it. They fight their way through a dark forrest, a witch, and finally win and the population is saved.
+    - 2023-01-xx: [Olivier Rameau 1. La Merveilleuse Odyssée d'Olivier Rameau et de Colombe Tiredaile](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-164-La-Merveilleuse-Odyssee-d-Olivier-Rameau-et-de-Colombe-Tiredaile-10990.html)
+        - NOTES: We are introduced to the main characters: Olivier Rameau, Colombe Tiredaile, et Monsieur Pertinent. We are also introduced to the world of Rêverose and its inhabitants. There is an immediate challenge: solve the issue of the bird Razibus, which keeps brutally shaving people's heads. It turns out that the bird needs the food for its offspring, but Olivier Rameau saves the day after being abducted by the bird.
+- 2023-01-03: [Thorgal - 40. Tupilaks](https://www.bedetheque.com/BD-Thorgal-Tome-40-Tupilaks-457535.html)
+    - 2022
+    - Language: French
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - NOTES: I am not enthused by the representation of Neokóra, as mentioned in my notes for album 39, the long recaps of the history of the Atlants, or the over-explanations. There is also a little too much that reminds us of current events (pandemic, AI), while I think it's better if the series remains intemporal. I am a little surprised that Slive has now turned nice and I think that this character is depicted more plausibly in the Jeunesse de Thorgal series. This said, a science-fiction background is at the core of the whole Thorgal series, and has been guiding large arcs of the series (such as the travel to Qâ). The Neokóra and Tupilaks diptych just happens to revive that aspect of Thorgal, and I have nothing against that. Nor do I have anything in principle against returning to the spaceship and developing that aspect of Thorgal's background. But the story does feel a little confused and, again, loses itself in too many explanations. On the positive side, with the spaceship destroyed, that part of the Thorgal universe should be definitely closed, at least in the main series. This episode also allows the introduction of a new character, Boréale, who we can only surmise will become Jolan's companion. In general, I like that the series lets its main characters grow up and age.
+- 2023-01-02: [Thorgal - 39. Neokóra](https://www.bedetheque.com/BD-Thorgal-Tome-39-Neokora-433699.html)
+    - 2021
+    - tags: #reread
+    - Language: French
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+- 2023-01-01: [Les mondes de Thorgal - La jeunesse, Tome 8. Les deux bâtards](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-8-Les-deux-batards-387539.html)
+    - 2020
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
