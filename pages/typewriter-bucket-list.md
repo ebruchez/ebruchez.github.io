@@ -43,15 +43,23 @@ I own a small collection of Varityper-branded machines, including some 1930s and
 
 ![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone}
 
+I have seen a few 1010 for sale, but in places too far for me, and proper shipping is a challenge.
+
 I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
 
-## IBM MT/ST
+## IBM Magnetic Tape/Selectric Typewriter
 
-I own an [IBM Mag Card/A](https://typewriterdatabase.com/1976-ibm-mag-carda.17985.typewriter), and an [IBM Memory Typewriter](https://typewriterdatabase.com/1974-ibm-memory-typewriter.15426.typewriter). I'd love to find other related IBM machines, including the probably impossible to find IBM Magnetic Tape/Selectric Typewriter (known as MT72 in Europe), which came integrated in a desk!
-
-Other related machines, including the Mag Card II, the Electronic Composer, and Mag Card Executive, interest me as well, in addition to an original Mag Card.
+Even though this is totally unreasonable, I'd love to find the probably rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also known as MT72 in Europe), which came out in 1964. It is a huge machine, as you can see on the picture below. In fact, the bottom of the typewriter unit has a big bulge, and for that reason came with its own special desk.
 
 ![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone}
+
+## Other machines of the IBM Mag Card family
+
+I own an [IBM Mag Card/A](https://typewriterdatabase.com/1976-ibm-mag-carda.17985.typewriter), an [IBM Memory Typewriter](https://typewriterdatabase.com/1974-ibm-memory-typewriter.15426.typewriter), and an [IBM Memory Typewriter 100](https://typewriterdatabase.com/1981-ibm-memory-typewriter-100.18932.typewriter). These machines are all part of the same family (the MagCard/II family).
+
+But the first IBM Magnetic Card/Selectric Typewriter (MC/ST) came out in 1969. It had a different style of console from the newer and more stylish MagCard/II console, in fact it looks more like the MT/ST's, although it is smaller.
+
+Other related machines, including the Mag Card II, the Electronic Composer, and Mag Card Executive, interest me as well, in addition to the original Mag Card.
 
 ## Olivetti Programma 101
 
