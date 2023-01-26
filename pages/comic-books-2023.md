@@ -15,6 +15,10 @@ title: Comic Books (2023)
 
 # Comic Books (2023)
 
+- 2023-01-24: [Sillage - 21. Exfiltration](https://www.bedetheque.com/BD-Sillage-Tome-21-Exfiltration-437531.html)
+    - Scénario: Jean David Morvan, Philippe Buchet
+    - Dessin et couleur: Philippe Buchet
+    - Rating: TODO
 - 2023-01-22: [Donjon Antipodes -9999. L'inquisiteur mégalomane](https://www.bedetheque.com/BD-Donjon-Antipodes-Tome-9999-L-inquisiteur-megalomane-418077.html)
     - 2021
     - Language: French
