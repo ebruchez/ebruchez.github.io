@@ -15,6 +15,32 @@ title: Comic Books (2023)
 
 # Comic Books (2023)
 
+- 2023-01-29: : [Donjon Potron-Minet - -84. Survivre aujourd'hui](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-82-Survivre-aujourd-hui-437533.html)
+    - 2022
+    - Language: French
+    - tags: #reread
+    - Scénario: Joann Sfar, Lewis Trondheim
+    - Dessin: Stéphane Oiry
+    - NOTES: Long-awaited continuation of the Potron-Minet series. It bridges the world of Potron-Minet with the world of Zenith. We meet Marvin and Grogro. The dungeon's defense system is born.
+- 2023-01-27: : [Donjon Potron-Minet - -83. Sans un bruit](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-83-Sans-un-bruit-78186.html)
+    - 2008
+    - Language: French
+    - tags: #reread
+    - Scénario: Joann Sfar, Lewis Trondheim
+    - Dessin: Christophe Gaultier
+    - NOTES: Not a bad volume. The story of the future guardian of the dungeon, Hyacinthe.
+- 2022-01-26: [Donjon Crépuscule - 112. Pourfendeurs de démons](https://www.bedetheque.com/BD-Donjon-Crepuscule-Tome-112-Pourfendeurs-de-demons-423607.html)
+    - 2021
+    - Language: French
+    - Scénario: Joann Sfar, Lewis Trondheim
+    - Dessin: Obion
+    - NOTES: I might agree with reviews on bedetheque that this is a below average Donjon Crépuscule. I hope the next volume will be more engaging.
+- 2022-01-25: [Donjon Crépuscule - 111. La fin du Donjon](https://www.bedetheque.com/BD-Donjon-Crepuscule-Tome-111-La-fin-du-Donjon-212137.html)
+    - 2014
+    - Language: French
+    - tags: #reread
+    - Scénario: Joann Sfar
+    - Dessin: Mazan
 - 2023-01-24: [Sillage - 21. Exfiltration](https://www.bedetheque.com/BD-Sillage-Tome-21-Exfiltration-437531.html)
     - Scénario: Jean David Morvan, Philippe Buchet
     - Dessin et couleur: Philippe Buchet
