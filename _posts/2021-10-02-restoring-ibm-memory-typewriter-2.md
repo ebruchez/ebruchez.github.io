@@ -160,7 +160,7 @@ It took many passes over the course of one week to finally get all of it out. If
 
 ![The result](/assets/posts/ibm-memory-typewriter/2x/IMG_9404.jpg){:standalone}
 
-The planar is attached its backing with brackets.
+The planar is attached to its support with brackets.
 
 ![Bracket](/assets/posts/ibm-memory-typewriter/2x/IMG_9479.jpg){:standalone}
 
