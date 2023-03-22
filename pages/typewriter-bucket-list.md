@@ -53,6 +53,10 @@ Even though this is totally unreasonable, I'd love to find the probably rare IBM
 
 ![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone}
 
+As of 2023. there is a Mag Tape with missing parts (including the typewriter top case and platen), for sale on eBay. The seller even has a video tour of the machine. However, this is a "make me an offer" type of scenario and the seller doesn't appear eager to sell the machine. However, this is interesting because of the video tour, and it is good to know that at least one example of the machine is out there.
+
+I have also obtained diagrams/schematics which I believe are for the MT/ST. They describe the electronics and relay-based system of the machine.
+
 ## Other machines of the IBM Mag Card family
 
 I own an [IBM Mag Card/A](https://typewriterdatabase.com/1976-ibm-mag-carda.17985.typewriter), an [IBM Memory Typewriter](https://typewriterdatabase.com/1974-ibm-memory-typewriter.15426.typewriter), and an [IBM Memory Typewriter 100](https://typewriterdatabase.com/1981-ibm-memory-typewriter-100.18932.typewriter). These machines are all part of the same family (the MagCard/II family).
