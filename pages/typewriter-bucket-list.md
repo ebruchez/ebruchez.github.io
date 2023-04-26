@@ -53,13 +53,13 @@ I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also kn
 
 ![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone}
 
-As of 2023, there is a Mag Tape with missing parts (including the typewriter top case and platen), for sale on eBay. The seller even has a video tour of the machine. However, this is a "make me an offer" type of scenario and the seller doesn't appear eager to sell the machine. However, this is interesting because of the video tour, and it is good to know that at least one example of the machine is out there.
+As of 2023, there is a Mag Tape with missing parts (including the typewriter top case and platen), for sale on eBay. The seller even has a video tour of the machine. However, this is a "make me an offer" type of scenario and the seller doesn't appear eager to sell the machine. But this is very interesting because of the video tour, and it is good to know that at least one example of the machine is out there.
 
-I have also obtained diagrams/schematics which I believe are for the MT/ST. They describe the electronics and relay-based system of the machine.
+I have also obtained diagrams/schematics for the MT/ST's electronics and relay-based system of the machine!
 
 ## IBM Magnetic Tape/Selectric Composer
 
-This unit was designed to work alongside the IBM MT/ST. It is unknown if any of those machines have survived.
+This unit was designed to work alongside the IBM MT/ST. It is unknown to me if any of those machines have survived.
 
 ![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtsc.jpg){:standalone}
 
@@ -67,16 +67,18 @@ This unit was designed to work alongside the IBM MT/ST. It is unknown if any of 
 
 ## Other machines of the IBM Mag Card family
 
-I own the following "Mag Card/II family" machines (although not a Mag Card II proper):
+I own the following "Mag Card/II family" machines:
 
 - [IBM Mag Card/A](https://typewriterdatabase.com/1976-ibm-mag-carda.17985.typewriter)
 - [IBM Memory Typewriter](https://typewriterdatabase.com/1974-ibm-memory-typewriter.15426.typewriter)
 - [IBM Memory Typewriter 100](https://typewriterdatabase.com/1981-ibm-memory-typewriter-100.18932.typewriter)
 - [IBM Electronic Selectric Composer](https://typewriterdatabase.com/1978-ibm-electronic-selectric-composer.20011.typewriter)
 
-But the first IBM Magnetic Card/Selectric Typewriter (MC/ST) came out in 1969. It had a different style of console from the newer and more stylish MagCard/II console, in fact it looks more like the MT/ST, although a little smaller.
+The following machines would be nice to complete that collection:
 
-Other related machines, including the Mag Card II, and the Mag Card Executive, interest me as well, in addition to the original Mag Card.
+- The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969. It had a different style of console from the newer and more stylish MagCard/II console, in fact it looks more like the MT/ST, although a little smaller.
+- The Mag Card II proper.
+- The Mag Card Executive
 
 ## Olivetti Programma 101
 
