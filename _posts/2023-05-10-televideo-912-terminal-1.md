@@ -28,7 +28,7 @@ Wikipedia has a [page about TeleVideo](https://en.wikipedia.org/wiki/TeleVideo).
 
 The TeleVideo TVI-912 was one of the first models made by the company. It came out in 1978 or 1979:
 
-- [This terminals wiki page](http://terminals-wiki.org/wiki/index.php/TeleVideo_912) mentions 1978 and supports this by referencing a Computerworld article announcing the device from September 4, 1978:
+- [This terminals wiki page](http://terminals-wiki.org/wiki/index.php/TeleVideo_912) mentions 1978 and supports this by referencing a Computerworld article announcing the device from September 4, 1978, which I cropped below:
 
     ![1978 Computerworld article](/assets/posts/televideo-912/2x/1978-09-04-computerworld.jpg){:standalone width="40%"}
 - [This vt100.net page](https://vt100.net/televideo/) mentions 1979.
@@ -52,7 +52,7 @@ This is for the following models:
 - TVI-912B and TVI-920B
 - TVI-912C and TVI-920C
 
-This manual has 36 pages including covers, and date of 1979. You can find it on Archive.org.
+This manual has 36 pages including covers, and a copyright date of 1979. You can find it on Archive.org.
 
 There are a couple of versions, if not more, of this manual.
 
@@ -65,13 +65,13 @@ This is for the following models:
 - Model 912
 - Model 920
 
-This has exactly the same table of contents as the previous manual, and is also dated 1979, but it has only 19 pages. I haven't compared the content in detail.
+This has exactly the same table of contents as the previous manual, and is also dated 1979, but it has only 19 pages. I haven't compared the content with the other manual in detail.
 
 ![Operating Instructions](/assets/posts/televideo-912/2x/televideo-operating-instructions-912-920.jpg){:standalone width="50%"}
 
 ### TeleVideo Terminal Maintenance Training Manual (March 1983)
 
-This manual has 558 pages! To be fair, 98 of those pages are manufacturer spec sheets for components. This appears to cover all the terminal models: 910, 912, 920, 925, 950, and 970. It is dated March 1983. It includes full schematics of the terminals!
+This manual has 558 pages! To be fair, 98 of those pages are manufacturer spec sheets for components. This appears to cover all the terminal models up to the March 1983 date of publication: 910, 912, 920, 925, 950, and 970. It includes full schematics of the terminals!
 
 ![TeleVideo Terminal Maintenance Training Manual](/assets/posts/televideo-912/2x/televideo-terminal-maintenance-training-manual.jpg){:standalone width="50%"}
 
@@ -90,7 +90,7 @@ Now this makes me want to find a 925 or 950 terminal! Look at these beauties!
 
 ![The Value Leaders](/assets/posts/televideo-912/2x/televideo-value-leaders-cover.jpg){:standalone width="50%"}
 
-![The Value Leaders](/assets/posts/televideo-912/2x/televideo-value-leaders-912-920.jpg){:standalone width="50%"}
+![Model 912/920 in the brochure](/assets/posts/televideo-912/2x/televideo-value-leaders-912-920.jpg){:standalone width="50%"}
 
 ### "Compare Smarts. Compare Prices." marketing brochure
 
@@ -117,13 +117,13 @@ Can the terminal be fixed? That's what I hope to figure out eventually.
 
 I opened the terminal: two screws in the front unlock the top of the terminal, which then swivels on its hinges in the back.
 
-The CRT remains in the top case, with the terminal's power supply on the left, and the video control board on the right. The CRT is braced by a spring which is quite rusty:
+The CRT remains in the top case, with the terminal's power supply on the left, and the video control board on the right. The CRT is braced by a rusty spring:
 
 ![The CRT spring](/assets/posts/televideo-912/2x/IMG_2770.jpg){:standalone width="60%"}
 
-I took a look at the control board. It is a beautiful large board, but looks very dirty, with signs of corrosion.
+I took a look at the control board. It is a beautiful large board, but it looked very dirty, with signs of corrosion.
 
-![The dirty board](/assets/posts/televideo-912/2x/IMG_2775.jpg){:standalone}
+![The dirty main control board](/assets/posts/televideo-912/2x/IMG_2775.jpg){:standalone}
 
 Here is a close-up of the main video chip, before any cleaning:
 
@@ -133,7 +133,7 @@ I blew some air inside the case and on the board. I also did a first pass at cle
 
 ![The open terminal](/assets/posts/televideo-912/2x/IMG_3057.jpg){:standalone}
 
-Here is the back of the terminal. The RS-232 port is visible, as well as configuration DIP switches, an contrast button, the power button, and a fuse. I believe that there should be a cover over the port, but it is missing. Instances of the terminal could have a printer port as well, but this one doesn't have it. Some of the labels fell off, but I have them.
+Here is the back of the terminal. The RS-232 port is visible, as well as configuration DIP switches, a contrast button, the power button, and a fuse. I believe that there should be a cover over the connector area, and if so it is missing. Instances of the terminal could have a printer port as well, but this one doesn't have it. Some of the labels had fallen off, but they were stored in a small ziploc bag attached to the terminal.
 
 ![The back of the terminal](/assets/posts/televideo-912/2x/IMG_3035.jpg){:standalone}
 
@@ -150,7 +150,7 @@ These options might not have been available from the start. Indeed, my terminal 
 
 Model 920 was identical to the 912 except that it had, in addition, function keys, edit keys, and transmission keys. It, too, came in a "B" or "C" version matching the "teletype" or "typewriter" layouts.
 
-![The keyboard](/assets/posts/televideo-912/2x/IMG_3043.jpg){:standalone}
+![The "teletype" keyboard of my 912](/assets/posts/televideo-912/2x/IMG_3043.jpg){:standalone}
 
 The board looks nicer after a basic cleaning.
 
@@ -193,7 +193,7 @@ After cleaning the board an the main ICs, I looked up the references of the main
 | A49             | 4 KB ROM                             |
 | A50             | ROM                                  |
 
-So the terminal has 256 bytes of SRAM, with 64 bytes of internal RAM as well in the 8035, for a total of 320 bytes of RAM.
+So the terminal has 256 bytes of SRAM, with 64 bytes of internal RAM as well in the 8035, for a total of 320 bytes of RAM. That's not much to work with!
 
 The rest of the chips consists mainly of 7400-series TTL chips.
 
@@ -234,6 +234,6 @@ A quick scan of the service manual shows some troubleshooting procedures, and in
 
 ---
 
-[^compupro]: It turned out that, with that terminal, came a CompuPro System 8/16, and that was a great surprise. But that's another story.
+[^compupro]: To be fair, I was the only bider on this item. and it turned out that, with that terminal, came a CompuPro System 8/16, and that was a great surprise. But that's story for later.
 
 [^vt100]: I'd love to find a VT100 for a reasonable price, although I am not particularly hopeful.
