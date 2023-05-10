@@ -24,7 +24,7 @@ This instance bears the marking "TeleVideo TVI-912", which is of course the bran
 
 Wikipedia has a [page about TeleVideo](https://en.wikipedia.org/wiki/TeleVideo). The company was based in San Jose, California[^addresses], and made terminals until about 2011 when it definitely folded. It seems that the company was founded in 1975, although [this reference](https://web.archive.org/web/20090517093721/http://www.usu.edu/alumni/newsletter/2004/feb04.html#spot) mentions that "TeleVideo Systems, Inc. was born in March of 1979". [This other reference](http://edgar.secdatabase.com/1670/110465906016916/filing-main.htm) mentions 1975, while the [official web site](http://televideo.com/), which is only a leftover page, mentions "35 years in business" as of 2011, which points to a date closer to 1975 than 1979. It might be that the company started in 1975, but was renamed or reincorporated in the following years.
 
-### Dating of the 912 model
+### Dating and pricing of the 912 model
 
 The TeleVideo TVI-912 was one of the first models made by the company. It came out in 1978 or 1979:
 
@@ -40,6 +40,8 @@ The TeleVideo TVI-912 was one of the first models made by the company. It came o
 - The control board also shows a copyright of 1978 for the ROMs.
 
 Based on the article referenced above it is certain that the device was announced in late 1978, but it might not have been really on the market until 1979.
+
+The price announced was $749, which translates into $3,580 in 2023. In other words this would be the price of a fairly high-end personal computer today, like a top of the line 16-inch Apple MacBook Pro.
 
 ## Documentation
 
@@ -195,7 +197,7 @@ After cleaning the board an the main ICs, I looked up the references of the main
 
 So the terminal has 256 bytes of SRAM, with 64 bytes of internal RAM as well in the 8035, for a total of 320 bytes of RAM. That's not much to work with!
 
-The rest of the chips consists mainly of 7400-series TTL chips.
+The rest of the chips consists mainly of 7400-series TTL chips. In the 1978 Computerworld article announcing the terminal, there was a claim that the terminal used "one-third the number of integrated circuit components of comparable terminals." How many ICs were present in the VT100, for example?
 
 I annotated the picture of the board with what I found.
 
@@ -205,7 +207,7 @@ The CRT chip, in particular, is quite beautiful, although it too shows signs of 
 
 ![The CRT chip](/assets/posts/televideo-912/2x/IMG_3054.jpg){:standalone}
 
-It's interesting that the terminal uses a fairly simple microcontroller. I thought it might have used a Z80 or similar microprocessor, but apparently a much simpler MCU was enough to drive the system.
+It's interesting that the terminal uses a fairly simple microcontroller. I thought it might have used a Z80 or similar microprocessor, but apparently a much simpler MCU was enough to drive the system. The DEC VT100, for comparison, used an Intel 8080 CPU.
 
 ![The Intel 8035 MCU](/assets/posts/televideo-912/2x/IMG_3048.jpg){:standalone}
 
