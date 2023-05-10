@@ -237,4 +237,3 @@ A quick scan of the service manual shows some troubleshooting procedures, and in
 [^compupro]: It turned out that, with that terminal, came a CompuPro System 8/16, and that was a great surprise. But that's another story.
 
 [^vt100]: I'd love to find a VT100 for a reasonable price, although I am not particularly hopeful.
-
