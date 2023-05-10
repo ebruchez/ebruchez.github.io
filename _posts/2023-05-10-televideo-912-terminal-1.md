@@ -22,7 +22,7 @@ This instance bears the marking "TeleVideo TVI-912", which is of course the bran
 
 ### TeleVideo the company
 
-Wikipedia has a [page about TeleVideo](https://en.wikipedia.org/wiki/TeleVideo). The company was based in San Jose, California, and made terminals until about 2011 when it definitely folded. It seems that the company was founded in 1975, although [this reference](https://web.archive.org/web/20090517093721/http://www.usu.edu/alumni/newsletter/2004/feb04.html#spot) mentions that "TeleVideo Systems, Inc. was born in March of 1979". [This other reference](http://edgar.secdatabase.com/1670/110465906016916/filing-main.htm) mentions 1975, while the [official web site](http://televideo.com/), which is only a leftover page, mentions "35 years in business" as of 2011, which points to a date closer to 1975 than 1979. It might be that the company started in 1975, but was renamed or reincorporated in the following years.
+Wikipedia has a [page about TeleVideo](https://en.wikipedia.org/wiki/TeleVideo). The company was based in San Jose, California[^addresses], and made terminals until about 2011 when it definitely folded. It seems that the company was founded in 1975, although [this reference](https://web.archive.org/web/20090517093721/http://www.usu.edu/alumni/newsletter/2004/feb04.html#spot) mentions that "TeleVideo Systems, Inc. was born in March of 1979". [This other reference](http://edgar.secdatabase.com/1670/110465906016916/filing-main.htm) mentions 1975, while the [official web site](http://televideo.com/), which is only a leftover page, mentions "35 years in business" as of 2011, which points to a date closer to 1975 than 1979. It might be that the company started in 1975, but was renamed or reincorporated in the following years.
 
 ### Dating of the 912 model
 
@@ -237,3 +237,5 @@ A quick scan of the service manual shows some troubleshooting procedures, and in
 [^compupro]: To be fair, I was the only bider on this item. and it turned out that, with that terminal, came a CompuPro System 8/16, and that was a great surprise. But that's story for later.
 
 [^vt100]: I'd love to find a VT100 for a reasonable price, although I am not particularly hopeful.
+
+[^addresses]: Although addresses in Sunnyvale and Santa Clara also appear in the documentation, indicating that the firm moved during its lifetime.
