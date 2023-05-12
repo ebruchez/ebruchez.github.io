@@ -190,11 +190,11 @@ After cleaning the board an the main ICs, I looked up the references of the main
 | Intel 8035      | 8-bit MCU (microcontroller unit)     |
 | SMC CRT5027     | CRT Video Timer and Controller VTAC  |
 | SMC COM2502     | UART                                 |
-| 2 × Intel 2111A | 256 x 4 SRAM                         |
+| 2 × Intel 2111A | 256 × 4 SRAM                         |
 | A3              | 2KB ROM (probably the character ROM) |
 | A49             | 4 KB ROM                             |
 | A50             | ROM                                  |
-| 4 × TMS4045     | 1 K x 4 SRAM                         |
+| 4 × TMS4045     | 1 K × 4 SRAM                         |
 
 So the terminal has 256 bytes of SRAM *for the program*, with 64 bytes of internal RAM as well in the 8035, for a total of 320 bytes of RAM. That's not much to work with!
 
