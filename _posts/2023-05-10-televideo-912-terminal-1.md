@@ -172,7 +172,7 @@ The other side of the upper case consists of the video control board:
 
 ![The video control board](/assets/posts/televideo-912/2x/IMG_3053.jpg){:standalone}
 
-I note that the terminal's serial number appears in multiple places, and it is consistent: 79061208. Can we infer from that series of digits a production date of June 1979? It would make sense!
+I note that the terminal's serial number appears in multiple places, and it is consistent: 79061208. Can we infer from that series of digits a production date of June 1979? Or week 6 of 1979? It would make sense! Comparing with serial numbers of other similar terminals could help validating the format.
 
 The serial appears:
 
@@ -198,7 +198,14 @@ After cleaning the board an the main ICs, I looked up the references of the main
 
 So the terminal has 256 bytes of SRAM *for the program*, with 64 bytes of internal RAM as well in the 8035, for a total of 320 bytes of RAM. That's not much to work with!
 
-UPDATE 2023-05-11: In addition, there are 4 × TMS4045 chips, mounted on sockets, for a total of 2 KB of SRAM for the display. This makes sense as 80 columns × 24 lines = 1920 characters, or just short of 2 KB. Another optional bank of 4 chips is available, but unpopulated on this board. This can add support for a second page, per the documentation.
+*UPDATE 2023-05-12:* The ROMs have marking that could be dates:
+
+- the PCB itself says © 1978 next to each of the two main ROMs
+- ROM 13: "7849" which could be week 49 of 1978 (so December 1978)
+- ROM A49: "7913" which could be week 13 of 1979 (late March 1979)
+- ROM A50: "7908" which could be week 8 of 1979 (February 1979)
+
+*UPDATE 2023-05-11:* In addition, there are 4 × TMS4045 chips, mounted on sockets, for a total of 2 KB of SRAM for the display. This makes sense as 80 columns × 24 lines = 1920 characters, or just short of 2 KB. Another optional bank of 4 chips is available, but unpopulated on this board. This can add support for a second page, per the documentation.
 
 The rest of the chips consists mainly of 7400-series TTL chips. In the 1978 Computerworld article announcing the terminal, there was a claim that the terminal used "one-third the number of integrated circuit components of comparable terminals." How many ICs were present in the VT100, for example?
 
