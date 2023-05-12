@@ -190,12 +190,15 @@ After cleaning the board an the main ICs, I looked up the references of the main
 | Intel 8035      | 8-bit MCU (microcontroller unit)     |
 | SMC CRT5027     | CRT Video Timer and Controller VTAC  |
 | SMC COM2502     | UART                                 |
-| 2 x Intel 2111A | 256 x 4 SRAM                         |
+| 2 × Intel 2111A | 256 x 4 SRAM                         |
 | A3              | 2KB ROM (probably the character ROM) |
 | A49             | 4 KB ROM                             |
 | A50             | ROM                                  |
+| 4 × TMS4045     | 1 K x 4 SRAM                         |
 
-So the terminal has 256 bytes of SRAM, with 64 bytes of internal RAM as well in the 8035, for a total of 320 bytes of RAM. That's not much to work with!
+So the terminal has 256 bytes of SRAM *for the program*, with 64 bytes of internal RAM as well in the 8035, for a total of 320 bytes of RAM. That's not much to work with!
+
+UPDATE 2023-05-11: In addition, there are 4 × TMS4045 chips, mounted on sockets, for a total of 2 KB of SRAM for the display. This makes sense as 80 columns × 24 lines = 1920 characters, or just short of 2 KB. Another optional bank of 4 chips is available, but unpopulated on this board. This can add support for a second page, per the documentation.
 
 The rest of the chips consists mainly of 7400-series TTL chips. In the 1978 Computerworld article announcing the terminal, there was a claim that the terminal used "one-third the number of integrated circuit components of comparable terminals." How many ICs were present in the VT100, for example?
 
