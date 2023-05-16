@@ -102,7 +102,7 @@ This is a 6-page marketing brochure specifically about the 912 and 920 models. I
 
 ### Other resources
 
-There is a [video series on YouTube](https://www.youtube.com/playlist?list=PLAvOjNk-JGgU5tOh2xcoECoh6kCwpRUSN), mostly about cleaning a working TeleVideo 912.
+There is a [video series on YouTube](https://www.youtube.com/playlist?list=PLAvOjNk-JGgU5tOh2xcoECoh6kCwpRUSN), mostly about cleaning a working TeleVideo 912. In particular, the author completely disassembles the keyboard, including desoldering all the key switches for in-depth cleaning. I wouldn't have considered going that far without seeing this video.
 
 ## Turning it on
 
