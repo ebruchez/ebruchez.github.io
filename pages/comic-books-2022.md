@@ -15,11 +15,11 @@ title: Comic Books (2022)
 
 # Comic Books (2022)
 
-- 2023-12: [Les mondes de Thorgal - La jeunesse, Tome 7. La dent bleue](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-7-La-dent-bleue-363692.html)
+- 2022-12: [Les mondes de Thorgal - La jeunesse, Tome 7. La dent bleue](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-7-La-dent-bleue-363692.html)
     - 2019
     - Scénario: Yann
     - Dessin: Roman Surzhenko
-- 2023-12: [Les mondes de Thorgal - La jeunesse, Tome 6. Le drakkar des glaces](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-6-Le-drakkar-des-glaces-326810.html)
+- 2022-12: [Les mondes de Thorgal - La jeunesse, Tome 6. Le drakkar des glaces](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-6-Le-drakkar-des-glaces-326810.html)
     - 2018
     - tags: #reread
     - Scénario: Yann
@@ -139,7 +139,7 @@ title: Comic Books (2022)
     - Soggetto: Vietti Stefano
     - Sceneggiatura: Vietti Stefano
     - Disegni: Gugliotta Gianluca
-- 2022-08: Prince Valiant - Vol. 22: 1977-1978
+- 2022-08: Prince Valiant - Vol. 22: 1979-1980
     - Language: English
 - 2022-08: Prince Valiant - Vol. 21: 1977-1978
     - Language: English

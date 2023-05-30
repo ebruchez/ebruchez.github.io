@@ -15,6 +15,19 @@ title: Comic Books (2023)
 
 # Comic Books (2023)
 
+- 2023-05-29: [Les passagers du vent - 6. La Petite Fille Bois-Caïman - Livre 2](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-7-La-Petite-Fille-Bois-Caiman-Livre-2-99109.html)
+    - 2010
+    - Scénario et dessins: François Bourgeon
+    - Rating: 4/5
+    - NOTES: Second part, with a lot of heartbreaking storytelling, and (spoiler) the end of "Isa". But her descendant is starting new stories.
+- 2023-04-04: [Dragonero - Il regno dei lupi](https://www.sergiobonelli.it/dragonero/2022/06/27/gallery/uno-speciale-davvero-speciale-1021853/#1)
+    - 2022-07
+    - Language: Italian
+    - Testi: Luca Enoch
+    - Disegni e colori: Massimo Dall'Oglio
+    - NOTES: Essentially the story of a hostage crisis at the top of a monastery, where a young Ian Aranill plays an important role. The hostage takers suffered from war and oppression, but their leader turned extremely cruel. Only at the ultimate instant does he respect Ian's life by taking the "morso del crotalo", a fast poison, and ending his own life. There is cynicism in this story, about how empires can blindly hurt or destroy entire people while expanding, especially if those people are different (as in "savages"). Ian bitterly reflects on that. The Empire, in Dragonero, remains an empire. But in the end some hostages are saved, Ian and Leyll (Ian's friend) survive, the main bad guy is dead, and the corrupt commander from the Empire, Faushéviez, is killed as well. Overall, this is a good story, with beautiful art by Dall'Oglio.
+- 2023-03: Prince Valiant - Vol. 23: 1981-1982
+    - Language: English
 - 2023-01-29: : [Donjon Potron-Minet - -84. Survivre aujourd'hui](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-82-Survivre-aujourd-hui-437533.html)
     - 2022
     - Language: French
