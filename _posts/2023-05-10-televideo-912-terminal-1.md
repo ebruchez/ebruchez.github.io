@@ -11,6 +11,8 @@ category: Technology
 
 I recently won a computer terminal at a local auction. I bid on it because I had been hoping to find a vintage computer terminal for a while, so I could connect it to my [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) or [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kits. This one looked cool, I thought I would not win the auction, and then I did![^compupro]
 
+See also [The TeleVideo TVI-912 terminal - Part 2](../televideo-912-terminal-2/).
+
 [//]: # (![The terminal as I got it]&#40;/assets/posts/televideo-912/2x/IMG_2764.jpg&#41;)
 ![The terminal as I got it](/assets/posts/televideo-912/2x/IMG_3026.jpg){:standalone}
 
@@ -241,9 +243,13 @@ A quick scan of the service manual shows some troubleshooting procedures, and in
 
 ## See also
 
+[//]: # (- [The TeleVideo TVI-912 terminal - Part 3]&#40;../televideo-912-terminal-3/&#41;)
+
+- [The TeleVideo TVI-912 terminal - Part 2](../televideo-912-terminal-2/)
 - Photo album: [Televideo TVI-912 terminal (1979) - Part 1](https://photos.app.goo.gl/yuPhPkv7v9hbr3v8A)
 - Photo album: [Televideo TVI-912 terminal (1979) - Part 2](https://photos.app.goo.gl/uKXsfHny6XiJ9Fu3A)
-
+- Photo album: [TeleVideo TVI-912 (1979) - Restored](https://photos.app.goo.gl/MASdRMNVc9YxrEW26)
+-
 ---
 
 [^compupro]: To be fair, I was the only bider on this item. and it turned out that, with that terminal, came a CompuPro System 8/16, and that was a great surprise. But that's story for later.
