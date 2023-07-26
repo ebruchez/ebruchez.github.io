@@ -9,7 +9,7 @@ category: Technology
 
 ## Background
 
-In my [previous article](../televideo-912-terminal-1/), I gathered some background information about the TeleVideo TVI-912 terminal, as well as my initial cleaning and testing of the terminal. The bottom line: although it did power on and beeped, and the CRT turned on a little, it didn't display anything.
+In my [previous article](../televideo-912-terminal-1/), I gathered some background information about the TeleVideo TVI-912 terminal, and I covered the initial cleaning and testing of the terminal. The bottom line: although it did power on and beeped, showing that there was good life in the main control board, and the CRT also showed some signs of life, the terminal didn't display anything.
 
 ## Video control board
 
