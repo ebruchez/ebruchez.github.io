@@ -154,11 +154,11 @@ I wrote the program, then ran it very slowly just with LEDs and then disconnecte
 
 ![failing RAM](/assets/posts/televideo-912/2x/ram-fail.png){:standalone}
 
-I am quite happy that I was able to write a basic chips tester so easily (and I showed it off to friends too). I might write a ROM reader too later.
+I am quite happy that I was able to write a basic tester so easily (and I showed it off to friends too). I might write a ROM reader too later.
 
 ## Replacing the memory chip
 
-I ordered replacement chips on eBay. I picked the 9114 chips (AM9114DCP to be exact), supposed to be 100% compatible, as chips with the original markings were significantly more expensive. In this case, the chips came in a set of 4, which would give me some spares just in case. That actually turned out to be good, see further below.
+I ordered replacement chips on eBay. I picked the 9114 chips (AM9114DCP to be exact), supposed to be 100% compatible, as chips with the original markings were significantly more expensive. In this case, the chips came in a set of 4, which would give me some spares just in case.
 
 Once I got the memory chips, I tested one in my tester, and it passed. So I used it along with the other 3 original chips. The terminal worked!
 
@@ -172,17 +172,17 @@ I ran the self test again and this time I could see the full test pattern on the
 
 ## Talking to the Altair-Duino
 
-Now that the terminal worked, I had to connect it to something. I wanted to try connecting it to my Altair-Duino first. If you don't have an actual Altair or a modern recreation, this is the next best thing. It's a [wonderfully-made kit](xxxxlink).
+Now that the terminal worked, I had to connect it to something. I wanted to try connecting it to my [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) first. If you don't have an actual original Altair or a modern recreation, this is the next best thing: it's a wonderfully-made kit.
 
-But first, RS-232! The terminal has an old-style female DB-25 RS-232 connector. My Altair-Duino has a female DE-9 connector. I had to order a DB-25 to DE-9 adapter and a cable.
+But first, RS-232 fun! The terminal has an old-style female DB-25 RS-232 connector. My Altair-Duino has a female DE-9 connector. I had to order a DB-25 to DE-9 adapter and a cable.
 
-Things didn't work at first. I went through the Altair-Duino configuration for the serial port, many times, but to no avail. I started having doubts that my serial port on the Altair-Duino was even selected or properly connected.
+The connection didn't work at first. I went through the Altair-Duino configuration for the serial port, many times, but to no avail. I started having doubts that my serial port on the Altair-Duino was even selected or properly connected.
 
-I had also ordered a USB-to-serial adapter. I first ordered a Sabrent-branded one, but it turns out that it's hell to make it work on the Mac, so I returned it and instead got an adapter with another chip which has built-in drivers on the Mac.
+I had also ordered a USB-to-serial adapter. In fact, I first ordered a Sabrent-branded one, but it turns out that it's hell to make it work on the Mac, so I returned it and instead got an adapter with another chip which has built-in drivers on the Mac.
 
-With that, I proceeded first to connect my Mac, via CoolTerm, to the Altair-Duino, and it worked! So I knew that my serial port was working properly. (I had previously only connected my Altair-Duino directly to a VGA monitor and USB keyboard. This is a neat feature of the kit, which has this little optional board which emulates a VT-100 terminal).
+I proceeded to connect my Mac, via CoolTerm, to the Altair-Duino, and it worked! So I now knew that my Altair-Duino serial port was working properly. [^vt100]
 
-I eventually managed to connect the TVI-912 to the Altair-Duino at 4800 bauds! It seems like 9600 bauds (the highest speed on this terminal) doesn't work, and it would be good to figure out why at some point.
+Confident about the Altair-Duino side, I managed to connect the TVI-912 to the Altair-Duino: one issue was that it worked at 4800 bauds, while it didn't work at 9600 bauds (the highest speed on this terminal). It would be good to figure out why at some point.
 
 ![First connection to the Altair-Duino](/assets/posts/televideo-912/2x/IMG_3399.jpg){:standalone}
 
@@ -238,3 +238,7 @@ I didn't have a working capacitance meter when I started this, so I didn't measu
 - Photo album: [Televideo TVI-912 terminal (1979) - Part 1](https://photos.app.goo.gl/yuPhPkv7v9hbr3v8A)
 - Photo album: [Televideo TVI-912 terminal (1979) - Part 2](https://photos.app.goo.gl/uKXsfHny6XiJ9Fu3A)
 - Photo album: [TeleVideo TVI-912 (1979) - Restored](https://photos.app.goo.gl/MASdRMNVc9YxrEW26)
+
+---
+
+[^vt100]: I had previously only connected my Altair-Duino directly to a VGA monitor and USB keyboard. This is a neat feature of the kit, which has this little optional board which emulates a VT-100 terminal.
