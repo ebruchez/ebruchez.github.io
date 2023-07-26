@@ -35,7 +35,7 @@ I then removed the larger capacitors. Interestingly, one of the larger capacitor
 
 I desoldered the C2233. I don't have a transistor tester, but I quickly tested it with my multimeter's diode tester. I am getting 0.5 V between base and emitter as well as base and collector in one direction, while I am getting nothing the other way. So the transistor was not entirely bust (in fact it was still good).
 
-![Capacistors and transistor removed](/assets/posts/televideo-912/2x/IMG_3176.jpg){:standalone}
+![Capacitors and transistor removed](/assets/posts/televideo-912/2x/IMG_3176.jpg){:standalone}
 
 [//]: # (https://www.ebay.com/itm/291181417427)
 
