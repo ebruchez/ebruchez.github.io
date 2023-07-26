@@ -230,6 +230,15 @@ I didn't have a working capacitance meter when I started this, so I didn't measu
 
 ![The caps back in place, including the new one](/assets/posts/televideo-912/2x/IMG_3866.jpg){:standalone}
 
+I then replaced the power supply board in the machine.
+
+## Next steps
+
+There are a few more steps to go through to consider the project complete, including:
+
+- consider replacing some IC sockets
+- cleaning the keyboard
+
 ## See also
 
 [//]: # (- [The TeleVideo TVI-912 terminal - Part 3]&#40;../televideo-912-terminal-3/&#41;)
