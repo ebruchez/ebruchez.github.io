@@ -243,9 +243,8 @@ A quick scan of the service manual shows some troubleshooting procedures, and in
 
 ## See also
 
-[//]: # (- [The TeleVideo TVI-912 terminal - Part 3]&#40;../televideo-912-terminal-3/&#41;)
-
 - [The TeleVideo TVI-912 terminal - Part 2](../televideo-912-terminal-2/)
+- [The TeleVideo TVI-912 terminal - Part 3](../televideo-912-terminal-3/)
 - Photo album: [Televideo TVI-912 terminal (1979) - Part 1](https://photos.app.goo.gl/yuPhPkv7v9hbr3v8A)
 - Photo album: [Televideo TVI-912 terminal (1979) - Part 2](https://photos.app.goo.gl/uKXsfHny6XiJ9Fu3A)
 - Photo album: [TeleVideo TVI-912 (1979) - Restored](https://photos.app.goo.gl/MASdRMNVc9YxrEW26)

@@ -228,7 +228,7 @@ I followed the process as well for the 35V caps, but only up to the maximum volt
 
 I didn't have a working capacitance meter when I started this, so I didn't measure the caps before. But I did after, and it turns out that the two large caps measure great, in fact they hold a little more than the 3300 μF they boast. The 4700 μF cap, on the other hand, was significantly below. It worked well enough, but I decided to replace that one. The new capacitor is a little smaller, but it first in those holes. I'd have had trouble replacing the other two due to the layout of the holes, so it turned out well.
 
-![The caps back in place, including the new one](/assets/posts/televideo-912/2x/IMG_3866.jpg){:standalone}
+![The caps back in place, including the new 4700 μF](/assets/posts/televideo-912/2x/IMG_3866.jpg){:standalone}
 
 I then replaced the power supply board in the machine.
 
@@ -241,9 +241,8 @@ There are a few more steps to go through to consider the project complete, inclu
 
 ## See also
 
-[//]: # (- [The TeleVideo TVI-912 terminal - Part 3]&#40;../televideo-912-terminal-3/&#41;)
-
 - [The TeleVideo TVI-912 terminal - Part 1](../televideo-912-terminal-2/)
+- [The TeleVideo TVI-912 terminal - Part 3](../televideo-912-terminal-3/)
 - Photo album: [Televideo TVI-912 terminal (1979) - Part 1](https://photos.app.goo.gl/yuPhPkv7v9hbr3v8A)
 - Photo album: [Televideo TVI-912 terminal (1979) - Part 2](https://photos.app.goo.gl/uKXsfHny6XiJ9Fu3A)
 - Photo album: [TeleVideo TVI-912 (1979) - Restored](https://photos.app.goo.gl/MASdRMNVc9YxrEW26)
