@@ -226,7 +226,7 @@ I followed the steps, starting at a low voltage and allowing at most about 2.5 m
 
 I followed the process as well for the 35V caps, but only up to the maximum voltage I could produce, that is, 20V.
 
-I didn't have a working capacitance meter when I started this, so I didn't measure the caps before. But I did after, and it turns out that the two large caps measure great, in fact they hold a little more than the 3300 μF they boast. The 4700 μF cap, on the other hand, was significantly below. It worked well enough, but I decided to replace that one. The new capacitor is a little smaller, but it first in those holes. I'd have had trouble replacing the other two due to the layout of the holes, so it turned out well.
+I didn't have a working capacitance meter when I started this, so I didn't measure the caps before. But I did after, and it turns out that the two large caps measure great, in fact they hold a little more than the 3300 μF they boast. The 4700 μF cap, on the other hand, was significantly below. It worked well enough, but I decided to replace that one. The new capacitor is a little smaller, but it fits in those holes. I'd have had trouble replacing the other two due to the layout of the holes, so it turned out well.
 
 ![The caps back in place, including the new 4700 μF](/assets/posts/televideo-912/2x/IMG_3866.jpg){:standalone}
 
@@ -238,6 +238,8 @@ There are a few more steps to go through to consider the project complete, inclu
 
 - consider replacing some IC sockets
 - cleaning the keyboard
+
+You can read about this in [The TeleVideo TVI-912 terminal - Part 3](../televideo-912-terminal-3/).
 
 ## See also
 
