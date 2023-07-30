@@ -166,7 +166,7 @@ Finally I glued them back.
 
 ### Cleaned schematics
 
-I produced a colorized and slightly cleaned version of the 5 pages of schematics! I used the Super Resolution function before getting the the documents printed. This smoothes the original black and white scans to a good degree.
+I produced a colorized and slightly cleaned version of the 5 pages of schematics! I used the Super Resolution function of [Pixelmator Pro](https://www.pixelmator.com/pro/) before getting the documents printed. This smoothes the original black and white scans to a good degree.
 
 ![Page 2 of the beautiful schematics](/assets/posts/televideo-912/2x/schematics-small.png){:standalone}
 
