@@ -192,7 +192,7 @@ I don't get tired of the neat CRT chip.
 
 ![The CRT5027](/assets/posts/televideo-912/2x/IMG_3275.jpg){:standalone}
 
-Here is a view of the fully open "clamshell" case.[^board-size]
+Here is a view of the fully open "clamshell"[^adm] case.[^board-size]
 
 ![The clamshell](/assets/posts/televideo-912/2x/IMG_4072-cleaned.jpg){:standalone}
 
@@ -224,7 +224,7 @@ I'd like to play with the terminal with CP/M on the Altair-Duino, and also try t
 
 I'd also like to play with software aspects. The manual describes how you can set the terminal to move the cursor, output inverse video, underline, etc. It'd be neat to explore the relatively limited capabilities of the TVI-912, directly or via terminfo/ncurses.
 
-### Other fixes
+### Further work
 
 It would be good to do the following:
 
@@ -254,3 +254,5 @@ It would be good to do the following:
 [//]: # (xxx check all 78/79 markings on all chips to identify earliest/latest dates)
 
 [^board-size]: I noticed that the later TVI-910 has a much smaller main board, taking about half the size of the case.
+
+[^adm]: Update 2023-10-04: I have since learned that the design of the 912 was inspired, not to say copied, from that of the iconic [Lear Siegler ADM terminals](https://en.wikipedia.org/wiki/ADM-3A).
