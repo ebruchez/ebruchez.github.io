@@ -13,7 +13,7 @@ Concurrently with my work on the [1979 TeleVideo TVI-912](../televideo-912-termi
 
 ![The terminal in its glory](/assets/posts/televideo-800a/2x/IMG_6692.jpg){:standalone}
 
-The full name of the device is "TeleVideo TS 800A Satellite User Station". In the early 1980s, TeleVideo started building CP/M computers. Some were standalone, but the 800A has the particularity of having no local drives: neither hard drives, nor floppy drives. Instead, the 800A downloads its OS over an RS-422 port, which can go up to 10 MBit/s (although I don't know how fast the 800A actually supports). This, therefore, requires a central TeleVideo system to download the OS as well as access remote drives and printers. Other models did come with floppy and other local drives.
+The full name of the device is "TeleVideo TS 800A Satellite User Station". In the early 1980s, TeleVideo started building CP/M computers. Some were standalone, but the 800A has the particularity of having no local drives: neither hard drives, nor floppy drives. Instead, the 800A downloads its OS over an RS-422 port, which can go up to 10 MBit/s (although I don't know how fast the 800A actually supports [^rs422-clock]). This, therefore, requires a central TeleVideo system to download the OS as well as access remote drives and printers. Other models did come with floppy and other local drives.
 
 From the manual:
 
@@ -182,7 +182,7 @@ In addition, the screen takes a while to stabilize.
 
 Like for the TVI-912, I'd like to play a little more with the terminal, like using it with BASIC or WordStar on the Altair-Duino.
 
-It would of course be interesting to dig into the computer function, with all the work that this entails.
+It would of course be interesting to dig into the computer function, with all the work that this entails. Pat Finnegan has done a lot of work on this, and there is even [source code on GitHub](https://github.com/vax11/almmmost).
 
 ## See also
 
@@ -198,4 +198,6 @@ It would of course be interesting to dig into the computer function, with all th
 
 ---
 
-[^reverse-engineering]: It appears that Pat Finnegan managed to reverse-engineer the protocol and load an OS on similar TeleVideo machines. However, this work doesn't appear to be public work at this point. See [TeleVideo: Systems No One Cares About, Brought Into the 21st Century \| Vcfmw 2019](https://www.youtube.com/watch?v=B10NwXpaD9I) and [TeleVideo Rises Again: Recreating a Lost Machine \| Vcfmw 16 (2021)](https://www.youtube.com/watch?v=VWIJK9K2a-o).
+[^reverse-engineering]: It appears that Pat Finnegan managed to reverse-engineer the protocol and load an OS on similar TeleVideo machines. See this videos [TeleVideo: Systems No One Cares About, Brought Into the 21st Century \| Vcfmw 2019](https://www.youtube.com/watch?v=B10NwXpaD9I) and [TeleVideo Rises Again: Recreating a Lost Machine \| Vcfmw 16 (2021)](https://www.youtube.com/watch?v=VWIJK9K2a-o), as well as the following blow posts: [TeleVideo Systems Part V - MmmOST Introduction](https://worldofvax.blogspot.com/2019/04/televideo-systems-part-v-mmmost.html?m=1), [TeleVideo Systems Part VI - MmmOST Protocols](https://worldofvax.blogspot.com/2019/04/televideo-systems-part-vi-mmmost.html?m=1), and [TeleVideo Systems Part VII - Almmmost replacement for MmmOST](https://worldofvax.blogspot.com/2019/04/televideo-systems-part-vii-almmmost.html?m=1).
+
+[^rs422-clock]: [This article](https://worldofvax.blogspot.com/2019/04/televideo-systems-part-vi-mmmost.html?m=1) seems to indicate that the transmit clock is 800 KHz.
