@@ -15,6 +15,76 @@ title: Comic Books (2023)
 
 # Comic Books (2023)
 
+- 2023-10: [Dragonero - Zanne e Acciaio](https://shop.sergiobonelli.it/dragonero/2022/08/22/libro/dragonero-zanne-e-acciaio-1022040/)
+    - 2022-09
+    - Language: Italian
+    - Testi: Stefano Vietti
+    - Disegni: Francesco Rizzato
+- 2023-09: [Dragonero - Il globo delle anime](https://shop.sergiobonelli.it/dragonero/2022/03/18/libro/dragonero-il-globo-delle-anime-1021473/)
+    - 2022-07
+    - Language: Italian
+    - Testi: Stefano Vietti
+    - Disegni: Gianluca Pagliarani
+- 2023-08-27
+    - [Qui est ce Schtroumpf?](https://www.bedetheque.com/BD-Schtroumpfs-par-Tome-1-Qui-est-ce-Schtroumpf-472153.html)
+    - Language: French
+    - Author: Tebo
+    - Rating: 5/5
+    - NOTES: A super funny and sweet homage to the Schtroumpf series.
+- 2023-08: [Mental Incal](https://www.bedetheque.com/BD-Mental-Incal-472380.html)
+    - Language: French
+    - Scénario: Mark Russell
+    - Dessin: Yanick Paquette
+Russell,
+- 2023-07-20: [Les Technopères](https://www.bedetheque.com/serie-65-BD-Technoperes.html)
+    - Language: French
+    - tags: #reread
+    - NOTES: I quickly re-read this series. It has great parts and is well-written by Jodorowsky, although the initial premise of a teenager wanting to "be a creator of video games" is a little
+- 2023-07-14: [Final Incal - 1. Les quatre John Difool](https://www.bedetheque.com/BD-Incal-Final-Tome-1-Les-quatre-John-Difool-74679.html)
+    - tags: #reread #french
+    - Scénario: Alejandro Jodorowsky
+    - Dessin: Ladrönn
+    - NOTES: See "Après L'Incal" notes. This is the first album of the "reimagined" Après L'Incal/Final Incal series. Indeed there is a lot in common with the first album of "Après L'Incal". Moebius is out, and Ladrönn is in.
+- 2023-07-13: [Après L'Incal](https://www.bedetheque.com/BD-Incal-Apres-l-Tome-1-Le-nouveau-reve-2101.html)
+    - tags: #reread #french
+    - Scénario: Alejandro Jodorowsky
+    - Dessin: Moebius
+    - NOTES: This album is part of the confusing Après L'Incal/Final Incal series. Après L'Incal was the initial story, but Jodorowsky was unhappy with the idea of having John Difool wake up from a dream and didn't want to continue the storyline. However things didn't work out with Moebius for a new storyline, and so the series stopped there, abandoned. Final Incal is Jodorowsky's new storyline, done with Ladrönn instead of Moebius. The story of the first album is similar-but-different, and then Final Incal continues on for two albums. Curiously, a second volume of Après L'Incal came out, but it appears (I haven't checked in person)
+- 2023-07: L'Incal
+    - tags: #reread #french
+    - NOTES: TODO
+  - 2023-06-22: [Megalex - 3. Le cœur de Kavatah]
+      - 2008
+      - Language: French
+      - tags: #reread
+      - Scénario: Alejandro Jodorowsky
+      - Dessin et couleurs: Fred Beltran
+      - NOTES:
+          - I didn't remember much of this series, except some kind of vague memory that it was somehow rushed. I reread the 3 volumes in one shot. For the first two volumes, the most striking problem is the colors. They push the use of computer colors to the extreme, resulting in a result that is a little bit disconcerting. You like the result or you don't, but I think it looked a little unpleasant at the time, and it still does now. The third volume, published much later, is distinct from the first two, and much better in that regard, showing that Beltran learned to master his coloring techniques.
+          - The drawings are overall very good.
+          - The story exhibits common Jodorowsky themes: extreme cruelty, cyborgs, religion and fanaticism, the androgynous angel, but also final redemption.
+          - The computerized mummified king is a genius idea!
+          - The main characters exhibit very human (in a good sense) traits, and you root for them.
+          - The ending is extraordinarily abrupt, concluding the story in a single page, where a few pages would have been better. I suspect that the series simply had to be concluded for commercial reasons.
+          - All in all, I think the series is a little underrated. Reading it anew in one session, the story and its universe are fairly compelling. It remains imperfect, due to the uneven coloring approach and the rushed ending .
+          - I found a review I wrote in 2008 and published on Amazon.fr. It's fairly well-written ;):
+              "Ceci est le dernier tome du cycle, attendu depuis des années. Tout est révélé ici de l'histoire de Mégalex, et la trame en cours dans les deux premiers volumes se dénoue.
+
+              Les dessins restent magnifiques. Mais si les deux premiers tomes allaient parfois jusqu'au photoréalisme dans le traitement des couleurs par ordinateur, on ne trouve rien de tel ici avec des couleurs plus classiques. Je préfère personnellement cette nouvelle approche plus chaleureuse, mais le résultat est un troisième tome très différent graphiquement des deux premiers, ce qui est dommage si on considère ce tome dans l'ensemble de son contexte.
+
+              Point plus important, on sent une accélération très désagréable de l'histoire vers la fin : des événements majeurs sont résumés en à peine quelques cases, et l'épilogue prend exactement une seule case sur la dernière page. Est-ce que l'histoire était prévue en 4 tomes plutôt que trois? Cela semble possible. Peut-être que l'éditeur a cherché une solution pour conclure rapidement un cycle problématique. C'est dommage car le monde de Mégalex est fascinant et on aurait pu facilement en faire un traitement plus satisfaisant."
+- 2023-06-22: [Megalex - 2. L'Ange bossu]
+    - 2002
+    - Language: French
+    - tags: #reread
+    - Scénario: Alejandro Jodorowsky
+    - Dessin et couleurs: Fred Beltran
+- 2023-06-22: [Megalex - 1. L'anomalie]
+    - 1999
+    - Language: French
+    - tags: #reread
+    - Scénario: Alejandro Jodorowsky
+    - Dessin et couleurs: Fred Beltran
 - 2023-06-02: [Paperinik 67](https://www.panini.it/shp_ita_it/paperinik-67-1wpnik06718-it08.html)
     - 2022
     - Language: Italian
