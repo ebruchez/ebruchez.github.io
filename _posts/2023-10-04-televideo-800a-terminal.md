@@ -176,6 +176,10 @@ The terminal appears to work really well, but as always, there are possible next
 
 My kids say that the monitor makes a high-pitch noise, which I can't hear! Old ears… I should try to record the sound and check its frequency. What could it be, however? An old capacitor?
 
+*UPDATE 2023-10-07: I did a measurement of the ambient noise, and there is indeed a very clear peak (inaudible for me!) at around 16.2 kHz when the terminal is turned on. I used my Blue Yeti connected to my iPhone (as I couldn't see that peak using the internal iPhone microphone) and an app called Spectrum.*
+
+![A 16.2 kHz peak](/assets/posts/televideo-800a/2x/frequency.jpg){:standalone}
+
 In addition, the screen takes a while to stabilize.
 
 ![Some image instability](/assets/posts/televideo-800a/2x/IMG_6756.jpg){:standalone}
