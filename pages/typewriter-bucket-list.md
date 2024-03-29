@@ -11,9 +11,11 @@ I have a typewriter collection which [you can see to a large extent on TWDB](htt
 
 Please note that [shipping](../../posts/typewriter-shipping-update/) many of these machines is difficult, although possible with care.
 
+See also my [computer bucket list](../computer-bucket-list/).
+
 ## Remington 2
 
-I already own a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2). I'd love to find its predecessor, the Remington 2 standard.
+I already own a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself. I'd love to find its predecessor, the Remington 2 standard.
 
 The Remington 2 standard is not really a rare machine: more than 100,000 were made and many have survived. However, for some reason I have not yet been able to find one, at least one that is affordable. Here is what one looks like.
 
@@ -47,6 +49,14 @@ I have seen a few 1010 for sale, but in places too far for me, and proper shippi
 
 I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
 
+## IBM Selectric Composer
+
+As of 2023, I have acquired an IBM Electronic Selectric Composer, which is a newer version of the Selectric Composer. However, I'd love to find a good condition original Selectric Composer, which was an entirely electromechanical machine. It's not absolutely rare as [there are 7 on the Typewriter Database](https://typewriterdatabase.com/IBM.Selectric+Composer.69.bmys) as of 2023, but they are not exactly common either. I am also looking for type elements for the Composer (which work on both the original and the Electronic version) as I only have one at this point.
+
+![IBM Selectric Composer](/assets/pages/typewriter-bucket-list/ibmcomposer.jpg){:standalone}
+
+*Credit: xxx*
+
 ## IBM Magnetic Tape/Selectric Typewriter
 
 I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also known as MT72 in Europe), which came out in 1964. It is a large machine, with a special desk and a large console, as you can see on the picture below.
@@ -79,11 +89,3 @@ The following machines would be nice to complete that collection:
 - The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969. It had a different style of console from the newer and more stylish MagCard/II console, in fact it looks more like the MT/ST, although a little smaller.
 - The Mag Card II proper.
 - The Mag Card Executive
-
-## Olivetti Programma 101
-
-This is not a typewriter, and it's also probably a very long shot, but I'd love to find an Olivetti Programma 101, the first desktop computer ever produced, all the way back in 1965.
-
-![Olivetti Programma 101](/assets/pages/typewriter-bucket-list/olivetti-programma-101.jpg){:standalone}
-
-*Credit: [Museoscienza.org. Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano](https://www.museoscienza.org/it)*
