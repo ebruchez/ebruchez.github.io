@@ -4,6 +4,8 @@ title: Comic Books (2023)
 ---
 
 - [Comic books](../comic-books/)
+- [2024](../comic-books-2024/)
+- [2023](../comic-books-2023/)
 - [2022](../comic-books-2022/)
 - [2021](../comic-books-2021/)
 - [2020](../comic-books-2020/)
