@@ -54,7 +54,7 @@ Compare with the 1975 Electronic Composer, which looks more like a regular, alth
 
 ![The 1975 Electronic Composer](/assets/posts/ibm-electronic-composer/2x/electronic-composer-cover.jpg){:standalone width="50%"}
 
-The earlier Composer was entirely electromechanical, and required the user to write each line twice to obtain justification. The newer machine, having an electronic memory, allows the user to write each line only once, and then to simply replay the page to justify text. Both machines feature proportional spacing.
+The earlier Composer was entirely electromechanical, and required the user to write each line twice to obtain justification. The newer machine, having an electronic memory, allows the user to write each line only once, and then to simply replay the page to justify text. Both machines feature proportional spacing.[^mtsc]
 
 The market for the Composer (older and newer model) was that of *cold typesetting*. In fact these machines took a large part of the market from VariTyper.[^varityper]
 
@@ -426,4 +426,6 @@ On the typewriter database (TWDB):
 
 [^composer-1966]: I have since obtained an electromechanical composer as part of an MT/SC system!
 
-[^mtstmem]: I learned recently that the MT/SC has core memory as part of its electronics! However, it is internal memory for running justification, not text memory that is accessible by the user. 
+[^mtstmem]: I learned recently that the MT/SC has core memory as part of its electronics! However, it is internal memory for running justification, not text memory that is accessible by the user.
+
+[^mtsc]: Between the original Selectric Composer and the Electronic Composer, IBM introduced the Magnetic Tape Selectric Composer, which combined a slightly modified Selectric Composer, a large tape drive console, and electronics integrated within a desk. This combination removed the need for typing each line twice to obtain justification, but it required a lot of hardware, including a dedicated recording station.
