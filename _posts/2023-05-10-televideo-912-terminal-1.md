@@ -11,7 +11,10 @@ category: Technology
 
 I recently won a computer terminal at a local auction. I bid on it because I had been hoping to find a vintage computer terminal for a while, so I could connect it to my [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) or [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kits. This one looked cool, I thought I would not win the auction, and then I did![^compupro]
 
-See also [The TeleVideo TVI-912 terminal - Part 2](../televideo-912-terminal-2/).
+See also:
+
+- [The TeleVideo TVI-912 terminal - Part 2](../televideo-912-terminal-2/), where I fix the video control board and memory and manage to ge the terminal working
+- [The TeleVideo TVI-912 terminal - Part 3](../televideo-912-terminal-3/), where I complete the restoration of the terminal
 
 [//]: # (![The terminal as I got it]&#40;/assets/posts/televideo-912/2x/IMG_2764.jpg&#41;)
 ![The terminal as I got it](/assets/posts/televideo-912/2x/IMG_3026.jpg){:standalone}
