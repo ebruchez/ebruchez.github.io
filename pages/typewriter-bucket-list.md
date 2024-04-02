@@ -49,14 +49,6 @@ I have seen a few 1010 for sale, but in places too far for me, and proper shippi
 
 I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
 
-## IBM Selectric Composer
-
-As of 2023, I have acquired an IBM Electronic Selectric Composer, which is a newer version of the Selectric Composer. However, I'd love to find a good condition original Selectric Composer, which was an entirely electromechanical machine. It's not absolutely rare as [there are 7 on the Typewriter Database](https://typewriterdatabase.com/IBM.Selectric+Composer.69.bmys) as of 2023, but they are not exactly common either. I am also looking for type elements for the Composer (which work on both the original and the Electronic version) as I only have one at this point.
-
-![IBM Selectric Composer](/assets/pages/typewriter-bucket-list/ibmcomposer.jpg){:standalone}
-
-*Credit: xxx*
-
 ## IBM Magnetic Tape/Selectric Typewriter
 
 I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also known as MT72 in Europe), which came out in 1964. It is a large machine, with a special desk and a large console, as you can see on the picture below.
@@ -67,13 +59,15 @@ As of 2023, there is a Mag Tape with missing parts (including the typewriter top
 
 I have also obtained diagrams/schematics for the MT/ST's electronics and relay-based system of the machine!
 
-## IBM Magnetic Tape/Selectric Composer
+In March 2024, I was lucky enough to find a complete IBM Magnetic Tape/Selectric Composer, which is similar, but different, to the MT/ST, as it doesn't have word processing capabilities, but instead works as a composition system. You can see these entries on TWDB:
 
-This unit was designed to work alongside the IBM MT/ST. It is unknown to me if any of those machines have survived.
+- [IBM Magnetic Tape/Selectric Composer](https://typewriterdatabase.com/1969-ibm-magnetic-tape-selectric-composer.22538.typewriter)
+- [IBM Magnetic Tape/Selectric Recorder](https://typewriterdatabase.com/1969-ibm-magnetic-tape-selectric-recorder.22539.typewriter)
 
-![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtsc.jpg){:standalone}
-
-*Credit: [Norsk Teknisk Museum](https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier)*
+But I would like to find an MT/ST as well!
+ 
+[//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.jpg&#41;{:standalone})
+[//]: # (*Credit: [Norsk Teknisk Museum]&#40;https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier&#41;*)
 
 ## Other machines of the IBM Mag Card family
 
