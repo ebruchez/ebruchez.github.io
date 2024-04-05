@@ -81,5 +81,5 @@ I own the following "Mag Card/II family" machines:
 The following machines would be nice to complete that collection:
 
 - The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969. It had a different style of console from the newer and more stylish MagCard/II console, in fact it looks more like the MT/ST, although a little smaller.
-- The Mag Card II proper.
+- The Mag Card II proper
 - The Mag Card Executive

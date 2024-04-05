@@ -37,11 +37,10 @@ title: Comic Books (2023)
     - Language: French
     - Scénario: Mark Russell
     - Dessin: Yanick Paquette
-Russell,
 - 2023-07-20: [Les Technopères](https://www.bedetheque.com/serie-65-BD-Technoperes.html)
     - Language: French
     - tags: #reread
-    - NOTES: I quickly re-read this series. It has great parts and is well-written by Jodorowsky, although the initial premise of a teenager wanting to "be a creator of video games" is a little
+    - NOTES: I quickly re-read this series. It has great parts and is well-written by Jodorowsky, although the initial premise of a teenager wanting to "be a creator of video games" feels a little odd as a motivation. 
 - 2023-07-14: [Final Incal - 1. Les quatre John Difool](https://www.bedetheque.com/BD-Incal-Final-Tome-1-Les-quatre-John-Difool-74679.html)
     - tags: #reread #french
     - Scénario: Alejandro Jodorowsky
