@@ -426,6 +426,6 @@ On the typewriter database (TWDB):
 
 [^composer-1966]: I have since obtained an electromechanical composer as part of an MT/SC system!
 
-[^mtstmem]: I learned recently that the MT/SC has core memory as part of its electronics! However, it is internal memory for running justification, not text memory that is accessible by the user.
+[^mtstmem]: I learned recently that the MT/SC has core memory as part of its electronics! However, it is internal memory for the microprogram, escapement tables, registers, and buffers for running the justification algorithm, not text memory that is accessible by the user.
 
 [^mtsc]: Between the original Selectric Composer and the Electronic Composer, IBM introduced the Magnetic Tape Selectric Composer, which combined a slightly modified Selectric Composer, a large tape drive console, and electronics integrated within a desk. This combination removed the need for typing each line twice to obtain justification, but it required a lot of hardware, including a dedicated recording station.
