@@ -17,6 +17,11 @@ title: Comic Books (2024)
 
 # Comic Books (2024)
 
+- 2024-04-16: [Les passagers du vent - 8. Le sang des ceries](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-8-Le-Sang-des-cerises-Livre-1-Rue-de-l-Abreuvoir-344648.html)
+    - 2018
+    - Scénario et dessins: François Bourgeon
+    - Rating: 4/5
+    - NOTES: Continuation of the series after many years. This is a more difficult opus, I think. The art is still beautiful.
 - 2024-03-06: [Yoko Tsuno - 30. Les gémeaux de Saturne](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-30-Les-Gemeaux-de-Saturne-447783.html)
     - 2022
     - Roger Leloup

@@ -90,7 +90,7 @@ title: Comic Books (2023)
     - 2022
     - Language: Italian
     - NOTES: Includes stories of various quality: six stories from 1997 to 2012, one new story, "Paperinik e il mistero floreale" (from 2022, or at least so far unpublished), and two PK stories from 2002.
-- 2023-05-29: [Les passagers du vent - 6. La Petite Fille Bois-Caïman - Livre 2](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-7-La-Petite-Fille-Bois-Caiman-Livre-2-99109.html)
+- 2023-05-29: [Les passagers du vent - 7. La Petite Fille Bois-Caïman - Livre 2](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-7-La-Petite-Fille-Bois-Caiman-Livre-2-99109.html)
     - 2010
     - Scénario et dessins: François Bourgeon
     - Rating: 4/5
