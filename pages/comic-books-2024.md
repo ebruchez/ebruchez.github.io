@@ -17,6 +17,12 @@ title: Comic Books (2024)
 
 # Comic Books (2024)
 
+- 2024-04-17: [Les nouvelles aventures de Lapinot - 1. Un monde un peu meilleur](https://www.bedetheque.com/BD-Lapinot-Les-nouvelles-aventures-de-Tome-1-Un-monde-un-peu-meilleur-309000.html)
+    - 2017 
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - 4/5
+    - NOTES: I liked this first album of the new adventures. Then I realized that there are already 8 volumes out. Trondheim remains quite the prolific author.
 - 2024-04-16: [Les passagers du vent - 8. Le sang des ceries](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-8-Le-Sang-des-cerises-Livre-1-Rue-de-l-Abreuvoir-344648.html)
     - 2018
     - Scénario et dessins: François Bourgeon
