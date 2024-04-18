@@ -77,7 +77,7 @@ The CRT spring also got the Evapo-Rust treatment.
 
 The hardware looks better after derusting.
 
-![Desusted hardware](/assets/posts/televideo-912/2x/IMG_3271.jpg){:standalone}
+![Derusted hardware](/assets/posts/televideo-912/2x/IMG_3271.jpg){:standalone}
 
 And so does the spring.
 
