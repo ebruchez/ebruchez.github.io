@@ -14,14 +14,21 @@ title: Comic Books (2024)
 - [2017](../comic-books-2017/)
 - [2016](../comic-books-2016/)
 - [2015](../comic-books-2015/)
-
+ 
 # Comic Books (2024)
 
+- 2024-04-19: [La flèche ardente](https://www.bedetheque.com/BD-Rayon-U-La-fleche-ardente-466811.html)
+    - 2023
+    - Language: French
+    - Scénario: Jean Van Hamme
+    - Dessin: Christian Cailleaux, Étienne Schréder
+    - Rating: 3/5
+    - NOTES: It is hard to evaluate this volume. On one hand, it must reproduce the spirit of the original "Rayon U" from the 1940s. That is an album that reflects its time. I like it, but it is not exactly a masterpiece. On the other hand, it needs to provide good art, and a story interesting enough to justify the effort. The art of "La flèche ardente" is not bad, but I noticed some inconsistencies in the faces of the characters, which I found a little unsettling. Now the story itself is fine, without being extraordinary. I was surprised by how Marduk, the scientist, suddenly got world domination ambitions when he realizes the power in his hands. In the end Hollis appears to calm Marduk's ambitions. For now, I will consider this a middle-of-the road album.
 - 2024-04-17: [Les nouvelles aventures de Lapinot - 1. Un monde un peu meilleur](https://www.bedetheque.com/BD-Lapinot-Les-nouvelles-aventures-de-Tome-1-Un-monde-un-peu-meilleur-309000.html)
-    - 2017 
+    - 2017
     - Language: French
     - Scénario et dessin: Lewis Trondheim
-    - 4/5
+    - Rating: 4/5
     - NOTES: I liked this first album of the new adventures. Then I realized that there are already 8 volumes out. Trondheim remains quite the prolific author.
 - 2024-04-16: [Les passagers du vent - 8. Le sang des ceries](https://www.bedetheque.com/BD-Passagers-du-vent-Tome-8-Le-Sang-des-cerises-Livre-1-Rue-de-l-Abreuvoir-344648.html)
     - 2018
