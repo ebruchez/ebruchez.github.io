@@ -17,6 +17,13 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-04-28: [Kill Tête de Chien](https://www.bedetheque.com/BD-Incal-Kill-Tete-de-Chien-Kill-Tete-de-Chien-435008.html)
+    - 2021
+    - Language: French
+    - Scénario: Brandon Thomas 
+    - Dessin: Pete Woods
+    - Rating: 3/5
+    - NOTES: The story is a little hard to follow.
 - 2024-04-19: [La flèche ardente](https://www.bedetheque.com/BD-Rayon-U-La-fleche-ardente-466811.html)
     - 2023
     - Language: French
@@ -46,4 +53,4 @@ title: Comic Books (2024)
         - This again could have been Leloup's last work, but not only it is not, but album 31 is coming out soon.
         - There is no doubt that the art is still suffering from Leloup's old age, especially the characters' faces. The decor are still great, although, like in most of Yoko's space adventures, they tend to be less sophisticated than those of the earth adventure's.
         - This said, looking at the original drawings, not inked, the art tends to be better than the final result. The inking seems to be a problem for Leloup now. Maybe he could have outsourced this part of the work.
-        - Again, reading Roger Leloup's explanations help understand this album. It is anchored in the idea of the Vinéens' early Earth colonization and mistakes they made, in this case genetic modifications. Interestingly enough, there is also an AI aspect, but Leloup had AI way before these days' LLMs were fashionable. 
+        - Again, reading Roger Leloup's explanations helps understand this album. It is anchored in the idea of the Vinéens' early Earth colonization and mistakes they made, in this case genetic modifications. Interestingly enough, there is also an AI aspect, but Leloup had AI way before these days' LLMs were fashionable. 

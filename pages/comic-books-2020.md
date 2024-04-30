@@ -644,7 +644,7 @@ title: Comic Books (2020)
         - The story is actually two stories in one, as explained in the dossier.
         - The decors: planes, scenery, and so on, are still amazing, in typical Leloup fashion.
         - The characters, however, have suffered. Yoko's face, in particular, looks bad in a few places, and she is usually, of course, very pretty. This is the main reason I am taking points out of my rating.
-        - Reading Roger Leloup's explanations help understand this album: they are stories inspired by his childhood. He also points to the relations with some other Yoko Tsuno stories.
+        - Reading Roger Leloup's explanations helps understand this album: they are stories inspired by his childhood. He also points to the relations with some other Yoko Tsuno stories.
         - I cannot say that the stories are that exciting.
         - I love Leloup's work. I hope, now that he got this double story out, that he gets to make more albums, avoiding the drawing mistakes of this one. I realize that this is asking a lot from somebody past his mid-eighties and who has produced so much already.
         - I found online, in a [post](http://bdzoom.com/146755/actualites/yoko-tsuno-roger-leloup-toujours-au-top%E2%80%A6/) dated October 6, 2019, the mention: "Que les amoureux de la jolie japonaise se rassurent, son créateur travaille déjà sur un trentième épisode qui permettra à Yoko d’affronter des humains robotisés." ("Those who love the pretty Japanese shouldn't worry, her creator is already working on a thirtieth episode which will allow her to fight roboticized humans.")
