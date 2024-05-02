@@ -5,12 +5,17 @@ icon: fas fa-file
 order: 3
 ---
 
-Bucket lists:
+## Bucket lists
+
+bucket list
+: list of things that one has not done before but wants to do before dying
+
+I maintain the following "bucket lists" of things to acquire:
 
 - [Typewriters](/pages/typewriter-bucket-list/)
 - [Computers](/pages/computer-bucket-list/)
 
-Comic books:
+## Lists of comic books I have read
 
 - [Comic Books](/pages/comic-books/)
     - [2024](/pages/comic-books-2024/)
@@ -24,7 +29,7 @@ Comic books:
     - [2016](/pages/comic-books-2016/)
     - [2015](/pages/comic-books-2015/)
 
-Other:
+## Other
 
 - [Predictions](/pages/predictions/)
 
