@@ -17,6 +17,17 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-05-02: [Paperinik et la macchina del Fangus](https://www.panini.it/shp_ita_it/paperinik-e-la-macchina-del-fangus-1wdili031f-it08.html)
+    - 2021 
+    - Language: Italian
+    - Topolino Limited De Luxe Edition
+    - Artists: Alessandro Sisti, Antonello Daalena, Paolo De Lorenzi, Francesco D'Ippolito, Giampaolo Soldati, Stefano Zanchi
+    - NOTES: Stories published in 2014 about Angus Fangus, the antagonistic journalist of the Paperinik series. Includes the following stories:
+        - "Scuola di media": Angus teaches journalism to Paperino and Paperoga.
+        - "Tutto a rovescio": A ray that can reverse everything.
+        - "Il boss dei boss": PK joins the mafia but eventually tricks them.
+        - "Problemi d'immagine": PK trades appearance with Spennacchiotto (a [old character](https://it.wikipedia.org/wiki/Spennacchiotto) who only occasionally reappears).
+        - "Concorrenza sleale": Private police tries to take over entire towns.
 - 2024-04-28: [Kill Tête de Chien](https://www.bedetheque.com/BD-Incal-Kill-Tete-de-Chien-Kill-Tete-de-Chien-435008.html)
     - 2021
     - Language: French
