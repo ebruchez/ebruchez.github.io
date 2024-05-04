@@ -5,13 +5,38 @@ title: Typewriter bucket list
 
 # Typewriter bucket list
 
+[//]: # (<div class="twdb-collection"> )
+
+[//]: # (    <object )
+
+[//]: # (        type="text/html")
+
+[//]: # (        data="https://typewriterdatabase.com/typewriter_list_ajax.php?output=htm&css=1&hunter_search=3614&collection_search=My+Collection">)
+
+[//]: # (    </object>)
+
+[//]: # (</div>)
+
 ## Introduction
 
-I have a typewriter collection which [you can see to a large extent on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection). But a collector is never entirely satisfied, and there are several machines I'd love to find, if they are affordable and/or in restorable condition. Below is a list of such machines.
-
-Please note that [shipping](../../posts/typewriter-shipping-update/) many of these machines is difficult, although possible with care.
+I have a typewriter collection which [you can see to a large extent on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection). But a collector is never entirely satisfied, and there are several machines I'd love to find, if they are affordable and/or in restorable condition. Below is a list of such machines.[^shippping]
 
 See also my [computer bucket list](../computer-bucket-list/).
+
+## IBM Magnetic Tape/Selectric Typewriter
+
+I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also known as MT72 in Europe), which came out in 1964.[^mtst-ebay][^mtst-diagrams][^mtsc] It is a large machine, with a special desk and a large console, as you can see on the picture below.
+
+![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone}
+
+[//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.jpg&#41;{:standalone})
+[//]: # (*Credit: [Norsk Teknisk Museum]&#40;https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier&#41;*)
+
+## Original IBM Mag Card typewriter
+
+The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969, seems to be quite rare. I am aware of a museum in Europe that has an instance (alongside an MT/ST). It had a different style of console compared to the newer and more stylish Mag Card/II console. In fact it looks more like the MT/ST, although possibly a little smaller.
+
+![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.jpg){:standalone width="75%"}
 
 ## Remington 2
 
@@ -29,13 +54,13 @@ The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 
 
 I own a [Remington Model-121 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-model121.12936.typewriter), a [Model-23 Bookkeeping Machine](https://typewriterdatabase.com/192x-remington-bookkeeping-machine-23.12494.typewriter), and a [Model-21 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-21.14165.typewriter). Missing from this small collection is the beautiful, and earlier, Remington 11 with Adding and Subtracting mechanism. This features the so-called "Wahl mechanism" in the front. Here is what one looks like.
 
-![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone width="50%"}
+![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone width="60%"}
 
 *Credit: [National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_904253?fbclid=IwAR02VU29QBYN5V7w2-Z0fcxLodE5XzPoDFhsFpXcw-2eqcN21Ns-3nRcbDo)*
 
 I know that a few of those are around, as I've seen them for sale a couple of times: once in Europe, and once in the US, but too far away from me. Hopefully one if waiting form me somewhere.
 
-## VariTyper Model 160/660/720/1010
+## VariTyper Model 160/660/720/1010/1030
 
 I own a small collection of Varityper-branded machines, including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below, as well as models 160 and 720.
 
@@ -45,27 +70,9 @@ I own a small collection of Varityper-branded machines, including some 1930s and
 
 ![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone}
 
-I have seen a few 1010 for sale, but in places too far for me, and proper shipping is a challenge.
+I have seen a few 1010 for sale, but in places too far for me, and proper shipping is a challenge. I think that the 1030 is a European model of the 1010. I am not sure it was ever sold in the US.
 
 I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
-
-## IBM Magnetic Tape/Selectric Typewriter
-
-I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also known as MT72 in Europe), which came out in 1964.[^mtst-ebay][^mtst-diagrams][^mtsc] It is a large machine, with a special desk and a large console, as you can see on the picture below.
-
-![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone}
-
-
-
- 
-[//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.jpg&#41;{:standalone})
-[//]: # (*Credit: [Norsk Teknisk Museum]&#40;https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier&#41;*)
-
-## Original IBM Mag Card typewriter
-
-The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969, seems to be quite rare. I am aware of a museum in Europe that has an instance (alongside an MT/ST). It had a different style of console compared to the newer and more stylish Mag Card/II console. In fact it looks more like the MT/ST, although possibly a little smaller.
-
-![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.jpg){:standalone width="75%"}
 
 ## Other machines of the IBM Mag Card family
 
@@ -78,10 +85,21 @@ I own the following "Mag Card/II family" machines:
 
 The following machines would be nice to complete that collection:
 
-- The Mag Card II proper
-- The Mag Card Executive
+- Mag Card II
+- Mag Card Executive
+- Mag Card Composer
+
+## Hermes 10
+
+The Hermes 10 is a typewriter which is the electric twin of the Hermes 3000. It is a beautiful machine, and I'd love to find one in good condition for a decent price.
+
+![Hermes 10](https://typewriterdatabase.com/img/g_hermes_19918_1676958987.jpg){:standalone}
+
+*Credit: [Joe Van Cleave](https://typewriterdatabase.com/typewriters.php?hunter_search=1775&collection_search=My+Collection)*
 
 ---
+
+[^shippping]: Please note that [shipping](../../posts/typewriter-shipping-update/) many of these machines is difficult, although possible with care.
 
 [^mtst-ebay]: As of 2023, there is a Mag Tape with missing parts (including the typewriter top case and platen), for sale on eBay. The seller even has a video tour of the machine. However, this is a "make me an offer" type of scenario and the seller doesn't appear eager to sell the machine. But this is very interesting because of the video tour, and it is good to know that at least one example of the machine is out there.
 
