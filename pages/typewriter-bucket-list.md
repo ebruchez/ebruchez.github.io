@@ -55,7 +55,7 @@ The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 
 
 I own a [Remington Model-121 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-model121.12936.typewriter), a [Model-23 Bookkeeping Machine](https://typewriterdatabase.com/192x-remington-bookkeeping-machine-23.12494.typewriter), and a [Model-21 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-21.14165.typewriter). Missing from this small collection is the beautiful, and earlier, Remington 11 with Adding and Subtracting mechanism. This features the so-called "Wahl mechanism" in the front.
 
-I know that a few of those are around, as I've seen them for sale a couple of times: once in Europe, and once in the US, but too far away from me. Hopefully one if waiting form me somewhere.
+I know that a few of those are around, as I've seen them for sale a couple of times: once in Europe, and once in the US, but too far away from me. Hopefully one is waiting form me somewhere.
 
 ![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone width="60%"}
 
@@ -80,7 +80,7 @@ I am also interested in completing my collection of Varityper shuttles (or fonts
 
 The Hermes 10 is a typewriter which is the electric twin of the Hermes 3000. It is a beautiful machine, and I'd love to find one in good condition for a decent price.
 
-![Hermes 10](https://typewriterdatabase.com/img/g_hermes_19918_1676958987.jpg){:standalone}
+![Hermes 10](/assets/pages/typewriter-bucket-list/hermes10.jpg){:standalone}
 
 *Credit: [Joe Van Cleave](https://typewriterdatabase.com/typewriters.php?hunter_search=1775&collection_search=My+Collection)*
 
@@ -98,6 +98,8 @@ The following machines would be nice to complete that collection:
 - Mag Card II
 - Mag Card Executive
 - Mag Card Composer
+
+![IBM Mag Card II](/assets/pages/typewriter-bucket-list/ibmcstii.jpg){:standalone width="75%"}
 
 ---
 
