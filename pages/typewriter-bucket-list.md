@@ -42,27 +42,33 @@ The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969
 
 I already own a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself. I'd love to find its predecessor, the Remington 2 standard.
 
-The Remington 2 standard is not really a rare machine: more than 100,000 were made and many have survived. However, for some reason I have not yet been able to find one, at least one that is affordable. Here is what one looks like.
+The Remington 2 standard is not really a rare machine: more than 100,000 were made and many have survived. However, for some reason I have not yet been able to find one that is both local and affordable.
+
+The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 4 only did capital letters and 35,000 were made, approximately. Needless to say, I'd be happy to find one of those as well!
 
 ![Remington 2](/assets/pages/typewriter-bucket-list/remington2.png){:standalone}
 
 *Credit: [National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_687313)*
 
-The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 4 only did capital letters and 35,000 were made, approximately. Needless to say, I'd be happy to find one of those as well!
 
 ## Remington 11 adding and subtracting machine
 
-I own a [Remington Model-121 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-model121.12936.typewriter), a [Model-23 Bookkeeping Machine](https://typewriterdatabase.com/192x-remington-bookkeeping-machine-23.12494.typewriter), and a [Model-21 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-21.14165.typewriter). Missing from this small collection is the beautiful, and earlier, Remington 11 with Adding and Subtracting mechanism. This features the so-called "Wahl mechanism" in the front. Here is what one looks like.
+I own a [Remington Model-121 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-model121.12936.typewriter), a [Model-23 Bookkeeping Machine](https://typewriterdatabase.com/192x-remington-bookkeeping-machine-23.12494.typewriter), and a [Model-21 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-21.14165.typewriter). Missing from this small collection is the beautiful, and earlier, Remington 11 with Adding and Subtracting mechanism. This features the so-called "Wahl mechanism" in the front.
+
+I know that a few of those are around, as I've seen them for sale a couple of times: once in Europe, and once in the US, but too far away from me. Hopefully one if waiting form me somewhere.
 
 ![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone width="60%"}
 
 *Credit: [National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_904253?fbclid=IwAR02VU29QBYN5V7w2-Z0fcxLodE5XzPoDFhsFpXcw-2eqcN21Ns-3nRcbDo)*
 
-I know that a few of those are around, as I've seen them for sale a couple of times: once in Europe, and once in the US, but too far away from me. Hopefully one if waiting form me somewhere.
 
 ## VariTyper Model 160/660/720/1010/1030
 
 I own a small collection of Varityper-branded machines, including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below, as well as models 160 and 720.
+
+I have seen a few 1010 for sale, but in places too far for me, and proper shipping is a challenge. I think that the 1030 is a European model of the 1010. I am not sure that it was ever sold in the US.
+
+I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
 
 [//]: # (![The current &#40;2022&#41; Varityper collection]&#40;/assets/posts/varityper-610f/2x/montage.jpg&#41;{:standalone width="50%"})
 
@@ -70,9 +76,13 @@ I own a small collection of Varityper-branded machines, including some 1930s and
 
 ![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone}
 
-I have seen a few 1010 for sale, but in places too far for me, and proper shipping is a challenge. I think that the 1030 is a European model of the 1010. I am not sure it was ever sold in the US.
+## Hermes 10
 
-I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
+The Hermes 10 is a typewriter which is the electric twin of the Hermes 3000. It is a beautiful machine, and I'd love to find one in good condition for a decent price.
+
+![Hermes 10](https://typewriterdatabase.com/img/g_hermes_19918_1676958987.jpg){:standalone}
+
+*Credit: [Joe Van Cleave](https://typewriterdatabase.com/typewriters.php?hunter_search=1775&collection_search=My+Collection)*
 
 ## Other machines of the IBM Mag Card family
 
@@ -88,14 +98,6 @@ The following machines would be nice to complete that collection:
 - Mag Card II
 - Mag Card Executive
 - Mag Card Composer
-
-## Hermes 10
-
-The Hermes 10 is a typewriter which is the electric twin of the Hermes 3000. It is a beautiful machine, and I'd love to find one in good condition for a decent price.
-
-![Hermes 10](https://typewriterdatabase.com/img/g_hermes_19918_1676958987.jpg){:standalone}
-
-*Credit: [Joe Van Cleave](https://typewriterdatabase.com/typewriters.php?hunter_search=1775&collection_search=My+Collection)*
 
 ---
 
