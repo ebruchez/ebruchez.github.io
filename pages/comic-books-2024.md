@@ -17,11 +17,17 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-05-07: [Les formidables aventures de Lapinot 0. Slaloms](http://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-2-Slaloms-16176.html)
+    - 1993
+    - tags: #reread
+    - Rating: 5/5
+    - NOTES: I read this for the last time in 2017. For some reason, I really like this album, while it doesn't have the best reviews on Bédéthèque. Or rather, reviews are split. I can certainly relate to the topic of skiing, being a skier myself. Skiing is not obviously misrepresented, as is the case in other bandes dessinées (as much as I like Lefranc's "Le mystère Borg", the skiing there is a little awkward).
 - 2024-05-02: [Paperinik et la macchina del Fangus](https://www.panini.it/shp_ita_it/paperinik-e-la-macchina-del-fangus-1wdili031f-it08.html)
     - 2021 
     - Language: Italian
     - Topolino Limited De Luxe Edition
     - Artists: Alessandro Sisti, Antonello Daalena, Paolo De Lorenzi, Francesco D'Ippolito, Giampaolo Soldati, Stefano Zanchi
+    - Rating: 3/5
     - NOTES: Stories published in 2014 about Angus Fangus, the antagonistic journalist of the Paperinik series. Includes the following stories:
         - "Scuola di media": Angus teaches journalism to Paperino and Paperoga.
         - "Tutto a rovescio": A ray that can reverse everything.
