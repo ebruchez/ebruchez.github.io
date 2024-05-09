@@ -320,8 +320,10 @@ title: Comic Books (2017)
     - 2015
     - Scénario: Christophe Bec
     - Dessin:  Mauro Salvatori, Fabrizio Fain
-- 2017-02-22: [Les formidables aventures de Lapinot 0. Slaloms](http://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-2-Slaloms-16176.html)
+- 2017-02-22: [Les formidables aventures de Lapinot 2. Slaloms](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-2-Slaloms-16176.html)
     - 1993
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
     - tags: #reread
     - This was originally published in black and white, and Trondheim redid it (maybe even redrew it?) in color at a later point.
 - 2017-02-xx: [Alix Senator: 3. La Conjuration des rapaces](http://www.bedetheque.com/BD-Alix-Senator-Tome-3-La-Conjuration-des-rapaces-226929.html)

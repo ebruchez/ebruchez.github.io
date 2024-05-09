@@ -17,8 +17,16 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
-- 2024-05-07: [Les formidables aventures de Lapinot 0. Slaloms](http://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-2-Slaloms-16176.html)
+- 2024-05-08: [Les formidables aventures de Lapinot 4. Blacktown](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-4-Blacktown-28960.html)
+    - 1995
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 5/5
+- 2024-05-07: [Les formidables aventures de Lapinot 2. Slaloms](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-2--16176.html)
     - 1993
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
     - tags: #reread
     - Rating: 5/5
     - NOTES: I read this for the last time in 2017. For some reason, I really like this album, while it doesn't have the best reviews on Bédéthèque. Or rather, reviews are split. I can certainly relate to the topic of skiing, being a skier myself. Skiing is not obviously misrepresented, as is the case in other bandes dessinées (as much as I like Lefranc's "Le mystère Borg", the skiing there is a little awkward).
