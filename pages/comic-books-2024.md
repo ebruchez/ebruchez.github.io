@@ -17,6 +17,12 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-05-08: [Les formidables aventures de Lapinot 6. Walter](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-6-Walter-958.html)
+    - 1996
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 4/5
 - 2024-05-07: [Les formidables aventures de Lapinot 5. Pichenettes](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-5-Pichenettes-957.html)
     - 1995
     - Language: French
