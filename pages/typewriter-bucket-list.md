@@ -42,7 +42,7 @@ The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969
 
 I already own a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself. I'd love to find its predecessor, the Remington 2 standard.
 
-__UPDATE 2024-05-25: I have found a Remington 2! It is missing the wooden roller and paper table but it was a good deal. It will need restoration. I am still interested in finding another Remington 2 and/or a parts machine. For more, see my [TWDB gallery](https://typewriterdatabase.com/1885-remington-2.23048.typewriter) and the [photo album](https://photos.app.goo.gl/6Laua3aeqrwNpVqGA).__
+__UPDATE 2024-05-25: I have found a Remington 2!__ It is missing the wooden roller and paper table but it was a good deal. It will need restoration. I am still interested in finding another Remington 2 and/or a parts machine. For more, see my [TWDB gallery](https://typewriterdatabase.com/1885-remington-2.23048.typewriter) and the [photo album](https://photos.app.goo.gl/6Laua3aeqrwNpVqGA).
 
 The Remington 2 standard is not really a rare machine: more than 100,000 were made and many have survived. However, for some reason I have not yet been able to find one that is both local and affordable.
 
