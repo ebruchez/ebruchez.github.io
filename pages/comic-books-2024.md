@@ -17,18 +17,112 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-06-05: [Le combat ordinaire - 4. Planter des clous](https://www.bedetheque.com/BD-Combat-ordinaire-Tome-4-Planter-des-clous-72375.html)
+    - 2008
+    - Scénario: Manu Larcenet
+    - Dessin: Manu Larcenet
+    - tags: #reread
+- 2024-06-03: [Le combat ordinaire - 3. Ce qui est précieux](https://www.bedetheque.com/BD-Combat-ordinaire-Tome-3-Ce-qui-est-precieux-54294.html)
+    - 2006
+    - Scénario: Manu Larcenet
+    - Dessin: Manu Larcenet
+    - tags: #reread
+- 2024-06-04: [Le combat ordinaire - 2. Les quantités négligeables](https://www.bedetheque.com/BD-Combat-ordinaire-Tome-2-Les-quantites-negligeables-35250.html)
+    - 2004
+    - Scénario: Manu Larcenet
+    - Dessin: Manu Larcenet
+    - tags: #reread
+- 2024-06-04: [Le combat ordinaire - 1. Le combat ordinaire](https://www.bedetheque.com/BD-Combat-ordinaire-Tome-1-24146.html)
+    - 2003
+    - Scénario: Manu Larcenet
+    - Dessin: Manu Larcenet
+    - tags: #reread
+    - NOTES: The beginning of 4 albums-long masterpiece.
+- 2024-05: [Les formidables aventures sans Lapinot 4. Top Ouf](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-sans-Tome-4-Top-Ouf-105593.html)
+    - 2010
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 4/5
+    - NOTES: This is a full story. Richard is the main character. I love the scene at the discothèque. 
+- 2024-05: [Les formidables aventures sans Lapinot 3. Cyberculture mon amour](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-sans-Tome-3-Cyberculture-mon-amour-6784.html)
+    - 2001
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 3/5
+    - NOTES: This is a full story. It's not as good as a Lapinot story, however.
+- 2024-05: [Les formidables aventures sans Lapinot 2. Ordinateur mon ami](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-sans-Tome-2-Ordinateur-mon-ami-1341.html)
+    - 1998
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 3/5
+    - NOTES: Early Trondheim. One-page gags again, with a couple of exceptions.
+- 2024-05-1x: [Les formidables aventures sans Lapinot 1. Les aventures de l'univers](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-sans-Tome-1-Les-aventures-de-l-Univers-1068.html)
+    - 1997
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 3/5
+    - NOTES: Early Trondheim. One-page gags. Some are funny and quite deep.
+- 2024-05-1x: [Les formidables aventures de Lapinot 12. La vie comme elle vient](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-12-La-vie-comme-elle-vient-37048.html)
+    - 2004
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 5/5
+    - NOTES: 12 in the collection, but said to be "Huitième tome des formidables aventures de Lapinot". A little masterpiece, with a lot of talk of death, and the unexpected, tragic, and touching death of Lapinot in the end.
+- 2024-05-1x: [Les formidables aventures de Lapinot 11. L'accélérateur Atomique](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-11-L-accelerateur-Atomique-22710.html)
+    - 2003
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 4/5
+    - NOTES: 11 in the collection, but said to be "Neuvième tome des formidables aventures de Lapinot". A Spirou et Fantasio story.
+- 2024-05-1x: [Les formidables aventures de Lapinot 10. La couleur de l'enfer](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-10-La-couleur-de-l-enfer-2068.html)
+    - 2000
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 4/5
+    - NOTES: 10 in the collection, but said to be "Septième tome des formidables aventures de Lapinot". Story with the activists and quasi-terrorist. Richard moves to Lapinot's, who is looking for a new place. Nadia continues doing her interviews for the radio, looking for people who are uncommon and have crazy ideas. Lapinot's neighbor's cat, Dark Vador, is taken care of by Richard, who thinks it's an ET. It turns out to have been a cat fighting a terminal skin disease. Touching. 
+- 2024-05-11: [Les formidables aventures de Lapinot 9. Pour de vrai](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-9-Pour-de-vrai-1781.html)
+    - 1999
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 4/5
+    - NOTES: 9 in the collection, but said to be "Sixième tome des formidables aventures de Lapinot".
+- 2024-05-10: [Les formidables aventures de Lapinot 8. Vacances de printemps](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-8-Vacances-de-printemps-1498.html)
+    - 1999
+    - Language: French
+    - Dessin: Lewis Trondheim
+    - Scénario: Frank Le Gall
+    - tags: #reread
+    - Rating: 5/5
+    - NOTES: 8 in the collection, but said to be "Cinquième tome des formidables aventures de Lapinot". I just realized that the scenario of this album was not by Trondheim.
+- 2024-05-10: [Les formidables aventures de Lapinot 7. Amour et interim](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-7-Amour-Interim-1185.html)
+    - 1998
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - tags: #reread
+    - Rating: 4/5
+    - NOTES: 7 in the collection, but said to be "Quatrième tome des formidables aventures de Lapinot".
 - 2024-05-08: [Les formidables aventures de Lapinot 6. Walter](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-6-Walter-958.html)
     - 1996
     - Language: French
     - Scénario et dessin: Lewis Trondheim
     - tags: #reread
     - Rating: 4/5
+    - NOTES: 6 in the collection, but said to be "Troisième tome des formidables aventures de Lapinot".
 - 2024-05-07: [Les formidables aventures de Lapinot 5. Pichenettes](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-5-Pichenettes-957.html)
     - 1995
     - Language: French
     - Scénario et dessin: Lewis Trondheim
     - tags: #reread
     - Rating: 4/5
+    - NOTES: 5 in the collection, but said to be "Deuxième tome des formidables aventures de Lapinot".
 - 2024-05-07: [Les formidables aventures de Lapinot 4. Blacktown](https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-4-Blacktown-28960.html)
     - 1995
     - Language: French
