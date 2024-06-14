@@ -17,6 +17,17 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-06-12: [Topolino e l'isola di quandomai](https://disney-comics.fandom.com/it/wiki/Topolino_e_l%27isola_di_Quandomai)
+    - 2010
+    - Sceneggiatura e disegni: Casty
+    - tags: #reread
+    - NOTES: See 2022 notes.
+- 2024-06-06: [L'homme qui tua Lucky Luke](https://www.bedetheque.com/BD-Lucky-Luke-vu-par-Tome-1-L-Homme-qui-tua-Lucky-Luke-276314.html)
+    - 2016
+    - tags: #reread
+    - Rating: 5/5
+    - Scénario et dessin: Matthieu Bonhomme
+    - NOTES: See 2020 notes. A great album.
 - 2024-06-05: [Le combat ordinaire - 4. Planter des clous](https://www.bedetheque.com/BD-Combat-ordinaire-Tome-4-Planter-des-clous-72375.html)
     - 2008
     - Scénario: Manu Larcenet
