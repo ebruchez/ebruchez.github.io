@@ -17,6 +17,17 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-06-15: [Topolino e l'Impero Sottozero](https://disney-comics.fandom.com/it/wiki/Topolino_e_l%27impero_sottozero)
+    - 2015
+    - Language: Italian
+    - Scénario: Casty
+    - Dessin: Casty
+    - tags: #reread
+    - NOTES: Great art. A good story with good humor, interesting villains, and a happy ending.
+- 2024-05: Les trésors de Picsou 63 - Spécial Daan Jippes / Tome 3 - 3ème partie: Les années Egmont
+    - 2023
+    - Dessin: Daan Jippes
+    - NOTES: Stories in the Carl Barks style. 
 - 2024-06-12: [Topolino e l'isola di quandomai](https://disney-comics.fandom.com/it/wiki/Topolino_e_l%27isola_di_Quandomai)
     - 2010
     - Sceneggiatura e disegni: Casty
