@@ -7,7 +7,7 @@ tags:
 category: Typewriters
 ---
 
-![The restored Yost 20](/assets/posts/yost20/IMG_6297.jpg){:standalone width="75%"}
+![Spoiler: The restored Yost 20](/assets/posts/yost20/IMG_6297.jpg){:standalone width="75%"}
 
 ## Introduction
 
@@ -74,7 +74,7 @@ I then polished the outside body of the machine, cleaned and polished the keyboa
 - `ù`/`%`
 - `=`/`!`
 
-I really don't mind. They keyboard is beautiful as is.
+I really don't mind. They keyboard turned out beautiful.
 
 ![Close-up on cleaned keys](/assets/posts/yost20/IMG_6310.jpg){:standalone}
 
@@ -138,7 +138,7 @@ I remain worried about the toughness of the finish: at some point, after I thoug
 
 ![The front panel after shellac](/assets/posts/yost20/IMG_5894.jpg){:standalone}
 
-The result is quite shiny. There is no visible yellow grain. The slightly silvery spots that I damaged are almost not visible anymore, thanks to the added yellow color of the shellac. There are a couple dust spots visible, if you look: perfection is not there. But the Ågood thing about shellac is that you could sand the top again a little, and apply more shellac - or just do that without sanding. The alcohol dissolves the shellac, so you can always add new coats.
+The result is quite shiny. There is no visible yellow grain. The slightly silvery spots that I damaged are almost not visible anymore, thanks to the added yellow color of the shellac. There are a couple dust spots visible, if you look: perfection is not of this world. But the good thing about shellac is that you could sand the top again a little, and apply more shellac - or just do that without sanding. The alcohol dissolves the shellac, so you can always add new coats.
 
 I consider myself satisfied with the result.
 
