@@ -78,7 +78,7 @@ I really don't mind. They keyboard turned out beautiful.
 
 ![Close-up on cleaned keys](/assets/posts/yost20/IMG_6310.jpg){:standalone}
 
-I also removed the tab keys for cleaning. I tried to remove the underlying panel, but it seemed like other parts were attached to it and tht it would be trouble to go further. So I cleaned it in place, which is not exactly ideal but got me most of the way.
+I also removed the tab keys for cleaning. I tried to remove the underlying panel, but it seemed like other parts were attached to it and that it would be trouble to go further. So I cleaned it in place, which is not exactly ideal but got me most of the way.
 
 ![The tab keys holes and underlying panel](/assets/posts/yost20/IMG_4549.jpg){:standalone}
 
