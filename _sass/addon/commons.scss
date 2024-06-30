@@ -882,6 +882,10 @@ img {
     @include img(true);
   }
 
+  li { // EB
+    font-size: 1.08rem;
+  }
+
   ul {
     // attribute 'hide-bullet' was added by liquid
     .task-list-item[hide-bullet] {
@@ -1381,8 +1385,10 @@ img {
     }
   }
 
-  .post-content p {
-    font-size: 1.03rem;
+  .post-content {
+    p, li { // EB
+      font-size: 1.03rem;
+    }
   }
 
   footer > div.d-felx {
