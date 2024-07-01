@@ -231,11 +231,11 @@ In addition, a dead key includes:
 - `^`
 - `¨`
 
-Interestingly, numbers require shift, while the symbols are directly available.
+These two accents are also used in French (see "être", "Noël", etc.). Interestingly, numbers require shift, while the symbols are directly available.
 
 ## Conclusion and further work
 
-This has been a little more work than I had initially expected, due to the whole shellacking process. I think the machine looks quite good now. Please check the photo album linked below for more pictures.
+This has been a little more work than I had initially expected, due to the whole shellacking process. But I learned a lot. I think the machine looks quite good now. Please check the photo album linked below for more pictures.
 
 ![The restored Yost 20](/assets/posts/yost20/IMG_6297.jpg){:standalone}
 
