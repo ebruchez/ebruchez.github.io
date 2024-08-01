@@ -17,6 +17,30 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-07-31: [Sillage - 22. Transfert](https://www.bedetheque.com/BD-Sillage-Tome-22-Transfert-462503.html)
+    - Scénario: Philippe Buchet
+    - Dessin et couleur: Philippe Buchet
+    - Rating: TODO
+    - NOTES: The idea of two sister planets rotating around two suns, with a transfer of populations, animals and plants between the two planets every 5 years, is interesting. Overall I enjoyed this story.
+- 2024-07-30: [Sillage - 21. Exfiltration](https://www.bedetheque.com/BD-Sillage-Tome-21-Exfiltration-437531.html)
+    - Scénario: Jean David Morvan, Philippe Buchet
+    - Dessin et couleur: Philippe Buchet
+    - tags: #reread
+    - Rating: TODO 
+    - NOTES: Ratings for this story on Bédéthèque are not great. Reviewers think that the story is too tightly connected to recent (2021?) events, probably migrants in the Mediterranean. The story is too much of a feel-good story. However, I think that there is a lot of good stuff in there, in spite of a few too many "There are women and children here". My main criticism would be that Nävis's approach wouldn't scale. But then, of course she plans to take down those how are organizing the exploitation of those populations in subsequent albums.
+- [Olivier Rameau - INT2. Intégrale 2](https://www.bedetheque.com/BD-Olivier-Rameau-INT2-Integrale-2-123409.html)
+    - 2024-07: [Olivier Rameau 6.L'oiseau de Par-ci, par-là](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-6-L-oiseau-de-Par-ci-par-la-26348.html)
+        - 1975
+        - tags: #reread
+        - NOTES: Trip from the real world to Rêverose, thanks to a flight that got lost in a storm. The big bad businessman is a less appealing version of some other characters seen in Achille Talon, such as the businessman in "Le grain de la folie" who ends up being a good guy, and probably others. The two bad guys are pretty bad: the one with the weapon shoots with real (in the story) bullets at the bell, which luckily just got tickled. But then he shoots a human, luckily having ran out of ammunition in his magazine. The flight is a little funny, being almost empty, and first class not quite looking like first class. But then, this was the 1970s, and people's experience with flying was not what it is today. Getting people drunk with Champagne is a little weird.
+    - 2024-07: [Olivier Rameau 5. Le grand voyage en Absurdie](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-5-Le-grand-voyage-en-Absurdie-10997.html)
+        - 1974 
+        - tags: #reread
+        - NOTES: Notes in the album say this is the apex of the series, and indicate that after this album things change due to the authors getting busy with other projects. But 6 more albums follow, including one published in 2005, and ratings on Bédéthèque are still high. Trip to the real world, in the middle of military exercises. I recognize Greg's dislike of anything military.
+    - 2024-07: [Olivier Rameau 4. La caravelle de n'importe où](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-485-La-caravelle-de-n-importe-ou-44927.html)
+        - 1973 
+        - tags: #reread
+        - NOTES: Weird trip to an island full of monsters to reap some special seeds. Colombe is a stowaway. The bad pirate who was bothering her is (spoiler) eaten by a shark. The ship's captain is quite amoral.
 - 2024-06-15: [Topolino e l'Impero Sottozero](https://disney-comics.fandom.com/it/wiki/Topolino_e_l%27impero_sottozero)
     - 2015
     - Language: Italian
