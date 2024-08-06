@@ -17,10 +17,26 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-08-05: [Ralph Azham - 11. L'engrenage](https://www.bedetheque.com/BD-Ralph-Azham-Tome-11-L-engrenage-326815.html)
+    - 2018
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: Ralph and friends go meet Tilda Pönns, who eventually becomes an ally. The big threat is the "religion of the 4 gods", which was made up by the king in the old times, but which is now very powerful on its own and wants to eliminate Ralph and take all the power. In the meanwhile, Ralph go explore a small village where people have lost their memory, and is not welcome by its inhabitants, who, in fact, try to kill him by burying him alive in an old underground city. Piatch (I don't remember who he is!) goes to check whether democracy took root in the town where Ralph set it up, but finds Zania in prison about to be executed, and that in fact the elected burgmeister got corrupted and things don't work as planned. She is saved by Piatch but escapes. Tilda and Ralph meet with the high priests and a lot of their top people, and Tilda obliterates them (à la "Game of Thrones", as a commentator suggested). Ralph's father is poisoned by a gift that was sent to Ralph, and, about to day, asks Ralph to kill him so he can stay as a ghost to help him. But Ralph is seen by Rose. She leaves, and so does Yassou, the kid-who-aged, and who was into the religion.
+- 2024-08-05: [Ralph Azham - 10. Un feu qui meurt](https://www.bedetheque.com/BD-Ralph-Azham-Tome-10-Un-feu-qui-meurt-302472.html)
+    - 2017
+    - Language: French
+    - tags: #reread
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: See original entry.
+- 2024-08-02: [Sillage - 23. Immersion](https://www.bedetheque.com/BD-Sillage-Tome-23-Immersion-488781.html)
+    - Scénario: Philippe Buchet
+    - Dessin et couleur: Philippe Buchet
+    - Rating: 4/5
+    - NOTES: I liked this story, where [spoiler] the métamorphes finally get their due. Juliette, the computer genius, is abducted to help the enemy. I like the appearance of the "Grand Mégagister" or "Haut-Magister" Hattoyro IV. I could have done with less of Nävis's fight scenes on the ship. 
 - 2024-07-31: [Sillage - 22. Transfert](https://www.bedetheque.com/BD-Sillage-Tome-22-Transfert-462503.html)
     - Scénario: Philippe Buchet
     - Dessin et couleur: Philippe Buchet
-    - Rating: TODO
+    - Rating: 4/5
     - NOTES: The idea of two sister planets rotating around two suns, with a transfer of populations, animals and plants between the two planets every 5 years, is interesting. Overall I enjoyed this story.
 - 2024-07-30: [Sillage - 21. Exfiltration](https://www.bedetheque.com/BD-Sillage-Tome-21-Exfiltration-437531.html)
     - Scénario: Jean David Morvan, Philippe Buchet
