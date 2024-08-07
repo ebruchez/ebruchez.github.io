@@ -17,6 +17,11 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-08-06: [Ralph Azham - 12. Lâcher prise](https://www.bedetheque.com/BD-Ralph-Azham-Tome-12-Lacher-prise-371392.html)
+    - 2019
+    - Language: French
+    - Scénario et dessin: Lewis Trondheim
+    - NOTES: The end of the saga. Ralph's new castle is almost done. Clothilde says she plans to leave soon. Ralphs's team still tries to bring justice to assassins. The king comes back and appears intent on taking power again. Tilda comes back, and is now in a relationship with Ralph. However, the king (who is 1,000-year-old, remember) decides to stage a coup to take power again by killing everyone on his path. A new character comes into play: Xenophon. He is, well, 5,000-year-old. He wants to ally with Ralph to kill the king, and then handle the situation of the "blued". For that, Ralph and Tilda are aged temporarily so they can escape. The king finds them, and the final battle takes place: several of Ralph's friends are killed, but eventually the king is defeated through a combination of power that I don't quite understand. Xenophon tells Ralph that he wants to blow up the moon Moogthar, so that there will no longer be new "blued" with special powers. Ralph gives his power to Tilda, who is "born to rule", and then uses the "stone of forgetfulness" to leave or disappear. Several reviewers think that the second part of the saga is not as good as the first part, and that too many things are left open, including the fate of several of the characters. The entire idea of the "blued", and why they exist in this universe, is not explained. Some reviewers, while not ecstatic about the second part of the saga, think that it's still a pretty good ending, and that it makes sense: the king is gone, but Ralph never liked power and has lost friends, so he prefers to leave and forget. Still, he appears disilliusioned about human nature, witness the failure of installing democracy in that town.
 - 2024-08-05: [Ralph Azham - 11. L'engrenage](https://www.bedetheque.com/BD-Ralph-Azham-Tome-11-L-engrenage-326815.html)
     - 2018
     - Language: French
