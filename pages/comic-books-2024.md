@@ -17,6 +17,40 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-08-15: [Donjon Zénith - 8. En sa mémoire](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-8-En-sa-memoire-405140.html)
+    - 2020
+    - Language: French
+    - tags: #reread
+    - Scénario: Lewis Trondheim
+    - Dessin: Boulet
+    - NOTES: I had almost entirely forgotten that I had read this 3 years ago. Herbert is on his way to announce to Marvin's mother that Marvin is getting married with Pirzuine. There, he meets Gilberto in training. They both learn that Marvin's mother was killed. They are suspected and condemned to death, but find a way to temporarily at least escape the sentence. Gilberto discovers weed. Herbert is chosen to investigate the death. Marvin arrives, his mother's death is first hidden but Gilberto reveals it. They unmask the shaman Mardukian as the killer. He escapes, they chase him, avoid his tricks, and he is defeated. The other dragons still protect him, but Marvin, off-screen, kills Mardukian. Gilberto continues his training, but this time uses weed.  
+- 2024-08-12: [[Les mondes de Thorgal - La jeunesse, Tome 9. Les larmes de Hel](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-9-Les-larmes-de-Hel-421561.html)
+    - 2021
+    - Language: French
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+    - Rating: 3/5
+    - NOTES: The story continues. Thorgal, Aaricia, Sveyn, and others flee from Harald. Sveyn learns that his adoptive father is dead. They reach an island, but the water is poisoned. They find underground a group of women who decided to leave outside of society to escape the cruelty of men. Among them is Sveyn's mother. Harald finds them, horribly tortures Thorbiorg (there is a disturbing panel), but eventually is killed by Sveyn, who becomes the new leader. Although he is not cruel like Harald, he promises his men conquests.
+- 2024-08-10: [[Les mondes de Thorgal - La jeunesse, Tome 7. La dent bleue](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-7-La-dent-bleue-363692.html)
+    - 2019
+    - Language: French
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2024-08-08: [Kaamelott - Tome 1. L'armée du nécromant](https://www.bedetheque.com/BD-Kaamelott-Tome-1-L-Armee-du-Necromant-59353.html)
+    - 2006
+    - Language: French
+    - Scénario: Alexandre Astier
+    - Dessin: Steven Dupré
+    - Rating: 3/5
+    - NOTES: You have to know Kaamelott the TV series to appreciate this. I definitely imagine the actors' voices while reading. I find that the character's faces look similar, and are recognizable, but a little too different from those of the TV series. At times, the faces are too distorted for my taste. The story itself is ok. I am in general not a fan of stories about zombies. I am not sure that I will continue this series yet, but I was curious enough to get the first album.
+- 2024-08-09: [Les mondes de Thorgal - La jeunesse, Tome 8. Les deux bâtards](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-8-Les-deux-batards-387539.html)
+    - 2020
+    - Language: French
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+    - NOTES: TODO.
 - 2024-08-06: [Ralph Azham - 12. Lâcher prise](https://www.bedetheque.com/BD-Ralph-Azham-Tome-12-Lacher-prise-371392.html)
     - 2019
     - Language: French
