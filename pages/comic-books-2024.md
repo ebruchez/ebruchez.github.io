@@ -17,6 +17,13 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-08-17: [Lefranc - Tome 33. Le scandale Arès](https://www.bedetheque.com/BD-Lefranc-Tome-33-Le-scandale-Ares-446291.html)
+    - 2022
+    - Language: French
+    - tags: #reread
+    - Story: Roger Seiter
+    - Drawings: Régric
+    - NOTES: Rereading this before tackling, I enjoyed it as much if not more than the first time. The art of Régric is really good. I had previously written: "I don't like Régric's drawings as much as Alvès's, but they are not too bad." I think that Régric might have improved in subsequent albums.
 - 2024-08-15: [Donjon Zénith - 8. En sa mémoire](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-8-En-sa-memoire-405140.html)
     - 2020
     - Language: French

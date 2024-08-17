@@ -159,10 +159,11 @@ title: Comic Books (2023)
     - Dessin: Stefano Raffaele
 - 2023-01-18: [Lefranc - Tome 33. Le scandale Arès](https://www.bedetheque.com/BD-Lefranc-Tome-33-Le-scandale-Ares-446291.html)
     - 2022
+    - Language: French
     - Story: Roger Seiter
     - Drawings: Régric
     - Rating: 4/5
-    - NOTES: Good art. Lots of explanations, maybe too many. The story is a little implausible (Lefranc stories tend to be, anyway), but well-anchored in history. It seems that World War II is always a good setting. Here, we learn that a French inventor built prototypes of planes that could have stopped the Germans in 1940. In fact, they did use the prototypes to completely destroy a convoy of 30 German tanks. But, due to conflict of interest, their planes were not considered by the officials in charge of selecting the companies that would build planes for the French defense. The story was buried, but unearthed by Lefranc and the daughter of the sole German survivor of the 1940 attack. The officials involve try to brutally suppress the story, but Lefranc and his friends get the story out. The retired inventor flies the remaining working prototype out of france to fight Russians invading Hungary. That part especially is quite implausible, but it's timely with the Russian invasion of Ukraine.
+    - NOTES: Good art. Lots of explanations, maybe too many. The story is a little implausible (Lefranc stories tend to be, anyway), but well-anchored in history. It seems that World War II is always a good setting. Here, we learn that a French inventor built prototypes of planes that could have stopped the Germans in 1940. In fact, they did use the prototypes to completely destroy a convoy of 30 German tanks. But, due to conflict of interest, their planes were not considered by the officials in charge of selecting the companies that would build planes for the French defense. The story was buried, but unearthed by Lefranc and the daughter of the sole German survivor of the 1940 attack. The officials involved try to brutally suppress the story, but Lefranc and his friends get the story out. The retired inventor flies the remaining working prototype out of france to fight Russians invading Hungary. That part especially is quite implausible, but it's timely with the Russian invasion of Ukraine.
 - 2023-01-17: [Ralph Azham - 10. Un feu qui meurt](https://www.bedetheque.com/BD-Ralph-Azham-Tome-10-Un-feu-qui-meurt-302472.html)
     - 2017
     - Language: French
@@ -211,5 +212,6 @@ title: Comic Books (2023)
     - Dessin: Fred Vignaux
 - 2023-01-01: [Les mondes de Thorgal - La jeunesse, Tome 8. Les deux bâtards](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-8-Les-deux-batards-387539.html)
     - 2020
+    - Language: French
     - Scénario: Yann
     - Dessin: Roman Surzhenko
