@@ -17,6 +17,19 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-08-21:  [Largo Winch - 24. Le Centile d'Or](https://www.bedetheque.com/BD-Largo-Winch-Tome-24-Le-Centile-d-Or-485520.html)
+    - 2023
+    - Language: French
+    - Scénario: Éric Giacometti
+    - Dessin: Philippe Francq
+    - NOTES: A good ending to the diptych. You learn who was really behind the sabotages and assassination attempts. There is a nice tribute (spoiler) to Jarod in the end. It is a little surprising that Largo and Jarod wouldn't know they land inside the Yosemite National Park: it is hard not to recognize it. Of course the action is a little improbable, but that's what you expect from Largo Winch.
+- 2024-08-20:  [Largo Winch - 23. La Frontière de la nuit](https://www.bedetheque.com/BD-Largo-Winch-Tome-23-La-Frontiere-de-la-nuit-433684.html)
+    - 2021
+    - Language: French
+    - tags: #reread
+    - Scénario: Éric Giacometti
+    - Dessin: Philippe Francq
+    - NOTES: Re-reading this now that I have the second tome of the diptych. The main thing I don't like, besides the colors, would be the "Allusion nunuche et invraisemblable au monde humanitaire", as a commenter says. Otherwise the story moves along. Let's see the second part!
 - 2024-08-17: [Lefranc - Tome 33. Le scandale Arès](https://www.bedetheque.com/BD-Lefranc-Tome-33-Le-scandale-Ares-446291.html)
     - 2022
     - Language: French

@@ -276,6 +276,7 @@ title: Comic Books (2022)
         - I cannot say I am enamored with the style of the drawings, but they work, and you are just taken by the story.
 - 2022-02: [Largo Winch - 23. La Frontière de la nuit](https://www.bedetheque.com/BD-Largo-Winch-Tome-23-La-Frontiere-de-la-nuit-433684.html)
     - 2021
+    - Language: French
     - Scénario: Éric Giacometti
     - Dessin: Philippe Francq
     - NOTES:
