@@ -7,7 +7,7 @@ title: Comic Books
 
 ## Background
 
-I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of [Franco-Belgian comics](https://en.wikipedia.org/wiki/Franco-Belgian_comics) including classics known all around the world, such as Tintin and Asterix, but also Mickey Mouse and Donald Duck which of course originate from the US. I am not a huge fan of the [superhero comics](https://en.wikipedia.org/wiki/Superhero_comics) or [manga](https://en.wikipedia.org/wiki/Manga), but that might still come.
+I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of [Franco-Belgian comics](https://en.wikipedia.org/wiki/Franco-Belgian_comics) including classics known all around the world, such as Tintin and Asterix, but also Mickey Mouse and Donald Duck which of course originate from the US. I am not a huge fan of the [superhero comics](https://en.wikipedia.org/wiki/Superhero_comics) or [manga](https://en.wikipedia.org/wiki/Manga), but that might still come. I do like some American comic strips, including Peanuts and Calvin and Hobbes.
 
 ## Latest reads
 
@@ -28,7 +28,7 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 
 - [Maus](https://en.wikipedia.org/wiki/Maus), by Art Spiegelman
 - [Le Cycle de Cyann](https://fr.wikipedia.org/wiki/Le_Cycle_de_Cyann), by François Bourgeon
-- [Le dernier chant des Malaterre](http://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-3-Le-dernier-chant-des-Malaterre-142.html), by François Bourgeon. This is the third part of *Les compagnons du crépuscule*, and contains some of the most amazing drawings I have ever seen.
+- [Le dernier chant des Malaterre](http://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-3-Le-dernier-chant-des-Malaterre-142.html), by François Bourgeon. This is the third part of *Les compagnons du crépuscule*, and contains some of the most amazing art I have ever seen.
 - [Les Cités obscures](https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures), by Schuiten and Peeters
 - Donald Duck and Uncle Scrooge stories, by [Don Rosa](https://en.wikipedia.org/wiki/Don_Rosa)
 - [La vie comme elle vient](https://en.wikipedia.org/wiki/La_vie_comme_elle_vient_(Lapinot)), by [Lewis Trondheim](https://en.wikipedia.org/wiki/Lewis_Trondheim). This is part of his series *Les formidables aventures de Lapinot*.
@@ -42,7 +42,7 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
     - One particularity of this series is that the hero is a woman and women constitute the majority of the important characters of the stories (even though the author, Roger Leloup, is a man). This never bothered me the least as a boy and, as an adult, I still love the series.
 - [Achille Talon](https://www.bedetheque.com/serie-33-BD-Achille-Talon.html)
     - This series has been a favorite of mine ever since I encountered it (only the original albums by Greg).
-    - It is probably impossible to translate this to English or other languages. The humor is quite tied to the French language. Greg even went to the US for a while to promote his character, but it failed.
+    - It is probably impossible to translate this to English or other languages. The humor is often tied to the French language. Greg even went to the US for a while to promote his character, but it failed.
 - Alix
     - Jacques Martin created this genre where the story takes place during the Roman antiquity.
     - He started with Alix, and then created a modern version of the character with Lefranc (below).
