@@ -17,6 +17,25 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2023-01-29: : [Donjon Potron-Minet - -84. Survivre aujourd'hui](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-82-Survivre-aujourd-hui-437533.html)
+    - 2022
+    - Language: French
+    - tags: #reread
+    - Scénario: Joann Sfar, Lewis Trondheim
+    - Dessin: Stéphane Oiry
+- 2024-08: [Alix - Tome 40. L'Œil du Minotaure](https://www.bedetheque.com/BD-Alix-Tome-40-L-OEil-du-Minotaure-434853.html)
+    - 2021
+    - Language: French
+    - tags: #reread
+    - Scénario: Valérie Mangin
+    - Dessin: Chrys Millien
+    - NOTES: I note again my main issue with this album: the art and colors often looks too computerized for my taste. Another example, in addition to my previous notes, is the roman camp on the island of Crete: all tents look drawn with a ruler. They are too neatly aligned. This gives an artificial and unrealistic look that is immediately noticeable. Part of the issue lies in the coloring, but it's not the only issue.
+- 2024-08-15: [Donjon Zénith - 9. Larmes et brouillard](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-9-Larmes-et-brouillard-458547.html)
+    - 2022
+    - Language: French
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Boulet
+    - NOTES: Herbert and Isis are going to have a child, but on Isis's family side, the Kochaques, the child will have to face wolves in a pit, based on an ancient ritual. Herbert tries to subtract his son from that tradition, but fails, and the baby has to go through the ritual, with both parents tied so they cannot intervene. The baby is (spoiler) devoured instantly, and that is it. That single, simple panel is quite powerful and the apex of the album.
 - 2024-08-21:  [Largo Winch - 24. Le Centile d'Or](https://www.bedetheque.com/BD-Largo-Winch-Tome-24-Le-Centile-d-Or-485520.html)
     - 2023
     - Language: French

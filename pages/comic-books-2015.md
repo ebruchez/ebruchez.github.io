@@ -32,7 +32,7 @@ title: Comic Books (2015)
     - Scénario: Philippe Chanoinat
     - Dessin: Frédéric Marniquet
     - Couleurs: Marie Galopin
-- Donjon Potron-Minet, Tome 83: Sans un bruit
+- Donjon Potron-Minet, Tome -83: Sans un bruit
 - Ultime Frontière - tome 1 - Épisode 1
 - Tif et Tondu: l'intégrale, tome 12, Crimes Ordinaires
 - Les Naufragés d'Ythaq T12 - Les Clés du néant

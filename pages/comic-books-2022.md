@@ -296,6 +296,7 @@ title: Comic Books (2022)
         - This is in stark contrast with album 27, "Le cri du Moloch", which was a disaster.
 - 2022-02: [Alix - Tome 40. L'Œil du Minotaure](https://www.bedetheque.com/BD-Alix-Tome-40-L-OEil-du-Minotaure-434853.html)
     - 2021
+    - Language: French
     - Scénario: Valérie Mangin
     - Dessin: Chrys Millien
     - Rating: 4/5

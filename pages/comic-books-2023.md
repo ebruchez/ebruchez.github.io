@@ -109,7 +109,7 @@ title: Comic Books (2023)
     - tags: #reread
     - Scénario: Joann Sfar, Lewis Trondheim
     - Dessin: Stéphane Oiry
-    - NOTES: Long-awaited continuation of the Potron-Minet series. It bridges the world of Potron-Minet with the world of Zenith. We meet Marvin and Grogro. The dungeon's defense system is born.
+    - NOTES: Long-awaited continuation of the Potron-Minet series. It bridges the world of Potron-Minet with the world of Zenith. The story of Hyacinthe, the futur guardian of the dungeon, continues. We meet Marvin and Grogro. The dungeon's defense system is born.
 - 2023-01-27: : [Donjon Potron-Minet - -83. Sans un bruit](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-83-Sans-un-bruit-78186.html)
     - 2008
     - Language: French
