@@ -49,13 +49,13 @@ I should mention that there are options for the PCB: the one I bought from Armin
 
 ## The quest for authenticity
 
-One question I asked myself briefly at the start was whether I wanted the look to be as authentic as possible or not. I know that some people search, or used to search, for period-correct chips with the appropriate date codes, for example. How much money and effort you spend towards this goal is of course a matter of preference, but to me this makes the most sense if you are fixing an original Apple 1, and less sense if you are building a reproduction. Some have even gone as far as updating date codes on chips to make them look more authentic. I don't want to offend anyone, but this seems questionable to me: not only do I not understand the point of this, but there is a high potential for confusion if not deceit here.
+One question I asked myself briefly at the start was whether I wanted the look to be as authentic as possible or not. I know that some people search (or used to search) for period-correct chips with the appropriate date codes, for example. How much money and effort you spend towards this goal is of course a matter of preference, but to me this makes the most sense if you are fixing an original Apple 1, and less sense if you are building a reproduction. Some have even gone as far as updating date codes on chips to make them look more authentic. I don't want to offend anyone, but this seems questionable to me: not only do I not understand the point of this, but there is a high potential for confusion if not deceit here.
 
-In any case, I decided that I wouldn't be picky and that I would only care mildly about authenticity. I am mainly interested in getting the machine to look good and to work. It is entirely acceptable for me if it is obvious that it is a reproduction. I have no intention of fooling anybody or participate in a contest. This said, I want to do a decent job, and I am selecting parts that look close to the originals when possible (like the iconic Sprague capacitors, the sinterglass diodes, some resistors and capacitors, etc.), even though that means spending more (of course).
+In any case, I decided that I wouldn't be picky and that I would only care mildly about authenticity. I am mainly interested in getting the machine to look good and to work. It is entirely acceptable for me if it is obvious that it is a reproduction. I have no intention of fooling anybody or participate in a contest. This said, I want to do a decent job, and I am selecting parts that look close to the originals when possible (like the iconic Sprague capacitors, the sinterglass diodes, some resistors and capacitors, etc.), even though that means spending a little more.
 
 ## The search for parts
 
-In the absence of kits, this is possibly the most daunting aspect of the project.
+In the absence of kits, finding all the parts is possibly the most daunting aspect of the project.
 
 I started by asking questions in the [Apple Fritter](https://www.applefritter.com/forum/80) forums to get help. Answers confirmed that the parts I thought difficult to source or pricey are indeed difficult to source or pricey!
 
@@ -164,7 +164,7 @@ This two-phase clock chip I also bought on eBay, in a lot of 2, untested.
 
 ### 6820 (PIA) and 6502
 
-The PIA in the Apple one is used to interface with the keyboard and the terminal section.
+The PIA in the Apple 1 is used to interface with the keyboard and the terminal section.
 
 Those PIA chips used to be cheap and abundant, but original ones are running out. Interestingly, those PIAs are also used in old pinball machines, so they are sought after for that reason as well. But they can still be found. It appears that you can also use a 6821 chip, or a 6520.
 
