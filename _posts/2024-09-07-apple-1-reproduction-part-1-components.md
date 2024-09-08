@@ -34,6 +34,8 @@ Projects that reproduce the spirit of the Apple 1 were also produced, including:
 - Vince Briel's [Replica 1](https://en.wikipedia.org/wiki/Replica_1) (2003)
 - Chris Davis's more recent [Open AC-1](https://adwaterandstir.com/product/openac1/) (out of stock as of writing)
 
+## How I got started
+
 Lately, Apple 1 replica PCBs (printed circuit boards) have become more commoditized, thanks to the availability of Gerber files. On a whim, in 2023, I bought a PCB on eBay from Armin in Germany, and only after the fact did I start thinking about what it would take to actually build the computer. That wasn't the wisest strategy, and I soon realized that there is more to this project than I initially imagined!
 
 ![My Apple 1 Replica PCB](/assets/posts/apple1/2x/IMG_7095.jpg){:standalone}
