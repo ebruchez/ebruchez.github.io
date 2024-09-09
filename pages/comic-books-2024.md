@@ -17,6 +17,28 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-09-09: [Donjon Zénith - 2. Le roi de la bagarre](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-2-Le-roi-de-la-bagarre-8935.html)
+    - 1998
+    - tags: #reread
+    - Language: French
+    - Scénario: Joann Sfar
+    - Dessin: Lewis Trondheim
+    - NOTES: Herbert keeps failing at defending the Donjon, in particular Sonia la Rousse manages to steal a crown. He is sent out for training with Marvin's master. Here he fights the Five Vampire Dwarves, Siegfried the Barbarian, and Henri la Souris. Thanks to a glitch with his magic spear, he kills the dwarves and Siegfried. Remains Henri. Training continues with both, Henri trying dirty tricks to kill Herbert. Henri reveals himself extremely cruel, and the master kills him, then leaves, to the heavy disappointment of Marvin. Marvin continues Herbert's training. He takes him to the mountain of the Gobelins, where Herbert must go through 10,020 doors, each kept by a Gobelin. Herbert kills them all with a stick and, eventually, a feather. Marvin himself finds his power of the Tong Deum. Herbert becomes the king of the Gobelins. Marvin finds his master in disguise, and decides that his master was in fact weaker than him. Sonia becomes the new queen of the Gobelins. During the story, we also learn that very young Herbert was taught by extremely cruel, but supposedly wise, masters. Herbert eventually kills one, and his punishment is to fight his father, the Duke. The latter lets Herbert win by letting him cut off his right arm. Herbert was banned from Vaucanson. There is a lot of cruelty in this opus, but a lot of humor. Herbert comes out as a good guy, and Marvin too, to some extent. 
+- 2024-09-05: [Donjon Zénith - 1. Cœur de canard](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-1-Coeur-de-canard-8933.html)
+    - 1998
+    - tags: #reread
+    - Language: French
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Lewis Trondheim
+    - NOTES: The first Donjon, where we discover the Donjon, its keeper Hyacinthe, monsters, Herbert, and Marvin. Herbert's heart is removed, he becomes a hero despite himself. He starts trying to do his "three high deeds", so that the magic belt he found will help him, but so far doesn't manage to. They fight the "capuchons", ugly soul-eaters, and eventually exterminate all of them. Humor is omnipresent.
+- 2024-09-03: [Donjon Zénith - 6. Retour en fanfare](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-6-Retour-en-fanfare-69586.html)
+    - 2007
+    - tags: #reread
+    - Language: French
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Boulet
+    - NOTES: I keep forgetting the stories of Donjon: there are so many! This is the last album, from 2007, before a 13-year hiatus.
+    - Herbert and company go to Vaucanson, to find his parents. But political intrigue tries to kill Herbert and his whole family. They manage to escape Vaucanson.
 - 2023-01-29: : [Donjon Potron-Minet - -84. Survivre aujourd'hui](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-82-Survivre-aujourd-hui-437533.html)
     - 2022
     - Language: French
