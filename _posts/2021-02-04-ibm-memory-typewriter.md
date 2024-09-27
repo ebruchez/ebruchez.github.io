@@ -10,9 +10,9 @@ See also the following related posts:
 
 - [Restoring an IBM Memory Typewriter - Part 1](../restoring-ibm-memory-typewriter-1/)
 - [Restoring an IBM Memory Typewriter - Part 2](../restoring-ibm-memory-typewriter-2/)
-- [Restoring an IBM Electronic Selectric Composer - Part 1](../restoring-ibm-electronic-selectric-composer-/)
-- [The IBM Magnetic Tape Selectric Composer - Part 1](../ibm-mt-sc-1/).
-- [The IBM Magnetic Tape Selectric Composer - Part 2](../ibm-mt-sc-2/).
+- [Restoring an IBM Electronic Selectric Composer - Part 1](../restoring-ibm-electronic-selectric-composer-1/)
+- [The IBM Magnetic Tape Selectric Composer - Part 1](../ibm-mt-sc-1/)
+- [The IBM Magnetic Tape Selectric Composer - Part 2](../ibm-mt-sc-2/)
 
 ## Background
 
