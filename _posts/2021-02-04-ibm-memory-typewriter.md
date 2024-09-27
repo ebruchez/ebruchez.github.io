@@ -6,6 +6,14 @@ tags:
 category: Typewriters
 ---
 
+See also the following related posts:
+
+- [Restoring an IBM Memory Typewriter - Part 1](../restoring-ibm-memory-typewriter-1/)
+- [Restoring an IBM Memory Typewriter - Part 2](../restoring-ibm-memory-typewriter-2/)
+- [Restoring an IBM Electronic Selectric Composer - Part 1](../restoring-ibm-electronic-selectric-composer-/)
+- [The IBM Magnetic Tape Selectric Composer - Part 1](../ibm-mt-sc-1/).
+- [The IBM Magnetic Tape Selectric Composer - Part 2](../ibm-mt-sc-2/).
+
 ## Background
 
 I recently picked up an IBM Memory Typewriter that otherwise would have been scrapped. [^sequence] Many thanks go to the kind soul who tipped the Golfballtypewritershop group and allowed me to pick it up locally!
