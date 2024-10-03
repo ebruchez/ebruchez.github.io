@@ -7,7 +7,7 @@ tags:
 category: Other
 ---
 
-![Kirkwood](/assets/posts/vail-resorts/no-ski.jpg){:standalone width="75%"}
+![](/assets/posts/vail-resorts/no-ski.jpg){:standalone width="75%"}
 
 [Vail Resorts](https://en.wikipedia.org/wiki/Vail_Resorts) is a ski resorts company which owns a large number of resorts, including Kirkwood in California. We have been skiing at Kirkwood for many years, and have always enjoyed the resort.
 
