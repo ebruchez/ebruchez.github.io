@@ -49,7 +49,7 @@ As of September 2024, you can still buy fully-assembled replicas on eBay, but th
 
 I should mention that there are options for the PCB: the one I bought from Armin is a fairly affordable ENIG ([Electroless Nickel Immersion Gold](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold)) PCB, and the look of it is not perfectly authentic. I realized later that for about double the amount I could have bought from him a higher-quality PCB, and some very knowledgeable people in online forums recommend the more pricey ones. But for better or for worse, I have decided to stay with the PCB I had. Some arguments in favor of staying with it:
 
-- The edge connector is not going to be as robust, but it is unlikely that this connector would see any cycles of insertion/removal.
+- The edge connector is not going to be as robust, but it is unlikely that this connector would see many cycles of insertion/removal.
 - The ENIG process makes more areas of the PCB gold-plated, which is not authentic. However, I already have machined IC sockets, which are not period-correct either, and are also gold-plated.
 
 ## The quest for authenticity
