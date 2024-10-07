@@ -47,10 +47,12 @@ Indeed, as of 2024, it is both easier and harder than before to build a reproduc
 
 As of September 2024, you can still buy fully-assembled replicas on eBay, but they are expensive, and for me that is not the point of the exercise anyway.
 
-I should mention that there are options for the PCB: the one I bought from Armin is a fairly affordable ENIG ([Electroless Nickel Immersion Gold](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold)) PCB, and the look of it is not perfectly authentic. I realized later that for about double the amount I could have bought from him a higher-quality PCB, and some very knowledgeable people in online forums recommend the more pricey ones. But for better or for worse, I have decided to stay with the PCB I had. Some arguments in favor of staying with it:
+I should mention that there are options for the PCB: the one I bought from Armin is a fairly affordable ENIG ([Electroless Nickel Immersion Gold](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold)) PCB, and the look of it is definitely not authentic. I realized later that for about double the amount I could have bought from him a higher-quality, silver-colored PCB. Some very knowledgeable people in online forums recommend the more pricey ones, but for better or for worse, I have decided to stay with the PCB I had. Some arguments in favor of staying with it:
 
-- The edge connector is not going to be as robust, but it is unlikely that this connector would see many cycles of insertion/removal.
-- The ENIG process makes more areas of the PCB gold-plated, which is not authentic. However, I already have machined IC sockets, which are not period-correct either, and are also gold-plated.
+- The edge connector plating is not going to be as robust as it could be, but it is unlikely that this connector will see many cycles of insertion/removal.
+- The ENIG process gives unmasked areas of the PCB a gold color. However, I had already decided to use machined IC sockets, which are not period-correct either, and the ones I got happened to be also gold-plated. I realize I could have gone for silver on silver as well, had I made different initial choices.
+
+So my build is doubling down on the "gold" look, which in itself is quite nice, although clearly inauthentic.
 
 ## The quest for authenticity
 
