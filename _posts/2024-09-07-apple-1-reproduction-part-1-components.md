@@ -310,7 +310,7 @@ minipro -p AM27C64@DIP28 -w wozmon-for-27c64-28c64-250-ns-or-better.bin
 
 ## Monitor
 
-In April 2024-04, I found something that should work: an Hitachi monitor. There is a crack in the front plastic, but it's not too bad. I hope that it will work: although I haven't tested it yet, the tube appears ok and the beam briefly travels through the screen when turning it off.
+In April 2024, I found something that should work: an Hitachi monitor. There is a crack in the front plastic, but it's not too bad. I hope that it will work: although I haven't tested it yet, the tube appears ok and the beam briefly travels through the screen when turning it off.
 
 ![Hitachi monitor](/assets/posts/apple1/2x/IMG_3792.jpg){:standalone}
 
