@@ -98,13 +98,13 @@ The Signetics 2519 is part of the terminal section of the Apple 1. Specifically,
 
 ![Signetics 2519 data sheet application](/assets/posts/apple1/2x/signetics2519-applications.jpg){:standalone}
 
-By modern standards, this is an extraordinarily simple chip. However, it has only a single source right now (and I think that this has been the case for a very long time). With shipping, that single chip would cost me $80. I decided that this was "too much". Luckily, someone (P-LAB) has designed a replacement daughter board for the 2519. This won't be original, but it will work, and it doesn't stop me, should I ever get an original chip, to replace the daughter board with it.
+By modern standards, this is an extraordinarily simple chip. However, it has only a single source right now (and I think that this has been the case for a very long time). With shipping, that single chip would cost me $80. I decided that this was "too much". Luckily, smart people (Stefan, I believe, and then Claudio AKA P-LAB) designed a replacement daughter board for the 2519. This won't be original, but it will work, and it doesn't stop me, should I ever get an original chip, to replace the daughter board with it.
 
 I ordered 5 of each (SMD and through-hole) PCBs for a grand total of $6 shipped!
 
 ![Through-hole and SMT PCBs](/assets/posts/apple1/2x/IMG_0457.jpg){:standalone}
 
-But then I found that the more modern HEF4557 shift-register chips were not available in either package: the DIP format is obsolete, and the SOIC-16 is replaced with a SOIC-16 Wide package! Luckily, I found a batch of 10 Philips HEF4557BT chips on eBay. If for some reason that doesn't work I will have to order an updated version of the PCB for the SOIC-16 Wide footprint.
+But then I found that the more modern HEF4557 shift-register chips were not available in either package: the DIP format is obsolete, and the SOIC-16 is replaced with a SOIC-16 Wide package! Luckily, I found a batch of 10 Philips HEF4557BT chips on eBay. If for some reason that doesn't work I will have to order an updated version of the PCB for the SOIC-16 Wide footprint.[^HEF4557BT]
 
 ![Philips HEF4557BT chips](/assets/posts/apple1/2x/IMG_0914.jpg){:standalone}
 
@@ -149,11 +149,11 @@ This is the bottom of the board, which plugs into the IC sockets:
 
 ### DRAM chips, shift-register chips and character ROM
 
-The Apple 1 features 8 KB of DRAM. I bought on eBay a set of 16 (but received 17, thank you!) Mostek MK4027N-4 chips, supposedly tested. These are 4096x1 chips.
+The Apple 1 features 8 KB of DRAM. I bought on eBay a set of 16 (but received 17, thank you!) Mostek MK4027N-4 chips, ~supposedly~ tested.[^tested] These are 4096x1 chips.
 
 ![DRAM chips](/assets/posts/apple1/2x/IMG_1008.jpg){:standalone}
 
-From the same seller, I got a set of 7 Signetics 2504 chips and the 2513 character ROM, again supposedly tested.
+From the same seller, I got a set of 7 Signetics 2504 chips and the 2513 character ROM, again ~supposedly~ tested.[^tested]
 
 ![Shift-register, character ROM, and clock chips](/assets/posts/apple1/2x/IMG_1001.jpg){:standalone}
 
@@ -165,7 +165,7 @@ All in all, the chips I got from that seller cost me about $200. This is as clos
 
 ### DS0025CN
 
-This two-phase clock chip I also bought on eBay, in a lot of 2, untested.
+This two-phase clock chip I also bought on eBay, in a lot of 2, untested.[^tested]
 
 ![DS0025CN](/assets/posts/apple1/2x/IMG_1006.jpg){:standalone}
 
@@ -181,13 +181,13 @@ Those PIA chips used to be cheap and abundant, but original ones are running out
 
 Oh, and of course someone is selling on eBay a "Lot of 7 Rare MOS MPS 6520 PIA chip used in APPLE 1 - date codes all in 1977" for $1,995. Right.
 
-I decided, for looks and fun, to order a CM602 from Bulgaria. I don't know if it works yet, as it was sold untested.
+I decided, for looks and fun, to order a CM602 from Bulgaria. I don't know if it works yet, as it was sold untested.[^tested]
 
 ![CM602 chip from Bulgaria](/assets/posts/apple1/2x/IMG_1380.jpg){:standalone}
 
 I have since learned a little about the rise and fall of  Bulgaria's semiconductor during the communist era. See [The Unlikely Rise and Collapse of the Bulgarian Computer](https://www.youtube.com/watch?v=t-UVPw1c_So), in particular. According to the description of an eBay seller, this chip was "Made by DSO "Priborosroene Pravetz, Bulgaria", the same factory that produced the famous Pravetz Personal Computer (Bulgarian clones of Apple-II and IBM PC/XT) during the communist era."
 
-Then locally I found a Synertek-branded 6520A (date code 1983) at Anchor (although they listed it as out of stock originally). Hopefully one or both will work.
+Then locally I found a Synertek-branded 6520A (date code 1983) at Anchor (although they listed it as out of stock originally). Hopefully one or both will work.[^tested]
 
 You can easily find 6502 chips on eBay. This said, I also found a Synertek-branded 6502A locally at Anchor Electronics (1979 date code).
 
@@ -259,11 +259,11 @@ I found out about Unicorn Electronics in the Apple Fritter forums and one of the
 
 ![Chips from the Unicorn Electronics order](/assets/posts/apple1/2x/IMG_1088.jpg){:standalone}
 
-I found out that locally for me, Anchor Electronics in Santa Clara still has some of those chips as well.
+I found out that locally for me, Anchor Electronics in Santa Clara still has some of those chips as well.[^74series]
 
 ### Transformers and Sprague capacitors
 
-The transformers are also iconic parts of the Apple 1. The original ones were of the Stancor brand and harder to find, but the Triad brand is still available. I bought them on Mouser, alongside the Sprague capacitors, extension connector, power transistor radiator, and other smaller items. All in all, each of the large parts cost about $20 a piece, for a total of about $100 just there.
+The transformers are also iconic parts of the Apple 1. The original ones were of the Triad or Stancor brand as recommended by Apple. The Stancor ones are harder to find, but the Triad ones are still available. I bought them on Mouser, alongside the Sprague capacitors, extension connector, power transistor radiator, and other smaller items. All in all, each of the large parts cost about $20 a piece, for a total of about $100 just there.
 
 ![Transformers, capacitors, and more](/assets/posts/apple1/2x/IMG_1230.jpg){:standalone}
 
@@ -333,3 +333,7 @@ Part 2 will cover building the power supply.
 [^eproms]: In August 2024, I also found a series of EPROMs, so I will have some spares. I also got some Czech and Soviet EPROMs, which are not original but look cool.
 
 [^7400]: In April 2024, I found a lot of 7400-series chips, and I might use some of them with older date codes in the Apple 1.
+
+[^HEF4557BT]: Update 2024-10-07: they worked, although I had initially some bad solder joints that I had to find and fix!
+
+[^tested]: Update 2024-10-07: all the chips worked!
