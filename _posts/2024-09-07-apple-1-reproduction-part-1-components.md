@@ -71,7 +71,7 @@ There are several categories of parts:
 - Available new parts that look like the original ones:
     - Molex connectors, some diodes, transistors
     - blue [Sprague](https://en.wikipedia.org/wiki/Sprague_Electric) capacitors
-    - linear transformers (although they are of a different brand, Triad, instead of Stancor)
+    - linear transformers (of the Triad brand, one of Apple's recommended brands with Stancor)
 - Easy to find modern parts that don't look like the original parts but work:
     - resistors, capacitors, diodes
     - IC sockets
