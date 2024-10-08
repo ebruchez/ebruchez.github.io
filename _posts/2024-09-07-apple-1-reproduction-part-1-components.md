@@ -98,9 +98,13 @@ The Signetics 2519 is part of the terminal section of the Apple 1. Specifically,
 
 ![Signetics 2519 data sheet application](/assets/posts/apple1/2x/signetics2519-applications.jpg){:standalone}
 
-By modern standards, this is an extraordinarily simple chip. However, it has only a single source right now (and I think that this has been the case for a very long time). With shipping, that single chip would cost me $80. I decided that this was "too much". Luckily, smart people (Stefan, I believe, and then Claudio AKA P-LAB) designed a replacement daughter board for the 2519. This won't be original, but it will work, and it doesn't stop me, should I ever get an original chip, to replace the daughter board with it.
+By modern standards, this is an extraordinarily simple chip. However, it has only a single source right now (and I think that this has been the case for a very long time). With shipping, that single chip would cost me $80. I decided that this was "too much". Luckily, smart people (Natas and Claudio AKA P-LAB) designed a replacement daughter board for the 2519. This won't be original, but it will work, and it doesn't stop me, should I ever get an original chip, to replace the daughter board with it:
 
-I ordered 5 of each (SMD and through-hole) PCBs for a grand total of $6 shipped!
+- [Natas's (through-hole)](https://oshwlab.com/szillat/2519-fixed)
+- [Natas's (SMD)](https://oshwlab.com/szillat/2519-fixed-smd) 
+- [P-LAB's (SMD, improved)](https://p-l4b.github.io/2519/)
+
+I ordered 5 SMD and 5 through-hole PCBs for a grand total of $6 shipped!
 
 ![Through-hole and SMT PCBs](/assets/posts/apple1/2x/IMG_0457.jpg){:standalone}
 
