@@ -7,7 +7,9 @@ tags:
 category: Technology
 ---
 
-## The Apple 1
+This is part 1 of a series of posts about building an Apple-1 reproduction in 2024. See also:
+
+- [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/).
 
 ## The Apple-1
 
