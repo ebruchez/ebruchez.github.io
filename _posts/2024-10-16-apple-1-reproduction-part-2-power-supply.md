@@ -15,9 +15,9 @@ This is part 2 of a series of posts about building an Apple-1 reproduction in 20
 
 ## Introduction
 
-Every computer needs a power supply. On the Apple-1, this is split into two parts:
+Every computer needs a power supply. On the Apple-1, it is split into two parts:
 
-- _Externally:_ two external transformers, fuse, switch, wiring to the mains and to the main board. 
+- _Separate from the main board:_ two transformers, fuse, switch, wiring to the mains and to the main board. 
 - _On the main board:_ rectifier diodes, capacitors, and regulators.
 
 You can see these two parts represented in the following schematics:
