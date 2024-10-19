@@ -103,6 +103,10 @@ I wanted to have LED indicators for the transformer secondaries. For this, you n
 - 10 V secondary: 1 × 390 Ohm resistor
 - 13 V secondaries: 2 × 560 Ohm resistors
 
+*UPDATE: I was asked about the reason of the presence of another diode in addition to the LED. After all, an LED is also a diode (it's in the name: Light Emitting Diode), so even with AC, things should work. To be fair, I had seen that design with an additional diode before, and it seemed to make sense and didn't think twice about the diode. Here is the explanation:*
+
+*The LED is connected to AC so there is a reverse voltage half of the time up to about __10 V__ or __13 V__. The datasheet for standard LEDs mention a max reverse voltage supported of __5 V__, so without doing anything more we would be exceeding that spec. Using a signal diode, we protect the LED against such excessive reverse voltage. A 1N4148 for example support around 100 V reverse voltage, so it will block in the reverse direction without any problem. I imagine that in practice, an LED might support a higher reverse voltage than 5 V, and things might still work without an extra diode, but based on the datasheet values, extra protection for the LED is warranted.*
+
 ![LED indicator prototype](/assets/posts/apple1/2x/IMG_8037.jpg){:standalone}
 
 After drilling holes for the LEDs, I mounted them on the front panel with holders. I soldered the resistors and diodes directly on the LED pins.
