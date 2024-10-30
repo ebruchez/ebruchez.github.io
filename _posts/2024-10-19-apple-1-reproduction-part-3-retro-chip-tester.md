@@ -144,7 +144,7 @@ Since my original orders of components for the Apple-1, I stumbled onto two fair
 
 ![Set of 74xx series chips](/assets/posts/retro-chip-tester/2x/IMG_3807.jpg){:standalone}
 
-![Set of 74xx series chips](/assets/posts/retro-chip-tester/2x/IMG_3810.jpg){:standalone}
+![Another set of 74xx series chips](/assets/posts/retro-chip-tester/2x/IMG_3810.jpg){:standalone}
 
 So of course I started testing those chips. As of October 2024, I am not entirely done, but only a small subset so far showed as failing. I only encountered an issue so far with two types of chips:
 
