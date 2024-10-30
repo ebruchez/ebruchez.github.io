@@ -18,7 +18,7 @@ This is part 3 of a series of posts about building an Apple-1 reproduction in 20
 
 Right from the beginning of this project, one of my fears was that I would spend time and money, assemble things the best I could, and then turn on the power and face a non-working computer. One reason for this is that not all the components I bought were sold as tested. Remember, I didn't buy a kit, but instead bought components from various sources. The DRAM, 2504s, and 2513 were sold to me by Arunas in Lithuania as tested, but while the expectation was that the chips I bought from other places were in working condition, they were not specifically tested by sellers, including the components bought from Unicorn Electronics, Anchor Electronics, or other eBay sources.
 
-Finding which out of the 61 integrated circuits of the Apple-1 might not be working could cause lead to some very painful troubleshooting sessions. So I considered what I could do to reduce that risk. 
+Finding which out of the 61 integrated circuits of the Apple-1 might not be working could lead to some very painful troubleshooting sessions. So I considered what I could do to reduce that risk. 
 
 ## Testing components
 
