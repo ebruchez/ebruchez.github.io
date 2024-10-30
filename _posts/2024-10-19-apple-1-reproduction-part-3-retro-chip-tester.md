@@ -153,6 +153,8 @@ So of course I started testing those chips. As of October 2024, I am not entirel
 
 The tester reports that they all fail, which seems unlikely. I wonder if it is the chips, the tester, or the algorithm used to test them.
 
+__UPDATE: Stephan indicates that these chips must be positioned specially in the ZIF socket. In fact, the display shows that ("Pos 4" or "Pos 5"). So it was a user error, not having RTFM. By positioning the chips correctly, most of these chips now test correctly!__
+
 ## Conclusion
 
 Although it wasn't exactly cheap, I am glad I built the RTC. It gave me more confidence about completing the assembly of the Apple-1 reproduction, and hopefully will also be useful for other projects.
