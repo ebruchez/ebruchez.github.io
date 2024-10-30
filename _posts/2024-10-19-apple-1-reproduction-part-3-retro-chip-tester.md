@@ -66,7 +66,7 @@ As you can see, there is quite good coverage.
 
 ## Ordering the parts
 
-I got in touch with Stephan about ordering. I paid EUR 108 (about USD 118) total for the PCB with the soldered and programmed microcontroller (EUR 68), the additional power module PCB (EUR 12), and shipping (EUR 28). Transit of the package to the US took weeks, but I was not in a hurry. The items arrived safely. They came in a nice box. 
+I got in touch with Stephan about ordering. I paid EUR 108 (about USD 118) total for the main PCB and the DC-DC module (EUR 68), the soldered and programmed microcontroller (EUR 12), and shipping (EUR 28). Transit of the package to the US took weeks, but I was not in a hurry. The items arrived safely. They came in a nice box. 
 
 ![RTC box](/assets/posts/retro-chip-tester/2x/IMG_1681.jpg){:standalone}
 
