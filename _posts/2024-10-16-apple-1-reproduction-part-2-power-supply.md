@@ -10,6 +10,7 @@ category: Technology
 This is part 2 of a series of posts about building an Apple-1 reproduction in 2024. See also:
 
 - [Building an Apple-1 Reproduction in 2024 - Part 1: Components](../apple-1-reproduction-part-1-components/).
+- [Building an Apple-1 Reproduction in 2024 - Part 3: The Retro Chip Tester](../apple-1-reproduction-part-3-retro-chip-tester/).
 
 ![The completed Apple-1 power supply](/assets/posts/apple1/2x/IMG_0119.jpg){:standalone width="75%"}
 
@@ -245,7 +246,7 @@ For more pictures, see:
 - [Apple-1 reproduction: Power Supply (PSU)](https://photos.app.goo.gl/gsS3utwJNjE7hM9n8)
 - [Apple-1 reproduction: Work in progress](https://photos.app.goo.gl/fepMdTSppxZ7S97t7)
 
-Part 3 will cover building the Retro Chip Tester.
+[Part 3](../apple-1-reproduction-part-3-retro-chip-tester/) covers building the Retro Chip Tester Pro.
 
 ---
 

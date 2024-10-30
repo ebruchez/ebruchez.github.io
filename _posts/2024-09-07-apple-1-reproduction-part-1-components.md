@@ -10,6 +10,7 @@ category: Technology
 This is part 1 of a series of posts about building an Apple-1 reproduction in 2024. See also:
 
 - [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/).
+- [Building an Apple-1 Reproduction in 2024 - Part 3: The Retro Chip Tester](../apple-1-reproduction-part-3-retro-chip-tester/).
 
 ## The Apple-1
 
@@ -326,7 +327,7 @@ In April 2024, I found something that should work: an Hitachi monitor. There is 
 
 I have now most of the parts I need to build the Apple-1 reproduction. I have also built some of the daughter boards.
 
-Part 2 will cover building the power supply.
+[Part 2](../apple-1-reproduction-part-2-power-supply/) covers building the power supply.
 
 [//]: # (Part 3 will cover testing the chips and starting the assembly of the computer.)
 
