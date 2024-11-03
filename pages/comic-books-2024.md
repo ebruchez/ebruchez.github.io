@@ -17,6 +17,36 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-10-29: [Lefranc - 35. Bombes H sur Almería](https://www.bedetheque.com/BD-Lefranc-Tome-35-Bombes-H-sur-Almeria-495190.html)
+    - 2024
+    - language: French
+    - Scénario: Roger Seiter
+    - Dessin: Régric
+    - NOTES: Lefranc went through a "dark age" from 2000 to 2010 if not after, with rare exceptions like "Noël Noir". But over the last 10-15 years, we have been lucky to have fairly consistently good quality Lefranc, with art by Régric and Alvès, and Seiter and Corteggiani at the scenario. This one is no exception. Régric has become better with time, as I previously noted. The story is not exactly exciting, in spite of the H bomb theme, but it's well done. It opens a window into the difficulties of Spain after its civil war, the attitude of the locals towards the Americans, compared with the French, and more. 
+- 2024-10: [Donjon Antipodes - - -9999. L'inquisiteur mégalomane](https://www.bedetheque.com/BD-Donjon-Antipodes-Tome-9999-L-inquisiteur-megalomane-418077.html)
+    - 2021
+    - language: French
+    - tags: #reread
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Grégory Panaccione 
+    - NOTES: The monk from the first volume is taken by the police while preaching in favor of "panspècisme", and subjected by an inquisitor to a process to learn from him: his skull is open, spider eggs inserted into his nostrils, etc. It's horrible, and all done in a procedural way, even though the monk was ready to speak from the get go. We can only imagine that the monk doesn't survive the process. The two guards who had arrested the monk are transformed into horrible scorpion-like creatures by the inquisitor to go kill everyone at the monastery. The reason for this is that the two dogs are now researched. We see the inquisitor's home, his wife, his son. The two dogs were actually there. We learn that the smart dog's owner was a brother of the inquisitor, now dead, of course. The inquisitor doesn't recognize that it could be one of the killer dogs. The son seems nice, until we learn he wants to open their bellies to learn about how digestion works. In the meanwhile, the scorpions-guards have brutally killed all the monks and set fire to the barn will all the animals inside. More horror and cruelty. The monks' guru wasn't amongst the killed. He went to give the gift of speech and bipedalism to a huge dragon in a mountain. The inquisitor's son paralyzes the dogs, has some of the dogs' powder, and his brain explodes. The dragon gets speech. He seems pretty nice. The inquisitor is about to be arrested, but he gets all the guards killed by the scorpions. He, his wife, and the two paralyzed dogs flee. The dogs recover mobility. The inquisitor's wife can only think about the loss of her child. She too is cruel. The dogs can see the ghost of the son, and so the mother decides to spare them so she can still hear from her son. The dragon wants the guru to give the powder to all big dragons when they come. The dragons fight. The big dragon manages to spread the powder, and they "consider the opportunity to evolve towards a superior form of life". But right there, the elves's bomber arrives and kills all the dragons, the guru, and the inquisitor's wife. The dogs survive. The inquisitor, probably. The dogs leave, soon walking on their hind legs. This is the birth of anthropomorphic animals in the Donjon world.
+    - NOTES: The art is ok but the two volumes are really good and the dogs are endearing characters, compared with everything around them. Everybody else is cruel, selfish, or stupid. The elves should have been beautiful and wise, but they are not.
+- 2024-10: [Donjon Antipodes - - -10000. L'armée du crâne](https://www.bedetheque.com/BD-Donjon-Antipodes-Tome-10000-L-Armee-du-Crane-382307.html)
+    - 2020
+    - language: French
+    - tags: #reread
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Grégory Panaccione
+    - NOTES: First album of an entirely new Donjon era. There is no donjon yet.
+    - NOTES: The story starts with a war between orcs and elves. Two dogs, one on each side, survive, but their masters are dead. They form a strange friendship. The orc dog turns out to be larger physically, but not as smart. At an inn, they are helped by a "sirène". She has a magic poweder that allows the dogs to speak "for real". But she is murdered by the innkeeper. The dogs escape. The innkeeper and his son follow them to kill the, but the dogs fight back and kill both. They find more cruelty on their way. They reach a beautiful, from the outside, elf city, at the foot of mountains (really nice full-page drawing). A monk is preaching, without success. Even he shows cruelty. The dogs find the mausoleum where the elves bring the skulls of their ennemies. The orc dog recognizes the killer of his master and kills him. The dodgs argue for their lives, but the elves shoot at them. The dogs now leave, fully independent. A lot of humour happened on the way.
+- 2024-10: [Donjon Potron-Minet - -82. Survivre aujourd'hui](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-82-Survivre-aujourd-hui-437533.html)
+    - 2022
+    - language: French
+    - Scenarios: Lewis Trondheim, Joann Sfar
+    - Dessin: Stéphane Oiry
+    - NOTES: New cartoonist for this one, again (although the next Potron-Minet will be with Christophe Gaultier again).
+    - NOTES: The story starts with an adventurer trying to kill Hyacinthe in his sleep. Hyacinthe is now starting to ponder whether he will really end up as the Donjon's keeper. They need better security. The lutins are working on it but it takes time. In the meanwhile, Marvin is asked by Hyacinthe to go to the castle, but he is still a boy, and his mother refuses. Marvin leaves anyway. Hyacinthe and him meet again with the rabbits. Something is killing rabbits with high speed. They meet Grogro, monster from Zénith, who is big, strong, and just eats people. They find that the army of dogs and the army of ducks from Vaucanson are about to fight. To escape from Grogro, they reach the Donjon, but so does Grogro. Pr. Hyppolite knows how to handle him, though, and Grogro, a "péléen", becomes friend of the castle. The dogs betray an agreement with the ducks, and they win over them. The dogs turn to the castle of Cavallère, and are winning, but the castle gets the help of the arbolesse, still part of the castle. She is decisive to win the battle. Hyacinthe is convinced now to be the keeper of the donjon and all its hosts. 
+    - NOTES: Just a little bit of progression in this story. The art is not as engaging as Blain's.
 - 2024-10: [Donjon Potron-Minet - -83. Sans un bruit](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-83-Sans-un-bruit-78186.html)
     - 2008
     - language: French
@@ -24,7 +54,8 @@ title: Comic Books (2024)
     - Scénario: Lewis Trondheim, Joann Sfar
     - Dessin: Christophe Gaultier
     - NOTES: New cartoonist for this one. The Blain cycle is done.
-    - NOTES: 
+    - NOTES: Hyacinthe's father decides to secretely leave for adventure, to find his old knight friends, "to know if it's worth staying alive". Alexandra seems him leave and accompanies him. They find the Antipolis bridge troll, crying because nobody is crossing his bridge anymore. Arakou kills two "trolls of the forest", using lost knowledge about them. Cormor visits one of the old families, now headed by an "old princess". She agrees to talk to the other families. Arakou and Alexandra visit one of Arakou's old friends, Miguel. But his mind is gone: he thinks he lives in a sumptuous castle, with a beautiful queen, but he is alone in a ruined castle. Cormor attends the meeting of the great families, where the old princess gets everyone killed, Machiavel style. Arakou and Alexandra visit another of Arakou's old friends, Patrick, who looks like Peg Leg Pete. He is a cruel warlord. Under the guise of friendship, he gets Arakou and Alexandra imprisoned. We learn that Patrick is actually not the master there: it is Lord Massimo, an even more cruel half mad scientist, half magician. He paralizes Alexandra. She eventually kills him. The castle is attacked, Miguel kills Patrick. Arakou is kidnapped by the men of the old princess, at whose service Jean-Michel now is. They want Arakou's gold. We find more cruelty on the part of the powerful, but also on the part of ordinary people. The troll gets a new bridge. Hyachinthe, whom we haven't seen so far, tries to save his father, but he died in the darkest prison where he was held. Hyacinthe becomes the "chemise de la nuit" again, and kills the heads of all the old rich families. 
+    - NOTES: This is not Blain, but it's pretty good.
 - 2024-10: [Donjon Potron-Minet - -84. Après la pluie](https://www.bedetheque.com/BD-Donjon-Potron-Minet-Tome-84-Apres-la-pluie-56078.html)
     - 2006
     - language: French
