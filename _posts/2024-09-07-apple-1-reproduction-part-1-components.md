@@ -43,6 +43,8 @@ Projects that reproduce the spirit of the Apple-1 were also produced, including:
 
 Lately, Apple-1 replica PCBs (printed circuit boards) have become more commoditized, thanks to the availability of Gerber files. On a whim, in 2023, I bought a PCB on eBay from Armin in Germany, and only after the fact did I start thinking about what it would take to actually build the computer. That wasn't the wisest strategy, and I soon realized that there is more to this project than I initially imagined!
 
+I learned after the fact that the PCB layout is based on public Gerber files, but carefully modified by Logan Greer to match the original Apple-1 PCB closely.
+
 ![My Apple-1 Replica PCB](/assets/posts/apple1/2x/IMG_7095.jpg){:standalone}
 
 Indeed, as of 2024, it is both easier and harder than before to build a reproduction:
