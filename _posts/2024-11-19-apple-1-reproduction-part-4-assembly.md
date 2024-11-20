@@ -31,7 +31,9 @@ I had also watched some videos on YouTube over time: there are a few covering th
 
 I started by quickly inspecting the PCB. It was supposed to be electrically tested by the PCB manufacturer, but I still wanted to make sure that there were no obvious issues, and I didn't see any.
 
-The first components I soldered were the resistors. I had measured all of them to see how close their values are close to the ideal. All the Allen Bradley resistors I measured were a little high. I wanted them to look good on the board, so I did the following:
+The first components I soldered were the resistors. I had measured all of them to see how close their values were to the nominal value, and all the Allen Bradley resistors I measured were a little high, but not by too much, usually within 10-15%.
+
+. I wanted them to look good on the board, so I did the following:
 
 - carefully bent the leads
 - cleaned the old leads with contact cleaner
@@ -64,20 +66,20 @@ Then it was time to solder the IC sockets.
 
 ![All the IC sockets](/assets/posts/apple1/2x/IMG_8590.jpg){:standalone}
 
-It is well-known that the Apple-1 had some design flaws, not in principle, but in some aspects of the layout of the PCB like power distribution, including lack of enough decoupling capacitors, the termination of some lines. The good news is that there are some easy fixes that objectively improve the reliability of the board. Uncle Bernie has pushed this to the next level, and I am following his advice. Specifically, a number of extra decoupling capacitors and termination resistors are added.
+It is well-known that the Apple-1 had some design flaws, not in principle, but in some aspects of the layout of the PCB like power distribution, including lack of enough decoupling capacitors, the termination of some lines. The good news is that there are some easy fixes that objectively improve the reliability of the board. Uncle Bernie has pushed this to the next level, and I am following his advice to include his "reliability mods": specifically, extra decoupling capacitors and termination resistors are added.
 
 There are two main options to do this:
 
 - solder those extra components at the bottom of the board
 - hide them inside the IC sockets
 
-I wasn't sure I would do the latter, but I experimented with one, and convinced myself that it was the way to go. It's more work, but it's cleaner.
+I wasn't sure I would do the latter, but I experimented with one socket and convinced myself that it was the way to go. It's more work, but it's so much cleaner. I used small pliers, flux, and patience. I observed the result under a magnifying glass to make sure that all connections were good.
 
 For these, I used small, modern axial capacitors.
 
 ![Positioning a decoupling capacitor](/assets/posts/apple1/2x/IMG_8601.jpg){:standalone}
 
-Several chips require the classic diagonal decoupling capacitor.
+Several chips required the classic diagonal decoupling capacitor.
 
 ![Installed decoupling capacitor](/assets/posts/apple1/2x/IMG_8716.jpg){:standalone}
 
@@ -127,7 +129,7 @@ For these, I had bought old ceramic disc capacitors. These are weird beasts. The
 
 ![Some of the larger, out of spec capacitors](/assets/posts/apple1/2x/IMG_8815.jpg){:standalone}
 
-I decided to make things look as good as possible, by using capacitors of similar size in each section. Some I just inserted with the leads going in diagonally, but most I bent the leads to make them fit. Here are the capacitors in the memory section.
+I decided to make things look as good as possible, by using capacitors of similar size in each section. I managed to insert some capacitors with the leads going in diagonally, but for most capacitors I had to bend the leads to make them fit. Here are the capacitors in the memory section.
 
 ![Decoupling capacitors in the memory section](/assets/posts/apple1/2x/IMG_8818.jpg){:standalone}
 
@@ -159,7 +161,7 @@ The edge connector was also installed. Note that its black markings go away with
 
 ## Cleaning the board
 
-Once all of this is done, you can clean the board of flux thoroughly. I had already done some spot cleaning. The reason to do this now is that most components are still low-profile, and cannot be damaged with isopropyl alcohol. I used a flat-ish bucket with aluminium foil, filled it with isopropyl alcohol, and let the board soak for a few minutes. I then used a toothbrush to clean the board. I used compressed air to dry it. I also have KimWipes wipes to clean the board, which come in handy in many cases.
+Once all of this is done, you can clean the board of flux thoroughly. I had already done some spot cleaning. The reason to do this now is that most components are still low-profile, and cannot be damaged with isopropyl alcohol. I used a flat tray lined with aluminium foil, filled it with isopropyl alcohol, and let the board soak for a few minutes. I then used a toothbrush to clean the board. I used compressed air to dry it. I also have KimWipes to clean the board, which come in handy in many cases.
 
 ## Last components
 
@@ -237,7 +239,7 @@ I finally installed all the ICs. I had initially ordered the 74xx series ICs fro
 
 I installed all the chips. This went well, except I bent some pins on a DRAM chip. I had a spare, so I used that one (and the one with bent pins will now be a spare).
 
-Thd Apple-1 has an interesting feature: a memory map section on the board, which is configured with jumper wires. The output of the address decoder outputs a signa for each 4KB block of the 64 KB of memory, and you can map memory and devices to these blocks. Here is the memory map. The following table shows the typical memory mapping for the Apple-1:
+Thd Apple-1 has an interesting feature: a memory map section on the board, which is configured with jumper wires. The output of the address decoder outputs a signal for each 4KB block of the 64 KB of memory, and you can map memory and devices to these blocks. Here is the memory map. The following table shows the typical memory mapping for the Apple-1:
 
 | Label | Memory/Device                                | Address | Notes                       | On connector |
 |-------|----------------------------------------------|---------|-----------------------------|--------------|
@@ -259,6 +261,6 @@ I soldered the memory map jumpers following this standard setup.
 
 ## Conclusion of part 4
 
-The board is now fully populated. Part 5 will cover the monitor, keyboard, power-up, and troubleshooting.
+This major step required research, care, and patience. A couple of small challenges had to be overcome, but the board is now fully populated and includes the "reliability mods". Part 5 will cover the monitor, keyboard, power-up, and troubleshooting.
 
 ---
