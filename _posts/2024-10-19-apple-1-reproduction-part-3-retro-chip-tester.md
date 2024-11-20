@@ -9,8 +9,9 @@ category: Technology
 
 This is part 3 of a series of posts about building an Apple-1 reproduction in 2024. See also:
 
-- [Building an Apple-1 Reproduction in 2024 - Part 1: Components](../apple-1-reproduction-part-1-components/).
-- [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/).
+- [Building an Apple-1 Reproduction in 2024 - Part 1: Components](../apple-1-reproduction-part-1-components/)
+- [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/)
+- [Building an Apple-1 Reproduction in 2024 - Part 4: Assembly](../apple-1-reproduction-part-4-assembly/)
 
 ![Assembled and working Retro Chip Tester Pro](/assets/posts/retro-chip-tester/2x/IMG_8289b.jpg){:standalone width="75%"}
 
@@ -159,4 +160,4 @@ _UPDATE: Stephan indicates that these chips must be positioned specially in the 
 
 Although it wasn't exactly cheap, I am glad I built the RTC. It gave me more confidence about completing the assembly of the Apple-1 reproduction, and hopefully will also be useful for other projects.
 
-Part 4 will cover the assembly of the Apple-1. 
+[Part 4](../apple-1-reproduction-part-4-assembly/) covers the assembly of the Apple-1. 
