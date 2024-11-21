@@ -48,9 +48,9 @@ The first components I soldered were the resistors. I had measured all of them t
 
 ![Soldered resistors on top](/assets/posts/apple1/2x/IMG_8409.jpg){:standalone}
 
-One recommendation is to make sure that the resistors in the C/D section are not more than 10% off. Also, for the 27K resistor, the advice is to use 22K instead. I used a modern resistor, but I plan to replace it with a vintage one.
+One recommendation is to make sure that the resistors in the C/D section are not more than 10% off. Also, for the 27 KΩ resistor, the advice is to use 22 KΩ instead. I used a modern resistor, but I plan to replace it with a vintage one.
 
-My 7.5K resistors were measuring around 8 to 8.2K, which is fine. I decided to replace them with 7.5K resistors. I also replaced the 27K resistor with a 22K one.
+My 7.5 KΩ resistors were measuring around 8 to 8.2 KΩ, which is fine. I decided to replace them with 7.5 KΩ resistors. I also replaced the 27 KΩ resistor with a 22 KΩ one.
 
 Then I soldered the diodes. For the small signal diodes, there was no problem. But the big rectifier sinterglass diodes in particular caused me some trouble. First, my board is ENIG, so has a golden look. Solder is, of course, silver color. And here, the holes for the diodes are large, and the pads are huge. Soldering them made ugly blobs. I decided to tin all the large pads around the diodes. I reflowed a lot of solder, and I was worried about the heat for the diodes as well as the PCB. But it eventually worked ok and nothing was damaged that I could tell. I tested the diodes after soldering.
 
