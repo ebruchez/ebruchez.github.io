@@ -12,6 +12,7 @@ This is part 3 of a series of posts about building an Apple-1 reproduction in 20
 - [Building an Apple-1 Reproduction in 2024 - Part 1: Components](../apple-1-reproduction-part-1-components/)
 - [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/)
 - [Building an Apple-1 Reproduction in 2024 - Part 4: Assembly](../apple-1-reproduction-part-4-assembly/)
+- [Building an Apple-1 Reproduction in 2024 - Part 5: Monitor, Keyboard, Power-Up](../apple-1-reproduction-part-5-monitor-keyboard-power-up/)
 
 ![Assembled and working Retro Chip Tester Pro](/assets/posts/retro-chip-tester/2x/IMG_8289b.jpg){:standalone width="75%"}
 

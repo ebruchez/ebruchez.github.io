@@ -12,6 +12,7 @@ This is part 4 of a series of posts about building an Apple-1 reproduction in 20
 - [Building an Apple-1 Reproduction in 2024 - Part 1: Components](../apple-1-reproduction-part-1-components/)
 - [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/)
 - [Building an Apple-1 Reproduction in 2024 - Part 3: The Retro Chip Tester](../apple-1-reproduction-part-3-retro-chip-tester/)
+- [Building an Apple-1 Reproduction in 2024 - Part 5: Monitor, Keyboard, Power-Up](../apple-1-reproduction-part-5-monitor-keyboard-power-up/)
 
 ![Fully-populated Apple-1 board](/assets/posts/apple1/2x/IMG_9608b.jpg){:standalone width="75%"}
 
@@ -33,7 +34,7 @@ I started by quickly inspecting the PCB. It was supposed to be electrically test
 
 The first components I soldered were the resistors. I had measured all of them to see how close their values were to the nominal value, and all the Allen Bradley resistors I measured were a little high, but not by too much, usually within 10-15%.
 
-. I wanted them to look good on the board, so I did the following:
+I wanted them to look good on the board, so I did the following:
 
 - carefully bent the leads
 - cleaned the old leads with contact cleaner
@@ -163,6 +164,8 @@ The edge connector was also installed. Note that its black markings go away with
 
 Once all of this is done, you can clean the board of flux thoroughly. I had already done some spot cleaning. The reason to do this now is that most components are still low-profile, and cannot be damaged with isopropyl alcohol. I used a flat tray lined with aluminium foil, filled it with isopropyl alcohol, and let the board soak for a few minutes. I then used a toothbrush to clean the board. I used compressed air to dry it. I also have KimWipes to clean the board, which come in handy in many cases.
 
+![Cleaning the board](/assets/posts/apple1/2x/IMG_9151.jpg){:standalone}
+
 ## Last components
 
 Finally, you can install the last components. For the large Sprague capacitors, Uncle Bernie, again, has some nice tips. I used double-sided 3M tape to affix the capacitors to the board. This provides some mechanical stability, and also makes it easier to solder the capacitors.
@@ -261,6 +264,12 @@ I soldered the memory map jumpers following this standard setup.
 
 ## Conclusion of part 4
 
-This major step required research, care, and patience. A couple of small challenges had to be overcome, but the board is now fully populated and includes the "reliability mods". Part 5 will cover the monitor, keyboard, power-up, and troubleshooting.
+This major step required research, care, and patience. A couple of small challenges had to be overcome, but the board is now fully populated and includes the "reliability mods".
+
+As usual, you will find more pictures in this photo album:
+
+- [Apple-1 reproduction: Work in progress](https://photos.app.goo.gl/fepMdTSppxZ7S97t7)
+
+[Part 5](../apple-1-reproduction-part-5-monitor-keyboard-power-up/) covers the monitor, keyboard, power-up, and troubleshooting.
 
 ---
