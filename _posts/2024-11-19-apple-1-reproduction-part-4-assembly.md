@@ -234,6 +234,8 @@ It didn't work at first. Of course, I made numerous mistakes in my test program.
 
 _NOTE: The 2519 board could be put underneath the board, with appropriate sockets. For now, I am 99% ok with it on top._
 
+_UPDATE: I have pushed the [source code](https://github.com/ebruchez/apple1-2519-tester/) for the tester to GitHub._
+
 ## Integrated circuits
 
 I finally installed all the ICs. I had initially ordered the 74xx series ICs from Unicorn Electronics. Note that those are the plain 74xx series, not the "newer" 74LSxx series. In any case, because I later separately acquired a lot of 74xx series chips (see [Part 3: The Retro Chip Tester](../apple-1-reproduction-part-3-retro-chip-tester/)), I went through them and picked some older and nicer ones when I could. 

@@ -157,7 +157,7 @@ But in August 2024, I found an Apple II keyboard. Note that there are several it
 
 ![Apple II keyboard](/assets/posts/apple1/2x/IMG_7989.jpg){:standalone}
 
-I didn't know if it worked, but I had to try it. I started by partly disassembling the keyboard to clean it. Here is the controller board. Sometimes the keyboard controller fails, but luckily I found out later that mine was good:
+I didn't know if it worked, but I had to try it. I started by partly disassembling the keyboard to clean it. Here is the controller board. Sometimes the keyboard encoder fails, but luckily I found out later that mine was good:
 
 ![Apple II keyboard controller board](/assets/posts/apple1/2x/IMG_9137.jpg){:standalone}
 
