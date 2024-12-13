@@ -17,6 +17,14 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2023-12: [Walt Disney's Donald Duck - 27. Duck Luck]
+    - Author: Carl Barks 
+    - language: English
+    - NOTES: These are later stories and art by Carl Barks. I am not a huge fan of the short Daisy Duck stories, or the Junior Woodchuck stories where Uncle Scrooge becomes a sort of anti-environmentalist. These were drawn by [Daan Jippes](https://en.wikipedia.org/wiki/Daan_Jippes), whose art is excellent. 
+- 2023-11: [Walt Disney's Donald Duck - 25. Balloonatics]
+    - Author: Carl Barks
+    - language: English
+- 2024-11-27: [The Complete Calvin and Hobbes](https://www.amazon.com/Complete-Calvin-Hobbes-Bill-Watterson/dp/1449433251)
 - 2024-10-29: [Lefranc - 35. Bombes H sur Almería](https://www.bedetheque.com/BD-Lefranc-Tome-35-Bombes-H-sur-Almeria-495190.html)
     - 2024
     - language: French
