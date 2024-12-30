@@ -17,6 +17,12 @@ title: Comic Books (2024)
  
 # Comic Books (2024)
 
+- 2024-12-19: [Alix - Tome 42. Le bouclier d'Achille](https://www.bedetheque.com/BD-Alix-Tome-42-Le-Bouclier-d-Achille-484852.html)
+    - 2023
+    - language: French
+    - Scénario: Roger Seiter
+    - Dessin: Marc Jailloux
+    - NOTES: Other reviewers appear to think this is one of the best Alix since Martin. I think that it is a really good album. I complained, in my quick comments about "L'Œil du Minotaure", about the roman camp on the island of Crete, in particular; here, check the roman camp drawn by Jailloux on page 8: a world of difference in style, and I much prefer Jailloux's! In general, the characters are well done, with a couple of heads a tiny bit too large. The cruel Arbacès makes an appearance as the villain. There is no big surprise, but the story overall makes sense, and the good people prevail.   
 - 2023-12: [Walt Disney's Donald Duck - 27. Duck Luck]
     - Author: Carl Barks 
     - language: English
