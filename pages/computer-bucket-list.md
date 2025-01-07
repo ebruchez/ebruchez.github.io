@@ -64,15 +64,19 @@ This is probably a very long shot, but I'd love to find an affordable Olivetti P
 
 ## Bucket list items I am lucky to own
 
-### TeleType ASR-33
+### Teletype ASR-33
 
-TeleType ASR-33[^teletype]
+Ever since I watched [CuriousMarc's series of videos on the ASR-33](https://www.youtube.com/watch?v=QzfjT1mCRww&list=PL-_93BVApb5-84G5kmgfuu7TQduTMc73H), I wanted one. And in August 2022, I obtained three of them, in various conditions! One of them is being restored, as pictured here:
 
 ![ASR-33 Teletype, due for restoration](/assets/posts/asr-33/2x/IMG_5151.jpg){:standalone width="50%"}
 
+See also:
+
+- [ASR-33 Teletype #1 - Restoration in progress](https://photos.app.goo.gl/S2CtApKF8CMEmwm5A)
+
 ### TeleVideo terminals
 
-TeleVideo TVI-912 from 1979, see the following posts:
+I own a TeleVideo TVI-912 from 1979. See the following posts:
 
 - [The TeleVideo TVI-912 terminal - Part 1](/posts/televideo-912-terminal-1/)
 - [The TeleVideo TVI-912 terminal - Part 2](/posts/televideo-912-terminal-2/)
@@ -80,16 +84,14 @@ TeleVideo TVI-912 from 1979, see the following posts:
 
 ![TeleVideo TVI-912](/assets/posts/televideo-912/2x/IMG_4030.jpg){:standalone width="50%"}
 
-TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) from 1983, see the following blog post:
+I also own a TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) from 1983, see the following blog post:
 
 - [Restoring a TeleVideo TS-800A Terminal](/posts/televideo-800a-terminal/))
 
 ![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.jpg){:standalone width="50%"}
 
-Those can be connected to vintage computers. I have a CompuPro System 8/16, but it's not working yet. In the meanwhile, I have both an [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) kit, as well as a [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kit. These both support RSR-232 serial ports, which many terminals used.[^rs232]
+Those can be connected to vintage computers. I have a CompuPro System 8/16, but it's not working yet. In the meanwhile, I have connected them to an [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) kit and a [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kit via RSR-232.[^rs232]
 
 ---
-
-[^teletype]: In fact I own three of them, one of them being restored as of late 2023. Technically this is, of course, a teletype, and not a CRT-based terminal.
 
 [^rs232]: The ASR-33 has a current loop interface, which is not compatible with RS-232. However, there are adapters available.
