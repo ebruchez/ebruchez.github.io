@@ -100,13 +100,13 @@ In March 2024, I stumbled on an extraordinary find: an IBM MT/SC system, complet
 - [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/)
 - [The IBM Magnetic Tape Selectric Composer - Part 2](/posts/ibm-mt-sc-2/)
 
-![IBM MT/SC](/assets/posts/ibm-mtsc/2x/IMG_2686.jpg){:standalone}
+![IBM MT/SC system as found](/assets/posts/ibm-mtsc/2x/IMG_2686.jpg){:standalone}
 
 ### Remington 2
 
 In addition to owning a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself, I was lucky to find, in May 2024, an early  Remington 2 from 1885! It is missing the wooden roller and paper table (for which I acquired parts in September 2024). It will need restoration. For more, see my [TWDB gallery](https://typewriterdatabase.com/1885-remington-2.23048.typewriter) and the [photo album](https://photos.app.goo.gl/6Laua3aeqrwNpVqGA).
 
-![Remington 2](/assets/pages/typewriter-bucket-list/remington2.jpg){:standalone}
+![Remington 2 from 1885](/assets/pages/typewriter-bucket-list/remington2.jpg){:standalone}
 
 The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 4 only did capital letters and 35,000 were made, approximately. Needless to say, I'd be happy to find one of those as well!
 
