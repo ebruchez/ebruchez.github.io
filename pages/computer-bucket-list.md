@@ -72,11 +72,17 @@ TeleType ASR-33[^teletype]
 
 ### TeleVideo terminals
 
-TeleVideo TVI-912 from 1979 (see [my blog posts](../../posts/televideo-912-terminal-1/)):
+TeleVideo TVI-912 from 1979, see the following posts:
+
+- [The TeleVideo TVI-912 terminal - Part 1](/posts/televideo-912-terminal-1/)
+- [The TeleVideo TVI-912 terminal - Part 2](/posts/televideo-912-terminal-2/)
+- [The TeleVideo TVI-912 terminal - Part 3](/posts/televideo-912-terminal-3/)
 
 ![TeleVideo TVI-912](/assets/posts/televideo-912/2x/IMG_4030.jpg){:standalone width="50%"}
 
-TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) from 1983 (see [my blog post](../../posts/televideo-800a-terminal/)):
+TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) from 1983, see the following blog post:
+
+- [Restoring a TeleVideo TS-800A Terminal](/posts/televideo-800a-terminal/))
 
 ![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.jpg){:standalone width="50%"}
 
