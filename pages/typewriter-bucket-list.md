@@ -91,11 +91,20 @@ The following machines would be nice to complete that collection:
 
 ---
 
-## Items I am lucky to own
+## Bucket list items I am lucky to own
+
+### IBM MT/SC
+
+In March 2024, I stumbled on an extraordinary find: an IBM MT/SC system, complete with input station and output station. Read more about it in the following blog posts:
+
+- [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/)
+- [The IBM Magnetic Tape Selectric Composer - Part 2](/posts/ibm-mt-sc-2/)
+
+![IBM MT/SC](/assets/posts/ibm-mtsc/2x/IMG_2686.jpg){:standalone}
 
 ### Remington 2
 
-In addition to owning a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself, I was lucky to find, in May 2024, a Remington 2! It is missing the wooden roller and paper table (for which I acquired parts in September 2024). It will need restoration. For more, see my [TWDB gallery](https://typewriterdatabase.com/1885-remington-2.23048.typewriter) and the [photo album](https://photos.app.goo.gl/6Laua3aeqrwNpVqGA).
+In addition to owning a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself, I was lucky to find, in May 2024, an early  Remington 2 from 1885! It is missing the wooden roller and paper table (for which I acquired parts in September 2024). It will need restoration. For more, see my [TWDB gallery](https://typewriterdatabase.com/1885-remington-2.23048.typewriter) and the [photo album](https://photos.app.goo.gl/6Laua3aeqrwNpVqGA).
 
 ![Remington 2](/assets/pages/typewriter-bucket-list/remington2.jpg){:standalone}
 
