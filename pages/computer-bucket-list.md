@@ -62,26 +62,25 @@ This is probably a very long shot, but I'd love to find an affordable Olivetti P
 
 ---
 
-## Items I am lucky to own
+## Bucket list items I am lucky to own
 
-### Vintage terminals
+### TeleType ASR-33
 
-I am lucky to own a few vintage terminals:
+TeleType ASR-33[^teletype]
 
-- TeleType ASR-33[^teletype]
+![ASR-33 Teletype, due for restoration](/assets/posts/asr-33/2x/IMG_5151.jpg){:standalone width="50%"}
 
-    ![ASR-33 Teletype, due for restoration](/assets/posts/asr-33/2x/IMG_5151.jpg){:standalone width="50%"}
+### TeleVideo terminals
 
-- TeleVideo TVI-912 from 1979 (see [my blog posts](../../posts/televideo-912-terminal-1/))
+TeleVideo TVI-912 from 1979 (see [my blog posts](../../posts/televideo-912-terminal-1/)):
 
-    ![TeleVideo TVI-912](/assets/posts/televideo-912/2x/IMG_4030.jpg){:standalone width="50%"}
+![TeleVideo TVI-912](/assets/posts/televideo-912/2x/IMG_4030.jpg){:standalone width="50%"}
 
-- TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) from 1983 (see [my blog post](../../posts/televideo-800a-terminal/))
+TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) from 1983 (see [my blog post](../../posts/televideo-800a-terminal/)):
 
-    ![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.jpg){:standalone width="50%"}
+![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.jpg){:standalone width="50%"}
 
 Those can be connected to vintage computers. I have a CompuPro System 8/16, but it's not working yet. In the meanwhile, I have both an [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) kit, as well as a [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kit. These both support RSR-232 serial ports, which many terminals used.[^rs232]
-
 
 ---
 
