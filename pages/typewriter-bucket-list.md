@@ -97,13 +97,9 @@ The following machines would be nice to complete that collection:
 
 In addition to owning a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself, I was lucky to find, in May 2024, a Remington 2! It is missing the wooden roller and paper table (for which I acquired parts in September 2024). It will need restoration. For more, see my [TWDB gallery](https://typewriterdatabase.com/1885-remington-2.23048.typewriter) and the [photo album](https://photos.app.goo.gl/6Laua3aeqrwNpVqGA).
 
-The Remington 2 standard is not really a rare machine: more than 100,000 were made and many have survived. However, for some reason I have not yet been able to find one that is both local and affordable.
+![Remington 2](/assets/pages/typewriter-bucket-list/remington2.jpg){:standalone}
 
 The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 4 only did capital letters and 35,000 were made, approximately. Needless to say, I'd be happy to find one of those as well!
-
-![Remington 2](/assets/pages/typewriter-bucket-list/remington2.png){:standalone}
-
-*Credit: [National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_687313)*
 
 ---
 
