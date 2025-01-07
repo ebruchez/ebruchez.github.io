@@ -13,7 +13,7 @@ In addition to my [typewriter collection](https://typewriterdatabase.com/typewri
 
 DEC made over a million of [DEC VT-100](https://terminals-wiki.org/wiki/index.php/DEC_VT100) (see also [Wikipedia](https://en.wikipedia.org/wiki/VT100)), so surely there is one waiting for me out there!
 
-![DEC VT-100](/assets/pages/typewriter-bucket-list/dec-vt100.jpg){:standalone}
+![DEC VT-100](/assets/pages/typewriter-bucket-list/dec-vt100.jpg){:standalone style="max-width: 75%; width="100%"}
 
 *Credit: [Jason Scott](https://www.flickr.com/people/54568729@N00)*
 
@@ -23,7 +23,7 @@ The [Lear Siegler ADM-3A](https://terminals-wiki.org/wiki/index.php/Lear_Siegler
 
 Jerry Walker has amazing video series on that terminal, and Usagi Electric has a restoration video as well.
 
-![Lear Siegler ADM-3A](/assets/pages/typewriter-bucket-list/lear-siegler-adm3a.jpg){:standalone}
+![Lear Siegler ADM-3A](/assets/pages/typewriter-bucket-list/lear-siegler-adm3a.jpg){:standalone style="max-width: 75%; width="100%"}
 
 *Credit: [Chris Jacobs, CC BY-SA 3.0](https://en.wikipedia.org/wiki/ADM-3A#/media/File:Adm3aimage.jpg).*
 
@@ -68,7 +68,7 @@ This is probably a very long shot, but I'd love to find an affordable Olivetti P
 
 Ever since I watched [CuriousMarc's series of videos on the ASR-33](https://www.youtube.com/watch?v=QzfjT1mCRww&list=PL-_93BVApb5-84G5kmgfuu7TQduTMc73H), I wanted one. And in August 2022, I obtained three of them, in various conditions! One of them is being restored, as pictured here:
 
-![ASR-33 Teletype, due for restoration](/assets/posts/asr-33/2x/IMG_5151.jpg){:standalone width="50%"}
+![ASR-33 Teletype, due for restoration](/assets/posts/asr-33/2x/IMG_5151.jpg){:standalone style="max-width: 75%; width="100%"}
 
 See also:
 
@@ -82,13 +82,13 @@ I own a TeleVideo TVI-912 from 1979. See the following posts:
 - [The TeleVideo TVI-912 terminal - Part 2](/posts/televideo-912-terminal-2/)
 - [The TeleVideo TVI-912 terminal - Part 3](/posts/televideo-912-terminal-3/)
 
-![TeleVideo TVI-912](/assets/posts/televideo-912/2x/IMG_4030.jpg){:standalone width="50%"}
+![TeleVideo TVI-912](/assets/posts/televideo-912/2x/IMG_4030.jpg){:standalone style="max-width: 75%; width="100%"}
 
 I also own a TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) from 1983, see the following blog post:
 
 - [Restoring a TeleVideo TS-800A Terminal](/posts/televideo-800a-terminal/))
 
-![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.jpg){:standalone width="50%"}
+![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.jpg){:standalone style="max-width: 75%; width="100%"}
 
 Those can be connected to vintage computers. I have a CompuPro System 8/16, but it's not working yet. In the meanwhile, I have connected them to an [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) kit and a [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kit via RSR-232.[^rs232]
 

@@ -27,7 +27,7 @@ See also my [computer bucket list](../computer-bucket-list/).
 
 I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also known as MT72 in Europe), which came out in 1964.[^mtst-ebay][^mtst-diagrams][^mtsc] It is a large machine, with a special desk and a large console, as you can see on the picture below.
 
-![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone}
+![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone style="max-width: 75%; width="100%"}
 
 [//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.jpg&#41;{:standalone})
 [//]: # (*Credit: [Norsk Teknisk Museum]&#40;https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier&#41;*)
@@ -36,7 +36,7 @@ I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also kn
 
 The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969, seems to be quite rare. I am aware of a museum in Europe that has an instance (alongside an MT/ST). It had a different style of console compared to the newer and more stylish Mag Card/II console. In fact it looks more like the MT/ST, although possibly a little smaller.
 
-![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.jpg){:standalone width="75%"}
+![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.jpg){:standalone style="max-width: 75%; width="100%"}
 
 
 ## Remington 11 adding and subtracting machine
@@ -45,7 +45,7 @@ I own a [Remington Model-121 Vertical Adder](https://typewriterdatabase.com/192x
 
 I know that a few of those are around, as I've seen them for sale a couple of times: once in Europe, and once in the US, but too far away from me. Hopefully one is waiting form me somewhere.
 
-![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone width="60%"}
+![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone style="max-width: 60%; width="100%"}
 
 *Credit: [National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_904253?fbclid=IwAR02VU29QBYN5V7w2-Z0fcxLodE5XzPoDFhsFpXcw-2eqcN21Ns-3nRcbDo)*
 
@@ -60,9 +60,9 @@ I am also interested in completing my collection of Varityper shuttles (or fonts
 
 [//]: # (![The current &#40;2022&#41; Varityper collection]&#40;/assets/posts/varityper-610f/2x/montage.jpg&#41;{:standalone width="50%"})
 
-![VariTyper Model 660F](/assets/pages/typewriter-bucket-list/varityper660.jpg){:standalone}
+![VariTyper Model 660F](/assets/pages/typewriter-bucket-list/varityper660.jpg){:standalone style="max-width: 75%; width="100%"}
 
-![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone}
+![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone style="max-width: 75%; width="100%"}
 
 ## Hermes 10
 
@@ -87,7 +87,7 @@ The following machines would be nice to complete that collection:
 - Mag Card Executive
 - Mag Card Composer
 
-![IBM Mag Card II](/assets/pages/typewriter-bucket-list/ibmcstii.jpg){:standalone width="75%"}
+![IBM Mag Card II](/assets/pages/typewriter-bucket-list/ibmcstii.jpg){:standalone style="max-width: 75%; width="100%"}
 
 ---
 
