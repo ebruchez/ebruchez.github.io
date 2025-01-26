@@ -7,12 +7,13 @@ tags:
 category: Technology
 ---
 
-This is part 5 of a series of posts about building an Apple-1 reproduction in 2024. See also:
+This is part 5 of a series of posts about building an Apple-1 reproduction in 2024 (and 2025). See also:
 
 - [Building an Apple-1 Reproduction in 2024 - Part 1: Components](../apple-1-reproduction-part-1-components/)
 - [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/)
 - [Building an Apple-1 Reproduction in 2024 - Part 3: The Retro Chip Tester](../apple-1-reproduction-part-3-retro-chip-tester/)
 - [Building an Apple-1 Reproduction in 2024 - Part 4: Assembly](../apple-1-reproduction-part-4-assembly/)
+- [Building an Apple-1 Reproduction in 2024/2025 - Part 6: C Programming](../apple-1-reproduction-part-6-c-programming/)
 
 ![Working Apple-1 reproduction](/assets/posts/apple1/2x/IMG_0240.jpg){:standalone width="75%"}
 
@@ -354,4 +355,4 @@ As usual, you will find more pictures in this photo album:
 
 - [Apple-1 reproduction: Work in progress](https://photos.app.goo.gl/fepMdTSppxZ7S97t7)
 
-Part 6 will cover my first experiences programming the Apple-1.
+[Part 6](../apple-1-reproduction-part-6-c-programming/) covers programming the Apple-1 in C.

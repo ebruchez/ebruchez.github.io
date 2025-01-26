@@ -13,6 +13,7 @@ This is part 4 of a series of posts about building an Apple-1 reproduction in 20
 - [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/)
 - [Building an Apple-1 Reproduction in 2024 - Part 3: The Retro Chip Tester](../apple-1-reproduction-part-3-retro-chip-tester/)
 - [Building an Apple-1 Reproduction in 2024 - Part 5: Monitor, Keyboard, Power-Up](../apple-1-reproduction-part-5-monitor-keyboard-power-up/)
+- [Building an Apple-1 Reproduction in 2024/2025 - Part 6: C Programming](../apple-1-reproduction-part-6-c-programming/)
 
 ![Fully-populated Apple-1 board](/assets/posts/apple1/2x/IMG_9608b.jpg){:standalone width="75%"}
 
