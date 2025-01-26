@@ -58,7 +58,7 @@ I first installed `cc65` on my Mac using [Homebrew](https://brew.sh/):
 brew install cc65
 ```
 
-I couldn't find setup instructions for the Apple-1. Someone mentioned the Apple-1 in a forum around 2013, but that's all I could find. So I read some of tbe documentation, and it turns out that the main thing you need is to create a linker configuration file. I created a file called `apple1.ld65` (this is just my own naming). But what should be in it? A C program consists of:
+I couldn't find setup instructions for the Apple-1. Someone mentioned the Apple-1 in a forum around 2013, but that's all I could find. So I read some of the documentation, and it turns out that the main thing you need is to create a linker configuration file. I created a file called `apple1.ld65` (this is just my own naming). But what should be in it? A C program consists of:
 
 - code, which can be in read-only memory or read-write memory
 - initialized data, which can be read-only or read-write
@@ -153,7 +153,7 @@ The reason for this was that the `supervision.lib` I used as the base for my C l
 
 ![My Synertek 6502 CPU made in July 1979](/assets/posts/apple1/2x/IMG_3044.jpg){:standalone}
 
-So I had to do thing the hard way and recompile the library for a plain 6502 target:
+So I had to do it the hard way and recompile the library for a plain 6502 target:
 
 - I cloned the `cc65` project from GitHub.
 - I updated `libsrc/Makefile`:
@@ -220,7 +220,7 @@ I wrote simple utility functions in `util.c`:
 | `a1_read_number()` | Read and check a number from the keyboard | Accepts and validates numeric input from the user.                           |
 | `print_big()`      | Print a large number on the screen        | Displays a number with large, stylized digits made up of smaller characters. |
 
-Note that this is all there is to the Apple-1 in terms of I/O, without hardware extensions: you can read and write characters to the screen, and read characters from the keyboard. That's it. There are no graphic capabilities, no sound, no network, no storage, no timers: it's a very simple system!
+Note that this is all there is to the Apple-1 in terms of I/O, without hardware extensions: you can write characters to the screen, and read characters from the keyboard. That's it. There are no graphics capabilities, no sound, no network, no storage, no timers: it's a very simple system!
 
 My `main.c` handles the linked list functions and the main loop.
 
