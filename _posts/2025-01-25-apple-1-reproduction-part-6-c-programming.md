@@ -27,13 +27,11 @@ Here is part of the cover of the Apple BASIC manual reproduction, made with love
 
 ![Apple-1 BASIC manual cover (reproduction)](/assets/posts/apple1/2x/IMG_3042.jpg){:standalone}
 
-I never really learned 6502 assembly in its heyday, although I did peruse the great Commodore 64 manual. However, I dabbled with a homemade Z80 computer board, I programmed in RCA 1802 assembly on my own boards, and I eventually got some mastery of 68000 assembly (a beautiful processor instruction set architecture).
-
 In any case, after building my Apple-1 reproduction, I wanted to write some software for it, however simple.
 
 ## Why the C language?
 
-I didn't think that assembly or BASIC were ideal for me. While 6502 assembly is probably the way to go to optimize performance and code size, it is also a very low-level language, and I thought that it would take me too much effort to get really fluent in the 6502 dialect. BASIC is, of course, much higher-level, but it is also very limited, and not challenging enough.
+I didn't think that assembly or BASIC were ideal for me. While 6502 assembly is probably the way to go to optimize performance and code size, it is also a very low-level language, and I thought that it would take me too much effort to get really fluent in the 6502 dialect. I never really learned 6502 assembly in its heyday, although I did peruse the great Commodore 64 manual.[^assembly] BASIC is, of course, much higher-level, but it is also very limited, and not challenging enough.
 
 ![C programming language logo](/assets/posts/apple1/2x/c-logo.svg){:standalone}
 
@@ -272,6 +270,8 @@ Part 7 will cover the Audio Cassette Interface (ACI).
 ---
 
 [^microsoft-basic]: The same could be said of Bill Gates, Paul Allen, and Monte Davidoff's 4K version of Microsoft BASIC for the Altair 8800.
+
+[^assembly]: However, I dabbled with a homemade Z80 computer board, I programmed in RCA 1802 assembly on my own boards, and I eventually got some mastery of 68000 assembly (a beautiful processor instruction set architecture).
 
 [^small-c]: I learned that [Small-C](https://en.wikipedia.org/wiki/Small-C), a subset of C that could run on 8-bit systems, specifically the 8080 microprocessor, was developed in 1980.
 
