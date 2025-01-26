@@ -33,9 +33,11 @@ In any case, after building my Apple-1 reproduction, I wanted to write some soft
 
 ## Why the C language?
 
- I didn't think that assembly or BASIC were ideal for me. While 6502 assembly is probably the way to go to optimize performance and code size, it is also a very low-level language, and I thought that it would take me too much effort to get really fluent in the 6502 dialect. BASIC is, of course, much higher-level, but it is also very limited, and not challenging enough. 
+I didn't think that assembly or BASIC were ideal for me. While 6502 assembly is probably the way to go to optimize performance and code size, it is also a very low-level language, and I thought that it would take me too much effort to get really fluent in the 6502 dialect. BASIC is, of course, much higher-level, but it is also very limited, and not challenging enough.
 
-Instead, I decided to try to write in C. It is a good compromise: it is a higher-level language compared to assembly, with functions, types, structs, enumerations, loops, and flexible ways to deal with memory, but it is also very close to the hardware. Further, I knew C reasonably well at some point in the 1990s so it should come back. But could it work on the Apple-1?
+![C programming language logo](/assets/posts/apple1/2x/c-logo.svg){:standalone}
+
+Instead, I decided to try to write in C. It is a good compromise: it is a higher-level language compared to assembly, with functions, types, structs, enumerations, loops, and flexible ways to deal with memory, but it is also very close to the hardware. The resulting program can be burned into an EPROM. Further, I knew C reasonably well at some point in the 1990s so it should come back. But could it work on the Apple-1?
 
 ## C and the Apple-1
 
@@ -215,8 +217,8 @@ I wrote simple utility functions in `util.c`:
 | `a1_cputs()`       | Write a string to the screen              | Outputs a null-terminated string to the screen starting at the cursor.       |
 | `a1_cgetc()`       | Read a character from the keyboard        | Reads a single character input from the user.                                |
 | `a1_read_line()`   | Read a line from the keyboard             | Reads a full line of input, storing it in a buffer.                          |
-| `print_big()`      | Print a large number on the screen        | Displays a number with large, stylized digits made up of smaller characters. |
 | `a1_read_number()` | Read and check a number from the keyboard | Accepts and validates numeric input from the user.                           |
+| `print_big()`      | Print a large number on the screen        | Displays a number with large, stylized digits made up of smaller characters. |
 
 Note that this is all there is to the Apple-1 in terms of I/O, without hardware extensions: you can read and write characters to the screen, and read characters from the keyboard. That's it. There are no graphic capabilities, no sound, no network, no storage, no timers: it's a very simple system!
 
