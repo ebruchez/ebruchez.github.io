@@ -18,6 +18,7 @@ I maintain the following "bucket lists" of things to acquire:
 ## Lists of comic books I have read
 
 - [Comic Books](/pages/comic-books/)
+    - [2025](/pages/comic-books-2025/)
     - [2024](/pages/comic-books-2024/)
     - [2023](/pages/comic-books-2023/)
     - [2022](/pages/comic-books-2022/)

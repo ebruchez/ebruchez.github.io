@@ -4,6 +4,7 @@ title: Comic Books (2020)
 ---
 
 - [Comic books](../comic-books/)
+- [2025](../comic-books-2025/)
 - [2024](../comic-books-2024/)
 - [2023](../comic-books-2023/)
 - [2022](../comic-books-2022/)
@@ -475,62 +476,62 @@ title: Comic Books (2020)
     - Roger Leloup
     - 46 pages
     - format: large ("Esquisses d'une œuvre")
-    - NOTES:
-        - I don't recall reading this story! Yet I ordered it in 2015 when it came out. Did I read it but forget so deeply about it? Or did I simply not read it?
-        - Setting: Scotland, following the two previous albums.
-        - At night, Émilia and Angela the android Vinean angel see a quadcopter near the cottage. Émilia takes out a disintegrator, but the drone explodes before she can use it. Yoko arrives to inquire, and says it's the neighbor's drone. (Why would it come so close to the window of a teenage girl?) Anyway, who destroyed that drone?
-        - Another flying object arrives and projects a ray towards Yoko's head. This looks like Vinean tech. This time, the disintegrator is used and the vehicle falls into the loch.
-        - Yoko tries to reach Khâny, without success. But she arrives in a big shuttle (like that of "La servante de Lucifer") with Balbok and Zhyttâ (same album) and Myna ("Les exiles de Kifa"). Khâny explains that she was following that robot, who took Yoko for Khâny, since their thought waves are "aligned" (a recurrent thing in Yoko Tsuno). They find parts of the robot in the water, trying to get its memories, but they self-destruct. They sink the robot back into the loch (it's not toxic, we learn, but we also know there might some more explosives in that drone!).
-        - Khâny tells Yoko she made a mistake. She found, during "bio-verification", a hibernating gifted teenager who was "barely viable" but conditioned to control a program called "purification". That name was Karpan's project to purify Earth by killing all germs so that Vineans could live on the surface, which would in effect kill life on Earth. The project was "deactivated", but it turns out it's saved in that hibernating teenager's memory. But the teenager disappeared (hence Khâny's mistake, to have let that happen). Khâny suspects she made it to Mars, where a launcher pointed towards Earth is available.
-        - So the plan is clear: Yoko must join Khâny to go to Mars to neutralize the girl and stop the destruction of Earth.
-        - Still, there is doubt, at the cottage, that Khâny told the whole truth.
-        - As a little intermission, we see Bonnie ("Le Maléfice de l'améthyste"), who handles horses and dogs at the castle. She and Mieke will stay there. Leloup says he wanted to reassure the readers that Bonnie would find a good life in the 21st century.
-        - 2 nights later, Khâny comes to pick up Yoko & friends, in a big interplanetary shuttle - the same as in "Les trois soleils de Vinéa". Khâny lets slip that she lied to Yoko to get her to join her.
-        - Émilia meets again with Lâthy (her new "friend" from "La servante de Lucifer"). Poky is there too. So Yoko, Vic & Pol, Rosée, Myna, Khâny, Lâthy, Emilia, Zhyttâ, Balbok, and Angela are of the trip. It's a lot! In addition, the ship is controlled by Akina, the ship intelligence that bonded with Yoko in earlier albums. Leloup justifies taking the two young kids (Rosée and Poky, but also "Zhyttâ and Balbok", says Leloup) as they would be "in danger" on Earth (witness the robot that tried to do something to Yoko). He also justifies the return of Akina as she has the knowledge that the humans, Vineans and other androids don't have to handle the thip and other aspects of the mission. She has the knowledge, with Myna's assistance.
-        - As usual, Pol is packing food.
-        - The ship must add a stage to reach Mars. It does so behind the moon.
-        - Myna lets slip that the "hybrid" is in danger.
-        - Pol cooks crêpes on the ship, with the usual clumsiness.
-        - Lathy lets slip that she is not "bio-compatible". Another hint.
-        - The ship reaches Mars. The "spider", a tiny ship, allows Yoko and Khâny to reach the surface. During the trip, we learn about the "bio-compatiblity" Vinean experiment. They made a being with genes mixed from Earth and Vinea. Yoko disapproves on an ethical basis. Khâny thinks Yoko should meet her first before judging.
-        - They reach the surface. Echoes of other stories where the autopilot recognizes the terrain. We learn that the area was shaped by "thermal" explosions (an alternative to "nuclear" explosions, without radiation, as described in earlier stories).
-        - Khâny tells Yoko about an emergency system on the little ship. We can guess that will be useful later.
-        - Yoko walks out, and a sort of robot-medusa comes out of the ground, and takes the 2 girls to an underground base. We see that  the robots are not human-friendly. They meet Gorka, the second of the defunct Karpan. Gorka reiterate his support for Karpan's project and ideas.
-        - We learn that the hybrid teenage girl's name is Têvy. Leloup reveals that Khâny named her, from a mix of "Terre" ("Earth") and "Vinea". The project, per Leloup, was called initially "Terra-Vinea". Gorka doesn't hide that he despises her. She is brought in. She is a little frail and weak. Her skin is the same as Yoko's (although she looked more white to me initially), and we learn that Khâny even used some of Yoko's DNA for that! Têvy can be fed using capsules that fit on her pectoral. But she can't be fed enough, before a robot intervenes.
-        - Gorka reveals that he wants Yoko to take Têvy with her, and Khâny will go to Earth on the "purification module". Gorka wants revenge as Khâny caused Karpan's demise. He also thinks that if Khâny is on board the "module", the Vineans won't destroy it before it reaches Earth. Khâny gives Yoko a bracelet, which she tells Gorka is to control the spider, but in fact is a remote control for a bomb.
-        - We get a view of the "module" on its ramp. Têvy tells Yoko she had volunteered for the mision, and blames her and Khâny for disrupting that. Yoko tells her she would destroy humans and Vineans on Earth? Yoko tries a last attempt to prevent Khâny from being put in the module, but fails. She and Têvy are brought back to the surface.
-        - Once out, Têvy reveals she modified the launcher's program: Gorka will have to ignite the launcher's thermal propulsion while in the tube. This will cause the module to have to delay its trip and go into Mars orbit instead. Têvy justifies her plan saying that this way, she again will be the "elect".
-        - Yoko throws her disintegrator next to the mouth of the launcher.
-        - Têvy weakens. Yoko carries her to the spider, which Gorka has already invalidated. The robot-medusas try to take the spider, but Yoko destroys one and activates the spider's emergency system, which causes it to fly up and allows it to reach orbit.
-        - In orbit, Têvy is placed in a survival tube. They locate Khâny in the module in orbit, but can't see her. Yoko wants to know whether Khâny's disintegrator is with her.
-        - Gorka calls in and wants to exchange Têvy for Khâny. Yoko pretends to accept, and Gorka shows her an image of Khâny and also reveals that the disintegrator is in his own hands. Yoko tricks Gorka into opening a channel so she can show her an image of Têvy. Instead of an image, she sends the code that causes both disintegrators to explode - Myna pressed the button as Yoko hesitated. That's the end of Gorka and of the launcher tube. Similarly to "La servante de Lucifer", where Vic kills Lucifer so that Khâny doesn't have to do it.
-        - Khâny is recovered from the module. Lâthy tells Yoko she has to step in to save Têvy, as she too is "aligned" with Yoko and Khâny. Leloup's idea is that in Têvy's brain, two sides, two types of neurons, from Earth and Vinea, are in conflict. This prevents her from functioning well. Her brain needs a little push of the Earth side. So Yoko is connected to Têvy for a kind of jump start. Akina had to help, but the "transfer" works and Têvy is saved, as Khâny wakes up.
-        - Akina reveals to Yoko that Khâny was secretive with Yoko as she feared failure. Khâny gave a lot to save Têvy, including some of her own heart stem cells. She needed help for that, and it's how Têvy was discovered and then abducted. They threatened Yoko so that Khâny would have to come to Mars where she would be eliminated.
-        - Têvy becomes a friend. She can now exist, and choose which of her two sides to follow, or both. Yoko tells her she will have rights but also duties. Têvy reveals she planned to crash on the moon, not on Earth, had she been in the module.
-        - The module is destroyed, and the team goes back to Earth.
-        - Misc
-            - This is a story where Khâny takes back the foreground. Leloup wanted to do this, as "he missed Khâny lately".
-            - The scenes on Mars are quite nice. The colorists did a good job, as usual.
-            - So the secret of Khâny was that she had given her a lot of her time and attention and concern, down to her own physical stem cells, to save Têvy. That attachment, and the danger for earth, drives her actions in the story.
-            - Leloup explains that Yoko goes from an ethical rejection of the idea of the hybrid, but then, meeting the being in person, connects to her and dedicates herself to saving her.
-            - Still per Leloup, Yoko's conscience made her hesitate to kill Gorka. That's why Leloup made Myna do the push of the last button. So Yoko is, ultimately, not responsible. But it was the right thing to do, right? It's a trolley problem!
-            - Leloup also explains that Khâny becomes the biological mother of Têvy, while Yoko becomes her moral mother.
-            - Weird style that Khâny says "your atmosphere", still. They have been on Earth for a while!
-        - Conclusion
-            - This story is, again, more complex than it seems. The reader cannot miss the small details sprinkled along the story, as there is little redundancy in the action and text. The dossier by Leloup, in the large format of the album, helps.
-            - Now do I care much about the story? Many of the later Leloup stories are not as mythical as, say, "Les trois soleils de Vinéa". They are a little bit narrower. But still, there is here a threat of destruction of all of life on Earth, and the exploration of the morality of designing and creating a sentient being from parts. Other moral issues are tackled, such as the idea of hiding a program in somebody's mind, and the conscious killing of a Vinean being by the press of a button.
-            - In this story, men are even more absent than usual. In fact, besides Vic and Pol, who play their usual small roles, there is only Gorka, who is shown as truly evil (or at least misled without a chance of redemption), and is brutally eliminated in the end.
-            - One could complain about this: why are all the nice and even less nice characters women? But look at most comic books of the past, and you will find something like the opposite situation: it's only men, and women have accessory roles. Although, to be fair, the bad guys were, usually, guys too. Still, in this light, I think Leloup's approach is an interesting counterpoint. I wouldn't mind male partners in the action at times, but this is Leloup's call, and he has been following this schema since the beginning.
-- 2020-04-1x: [Yoko Tsuno - 26. Le Maléfice de l'améthyste](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-26-Le-Malefice-de-l-amethyste-171439.html)
-    - 2012
-    - Roger Leloup
-    - 46 pages
-    - tags: #reread
-    - format: large ("Esquisses d'une œuvre")
-    - NOTES:
-        - I didn't take note of when I read this, but I think I did, and even reread it.
-        - Setting: Scotland, following the previous album.
-        - TODO
+      - NOTES:
+          - I don't recall reading this story! Yet I ordered it in 2015 when it came out. Did I read it but forget so deeply about it? Or did I simply not read it?
+          - Setting: Scotland, following the two previous albums.
+          - At night, Émilia and Angela the android Vinean angel see a quadcopter near the cottage. Émilia takes out a disintegrator, but the drone explodes before she can use it. Yoko arrives to inquire, and says it's the neighbor's drone. (Why would it come so close to the window of a teenage girl?) Anyway, who destroyed that drone?
+          - Another flying object arrives and projects a ray towards Yoko's head. This looks like Vinean tech. This time, the disintegrator is used and the vehicle falls into the loch.
+          - Yoko tries to reach Khâny, without success. But she arrives in a big shuttle (like that of "La servante de Lucifer") with Balbok and Zhyttâ (same album) and Myna ("Les exiles de Kifa"). Khâny explains that she was following that robot, who took Yoko for Khâny, since their thought waves are "aligned" (a recurrent thing in Yoko Tsuno). They find parts of the robot in the water, trying to get its memories, but they self-destruct. They sink the robot back into the loch (it's not toxic, we learn, but we also know there might some more explosives in that drone!).
+          - Khâny tells Yoko she made a mistake. She found, during "bio-verification", a hibernating gifted teenager who was "barely viable" but conditioned to control a program called "purification". That name was Karpan's project to purify Earth by killing all germs so that Vineans could live on the surface, which would in effect kill life on Earth. The project was "deactivated", but it turns out it's saved in that hibernating teenager's memory. But the teenager disappeared (hence Khâny's mistake, to have let that happen). Khâny suspects she made it to Mars, where a launcher pointed towards Earth is available.
+          - So the plan is clear: Yoko must join Khâny to go to Mars to neutralize the girl and stop the destruction of Earth.
+          - Still, there is doubt, at the cottage, that Khâny told the whole truth.
+          - As a little intermission, we see Bonnie ("Le Maléfice de l'améthyste"), who handles horses and dogs at the castle. She and Mieke will stay there. Leloup says he wanted to reassure the readers that Bonnie would find a good life in the 21st century.
+          - 2 nights later, Khâny comes to pick up Yoko & friends, in a big interplanetary shuttle - the same as in "Les trois soleils de Vinéa". Khâny lets slip that she lied to Yoko to get her to join her.
+          - Émilia meets again with Lâthy (her new "friend" from "La servante de Lucifer"). Poky is there too. So Yoko, Vic & Pol, Rosée, Myna, Khâny, Lâthy, Emilia, Zhyttâ, Balbok, and Angela are of the trip. It's a lot! In addition, the ship is controlled by Akina, the ship intelligence that bonded with Yoko in earlier albums. Leloup justifies taking the two young kids (Rosée and Poky, but also "Zhyttâ and Balbok", says Leloup) as they would be "in danger" on Earth (witness the robot that tried to do something to Yoko). He also justifies the return of Akina as she has the knowledge that the humans, Vineans and other androids don't have to handle the thip and other aspects of the mission. She has the knowledge, with Myna's assistance.
+          - As usual, Pol is packing food.
+          - The ship must add a stage to reach Mars. It does so behind the moon.
+          - Myna lets slip that the "hybrid" is in danger.
+          - Pol cooks crêpes on the ship, with the usual clumsiness.
+          - Lathy lets slip that she is not "bio-compatible". Another hint.
+          - The ship reaches Mars. The "spider", a tiny ship, allows Yoko and Khâny to reach the surface. During the trip, we learn about the "bio-compatiblity" Vinean experiment. They made a being with genes mixed from Earth and Vinea. Yoko disapproves on an ethical basis. Khâny thinks Yoko should meet her first before judging.
+          - They reach the surface. Echoes of other stories where the autopilot recognizes the terrain. We learn that the area was shaped by "thermal" explosions (an alternative to "nuclear" explosions, without radiation, as described in earlier stories).
+          - Khâny tells Yoko about an emergency system on the little ship. We can guess that will be useful later.
+          - Yoko walks out, and a sort of robot-medusa comes out of the ground, and takes the 2 girls to an underground base. We see that  the robots are not human-friendly. They meet Gorka, the second of the defunct Karpan. Gorka reiterate his support for Karpan's project and ideas.
+          - We learn that the hybrid teenage girl's name is Têvy. Leloup reveals that Khâny named her, from a mix of "Terre" ("Earth") and "Vinea". The project, per Leloup, was called initially "Terra-Vinea". Gorka doesn't hide that he despises her. She is brought in. She is a little frail and weak. Her skin is the same as Yoko's (although she looked more white to me initially), and we learn that Khâny even used some of Yoko's DNA for that! Têvy can be fed using capsules that fit on her pectoral. But she can't be fed enough, before a robot intervenes.
+          - Gorka reveals that he wants Yoko to take Têvy with her, and Khâny will go to Earth on the "purification module". Gorka wants revenge as Khâny caused Karpan's demise. He also thinks that if Khâny is on board the "module", the Vineans won't destroy it before it reaches Earth. Khâny gives Yoko a bracelet, which she tells Gorka is to control the spider, but in fact is a remote control for a bomb.
+          - We get a view of the "module" on its ramp. Têvy tells Yoko she had volunteered for the mision, and blames her and Khâny for disrupting that. Yoko tells her she would destroy humans and Vineans on Earth? Yoko tries a last attempt to prevent Khâny from being put in the module, but fails. She and Têvy are brought back to the surface.
+          - Once out, Têvy reveals she modified the launcher's program: Gorka will have to ignite the launcher's thermal propulsion while in the tube. This will cause the module to have to delay its trip and go into Mars orbit instead. Têvy justifies her plan saying that this way, she again will be the "elect".
+          - Yoko throws her disintegrator next to the mouth of the launcher.
+          - Têvy weakens. Yoko carries her to the spider, which Gorka has already invalidated. The robot-medusas try to take the spider, but Yoko destroys one and activates the spider's emergency system, which causes it to fly up and allows it to reach orbit.
+          - In orbit, Têvy is placed in a survival tube. They locate Khâny in the module in orbit, but can't see her. Yoko wants to know whether Khâny's disintegrator is with her.
+          - Gorka calls in and wants to exchange Têvy for Khâny. Yoko pretends to accept, and Gorka shows her an image of Khâny and also reveals that the disintegrator is in his own hands. Yoko tricks Gorka into opening a channel so she can show her an image of Têvy. Instead of an image, she sends the code that causes both disintegrators to explode - Myna pressed the button as Yoko hesitated. That's the end of Gorka and of the launcher tube. Similarly to "La servante de Lucifer", where Vic kills Lucifer so that Khâny doesn't have to do it.
+          - Khâny is recovered from the module. Lâthy tells Yoko she has to step in to save Têvy, as she too is "aligned" with Yoko and Khâny. Leloup's idea is that in Têvy's brain, two sides, two types of neurons, from Earth and Vinea, are in conflict. This prevents her from functioning well. Her brain needs a little push of the Earth side. So Yoko is connected to Têvy for a kind of jump start. Akina had to help, but the "transfer" works and Têvy is saved, as Khâny wakes up.
+          - Akina reveals to Yoko that Khâny was secretive with Yoko as she feared failure. Khâny gave a lot to save Têvy, including some of her own heart stem cells. She needed help for that, and it's how Têvy was discovered and then abducted. They threatened Yoko so that Khâny would have to come to Mars where she would be eliminated.
+          - Têvy becomes a friend. She can now exist, and choose which of her two sides to follow, or both. Yoko tells her she will have rights but also duties. Têvy reveals she planned to crash on the moon, not on Earth, had she been in the module.
+          - The module is destroyed, and the team goes back to Earth.
+          - Misc
+              - This is a story where Khâny takes back the foreground. Leloup wanted to do this, as "he missed Khâny lately".
+              - The scenes on Mars are quite nice. The colorists did a good job, as usual.
+              - So the secret of Khâny was that she had given her a lot of her time and attention and concern, down to her own physical stem cells, to save Têvy. That attachment, and the danger for earth, drives her actions in the story.
+              - Leloup explains that Yoko goes from an ethical rejection of the idea of the hybrid, but then, meeting the being in person, connects to her and dedicates herself to saving her.
+              - Still per Leloup, Yoko's conscience made her hesitate to kill Gorka. That's why Leloup made Myna do the push of the last button. So Yoko is, ultimately, not responsible. But it was the right thing to do, right? It's a trolley problem!
+              - Leloup also explains that Khâny becomes the biological mother of Têvy, while Yoko becomes her moral mother.
+              - Weird style that Khâny says "your atmosphere", still. They have been on Earth for a while!
+          - Conclusion
+              - This story is, again, more complex than it seems. The reader cannot miss the small details sprinkled along the story, as there is little redundancy in the action and text. The dossier by Leloup, in the large format of the album, helps.
+              - Now do I care much about the story? Many of the later Leloup stories are not as mythical as, say, "Les trois soleils de Vinéa". They are a little bit narrower. But still, there is here a threat of destruction of all of life on Earth, and the exploration of the morality of designing and creating a sentient being from parts. Other moral issues are tackled, such as the idea of hiding a program in somebody's mind, and the conscious killing of a Vinean being by the press of a button.
+              - In this story, men are even more absent than usual. In fact, besides Vic and Pol, who play their usual small roles, there is only Gorka, who is shown as truly evil (or at least misled without a chance of redemption), and is brutally eliminated in the end.
+              - One could complain about this: why are all the nice and even less nice characters women? But look at most comic books of the past, and you will find something like the opposite situation: it's only men, and women have accessory roles. Although, to be fair, the bad guys were, usually, guys too. Still, in this light, I think Leloup's approach is an interesting counterpoint. I wouldn't mind male partners in the action at times, but this is Leloup's call, and he has been following this schema since the beginning.
+  - 2020-04-1x: [Yoko Tsuno - 26. Le Maléfice de l'améthyste](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-26-Le-Malefice-de-l-amethyste-171439.html)
+      - 2012
+      - Roger Leloup
+      - 46 pages
+      - tags: #reread
+      - format: large ("Esquisses d'une œuvre")
+      - NOTES:
+          - I didn't take note of when I read this, but I think I did, and even reread it.
+          - Setting: Scotland, following the previous album.
+          - TODO
 - 2020-04-08: : [Yoko Tsuno - 25. La servante de Lucifer](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-25-La-servante-de-Lucifer-117991.html)
     - 2010
     - Roger Leloup
