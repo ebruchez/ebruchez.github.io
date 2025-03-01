@@ -17,9 +17,80 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-02: [Luc Orient - 10. Le 6ème continent](https://www.bedetheque.com/BD-Luc-Orient-Tome-10-Le-6eme-continent-24362.html)
+    - 1976
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES:
+        - I had taken notes earlier about the weird depiction of skiing, and that remains a little funny. This said, Kala and Toba are supposed to be decent skiers, and they are shown with a good, advanced posture, especially for the time (1970s). Orient is supposed to be a poor skier, and mostly sticks to that, but there are a couple of exceptions where he is shown with a posture too good for his level, especially considered that this is off-piste skiing. Still, all skiers go downhill all the time, and that is not how skiing on that kind of terrain works. Toba even says "Only another half hour of effort", shown in a cross-country skiing posture, which might indicate they are not skiing downhill at that point, but that contradicts the previous frame where Orient is struggling to go downhill. I suspect that Paape was not a skier.
+        - I like the depiction of the ski resort, which seems inspired by Zermatt.
+        - The "human anthill" idea is not bad, although you would think that getting all that is needed for such a society would make it difficult to keep it secret over 1500 years. I still find the final destruction of the underground city a bit odd.
+- 2025-02: [Luc Orient - 9. 24 heures pour la planète terre](https://www.bedetheque.com/BD-Luc-Orient-Tome-9-24-heures-pour-la-planete-terre-24361.html)
+    - 1975
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES:
+        - The world is at the mercy of a single extraterrestrial (Okjorr, from Trementhawah, who doesn't reveal his nature to Earth) able to destroy materials and life on Earth. He first shows off his power of destruction on a bridge, to convince world leaders to convene, which they do, but for what purpose we don't really know. World leaders decide not to negotiate with the "destroyer", whatever he wants. Orient is contacted by another ET, Rojkorr, who wants to counter Okjorr. He reveals to Orient the original plan of his species: submit Earth, and convert all forms of life by removing their blood, but in exchange making them "better". Okjorr seems more aggressive, and on a path to, instead, submit or even eliminate all life on Earth. So Rojkorr decides to betray his species, and help Orient. In a second show of power, Okjorr destroys the Statue of Liberty, but the damage is contained thanks to blood plasma. This is the parade, which stops Okjorr in his plans. Rojkorr sets up an encounter between Orient and Okjorr. The latter says he has decided to burn the Earth's atmosphere instead, in a last vindictive act. Orient and Rojkorr manage to stop and destroy him. Rojkorr becomes human, although without blood.
+        - The story is fine on its face, but the focus on blood seems a bit odd.
+        - The motivations of Okjorr are unclear. They are supposed to be a smarter race, but he shows all the worst traits of humans. Also, although they can live 10,000 years, he doesn't seem bothered by committing suicide in the end.
+        - Okjorr regains his original appearance in death. Orient seems disgusted by his monstrous aspect, but he is not that different from humans. However, I like that Paape doesn't fully show the appearance of the Trementhawans, but instead shows hints of that appearance.
+        - Overall, this is not my favorite Luc Orient story.
+- 2025-02: [Luc Orient - 8. La légion des anges maudits](https://www.bedetheque.com/BD-Luc-Orient-Tome-8-La-legion-des-anges-maudits-40220.html)
+    - 1975
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES: I note the "superhuman" effort of Orient throwing  Kala up the elevator shaft. Wouldn't it have been easier to throw Lora? The "play boy" scientist turns out not to be that bad after all.
+- 2025-02: [Luc Orient - 7. Le cratère aux sortilèges](https://www.bedetheque.com/BD-Luc-Orient-Tome-7-Le-cratere-aux-sortileges-24360.html)
+    - 1974
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES: A good story, as I had noted during previous reads, with its similarity to the Mystère Borg.
+- 2025-02: [Luc Orient - 6. Le secret des 7 lumières](https://www.bedetheque.com/BD-Luc-Orient-Tome-6-Le-secret-des-7-lumieres-24359.html)
+    - 1974
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES: Nice atmosphere in the cabin around the lake, with the mafia bosses.
+- 2025-02: [Luc Orient - 5. La forêt d'acier](https://www.bedetheque.com/BD-Luc-Orient-Tome-5-La-foret-d-acier-24358.html)
+    - 1973
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES: The arrival on Terango of Argos, with the Thargs. I few things I notice:
+        - Granya goes through the control "arcs" which are supposed to destroy whoever goes through them. But her helpers didn't ask her whether she was armed or not before going through.
+        - Granya is told not to look at the gaze from the landing ship, or she "would be killed instantly". But the rest of the body is ok?
+        - As usual, the SF aspects are a little wonky. We are told that dynamite will behave differently on Terango. We know that the atmosphere of Terango is different, but are the laws of physics? Surely, with Sectan having an invasion fleet, the Terganguians know about explosive.
+        - The Thargs are somehow made immune to radioactivity, and then clad in radioactive maeterial, making them human bombs. But of course, it's not at all how nuclear bombs work. Then somehow it all goes away.
+        - In short, the science doesn't hold well, and you just have to suspend disbelief. 
+- 2025-02: [Luc Orient - 4. La planète de l'angoisse](https://www.bedetheque.com/BD-Luc-Orient-Tome-4-La-planete-de-l-angoisse-24357.html)
+    - 1972
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES: This is a side-story in the Terango cycle: under the pretext of reaching other peoples on Terango, Luc, Lora, and their Teranguian friends deal with dragon-men and bird-men. In the end, not much has progressed in the larger arc. But there is a nice criticism of the oppression of a population by, in this case, two leaders, who even drug their population to keep it under control.
+- 2025-02: [Luc Orient - 3. Le maître de Terango](https://www.bedetheque.com/BD-Luc-Orient-Tome-3-Le-maitre-de-Terango-24356.html)
+    - 1971
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES: Maybe the best of the Terango arc, where we get to meet the dictator of Terango. 
+- 2025-032 [Luc Orient - 2. Les soleils de glace](https://www.bedetheque.com/BD-Luc-Orient-Tome-2-Les-soleils-de-glace-24355.html)
+    - 1970
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+- 2025-02: [Luc Orient - 1. Les dragons de feu](https://www.bedetheque.com/BD-Luc-Orient-Tome-1-Les-dragons-de-feu-4003.html)
+    - 1969
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
 - 2025-01: [Le Journal de Mickey - Hors Série - No. 6 - Les plus belles aventures](https://www.bedetheque.com/BD-Mickey-Le-Journal-et-le-meilleur-du-journal-Hors-serie-6-Donald-Mickey-Picsou-et-Cie-leurs-plus-belles-aventures-472191.html)
     - 2023
     - language: French
     - Scénario: Jean-Paul Jennequin, V. Turier
-    - Dessin: C. Panaro, D. Vetro, F. Artibani, S. Nigro, A. Perina, C. Limido, B. Sarda, A. Gottardo, A. Sisti, L. Pastrovicchio, R. Cimino, G. Cavazzano, E. Gula, V. Held, 
+    - Dessin: C. Panaro, D. Vetro, F. Artibani, S. Nigro, A. Perina, C. Limido, B. Sarda, A. Gottardo, Alessandro Sisti, L. Pastrovicchio, R. Cimino, Giorgio Cavazzano, E. Gula, Valerio Held, 
     - NOTES: All stories except the first one are by V. Turier. On the other hand, cartoonists are varied. Some are well-known, like Alessandro Sisti and Giorgio Cavazzano. All in all, these are fairly run-off-the-mill stories. 
