@@ -17,6 +17,36 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-03: [Luc Orient - 13. L'enclume de la foudre](https://www.bedetheque.com/BD-Luc-Orient-Tome-13-L-enclume-de-la-foudre-733.html)
+    - 1978
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES:
+        - Water that has a "different form" is, of course, not reasonable.
+        - Like "La planète de l'angoisse, this album is pure adventure and doesn't advance the main plot by much.
+- 2025-03: [Luc Orient - 12. La porte de cristal](https://www.bedetheque.com/BD-Luc-Orient-Tome-12-La-porte-de-cristal-24364.html)
+    - 1977
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES:
+        - We start the Dartz cycle.
+        - The SF is ok, but there is a lot of hand-wavy stuff.
+        - The way Orient handles the characters from the past is good.
+        - The Darz, like the Teranguians, are very human-like, almost to a fault: same height, legs, arms, ears, etc. If is very much in the spirit of Star Trek from that point of view.
+        - The time difference aspect is the most fun, and the appearance of a new modern world where that forest was, with an old Kala, is well done. Clearly there was a spirit of "progress" at the time.
+        - Thinking about that, the technical decors were not Paape's forte. Compare this with masters at such decors, like Roger Leloup. Paape, instead, is very minimalistic. 
+- 2025-03: [Luc Orient - 11. La vallée des eaux troubles](https://www.bedetheque.com/BD-Luc-Orient-Tome-11-La-vallee-des-eaux-troubles-24363.html)
+    - 1976
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES:
+        - Overall a pretty good story, although not my favorite topic.
+        - Kala and Lora are almost entirely absent.
+        - Orient's last comment has a weird religious implication, unexpected from a scientist: "Yes, I wonder if someone else has not, more than Wolfgang Rafael, forbidden that the mystery of this 'pirate' creation should be repeated." But I suppose that this is present for effect. It reminds me of the "Junior Mint" episode of Seinfeld, where the doctor says "I have no medical evidence to back me up but something happened during the operation that staved off that infection. Something beyond science. Something perhaps... from above.".
+        - I like that the natives of the jungle are well depicted, and always respected by Orient and his teammates.
 - 2025-02: [Luc Orient - 10. Le 6ème continent](https://www.bedetheque.com/BD-Luc-Orient-Tome-10-Le-6eme-continent-24362.html)
     - 1976
     - tags: #reread
