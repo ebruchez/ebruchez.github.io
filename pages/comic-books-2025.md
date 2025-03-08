@@ -17,6 +17,31 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-03: [Luc Orient - 16. Caragal](https://www.bedetheque.com/BD-Luc-Orient-Tome-16-Caragal-8842.html)
+    - 1985
+    - tags: #reread
+    - rating: 2/5
+    - NOTES:
+        - I confirm that I don't like this story. There are positive aspects, however:
+            - The action takes place on Terango with Teranguian characters. This tells us that more such stories could have been written.
+            - I love the colors in this story. They are better than in most albums.
+            - The art is excellent and detailed, superior to many of the earlier albums.
+        - I wonder how this story was written, or certainly published, after the Dartz cycle.
+        - I'd say that the Terango stories would have deserved a better scenario.
+- 2025-03: [Luc Orient - 15. Roubak - Ultime espoir](https://www.bedetheque.com/BD-Luc-Orient-Tome-15-Roubak-Ultime-espoir-1282.html)
+    - 1984
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES: End of the Dartz cycle. Everything is reset, as in a dream.
+- 2025-03: [Luc Orient - 14. Le rivage de la fureur](https://www.bedetheque.com/BD-Luc-Orient-Tome-14-Le-rivage-de-la-fureur-95606.html)
+    - 1981
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES:
+        - The Amazons are certainly a trope, but the authors give women an improved role in this story. Lora rises to the occasion.
+        - One wishes to have seen the Teranguians again. 
 - 2025-03: [Luc Orient - 13. L'enclume de la foudre](https://www.bedetheque.com/BD-Luc-Orient-Tome-13-L-enclume-de-la-foudre-733.html)
     - 1978
     - tags: #reread
@@ -24,7 +49,7 @@ title: Comic Books (2025)
     - Dessin: Eddy Paape
     - NOTES:
         - Water that has a "different form" is, of course, not reasonable.
-        - Like "La planète de l'angoisse, this album is pure adventure and doesn't advance the main plot by much.
+        - Like "La planète de l'angoisse", this album is pure adventure and doesn't advance the main plot by much.
 - 2025-03: [Luc Orient - 12. La porte de cristal](https://www.bedetheque.com/BD-Luc-Orient-Tome-12-La-porte-de-cristal-24364.html)
     - 1977
     - tags: #reread
