@@ -17,6 +17,39 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-03: [Luc Orient - Le mur]()
+    - 1994
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - NOTES:
+        - 11 pages, with 6 completed and 5 of Greg's scenario only. Unfinished.
+        - Paape wasn't enthused with how the scenario was going, and it was not pursued. 
+        - The incomplete art is great.
+        - I wish there had been a few solid "Terango zenith" stories. The characters would have allowed for that. It's just that Greg had a false start here, and then it was too late. This and the flawed Caragal give us a taste of what it could have been.
+- 2025-03: [Luc Orient - 18. Rendez-vous à 20 heures en enfer...](https://www.bedetheque.com/BD-Luc-Orient-Tome-18-Rendez-vous-a-20-heures-en-enfer-4005.html)
+    - 1984
+    - tags: #reread
+    - Scenario: Greg
+    - Dessin: Eddy Paape
+    - rating: 4/5
+    - NOTES:
+        - Published in 1994 but created "10 years earlier".
+        - The lab is now called "Eurocristal IV". We don't know what happened to II and III. But Kala, Luc, and Lora all seem to work at IV now.
+        - The art is great, and story excellent.
+        - There are common time travel ideas present, and the question of free will is raised.
+        - I find the panel where Luc comes out of the water on the pod a little weird.
+        - The context is that of the end of WWII, when Germany was falling, so it also has very heavy implications.
+        - The humorous punch line of the story is nicely found.
+- 2025-03: [Luc Orient - 17. Les spores null part](https://www.bedetheque.com/BD-Luc-Orient-Tome-17-Les-spores-de-nulle-part-4004.html)
+    - 1990
+    - tags: #reread
+    - NOTES:
+        - Contains 4 stories
+            - Les spores de nulle part: This is a nice short story.
+            - Les rayons de feu du soleil: This story is a little weaker and not my favorite. I do like the part at Eurocristal I, where you see the day to day of Luc, Lora, and Kala, who gets teased a little. 
+            - La vengeance: This is a good story, again starting at Eurocristal I.
+            - Mission en 2012: This is not Luc Orient, but it is a really good short story of time travel.
 - 2025-03: [Luc Orient - 16. Caragal](https://www.bedetheque.com/BD-Luc-Orient-Tome-16-Caragal-8842.html)
     - 1985
     - tags: #reread
