@@ -17,6 +17,48 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-04-013: [Peanuts (The complete) (2004) 3. 1955 - 1956](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-3-1955-1956-75365.html)
+    - 2005
+    - Author: Charles M. Schulz
+    - NOTES:
+        - Lucy, Linus, Schroeder, Snoopy, Pig-Pen, and of course Charlie Brown are all present. Shermy, Patty, and especially Violet still appear but less.
+        - Charlotte Braun rapidly disappears.
+        - Snoopy is more and more like the Snoopy we know.
+- 2025-04-03: [Peanuts (The complete) (2004) 2. 1953 - 1954](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-2-1953-1954-74904.html)
+    - 2004
+    - Author: Charles M. Schulz
+    - NOTES:
+        - "Pig-Pen" makes his first appearance in this volume.
+        - Charlotte Braun also appears. I believe that she is a temporary character.
+- 2025-03-20: [Peanuts (The complete) (2004) 1. 1950 - 1952](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-1-1950-1952-74903.html) 
+    - 2004
+    - Author: Charles M. Schulz
+    - NOTES:
+        - The first 2 years of Peanuts, with the first appearances of Charlie Brown, Snoopy, Lucy, Linus (Lucy's little brother), Schroeder (already a Beethoven fan), but also Violet, Patty, and Shermy.
+        - Snoopy doesn't speak yet, and looks very different, walking on all fours, and mostly being a dog.
+        - Book also has a commentary and a long Schulz interview from 1987.
+            - I learned that Schulz was always called Sparky.
+            - Schulz never liked, in fact hated, the name "Peanuts" given to the strip by the syndicate.
+            - Schulz only wanted kids (and animals) in his strip. It's very rare that there is an adult.
+- 2025-03-17: [Alix - Tome 38. Les Helvètes](https://www.bedetheque.com/BD-Alix-Tome-38-Les-Helvetes-377356.html)
+    - 2019
+    - Scénario: Mathieu Bréda
+    - Dessin: Marc Jailloux
+    - Rating: 5/5
+    - NOTES:
+        - This is one of the best Alix stories post-Martin. The intro says it's "freely inspired by a synopsis by Jacques Martin", and that might be part of the reason why it is so good.
+        - But the art by Jailloux is really excellent as well.
+        - I have a bias since the story largely takes place on modern Switzerland territory, and there is an appeal to see the beautiful Alps, lakes, and a largely untouched nature.
+        - The sacrifice of Balios is tough, but we were forewarned early in the story that the great horse would not make it.
+- 2025-03-15: [Alix - Tome 33. Britannia](https://www.bedetheque.com/BD-Alix-Tome-33-Britannia-212776.html)
+    - 2014
+    - tags: #reread
+    - Scénario: Marc Jailloux, Mathieu Bréda
+    - Dessin: Marc Jailloux
+    - Rating: 4/5
+    - NOTES:
+        - The art of Marc Jailloux is excellent.
+        - The story is relatively complex. There is Caesar, going to Britain as he was promised riches by Viridoros, the vilain of the story who ends up being a traitor. There is Mancios, a prince of Britain, who helps Caesar, hoping to retake his position held by an usurper, Cassinos. The druids, including a female druid, are also involved. Caesar and his troupes narrowly escape following the treason of Viridoros. It turns out that there wouldn't be many riches to obtain anyway and Ceasar leaves Britain, with a promise of never coming back. Alix and Enak play their usual hero roles, siding as well as they can with the good guys, and expressing skepticism towards Caesar's adventure.
 - 2025-03: [Luc Orient - Le mur]()
     - 1994
     - tags: #reread
