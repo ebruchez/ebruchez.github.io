@@ -34,7 +34,7 @@ I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also kn
 
 ## IBM Input/Output (I/O) Selectric Typewriter
 
-My IBM MT/SC includes a variant of an IBM I/O Selectric Typewriter, called the MT/SR. I'd love to find an actual I/O typewriter. These look like a regular Selectric, but with a fatter bottom containing extra hardware. Inside, there are contacts and solenoids that allow the machine to transmit information, and to act as a printer. These machines were connected to IBM MT/ST machines, or to a computer.
+[My IBM MT/SC](/posts/ibm-mt-sc-1/) includes a variant of an IBM I/O Selectric Typewriter, called the MT/SR. I'd love to find an actual I/O typewriter. These look like a regular Selectric, but with a fatter bottom containing extra hardware. Inside, there are contacts and solenoids that allow the machine to transmit information, and to act as a printer. These machines were connected to IBM MT/ST machines, or to a computer.
 
 ![IBM I/O Selectric Typewriter](/assets/pages/typewriter-bucket-list/mt-sr-no-background.jpg){:standalone style="max-width: 75%; width="100%"}
 
