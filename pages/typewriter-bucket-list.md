@@ -32,6 +32,12 @@ I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also kn
 [//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.jpg&#41;{:standalone})
 [//]: # (*Credit: [Norsk Teknisk Museum]&#40;https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier&#41;*)
 
+## IBM Input/Output (I/O) Selectric Typewriter
+
+My IBM MT/SC includes a variant of an IBM I/O Selectric Typewriter, called the MT/SR. I'd love to find an actual I/O typewriter. These look like a regular Selectric, but with a fatter bottom containing extra hardware. Inside, there are contacts and solenoids that allow the machine to transmit information, and to act as a printer. These machines were connected to IBM MT/ST machines, or to a computer.
+
+![IBM I/O Selectric Typewriter](/assets/pages/typewriter-bucket-list/mt-sr-no-background.jpg){:standalone style="max-width: 75%; width="100%"}
+
 ## Original IBM Mag Card typewriter
 
 The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969, seems to be quite rare. I am aware of a museum in Europe that has an instance (alongside an MT/ST). It had a different style of console compared to the newer and more stylish Mag Card/II console. In fact it looks more like the MT/ST, although possibly a little smaller.
