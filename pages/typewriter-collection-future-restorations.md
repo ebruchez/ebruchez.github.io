@@ -24,6 +24,10 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
     <figcaption>Ca. 1893 - This Caligraph requires a full restoration, including repainting and replating. I have a parts machine as well.</figcaption>
 </figure>
 <figure>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_2872.jpg"/>
+    <figcaption>1890s - This Smith Premier 1 should look beautiful once restored, however, its paint is in challenging condition. I have some replacement parts.</figcaption>
+</figure>
+<figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_4342.jpg"/>
     <figcaption>1894-1896 - This Densmore 1 requires a full restoration, including repainting and replating.</figcaption>
 </figure>
@@ -48,10 +52,6 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
     <figcaption>1914 - This rare Royal 8 is in good shape and only needs some cleaning and minor restoration. Very few Royal 8s are known to exist.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_2872.jpg"/>
-    <figcaption>1890s - This Smith Premier 1 should look beautiful once restored, however, its paint is in challenging condition. I have some replacement parts.</figcaption>
-</figure>
-<figure>
     <img src="/assets/pages/typewriter-future-restorations/sp5.jpg"/>
     <figcaption>1907 - This Smith Premier 5 features a Gorin tabulator. It has broken parts, missing carriage bearings, and needs serious restoration, but otherwise looks quite good.</figcaption>
 </figure>
@@ -69,7 +69,7 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_5625.jpg"/>
-    <figcaption>1916 - This beautiful Apothecary Royal 10 has double windows, pinstripes, and apothecary keys. It should look amazing once done.</figcaption>
+    <figcaption>1916 - This beautiful Royal 10 has double windows, pinstripes, and apothecary keys. It should look amazing once done.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_2049.jpg"/>
