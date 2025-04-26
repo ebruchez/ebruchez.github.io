@@ -15,6 +15,10 @@ I maintain the following "bucket lists" of things to acquire:
 - [Typewriters](/pages/typewriter-bucket-list/)
 - [Computers](/pages/computer-bucket-list/)
 
+## Typewriter pages
+
+- [Typewriter collection: future restorations](/pages/typewriter-collection-future-restorations/)
+
 ## Lists of comic books I have read
 
 - [Comic Books](/pages/comic-books/)
