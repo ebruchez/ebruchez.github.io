@@ -87,7 +87,7 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
     <img src="/assets/pages/typewriter-future-restorations/IMG_5592.jpg"/>
     <figcaption>1920s - This Remington Vertical Adder Model-21 needs moderate restoration. It includes two totalizers.</figcaption>
 </figure>
-<figure>/
+<figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_7771.jpg"/>
     <figcaption>1920s - This massive Remington Bookkeeping Machine Model-23 is one of the heaviest machines I own.</figcaption>
 </figure>
