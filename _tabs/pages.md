@@ -19,6 +19,7 @@ I maintain the following "bucket lists" of things to acquire:
 
 - [Typewriter collection: future restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
+- [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 
 ## Lists of comic books I have read
 

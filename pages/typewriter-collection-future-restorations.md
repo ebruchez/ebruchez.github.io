@@ -140,5 +140,6 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
+- [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)

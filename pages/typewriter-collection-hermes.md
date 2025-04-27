@@ -57,7 +57,7 @@ In the meanwhile, this page presents my collection of 20 Hermes typewriters as o
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-hermes/IMG_7457.jpg"/>
-    <figcaption>1958 - I bought Hermes Media in very pale green with Swiss-German QWERTZ keyboard for a song, and it turns out to be an amazing machine after refurbishing.</figcaption>
+    <figcaption>1958 - I bought Hermes Media in very pale green with Swiss-German QWERTZ keyboard for a song, and it turns out to be an amazing machine after refurbishing. It has a new platen.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-hermes/IMG_3376.jpg"/>
@@ -110,5 +110,6 @@ In the meanwhile, this page presents my collection of 20 Hermes typewriters as o
 
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
 - [Typewriter collection: future restorations](/pages/typewriter-collection-future-restorations/)
+- [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)
