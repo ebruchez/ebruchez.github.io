@@ -2,6 +2,10 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: .5em;
+
+  margin-top: 2em;
+  margin-bottom: 2em;
+
   img {
     border-radius: .5em;
   }

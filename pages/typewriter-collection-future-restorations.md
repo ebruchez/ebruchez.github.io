@@ -11,7 +11,7 @@ This page covers some of my typewriters that need restoration, and that should l
 
 Among them are a couple of rare machines, as well as several uncommon ones. There are 6 machines from the nineteenth century, while all the other ones are from the twentieth century. 
 
-## Standard machines
+## Nineteenth century standard typewriters
 
 <div class="tw-table">
 
@@ -39,6 +39,13 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
     <img src="/assets/pages/typewriter-future-restorations/IMG_4435.jpg"/>
     <figcaption>1899 - This Densmore 4 is in quite good condition and only needs some conservative cleaning and restoration. It is the most expensive typewriter I have ever bought.</figcaption>
 </figure>
+
+</div>
+
+## Twentieth century standard typewriters
+
+<div class="tw-table">
+
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_3052.jpg"/>
     <figcaption>1910 - This Royal Standard is in good shape and only needs some cleaning and minor restoration.</figcaption>
@@ -98,7 +105,7 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 
 </div>
 
-## Portable machines
+## Portable typewriters
 
 <div class="tw-table">
 
