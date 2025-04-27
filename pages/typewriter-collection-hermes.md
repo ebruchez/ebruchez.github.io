@@ -109,5 +109,6 @@ In the meanwhile, this page presents my collection of 20 Hermes typewriters as o
 ## See also
 
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
+- [Typewriter collection: future restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)
