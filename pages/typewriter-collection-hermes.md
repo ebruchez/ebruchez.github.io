@@ -16,6 +16,7 @@ I would love to eventually complete my collection with:
 - a Hermes 8 or 9
 - a Hermes 10
 - a Hermes Ambassador with carbon ribbon
+- a Hermes Ambassador electric
 
 In the meanwhile, this page presents my collection of 20 Hermes typewriters as of April 2025. 
 
