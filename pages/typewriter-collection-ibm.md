@@ -128,5 +128,6 @@ This page presents my collection of 25 IBM typewriters as of April 2025 (excludi
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
 - [Typewriter collection: future restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
+- [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)

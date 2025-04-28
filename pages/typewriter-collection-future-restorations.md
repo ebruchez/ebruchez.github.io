@@ -21,7 +21,7 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_5423.jpg"/>
-    <figcaption>Ca. 1893 - This Caligraph requires a full restoration, including repainting and replating. I have a parts machine as well.</figcaption>
+    <figcaption>Ca. 1893 - This Caligraph requires a full restoration, including repainting, replating, an pinstripes. I have a parts machine as well.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_2872.jpg"/>
@@ -29,7 +29,7 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_4342.jpg"/>
-    <figcaption>1894-1896 - This Densmore 1 requires a full restoration, including repainting and replating.</figcaption>
+    <figcaption>1894-1896 - This Densmore 1 requires a full restoration, including repainting and replating. The only good news: this machine doesn't need pinstripes.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_9110.jpg"/>
@@ -145,5 +145,6 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
 - [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
+- [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)
