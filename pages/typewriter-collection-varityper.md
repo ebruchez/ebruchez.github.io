@@ -53,11 +53,7 @@ The following table summarizes the collection:
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-varityper/IMG_4254.jpg"/>
-    <figcaption>1950x - This is an "Engineering" machine, which supports neither justification nor proportional spacing. It is in vary poort condition, and might not be salvageable. However, some fonts from its drawer were rescued.</figcaption>
-</figure>
-<figure>
-    <img src="/assets/pages/typewriter-varityper/.jpg"/>
-    <figcaption> - .</figcaption>
+    <figcaption>1950x - This is an "Engineering" machine, which supports neither justification nor proportional spacing. It is in very poor condition, and might not be salvageable. However, some fonts from its drawer were rescued.</figcaption>
 </figure>
 
 </div>
