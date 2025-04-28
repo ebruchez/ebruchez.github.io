@@ -59,7 +59,7 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
     <figcaption>1914 - This rare Royal 8 is in good shape and only needs some cleaning and minor restoration. Very few Royal 8s are known to exist.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/sp5.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4492.jpg"/>
     <figcaption>1907 - This Smith Premier 5 features a Gorin tabulator. It has broken parts, missing carriage bearings, and needs serious restoration, but otherwise looks quite good.</figcaption>
 </figure>
 <figure>
@@ -87,8 +87,12 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
     <figcaption>1917 - This other Remington 10 has potential. I had some parts replated to fix it.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_2976.jpg"/>
-    <figcaption>1921 - This Oliver 9 is in excellent condition, including spool covers. It probably only needs minor work.</figcaption>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4480.jpg"/>
+    <figcaption>1919 - This Oliver 9 is in excellent condition, missing spool covers, but with the pencil holder. It probably only needs minor work.</figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4440.jpg"/>
+    <figcaption>1921 - This Oliver 9 is in very good condition, including spool covers, but missing the pencil holder. It probably only needs minor work.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_5592.jpg"/>
