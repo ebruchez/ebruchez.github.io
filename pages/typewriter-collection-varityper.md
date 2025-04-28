@@ -9,7 +9,7 @@ title: "Typewriter collection: Varityper"
 
 I have accumulated a few Varitypers [^naming] over the years. For a nice introduction to the Varityper in general, see [Richard Polt's Varityper page](https://site.xavier.edu/polt/typewriters/varityper.html).
 
-I have taken a particular interest in these machines, collecting a few, and I am still looking for more, as well as more shuttles/fonts.
+I have taken a particular interest in these machines, collecting a few, and I am still looking for more, as well as more shuttles/fonts. See my [Typewriter bucket list](/pages/typewriter-bucket-list/) for more.
 
 ## Collection
 
@@ -54,6 +54,10 @@ The following table summarizes the collection:
 <figure>
     <img src="/assets/pages/typewriter-varityper/IMG_4254.jpg"/>
     <figcaption>1950x - This is an "Engineering" machine, which supports neither justification nor proportional spacing. It is in very poor condition, and might not be salvageable. However, some fonts from its drawer were rescued.</figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/typewriter-varityper/IMG_4228.jpg"/>
+    <figcaption>1988 - As a bonus, this is a CPU board for the AM Varityper EPICS system. This board is based on the MC 68000 microprocessor. By that time, Varityper was still producing machines in the domain of cold typesetting, but these machines had become in effect computers.</figcaption>
 </figure>
 
 </div>
