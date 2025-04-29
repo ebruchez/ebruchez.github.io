@@ -1,17 +1,17 @@
 ---
 layout: page
-title: "Typewriter collection: IBM Typewriters"
+title: "Typewriter Collection: IBM Typewriters"
 ---
 
-# Typewriter collection: IBM Typewriters
+# Typewriter Collection: IBM Typewriters
 
 ## Introduction
 
 I collect IBM typewriters, including:
 
-- __IBM Selectric__: Machines in this family introduced in 1961 are the best known and feature the famous “golf ball” single type element.
 - __Typebar typewriters:__ This family of typewriters started with IBM's acquisition of Electromatic. A subset of this family are _Executive_ models, that feature proportional spacing and carbon ribbon.
-- __Electronic typewriters:__ Machines using electronics include the MT/SC, Mag Card and Mag Card II families, and Electronic Typewriter families.
+- __IBM Selectric__: Machines in this family introduced in 1961 are the best known and feature the famous “golf ball” single type element.
+- __Electronic typewriters:__ Machines using electronics include machines in the Selectric family, such as the MT/SC, the Mag Card and Mag Card II families, but also Electronic Typewriter families, which did not have the Selectric name.
 - __Wheelwriter:__ The Wheelwriter family features a daisy wheel. This said, I don't own a Wheelwriter yet!
 
 This page presents my collection of 25 IBM typewriters as of April 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system. For more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/).
