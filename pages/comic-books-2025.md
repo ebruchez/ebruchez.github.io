@@ -17,6 +17,12 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-04-013: [Peanuts (The complete) (2004) 4. 1957 - 1958](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-4-1957-1958-80033.html)
+    - 2005
+    - Author: Charles M. Schulz
+    - NOTES:
+        - Snoopy continues his evolution. He occasionally walks on two legs, continues his imitations, like the vulture, and in the end even sleeps, clumsily, on the top of his doghouse.
+        - Charlie Brown, Lucy, Linus, Schroeder, and Pig-Pen are all present. Violet and Shermy make rare appearances.
 - 2025-04-013: [Peanuts (The complete) (2004) 3. 1955 - 1956](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-3-1955-1956-75365.html)
     - 2005
     - Author: Charles M. Schulz
