@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Typewriter collection: future restorations"
+title: "Typewriter Collection: Future Restorations"
 ---
 
-# Typewriter collection: future restorations
+# Typewriter Collection: Future Restorations
 
 ## Introduction
 

@@ -17,10 +17,10 @@ I maintain the following "bucket lists" of things to acquire:
 
 ## Typewriter pages
 
-- [Typewriter collection: future restorations](/pages/typewriter-collection-future-restorations/)
-- [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
-- [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
-- [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
+- [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
+- [Typewriter Collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
+- [Typewriter Collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
+- [Typewriter Collection: Varityper](/pages/typewriter-collection-varityper/)
 
 ## Lists of comic books I have read
 
