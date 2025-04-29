@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Typewriter Collection: Future Restorations"
+comments: true
 ---
 
 # Typewriter Collection: Future Restorations

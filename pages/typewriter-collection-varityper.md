@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Typewriter Collection: Varityper"
+comments: true
 ---
 
 # Typewriter Collection: Varityper

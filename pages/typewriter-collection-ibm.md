@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Typewriter Collection: IBM Typewriters"
+comments: true
 ---
 
 # Typewriter Collection: IBM Typewriters

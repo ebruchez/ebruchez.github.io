@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Typewriter Collection: Hermes Typewriters"
+comments: true
 ---
 
 # Typewriter Collection: Hermes Typewriters
