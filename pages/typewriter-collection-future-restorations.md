@@ -134,8 +134,8 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
     <figcaption>1930 - This Remington 3 already looks great. Only minor cleaning should be needed.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/torpedo14.jpg"/>
-    <figcaption>1930s - This Torpedo 14 will be a stunner.</figcaption>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4563.jpg"/>
+    <figcaption>1930s - This Torpedo 12 will be a stunner.</figcaption>
 </figure>
 
 </div>
