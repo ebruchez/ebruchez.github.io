@@ -14,7 +14,7 @@ I collect IBM typewriters, including:
 - __Electronic typewriters:__ Machines using electronics include machines in the Selectric family, such as the MT/SC, the Mag Card and Mag Card II families, but also Electronic Typewriter families, which did not have the Selectric name.
 - __Wheelwriter:__ The Wheelwriter family features a daisy wheel. This said, I don't own a Wheelwriter yet!
 
-This page presents my collection of 25 IBM typewriters as of April 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system. For more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/).
+This page presents my collection of 26 IBM typewriters as of April 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system. For more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/).
 
 ## The collection
 
@@ -22,10 +22,10 @@ This page presents my collection of 25 IBM typewriters as of April 2025 (excludi
 
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_7991.jpg"/>
-    <figcaption>1940 - IBM Electromatic, also known as IBM Model 01. This instance is still branded "Electromatic". This machine is cosmetically in good shape, but needs refurbishing. I love the red accent colors.</figcaption>
+    <figcaption>1940 - IBM Electromatic, also known as IBM Model 01. This instance is still branded "Electromatic". This machine is cosmetically in good shape, but needs refurbishing. I love the red accent colors, including the space bar.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4538.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_4536.jpg"/>
     <figcaption>1941 - IBM Electromatic, also known as IBM Model 01. This instance is now branded "IBM". This machine needs refurbishing.</figcaption>
 </figure>
 <figure>

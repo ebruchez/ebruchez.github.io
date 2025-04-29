@@ -90,7 +90,7 @@ In the meanwhile, this page presents my collection of 20 Hermes typewriters as o
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-hermes/IMG_7502.jpg"/>
-    <figcaption>1971 - This white plastic Hermes Baby with Swiss-German QWERTZ keyboard is not as sturdy as the earlier metal-bodied ones, but I think that it still looks beautiful after refurbishing.</figcaption>
+    <figcaption>1971 - This white plastic Hermes Baby with Swiss-German QWERTZ keyboard is not as sturdy as the earlier metal-bodied ones, but I think that it still looks beautiful after refurbishing. Like with my earlier Babys, I used the red felt treatment.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-hermes/IMG_1984.jpg"/>
