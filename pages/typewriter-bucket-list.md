@@ -116,6 +116,15 @@ In addition to owning a beautiful [Remington 6 from 1902](https://photos.app.goo
 
 The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 4 only did capital letters and 35,000 were made, approximately. Needless to say, I'd be happy to find one of those as well!
 
+## See also
+
+- [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
+- [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
+- [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
+- [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
+- [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
+- [Computer bucket list](/pages/computer-bucket-list/)
+
 ---
 
 [^shippping]: Please note that [shipping](../../posts/typewriter-shipping-update/) many of these machines is difficult, although possible with care.

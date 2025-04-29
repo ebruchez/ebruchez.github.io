@@ -69,8 +69,9 @@ TODO
 ## See also
 
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
-- [Typewriter collection: future restorations](/pages/typewriter-collection-future-restorations/)
+- [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
+- [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)
 

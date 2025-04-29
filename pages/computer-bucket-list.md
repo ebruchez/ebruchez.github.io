@@ -92,6 +92,15 @@ I also own a TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) 
 
 Those can be connected to vintage computers. I have a CompuPro System 8/16, but it's not working yet. In the meanwhile, I have connected them to an [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) kit and a [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kit via RSR-232.[^rs232]
 
+## See also
+
+- [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
+- [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
+- [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
+- [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
+- [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
+- [Typewriter bucket list](/pages/typewriter-bucket-list/)
+
 ---
 
 [^rs232]: The ASR-33 has a current loop interface, which is not compatible with RS-232. However, there are adapters available.
