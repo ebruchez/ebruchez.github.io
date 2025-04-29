@@ -22,7 +22,11 @@ This page presents my collection of 25 IBM typewriters as of April 2025 (excludi
 
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_7991.jpg"/>
-    <figcaption>1940 - IBM Electromatic, also known as IBM Model 01. This machine is cosmetically in good shape, but needs refurbishing. I love the red accent colors.</figcaption>
+    <figcaption>1940 - IBM Electromatic, also known as IBM Model 01. This instance is still branded "Electromatic". This machine is cosmetically in good shape, but needs refurbishing. I love the red accent colors.</figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/typewriter-ibm/IMG_4538.jpg"/>
+    <figcaption>1941 - IBM Electromatic, also known as IBM Model 01. This instance is now branded "IBM". This machine needs refurbishing.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_0310.jpg"/>

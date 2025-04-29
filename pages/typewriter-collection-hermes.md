@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Typewriter collection: Hermes Typewriters"
+title: "Typewriter Collection: Hermes Typewriters"
 ---
 
-# Typewriter collection: Hermes Typewriters
+# Typewriter Collection: Hermes Typewriters
 
 ## Introduction
 
@@ -73,7 +73,7 @@ In the meanwhile, this page presents my collection of 20 Hermes typewriters as o
     <figcaption>1963 - Hermes 3000 "curvy" with US QWERTY keyboard. I fixed this machine, and it now works quite well.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-hermes/IMG_4592.jpg"/>
+    <img src="/assets/pages/typewriter-hermes/IMG_4605.jpg"/>
     <figcaption>1964 - Media 3 "curvy" with Swiss-German QWERTZ keyboard. This machine still needs refurbishing.</figcaption>
 </figure>
 <figure>
@@ -81,8 +81,8 @@ In the meanwhile, this page presents my collection of 20 Hermes typewriters as o
     <figcaption>1967 - Media 3 "boxy" with Swiss-German QWERTZ keyboard. This machine still needs refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-hermes/3000qwertz.jpg"/>
-    <figcaption>196x - Hermes 3000 "boxy" with Swiss-German QWERTZ keyboard. This machine still needs refurbishing.</figcaption>
+    <img src="/assets/pages/typewriter-hermes/IMG_4585.jpg"/>
+    <figcaption>1967 - Hermes 3000 "boxy" with Swiss-German QWERTZ keyboard. This machine still needs refurbishing.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-hermes/IMG_8208.jpg"/>

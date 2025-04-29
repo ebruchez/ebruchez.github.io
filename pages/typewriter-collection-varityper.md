@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Typewriter collection: Varityper"
+title: "Typewriter Collection: Varityper"
 ---
 
-# Typewriter collection: Varityper
+# Typewriter Collection: Varityper
 
 ## Introduction
 
