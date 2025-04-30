@@ -10,7 +10,7 @@ comments: true
 
 I collect IBM typewriters, including:
 
-- __Typebar typewriters:__ This family of typewriters started with IBM's acquisition of Electromatic. A subset of this family are _Executive_ models, that feature proportional spacing and carbon ribbon.
+- __Typebar typewriters:__ This family of typewriters started with IBM's acquisition of Electromatic in 1933. A subset of this family are _Executive_ models, that feature proportional spacing and carbon ribbon.
 - __IBM Selectric__: Machines in this family introduced in 1961 are the best known and feature the famous “golf ball” single type element.
 - __Electronic typewriters:__ Machines using electronics include machines in the Selectric family, such as the MT/SC, the Mag Card and Mag Card II families, but also the Electronic Typewriter family, which did not have the Selectric name.
 - __Wheelwriter:__ The Wheelwriter family features a daisy wheel. This said, I don't own a Wheelwriter yet!
@@ -115,11 +115,11 @@ This page presents my collection of 26 IBM typewriters as of April 2025 (excludi
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_7043.jpg"/>
-    <figcaption>1981 - This IBM Memory Typwewriter 100 needs refurbishing. It has double the tape capacity as the earlier Memory Typewriter.</figcaption>
+    <figcaption>1981 - This IBM Memory Typwewriter 100 needs refurbishing. It barely escaped destruction. The 100 has double the tape capacity as the earlier Memory Typewriter.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_4254.jpg"/>
-    <figcaption>1982 - This late IBM Correcting Selectric II is in excellent condition and has been refurbished. It belonged to an IBM employee.</figcaption>
+    <figcaption>1982 - This late IBM Correcting Selectric II is in excellent condition and has been refurbished. It belonged to an IBM employee and had very little usage.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_4182.jpg"/>
