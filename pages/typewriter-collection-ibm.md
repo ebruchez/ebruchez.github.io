@@ -23,11 +23,11 @@ This page presents my collection of 28 IBM typewriters as of May 2025 (excluding
 
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_7991.jpg"/>
-    <figcaption>1940 - IBM Electromatic, also known as IBM Model 01. This instance is still branded "Electromatic". This machine is cosmetically in good shape, but needs refurbishing. I love the red accent colors, including the space bar.</figcaption>
+    <figcaption>1940 - IBM Electromatic, also known as IBM Model 01. This instance is still branded "Electromatic", and features a rounded view of the type basket. This machine is cosmetically in good shape, but needs refurbishing. I love the red accent colors, including the space bar.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_4536.jpg"/>
-    <figcaption>1941 - IBM Electromatic, also known as IBM Model 01. This instance is now branded "IBM". This machine needs refurbishing.</figcaption>
+    <figcaption>1941 - IBM Electromatic, also known as IBM Model 01. This instance is now branded "IBM", and note the reduced view of the type basket compared with the 1940 instance. This machine needs refurbishing.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_0310.jpg"/>
@@ -35,7 +35,7 @@ This page presents my collection of 28 IBM typewriters as of May 2025 (excluding
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_8859.jpg"/>
-    <figcaption>1950 - This is a very late IBM Model 04 Executive. This machine needs refurbishing. In particular, the motor capacitor melted and needs replacing.</figcaption>
+    <figcaption>1950 - This is a very late IBM Model 04 Executive, possibly made concurrently with the first Model A Executive. This machine needs refurbishing. In particular, the motor capacitor melted and needs replacing.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_4188.jpg"/>
@@ -98,6 +98,10 @@ This page presents my collection of 28 IBM typewriters as of May 2025 (excluding
     <figcaption>1974 - This IBM Memory Typewriter still has some life in it, but refurbishing is in progress.</figcaption>
 </figure>
 <figure>
+    <img src="/assets/pages/typewriter-ibm/IMG_4805.jpg"/>
+    <figcaption>1976 - This IBM Electronic Selectric Composer definitely has life in it. I obtained it after the 1978 Electronic Composer shown below.</figcaption>
+</figure>
+<figure>
     <img src="/assets/pages/typewriter-ibm/IMG_9693.jpg"/>
     <figcaption>1977 - This beautiful blue IBM Correcting Selectric II has been refurbished, including a metal hub.</figcaption>
 </figure>
@@ -108,10 +112,6 @@ This page presents my collection of 28 IBM typewriters as of May 2025 (excluding
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_1267.jpg"/>
     <figcaption>1978 - This IBM Electronic Selectric Composer still has some life in it, but refurbishing is in progress.</figcaption>
-</figure>
-<figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4805.jpg"/>
-    <figcaption>197x - This second IBM Electronic Selectric Composer definitely has life in it.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_8476.jpg"/>
@@ -131,7 +131,7 @@ This page presents my collection of 28 IBM typewriters as of May 2025 (excluding
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_4182.jpg"/>
-    <figcaption>1983 - This beautiful IBM Selectric III has been refurbished.</figcaption>
+    <figcaption>1983 - This beautiful late IBM Selectric III has been refurbished. It is one of the first IBM Selectrics that I got.</figcaption>
 </figure>
 
 </div>
