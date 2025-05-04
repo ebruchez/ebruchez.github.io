@@ -15,7 +15,7 @@ I collect IBM typewriters, including:
 - __Electronic typewriters:__ Machines using electronics include machines in the Selectric family, such as the MT/SC, the Mag Card and Mag Card II families, but also the Electronic Typewriter family, which did not have the Selectric name.
 - __Wheelwriter:__ The Wheelwriter family features a daisy wheel. This said, I don't own a Wheelwriter yet!
 
-This page presents my collection of 26 IBM typewriters as of April 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system. For more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/).
+This page presents my collection of 28 IBM typewriters as of May 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system. For more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/).
 
 ## The collection
 
@@ -90,6 +90,10 @@ This page presents my collection of 26 IBM typewriters as of April 2025 (excludi
     <figcaption>1969 - This IBM Composer and output station is part of the MT/SC system. It is a rare machine, which includes a tape reader, as well as a desk with a custom processor with core memory. Restoration is planned.</figcaption>
 </figure>
 <figure>
+    <img src="/assets/pages/typewriter-ibm/IMG_4725.jpg"/>
+    <figcaption>1973 - This IBM Selectric II (model 875, 13-inch writing line) doesn't have the correction feature.</figcaption>
+</figure>
+<figure>
     <img src="/assets/pages/typewriter-ibm/IMG_8159.jpg"/>
     <figcaption>1974 - This IBM Memory Typewriter still has some life in it, but refurbishing is in progress.</figcaption>
 </figure>
@@ -104,6 +108,10 @@ This page presents my collection of 26 IBM typewriters as of April 2025 (excludi
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_1267.jpg"/>
     <figcaption>1978 - This IBM Electronic Selectric Composer still has some life in it, but refurbishing is in progress.</figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/typewriter-ibm/IMG_4805.jpg"/>
+    <figcaption>197x - This second IBM Electronic Selectric Composer definitely has life in it.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_8476.jpg"/>
