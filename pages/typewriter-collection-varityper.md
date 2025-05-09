@@ -6,6 +6,8 @@ comments: true
 
 # Typewriter Collection: Varityper
 
+![Disassembled Varityper A-20 from 1940](/assets/pages/typewriter-varityper/IMG_4833.jpg){:standalone width="50%"}
+
 ## Introduction
 
 I have accumulated a few Varitypers [^naming] over the years. For a nice introduction to the Varityper in general, see [Richard Polt's Varityper page](https://site.xavier.edu/polt/typewriters/varityper.html).
