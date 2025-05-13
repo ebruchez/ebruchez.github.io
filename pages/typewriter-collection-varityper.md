@@ -113,7 +113,15 @@ The following table summarizes the collection:
 
 ## Font collection
 
-TODO
+I have a small collection of about 70 varityper fonts (known as *shuttles* on earlier and Hammond models). The Varityper fonts, except for the very early ones, are gray rather than black, and typically will not work in older Hammond typewriters. I have yet to document the collection in details, but I plan to do it.
+
+![Varityper fonts](/assets/pages/typewriter-varityper/IMG_1171.jpg){:standalone style="max-width: 75%; width="100%"}
+
+## Varityper artifacts
+
+I have a few Varityper artifacts and manuals, which I also plan to document. An example is this beautiful Varityper ribbon box, probably from the 1940s.
+
+![Varityper paper ribbon](/assets/pages/typewriter-varityper/IMG_4908.jpg){:standalone style="max-width: 75%; width="100%"}
 
 ## See also
 
