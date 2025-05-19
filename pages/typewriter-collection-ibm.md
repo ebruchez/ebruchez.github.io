@@ -15,7 +15,7 @@ I collect IBM typewriters, including:
 - __Electronic typewriters:__ Machines using electronics include machines in the Selectric family, such as the MT/SC, the Mag Card and Mag Card II families, but also the Electronic Typewriter family, which did not have the Selectric name.
 - __Wheelwriter:__ The Wheelwriter family features a daisy wheel. This said, I don't own a Wheelwriter yet!
 
-This page presents my collection of 28 IBM typewriters as of May 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system. For more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/).
+This page presents my collection of 29 IBM typewriters as of May 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system. For more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/).
 
 ## The collection
 
@@ -88,6 +88,10 @@ This page presents my collection of 28 IBM typewriters as of May 2025 (excluding
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_3004.jpg"/>
     <figcaption>1969 - This IBM Composer and output station is part of the MT/SC system. It is a rare machine, which includes a tape reader, as well as a desk with a custom processor with core memory. Restoration is planned.</figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/typewriter-ibm/IMG_5155.jpg"/>
+    <figcaption>196x/197x - This IBM Selectric I/O Model 73 is a fairly rare machine, equipped with solenoids and contacts to connect to a computer. Unlike the MT/SR above, which only has the "input" part, this one has both input and output and can be used as a printer. It features a neat set of blue keytops and platen knobs.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_4725.jpg"/>

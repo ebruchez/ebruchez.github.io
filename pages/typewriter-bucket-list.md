@@ -32,12 +32,6 @@ I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also kn
 [//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.jpg&#41;{:standalone})
 [//]: # (*Credit: [Norsk Teknisk Museum]&#40;https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier&#41;*)
 
-## IBM Input/Output (I/O) Selectric Typewriter
-
-[My IBM MT/SC](/posts/ibm-mt-sc-1/) includes a variant of an IBM I/O Selectric Typewriter, called the MT/SR. I'd love to find an actual I/O typewriter. These look like a regular Selectric, but with a fatter bottom containing extra hardware. Inside, there are contacts and solenoids that allow the machine to transmit information, and to act as a printer. These machines were connected to IBM MT/ST machines, or to a computer.
-
-![IBM I/O Selectric Typewriter](/assets/pages/typewriter-bucket-list/mt-sr-no-background.jpg){:standalone style="max-width: 75%; width="100%"}
-
 ## Original IBM Mag Card typewriter
 
 The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969, seems to be quite rare. I am aware of a museum in Europe that has an instance (alongside an MT/ST). It had a different style of console compared to the newer and more stylish Mag Card/II console. In fact it looks more like the MT/ST, although possibly a little smaller.
@@ -97,9 +91,11 @@ The following machines would be nice to complete that collection:
 
 ---
 
-## Bucket list items I am lucky to own
+## Bucket list items I have found
 
 ### IBM MT/SC
+
+_FOUND: March 2024._
 
 In March 2024, I stumbled on an extraordinary find: an IBM MT/SC system, complete with input station and output station. Read more about it in the following blog posts:
 
@@ -110,11 +106,21 @@ In March 2024, I stumbled on an extraordinary find: an IBM MT/SC system, complet
 
 ### Remington 2
 
+_FOUND: May 2024._
+
 In addition to owning a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself, I was lucky to find, in May 2024, an early  Remington 2 from 1885! It is missing the wooden roller and paper table (for which I acquired parts in September 2024). It will need restoration. For more, see my [TWDB gallery](https://typewriterdatabase.com/1885-remington-2.23048.typewriter) and the [photo album](https://photos.app.goo.gl/6Laua3aeqrwNpVqGA).
 
 ![Remington 2 from 1885](/assets/pages/typewriter-bucket-list/remington2.jpg){:standalone}
 
 The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 4 only did capital letters and 35,000 were made, approximately. Needless to say, I'd be happy to find one of those as well!
+
+## IBM Input/Output (I/O) Selectric Typewriter
+
+_FOUND: May 2025._
+
+[My IBM MT/SC](/posts/ibm-mt-sc-1/) includes a variant of an IBM I/O Selectric Typewriter, called the MT/SR. I'd love to find an actual I/O typewriter. These look like a regular Selectric, but with a fatter bottom containing extra hardware. Inside, there are contacts and solenoids that allow the machine to transmit information, and to act as a printer. These machines were connected to IBM MT/ST machines, or to a computer.
+
+![IBM I/O Selectric Typewriter](/assets/pages/typewriter-bucket-list/mt-sr-no-background.jpg){:standalone style="max-width: 75%; width="100%"}
 
 ## See also
 
