@@ -90,8 +90,13 @@ This page presents my collection of 29 IBM typewriters as of May 2025 (excluding
     <figcaption>1969 - This IBM Composer and output station is part of the MT/SC system. It is a rare machine, which includes a tape reader, as well as a desk with a custom processor with core memory. Restoration is planned.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_5155.jpg"/>
-    <figcaption>196x/197x - This IBM Selectric I/O Model 73 is a fairly rare machine, equipped with solenoids and contacts to connect to a computer. Unlike the MT/SR above, which only has the "input" part, this one has both input and output and can be used as a printer. It features a neat set of blue keytops and platen knobs.</figcaption>
+    <img src="/assets/pages/typewriter-ibm/IMG_5406.jpg"/>
+    <figcaption>196x/197x - This IBM Selectric I/O Model 73 is a fairly rare machine, equipped with solenoids and contacts to connect to a computer. Unlike the MT/SR above, which only has the "input" part, this one has both input and output and can be used as a printer. It features a neat set of blue keytops and platen knobs.
+    <br>
+    <a href="https://photos.app.goo.gl/DNCnJzSRXYbQGtCp9">Pics</a>
+    |
+    <a href="https://typewriterdatabase.com/19xx-ibm-selectric-io-model-73.25546.typewriter">TWDB</a>
+    </figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_4725.jpg"/>
