@@ -15,7 +15,7 @@ I collect IBM typewriters, including:
 - __Electronic typewriters:__ Machines using electronics include machines in the Selectric family, such as the MT/SC, the Mag Card and Mag Card II families, but also the Electronic Typewriter family, which did not have the Selectric name.
 - __Wheelwriter:__ The Wheelwriter family features a daisy wheel. This said, I don't own a Wheelwriter yet!
 
-This page presents my collection of 29 IBM typewriters as of May 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system. For more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/).
+This page presents my collection of 29 IBM typewriters as of May 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system (for more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/)).
 
 ## The collection
 
@@ -83,11 +83,37 @@ This page presents my collection of 29 IBM typewriters as of May 2025 (excluding
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_3005.jpg"/>
-    <figcaption>1969 - This IBM MT/SR, also known as the MT/ST Model V, is part of the MT/SC system. It is a rare machine, which includes a tape recorder. Restoration is planned.</figcaption>
+    <figcaption>1969 - This IBM MT/SR, also known as the MT/ST Model V, is part of the MT/SC system. It is a rare machine, which includes a tape recorder. Restoration has started.
+    <br>
+    <a href="/posts/ibm-mt-sc-1/">Blog</a>
+    |
+    <a href="https://photos.app.goo.gl/b2nUgQbtJqSAePYcA">Before</a>
+    |
+    <a href="https://photos.app.goo.gl/frcRs9rP2K8xRmjq5">Before</a>
+    |
+    <a href="https://photos.app.goo.gl/Kby6wp6gz5BGmnAn7">Progress</a>
+    |
+    <a href="https://typewriterdatabase.com/1969-ibm-selectric-recorder.22536.typewriter">TWDB</a>
+    |
+    <a href="https://typewriterdatabase.com/1969-ibm-magnetic-tape-selectric-recorder.22539.typewriter">TWDB</a>
+    </figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_3004.jpg"/>
-    <figcaption>1969 - This IBM Composer and output station is part of the MT/SC system. It is a rare machine, which includes a tape reader, as well as a desk with a custom processor with core memory. Restoration is planned.</figcaption>
+    <figcaption>1969 - This IBM Composer and output station is part of the MT/SC system. It is a rare machine, which includes a tape reader, as well as a desk with a custom processor with core memory. Restoration is planned
+    <br>
+    <a href="/posts/ibm-mt-sc-1/">Blog</a>
+    |
+    <a href="https://photos.app.goo.gl/ZcerSWkfnVC6CTNW9">Before</a>
+    |
+    <a href="https://photos.app.goo.gl/f8FbWrTDhHTV4phU6">Before</a>
+    |
+    <a href="https://photos.app.goo.gl/Kby6wp6gz5BGmnAn7">Progress</a>
+    |
+    <a href="https://typewriterdatabase.com/1969-ibm-selectric-composer.22534.typewriter">TWDB</a>
+    |
+    <a href="https://typewriterdatabase.com/1969-ibm-magnetic-tape-selectric-composer.22538.typewriter">TWDB</a>
+    </figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_5408.jpg"/>
