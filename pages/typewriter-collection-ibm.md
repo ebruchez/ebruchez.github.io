@@ -107,8 +107,13 @@ This page presents my collection of 29 IBM typewriters as of May 2025 (excluding
     <figcaption>1974 - This IBM Memory Typewriter still has some life in it, but refurbishing is in progress.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4805.jpg"/>
-    <figcaption>1976 - This IBM Electronic Selectric Composer definitely has life in it. I obtained it after the 1978 Electronic Composer shown below.</figcaption>
+    <img src="/assets/pages/typewriter-ibm/IMG_5521.jpg"/>
+    <figcaption>1976 - This IBM Electronic Selectric Composer definitely has life in it. I obtained it after the 1978 Electronic Composer shown below.
+    <br>
+    <a href="https://photos.app.goo.gl/DD1g4fhVBmCzhY7D9">Pics</a>
+    |
+    <a href="https://typewriterdatabase.com/see.25557.typewriter">TWDB</a>
+    </figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_9693.jpg"/>
