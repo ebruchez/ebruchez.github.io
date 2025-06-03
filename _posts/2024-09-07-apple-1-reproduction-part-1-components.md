@@ -163,11 +163,11 @@ This is the bottom of the board, which plugs into the IC sockets:
 
 ### DRAM chips, shift-register chips and character ROM
 
-The Apple-1 features 8 KB of DRAM. I bought on eBay a set of 16 (but received 17, thank you!) Mostek MK4027N-4 chips, ~supposedly~ tested.[^tested] These are 4096x1 chips.
+The Apple-1 features 8 KB of DRAM. I bought on eBay a set of 16 (but received 17, thank you!) Mostek MK4027N-4 chips, sold as tested.[^tested] These are 4096x1 chips.
 
 ![DRAM chips](/assets/posts/apple1/2x/IMG_1008.jpg){:standalone}
 
-From the same seller, I got a set of 7 Signetics 2504 chips and the 2513 character ROM, again ~supposedly~ tested.[^tested]
+From the same seller, I got a set of 7 Signetics 2504 chips and the 2513 character ROM, again sold as tested.[^tested]
 
 ![Shift-register, character ROM, and clock chips](/assets/posts/apple1/2x/IMG_1001.jpg){:standalone}
 
