@@ -9,14 +9,6 @@ title: Computer bucket list
 
 In addition to my [typewriter collection](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection) and my [typewriter bucket list](../typewriter-bucket-list/), I also collect vintage computer-related items. Here are some I'd love to find.
 
-## DEC VT-100
-
-DEC made over a million of [DEC VT-100](https://terminals-wiki.org/wiki/index.php/DEC_VT100) (see also [Wikipedia](https://en.wikipedia.org/wiki/VT100)), so surely there is one waiting for me out there!
-
-![DEC VT-100](/assets/pages/typewriter-bucket-list/dec-vt100.jpg){:standalone style="max-width: 75%; width="100%"}
-
-*Credit: [Jason Scott](https://www.flickr.com/people/54568729@N00)*
-
 ## Lear Siegler ADM-3A
 
 The [Lear Siegler ADM-3A](https://terminals-wiki.org/wiki/index.php/Lear_Siegler_ADM-3A) (see also [Wikipedia](https://en.wikipedia.org/wiki/ADM-3A)) is another iconic terminal, which I'd love to find. Those are still around, but not super common. I love that these machines are made with all discrete logic, and no microcontroller or microprocessor, unlike the TeleVideo terminals (which had an Intel 8035 MCU and later a 6502 CPU) or the VT-100 (which had an Intel 8080 CPU).
@@ -62,9 +54,11 @@ This is probably a very long shot, but I'd love to find an affordable Olivetti P
 
 ---
 
-## Bucket list items I am lucky to own
+## Bucket list items I have found
 
 ### Teletype ASR-33
+
+_FOUND: August 2022._
 
 Ever since I watched [CuriousMarc's series of videos on the ASR-33](https://www.youtube.com/watch?v=QzfjT1mCRww&list=PL-_93BVApb5-84G5kmgfuu7TQduTMc73H), I wanted one. And in August 2022, I obtained three of them, in various conditions! One of them is being restored, as pictured here:
 
@@ -91,6 +85,18 @@ I also own a TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) 
 ![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.jpg){:standalone style="max-width: 75%; width="100%"}
 
 Those can be connected to vintage computers. I have a CompuPro System 8/16, but it's not working yet. In the meanwhile, I have connected them to an [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) kit and a [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kit via RSR-232.[^rs232]
+
+## DEC VT100
+
+_FOUND: June 2025. I bought locally two VT100-AA in fairly rough and non-working condition. One of the keyboards is almost complete, the other not._
+
+![VT100 terminals as I bought them](/assets/pages/computer-bucket-list/vt100-rough.jpg)
+
+DEC made over a million of [DEC VT-100](https://terminals-wiki.org/wiki/index.php/DEC_VT100) (see also [Wikipedia](https://en.wikipedia.org/wiki/VT100)), so surely there is one waiting for me out there!
+
+![DEC VT-100](/assets/pages/typewriter-bucket-list/dec-vt100.jpg){:standalone style="max-width: 75%; width="100%"}
+
+*Credit: [Jason Scott](https://www.flickr.com/people/54568729@N00)*
 
 ## See also
 
