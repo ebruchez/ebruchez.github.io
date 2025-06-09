@@ -60,7 +60,7 @@ This is probably a very long shot, but I'd love to find an affordable Olivetti P
 
 _FOUND: August 2022._
 
-Ever since I watched [CuriousMarc's series of videos on the ASR-33](https://www.youtube.com/watch?v=QzfjT1mCRww&list=PL-_93BVApb5-84G5kmgfuu7TQduTMc73H), I wanted one. And in August 2022, I obtained three of them, in various conditions! One of them is being restored, as pictured here:
+Ever since I watched [CuriousMarc's series of videos on the ASR-33](https://www.youtube.com/watch?v=QzfjT1mCRww&list=PL-_93BVApb5-84G5kmgfuu7TQduTMc73H), I've wanted one. And in August 2022, I got three of them, in various conditions! As you can see here, the condition is a little rough:
 
 ![ASR-33 Teletype, due for restoration](/assets/posts/asr-33/2x/IMG_5151.jpg){:standalone style="max-width: 75%; width="100%"}
 
@@ -90,13 +90,7 @@ Those can be connected to vintage computers. I have a CompuPro System 8/16, but 
 
 _FOUND: June 2025. I bought locally two VT100-AA in fairly rough and non-working condition. One of the keyboards is almost complete, the other not._
 
-![VT100 terminals as I bought them](/assets/pages/computer-bucket-list/vt100-rough.jpg)
-
-DEC made over a million of [DEC VT-100](https://terminals-wiki.org/wiki/index.php/DEC_VT100) (see also [Wikipedia](https://en.wikipedia.org/wiki/VT100)), so surely there is one waiting for me out there!
-
-![DEC VT-100](/assets/pages/typewriter-bucket-list/dec-vt100.jpg){:standalone style="max-width: 75%; width="100%"}
-
-*Credit: [Jason Scott](https://www.flickr.com/people/54568729@N00)*
+![VT100 terminals as I bought them](/assets/pages/computer-bucket-list/vt100-rough.jpg){:standalone style="max-width: 75%; width="100%"}
 
 ## See also
 
