@@ -39,6 +39,14 @@ The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969
 ![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.jpg){:standalone style="max-width: 75%; width="100%"}
 
 
+## IBM Displaywriter System
+
+Ths Displaywriter System is a word processing system that IBM produced in the early 1980s. It is at the intersection of typewriters and computers.
+
+![IBM Displaywriter System](/assets/pages/typewriter-bucket-list/ibm-displaywriter.webp){:standalone style="max-width: 75%; width="100%"}
+
+*Credit: [National Museum of American History](https://americanhistory.si.edu/collections/object/nmah_1289571)*
+
 ## Remington 11 adding and subtracting machine
 
 I own a [Remington Model-121 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-model121.12936.typewriter), a [Model-23 Bookkeeping Machine](https://typewriterdatabase.com/192x-remington-bookkeeping-machine-23.12494.typewriter), and a [Model-21 Vertical Adder](https://typewriterdatabase.com/192x-remington-vertical-adder-21.14165.typewriter). Missing from this small collection is the beautiful, and earlier, Remington 11 with Adding and Subtracting mechanism. This features the so-called "Wahl mechanism" in the front.
@@ -52,7 +60,7 @@ I know that a few of those are around, as I've seen them for sale a couple of ti
 
 ## VariTyper Model 160/660/720/1010/1030
 
-I own a small collection of Varityper-branded machines, including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below, as well as models 160 and 720.
+I own a [small collection of Varityper-branded machines](/pages/typewriter-collection-varityper/), including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below, as well as models 160 and 720.
 
 I have seen a few 1010 for sale, but in places too far for me, and proper shipping is a challenge. I think that the 1030 is a European model of the 1010. I am not sure that it was ever sold in the US.
 
