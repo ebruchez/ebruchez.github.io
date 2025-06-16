@@ -21,10 +21,10 @@ Jerry Walker has amazing video series on that terminal, and Usagi Electric has a
 
 ## DEC VT-52 and VT-220
 
-The VT-52 and VT-220 are also iconic terminals, be it only because they are still emulated by terminal emulation software.
+In addition to the VT100, The VT-52 and VT-220 are also iconic terminals, be it only because they are still emulated by terminal emulation software.
 
-- [DEC VT-52](https://terminals-wiki.org/wiki/index.php/DEC_VT52)
-- [DEC VT-220](https://terminals-wiki.org/wiki/index.php/DEC_VT220)
+- [DEC VT52](https://terminals-wiki.org/wiki/index.php/DEC_VT52)
+- [DEC VT220](https://terminals-wiki.org/wiki/index.php/DEC_VT220)
 
 ## Smaky 8
 
