@@ -41,7 +41,7 @@ The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969
 
 ## IBM Displaywriter System
 
-Ths Displaywriter System is a word processing system that IBM produced in the early 1980s. It is at the intersection of typewriters and computers.
+The Displaywriter System is a word processing system that IBM produced in the early 1980s. It is at the intersection of typewriters and computers.
 
 ![IBM Displaywriter System](/assets/pages/typewriter-bucket-list/ibm-displaywriter.webp){:standalone style="max-width: 75%; width="100%"}
 
