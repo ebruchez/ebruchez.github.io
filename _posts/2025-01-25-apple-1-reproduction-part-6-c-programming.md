@@ -7,13 +7,14 @@ tags:
 category: Technology
 ---
 
-This is part  of a series of posts about building an Apple-1 reproduction in 2024. See also:
+This is part of a series of posts about building an Apple-1 reproduction in 2024 (and 2025). See also:
 
 - [Building an Apple-1 Reproduction in 2024 - Part 1: Components](../apple-1-reproduction-part-1-components/)
 - [Building an Apple-1 Reproduction in 2024 - Part 2: Power Supply](../apple-1-reproduction-part-2-power-supply/)
 - [Building an Apple-1 Reproduction in 2024 - Part 3: The Retro Chip Tester](../apple-1-reproduction-part-3-retro-chip-tester/)
 - [Building an Apple-1 Reproduction in 2024 - Part 4: Assembly](../apple-1-reproduction-part-4-assembly/)
 - [Building an Apple-1 Reproduction in 2024 - Part 5: Monitor, Keyboard, Power-Up](../apple-1-reproduction-part-5-monitor-keyboard-power-up/)
+- [Building an Apple-1 Reproduction in 2024/2025 - Part 7: The Audio Cassette Adapter](../apple-1-reproduction-part-7-audio-cassette-adapter/)
 
 ![Demo application written in C](/assets/posts/apple1/2x/IMG_1490.jpg){:standalone width="75%"}
 

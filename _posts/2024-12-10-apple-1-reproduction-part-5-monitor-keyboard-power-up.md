@@ -14,6 +14,7 @@ This is part 5 of a series of posts about building an Apple-1 reproduction in 20
 - [Building an Apple-1 Reproduction in 2024 - Part 3: The Retro Chip Tester](../apple-1-reproduction-part-3-retro-chip-tester/)
 - [Building an Apple-1 Reproduction in 2024 - Part 4: Assembly](../apple-1-reproduction-part-4-assembly/)
 - [Building an Apple-1 Reproduction in 2024/2025 - Part 6: C Programming](../apple-1-reproduction-part-6-c-programming/)
+- [Building an Apple-1 Reproduction in 2024/2025 - Part 7: The Audio Cassette Adapter](../apple-1-reproduction-part-7-audio-cassette-adapter/)
 
 ![Working Apple-1 reproduction](/assets/posts/apple1/2x/IMG_0240.jpg){:standalone width="75%"}
 
