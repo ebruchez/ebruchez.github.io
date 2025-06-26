@@ -1,4 +1,4 @@
-w---
+---
 layout: post
 title: "Building an Apple-1 Reproduction in 2024 - Part 3: The Retro Chip Tester"
 author: Erik Bruchez
