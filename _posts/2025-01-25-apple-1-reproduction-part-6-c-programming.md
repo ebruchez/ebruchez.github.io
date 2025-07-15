@@ -71,8 +71,8 @@ In addition, the C runtime needs:
 
 On the other hand, my hardware Apple-1 has:
 
-- 8 BK of DRAM at address 0x0000
-- an EPROM extension board which can hold up to 4KB of memory (2732 EPROM) at address 0xE000
+- 8 KB of DRAM at address `0x0000`
+- an EPROM extension board which can hold up to 4 KB of memory (2732 EPROM) at address `0xE000`
 
 The linker script configures where everything goes. Here is the configuration I came up with, after a few tries:
 
@@ -104,7 +104,7 @@ FEATURES {
 }
 ```
 
-The result of a compilation's linker pass will produce a `eprom_e000.bin` file that can be loaded into a 4 KB EPROM  located at address 0xE000.
+The result of a compilation's linker pass will produce a `eprom_e000.bin` file that can be loaded into a 4 KB EPROM  located at address 0xE000.
 
 ## C library
 
@@ -179,7 +179,7 @@ Here are some values I found:
 | `__BSS_SIZE__`          | `0x54`  | Size of the BSS section.                                          |
 | First address after BSS | `0x290` | First address after the BSS section (sum of previous two values). |
 | `__heapmaxavail()`      | `5484`  | Largest available block in the heap (in bytes).                   |
-| `__heapmemavail()`      | `5488`  | Total available heap memory (4 bytes more tha previous value).    |
+| `__heapmemavail()`      | `5488`  | Total available heap memory (4 bytes more than previous value).   |
 | First allocation        | `0x29D` | First address allocated by `malloc`.                              |
 
 The memory layout ends up being:
@@ -196,7 +196,7 @@ In conclusion, my `malloc` setup now appears fine, with various values in the ri
 - each allocation takes 4 bytes of overhead
 - we have 5488 bytes of heap at beginning
 
-I could easily reduce the size of my C stack down from 2 KB if I need more usable RAM. I might also be able to recover some RAM in the lower space, after The ZP and CPU stack areas.
+I could easily reduce the size of my C stack down from 2 KB if I need more usable RAM. I might also be able to recover some RAM in the lower space, after The ZP and CPU stack areas.
 
 ## Simple program
 
@@ -252,11 +252,11 @@ uint16_t a1_read_number() {
 
 ## Limitations
 
-It is clear that 4 KB of EPROM is very limiting. Yes, Woz wrote an entire BASIC interpreter in that space, but I am no Woz, and I am not using assembly. A little bit of data, a `cprintf` function, `malloc`, and a small program will quickly fill up that space. In fact, I had to avoid using `printf()`: it is convenient, but it takes significant EPROM space, so I reverted to use lower-level code.
+It is clear that 4 KB of EPROM is very limiting. Yes, Woz wrote an entire BASIC interpreter in that space, but I am no Woz, and I am not using assembly. A little bit of data, a `cprintf` function, `malloc`, and a small program will quickly fill up that space. In fact, I had to avoid using `printf()`: it is convenient, but it takes significant EPROM space, so I reverted to use lower-level code.
 
-A possible next step will be to make an EPROM board that supports 8 KB or more of memory. This has been done before for the Apple-1, but I am not sure that there is a solution that I truly like (or that is affordable). I might decide to make my own.
+A possible next step will be to make an EPROM board that supports 8 KB or more of memory. This has been done before for the Apple-1, but I am not sure that there is a solution that I truly like (or that is affordable). I might decide to make my own.
 
-If the solution is limited to 8 KB, it is possible to use the `S` and `T` signals on the extension connector. But for more space, one needs to replicate address decoding on the extension card. This is not too hard, but it goes beyond simply connecting one or more EPROMs to the bus.
+If the solution is limited to 8 KB, it is possible to use the `S` and `T` signals on the extension connector. But for more space, one needs to replicate address decoding on the extension card. This is not too hard, but it goes beyond simply connecting one or more EPROMs to the bus.
 
 ## Conclusion
 
@@ -266,7 +266,7 @@ I am really happy that I was able to write a small C program for the Apple-1. It
 
 You can find the source code for the "Apple-1 Party" app on [GitHub](https://github.com/ebruchez/apple1-party/tree/main).
 
-Part 7 will cover the Audio Cassette Interface (ACI).
+[Part 7](../apple-1-reproduction-part-7-audio-cassette-adapter/) covers the Audio Cassette Interface (ACI).
 
 ---
 
