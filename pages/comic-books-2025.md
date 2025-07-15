@@ -17,6 +17,15 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-07: [Lucky Luke - Des rails sur la prairie](https://www.bedetheque.com/BD-Lucky-Luke-Tome-9-Des-rails-sur-la-prairie-245.html)
+    - 1957
+    - tags: #reread
+    - Dessin: Morris
+    - Scénario: René Goscinny
+    - NOTES:
+        - I read this story in the 1970s.
+        - It is the first that Goscinny wrote for Morris. Goscinny went on to write many stories, of course.
+        - This is a fun story, but very light compared to later ones.
 - 2025-06-17: [Peanuts (The complete) (2004) 7. 1963 - 1964](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-6-1961-1962-80034.html)
     - 2007
     - Author: Charles M. Schulz
