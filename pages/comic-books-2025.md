@@ -74,6 +74,7 @@ title: Comic Books (2025)
             - Schulz only wanted kids (and animals) in his strip. It's very rare that there is an adult.
 - 2025-03-17: [Alix - Tome 38. Les Helvètes](https://www.bedetheque.com/BD-Alix-Tome-38-Les-Helvetes-377356.html)
     - 2019
+    - tags: #reread
     - Scénario: Mathieu Bréda
     - Dessin: Marc Jailloux
     - Rating: 5/5
@@ -226,7 +227,7 @@ title: Comic Books (2025)
         - Granya goes through the control "arcs" which are supposed to destroy whoever goes through them. But her helpers didn't ask her whether she was armed or not before going through.
         - Granya is told not to look at the gaze from the landing ship, or she "would be killed instantly". But the rest of the body is ok?
         - As usual, the SF aspects are a little wonky. We are told that dynamite will behave differently on Terango. We know that the atmosphere of Terango is different, but are the laws of physics? Surely, with Sectan having an invasion fleet, the Terganguians know about explosive.
-        - The Thargs are somehow made immune to radioactivity, and then clad in radioactive maeterial, making them human bombs. But of course, it's not at all how nuclear bombs work. Then somehow it all goes away.
+        - The Thargs are somehow made immune to radioactivity, and then clad in radioactive material, making them human bombs. But of course, it's not at all how nuclear bombs work. Then somehow it all goes away.
         - In short, the science doesn't hold well, and you just have to suspend disbelief. 
 - 2025-02: [Luc Orient - 4. La planète de l'angoisse](https://www.bedetheque.com/BD-Luc-Orient-Tome-4-La-planete-de-l-angoisse-24357.html)
     - 1972
