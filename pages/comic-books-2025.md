@@ -17,13 +17,26 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-07-16: [Tintin - 5. Le Lotus Bleu](https://www.bedetheque.com/BD-Tintin-Historique-Tome-5-Le-lotus-bleu-73988.html)
+    - 1936
+    - tags: #reread
+    - Dessin: Hergé
+    - Scénario: Hergé
+    - NOTES:
+        - This is the 2025 colorized version of the 1936 black and white original.
+        - Of course, in general, Le Lotus Bleu is considered an excellent story. Hergé's real-life friend, Tchang Tchong-jen, helped him with the Chinese culture and Chinese characters in the book, thereby giving the China of the 1930s a more authentic feel, mostly free of the prejudices common in the West at the time.
+        - Tintin is here a young hero, of course, but also very sensitive to the plight of the oppressed.
+        - Tintin's new friendship with Tchang is very touching.
+        - The Dupondt are, as is fit, made fun of. They want to be Tintin's friend, but still follow their orders, even though they regret it in the end.
+        - The story is full of action: abductions, poisonings, madness, conspiracies, corruption. But also kindness, loyalty, friendship, and just plain unbelievable luck.
+        - But we also see a rich but dark political background, which matches the times, but have clear echoes in the 2020s.
 - 2025-07: [Lucky Luke - Des rails sur la prairie](https://www.bedetheque.com/BD-Lucky-Luke-Tome-9-Des-rails-sur-la-prairie-245.html)
     - 1957
     - tags: #reread
     - Dessin: Morris
     - Scénario: René Goscinny
     - NOTES:
-        - I read this story in the 1970s.
+        - I first read this story in the 1970s.
         - It is the first that Goscinny wrote for Morris. Goscinny went on to write many stories, of course.
         - This is a fun story, but very light compared to later ones.
 - 2025-06-17: [Peanuts (The complete) (2004) 7. 1963 - 1964](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-6-1961-1962-80034.html)
