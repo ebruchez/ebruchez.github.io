@@ -17,6 +17,14 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-07-18: [Les aventures de Lucky Luke - 11. Un cow-boy sous pression](https://www.bedetheque.com/BD-Lucky-Luke-Les-aventures-de-Tome-11-Un-cow-boy-sous-pression-507111.html)
+    - 2024
+    - Dessin: Achdé
+    - Scénario: Jul
+    - Rating: 4/5
+    - NOTES:
+        - A story in the context of the German-American community, in particular the beer industry in Wisconsin.
+        - Good story overall, with some good humor. By most accounts, this is the best of the Jul/Achdé era, and one of the best of the post-Morris era.
 - 2025-07-16: [Tintin - 5. Le Lotus Bleu](https://www.bedetheque.com/BD-Tintin-Historique-Tome-5-Le-lotus-bleu-73988.html)
     - 1936
     - tags: #reread
@@ -30,7 +38,7 @@ title: Comic Books (2025)
         - The Dupondt are, as is fit, made fun of. They want to be Tintin's friend, but still follow their orders, even though they regret it in the end.
         - The story is full of action: abductions, poisonings, madness, conspiracies, corruption. But also kindness, loyalty, friendship, and just plain unbelievable luck.
         - But we also see a rich but dark political background, which matches the times, but have clear echoes in the 2020s.
-- 2025-07: [Lucky Luke - Des rails sur la prairie](https://www.bedetheque.com/BD-Lucky-Luke-Tome-9-Des-rails-sur-la-prairie-245.html)
+- 2025-07: [Lucky Luke - 9. Des rails sur la prairie](https://www.bedetheque.com/BD-Lucky-Luke-Tome-9-Des-rails-sur-la-prairie-245.html)
     - 1957
     - tags: #reread
     - Dessin: Morris
