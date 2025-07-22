@@ -17,6 +17,24 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2023-04-04: [Dragonero - La regina degli Algenti](https://shop.sergiobonelli.it/dragonero/2023/09/08/libro/dragonero-la-regina-degli-algenti-1023565/)
+    - 2023
+    - Language: Italian
+    - Sceneggiatura: Enoch Luca
+    - Disegni: Gregorini Gianluigi
+    - NOTES:
+        - I am not a huge fan of things like sand worms and blood, and there is a lot of that in this story.
+        - I like the Farghs, sorts of gigantic mammoth-like creatures.
+        - The whole story is colored largely gray and red, which gives it an unusual feel.
+        - The "Algenti", scary mostly brainless creatures, remind me of the "White Walkers" from Game of Thrones. Of course, the whole idea of having weird, dangerous stuff beyond a wall is similar to Game of Thrones.
+        - The character of Ecuba, who turns out to be the queen of the Algenti, is fairly one-dimensional, and is reduced to absolute hatred for those she thinks have abandoned her, even though they haven't. She is irrational, but that's a trait of many villains. She has lost her humanity and does not wish to recover it.
+        - It's not my favorite of the hardcover Dragonero stories, but it is ok.
+- 2025-07-20: [XIII Mystery - 1. La Mangouste](https://www.bedetheque.com/BD-XIII-Mystery-Tome-1-La-Mangouste-78525.html)
+    - 2008
+    - tags: #reread
+    - Dessin: Ralph Meyer
+    - Scénario: Xavier Dorison
+    - NOTES: The topic of the killer is not my favorite, but this story tries to give a soul, kind of, to the character of La Mangouste. Inhumanity breeds inhumanity. 
 - 2025-07-18: [Les aventures de Lucky Luke - 11. Un cow-boy sous pression](https://www.bedetheque.com/BD-Lucky-Luke-Les-aventures-de-Tome-11-Un-cow-boy-sous-pression-507111.html)
     - 2024
     - Dessin: Achdé
