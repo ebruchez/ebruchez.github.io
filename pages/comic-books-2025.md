@@ -17,10 +17,21 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-07-23: [Dragonero - Il viaggio degli eroi](https://shop.sergiobonelli.it/dragonero/2024/03/13/libro/dragonero-zagor-il-viaggio-degli-eroi-1024395/)
+    - 2024
+    - Language: Italian
+    - Sceneggiatura: Luca Enoch
+    - Disegni: Gregorini Gianluigi
+    - NOTES:
+        - This is the second story with the character of Zagor, after "Avventura a Darkwood", and again involves universes crossing. This time, it is Zagor and Cico who go to Dragonero's universe.
+        - The premise is that these universes are truly going to collide and that a great catastrophe will happen if the heroes don't fix it.
+        - The trope of the "Amazons" is there again.
+        - I still know little about the character of Zagor, being only familiar with it thanks to these two crossover stories.
+        - Zagor was created by Sergio Bonelli in 1961. The book and the other Dragonero books in this series are published by the publishing company bearing his name.
 - 2023-04-04: [Dragonero - La regina degli Algenti](https://shop.sergiobonelli.it/dragonero/2023/09/08/libro/dragonero-la-regina-degli-algenti-1023565/)
     - 2023
     - Language: Italian
-    - Sceneggiatura: Enoch Luca
+    - Sceneggiatura: Luca Enoch
     - Disegni: Gregorini Gianluigi
     - NOTES:
         - I am not a huge fan of things like sand worms and blood, and there is a lot of that in this story.
