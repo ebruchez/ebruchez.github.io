@@ -17,6 +17,17 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-07-30: [Mickey e la Terra degli Antichi](https://www.amazon.it/-/en/dp/B09J1X5BB9)
+    - 2022
+    - Language: Italian
+    - Sceneggiatura: Denis-Pierre Filippi
+    - Disegni: Silvio Camboni
+    - NOTES:
+        - This is a beautifully made Mickey story. The art, in particular, is excellent.
+        - The authors revive classic characters from the Floyd Gottfredson era, including Phantom Blot, Pete, and the three monkeys Ecks, Doublex, and Triplex, who are all the main villains of the story.
+        - Minnie is shown as driven and courageous, and she is not just a damsel in distress.
+        - This universe has potential, and I am hoping for a follow-up story.
+        - When I bought the Italian edition, I thought that it was the original one. But the original appears to be the French edition, which, it seems, has better printing quality. 
 - 2025-07-23: [Dragonero - Il viaggio degli eroi](https://shop.sergiobonelli.it/dragonero/2024/03/13/libro/dragonero-zagor-il-viaggio-degli-eroi-1024395/)
     - 2024
     - Language: Italian
