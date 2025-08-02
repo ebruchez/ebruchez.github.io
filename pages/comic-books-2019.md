@@ -24,7 +24,7 @@ title: Comic Books (2019)
 - 2019-12-17: [Dragonero. La fine di Yastrad](https://en.shop.sergiobonelli.it/dragonero/2018/08/29/book/dragonero-la-fine-di-yastrad-1003379/)
     - Language: Italian
     - NOTES: There is a clear parallel between the Eleusi and the Jews. The Eleusi live in ghettos, are educated but disliked and blamed when things go bad. The similarity stops there, as they are "Alchimisti ed Erboristi" (alchemists and herborists).
-- 2019-12-05: [Autour de Blake & Mortimer - Le dernier pharaon]()
+- 2019-12-05: [Autour de Blake & Mortimer - Le dernier pharaon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-HS3-Le-Dernier-Pharaon-367398.html)
     - Language: French
     - NOTES: I rather liked this story, which seems to have been misunderstood by many Blake & Mortimer fans out there. It features beautiful graphics.
 - 2019-11-07: [The Don Rosa Library Vol. 2]()
