@@ -6,6 +6,8 @@ comments: true
 
 # Typewriter Collection: Future Restorations
 
+![Disassembled Caligraph 2 from 1893](/assets/pages/typewriter-future-restorations/caligraph-2-knolling.jpg){:standalone width="50%"}
+
 ## Introduction
 
 This page covers some of my typewriters that need restoration, and that should look particularly beautiful if not stunning once restored. The conditions vary from machines that require full restoration to machine that should only need a quick cleaning.
@@ -22,7 +24,16 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_5423.jpg"/>
-    <figcaption>Ca. 1893 - This Caligraph requires a full restoration, including repainting, replating, an pinstripes. I have a parts machine as well.</figcaption>
+    <figcaption>Ca. 1893 - This Caligraph requires a full restoration, including repainting, replating, an pinstripes. I have a parts machine as well.
+    <br>
+    <a href="https://photos.app.goo.gl/Yu1Sm1firevxqwoE7">Before</a>
+    |
+    <a href="https://photos.app.goo.gl/A3xei4eiaUT7dygv7">During</a>
+    |
+    <a href="https://typewriterdatabase.com/1893-caligraph-2.14142.typewriter">TWDB</a>
+    |
+    <a href="https://www.reddit.com/r/typewriters/comments/1mhlwep/the_parts_from_my_caligraph_2_from_1893/">Reddit</a>
+    </figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_2872.jpg"/>
