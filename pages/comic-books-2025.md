@@ -17,6 +17,18 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+2025-09-08: [Walt Disney's Mickey Mouse Color Sundays "Robin Hood Rides Again": Volume 2](https://www.fantagraphics.com/products/walt-disneys-mickey-mouse-color-sundays-robin-hood-rides-again-vol-2)
+    - Drawings: Floyd Gottfredson
+    - 2013
+    - NOTES:
+        - I had acquired the entire series of volumes of [Walt Disney's Mickey Mouse](https://en.wikipedia.org/wiki/Walt_Disney%27s_Mickey_Mouse), featuring the works of Floyd Gottfredson, years ago. This consists of 12 volumes in black and white, and 2 volumes of the "Color Sundays". For some reason, the second volume of the Color Sundays was out of print and was missing. Recently, I found that it was available, so bought it to complete the collection.
+        - This contains some retelling of classic stories, as well as gags. I am usually not a great fan of the latter, compared with classic Mickey Mouse stories, but some are pretty good!
+- 2025-08-20: [Peanuts (The complete) (2004) 8. 1965 - 1966](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-8-1965-1966-80035.html)
+    - 2007
+    - Author: Charles M. Schulz
+    - NOTES:
+        - a lot of Red Baron episodes
+        - Peppermint Patty appears in 1966; she tries to save Charlie Brown's baseball team, but then considers it impossible and gives up; she considers Snoopy the best player
 - 2025-08-01: [Autour de Blake & Mortimer - Le dernier pharaon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-HS3-Le-Dernier-Pharaon-367398.html)
     - 2019
     - tags: #reread
@@ -103,7 +115,7 @@ title: Comic Books (2025)
         - I first read this story in the 1970s.
         - It is the first that Goscinny wrote for Morris. Goscinny went on to write many stories, of course.
         - This is a fun story, but very light compared to later ones.
-- 2025-06-17: [Peanuts (The complete) (2004) 7. 1963 - 1964](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-6-1961-1962-80034.html)
+- 2025-06-17: [Peanuts (The complete) (2004) 7. 1963 - 1964](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-7-1963-1964-80036.html)
     - 2007
     - Author: Charles M. Schulz
     - NOTES:
