@@ -292,8 +292,8 @@ title: Comic Books (2022)
     - Rating: 4/5
     - NOTES:
         - The story is pretty good, with some surprises along the way. It's a nice mix of espionage, action, and of course lots of flashbacks to the first Blake et Mortimer trilogy.
-        - Here Olrik appears truly like a duplicitous, cold-blooded character, not hesitating to kill others point blank, unlike in some other stories.
-        - The drawings are quite good in general. There are a couple of exceptions, where the cartoonist appears to draw the top part of the characters a little too narrowly, with small heads (for example on page 9, last strip, middle panel)! Blake in particulat tends to be a little inconsistent. Blake has always been hard to draw. But in some other places, you could believe that panels were done by Jacobs himself.
+        - Here Olrik appears truly like a duplicitous, cold-blooded character, not hesitating to kill others point-blank, unlike in some other stories.
+        - The drawings are quite good in general. There are a couple of exceptions, where the cartoonist appears to draw the top part of the characters a little too narrowly, with small heads (for example on page 9, last strip, middle panel)! Blake in particular tends to be a little inconsistent. Blake has always been hard to draw. But in some other places, you could believe that panels were done by Jacobs himself.
         - This is in stark contrast with album 27, "Le cri du Moloch", which was a disaster.
 - 2022-02: [Alix - Tome 40. L'Œil du Minotaure](https://www.bedetheque.com/BD-Alix-Tome-40-L-OEil-du-Minotaure-434853.html)
     - 2021
