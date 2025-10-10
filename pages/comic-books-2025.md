@@ -17,7 +17,13 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
-2025-09-08: [Walt Disney's Mickey Mouse Color Sundays "Robin Hood Rides Again": Volume 2](https://www.fantagraphics.com/products/walt-disneys-mickey-mouse-color-sundays-robin-hood-rides-again-vol-2)
+- 2025-10-03: [Peanuts (The complete) (2004) 9. 1967 - 1968](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-9-1967-1968-94109.html)
+    - 2008
+    - Author: Charles M. Schulz
+    - NOTES:
+        - Franklin appears.
+        - A lot of Snoopy in this album, of course.
+- 2025-09-08: [Walt Disney's Mickey Mouse Color Sundays "Robin Hood Rides Again": Volume 2](https://www.fantagraphics.com/products/walt-disneys-mickey-mouse-color-sundays-robin-hood-rides-again-vol-2)
     - Drawings: Floyd Gottfredson
     - 2013
     - NOTES:
