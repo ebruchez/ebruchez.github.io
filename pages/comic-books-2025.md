@@ -4,6 +4,8 @@ title: Comic Books (2025)
 ---
 
 - [Comic books](../comic-books/)
+- [2026](../comic-books-2026/)
+- [2025](../comic-books-2025/)
 - [2024](../comic-books-2024/)
 - [2023](../comic-books-2023/)
 - [2022](../comic-books-2022/)
@@ -17,6 +19,15 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
+- 2025-10-17: [Blake & Mortimer - 27. Le cri du Moloch](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-27-Le-cri-du-Moloch-405221.html)
+    - Language: French
+    - 2020
+    - tags: #reread
+    - NOTES: "L'Onde Septimus" part 2.
+    - Rating: 2/5
+    - NOTES:
+        - Unfortunately, the whole "L'Onde Septimus" arc is not very convincing, and I don't think the Marque Jaune idea should have been continued.
+        - The Moloch ends in a fairly anticlimactic way. There are many characters, and the focus on "language" as the tool the powerful Moloch needs but cannot fully muster is not convincing.
 - 2025-10-03: [Peanuts (The complete) (2004) 9. 1967 - 1968](https://www.bedetheque.com/BD-Peanuts-The-complete-2004-Tome-9-1967-1968-94109.html)
     - 2008
     - Author: Charles M. Schulz
