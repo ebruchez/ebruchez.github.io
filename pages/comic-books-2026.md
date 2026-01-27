@@ -19,6 +19,22 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-01-26: [Donjon Parade - 2. Le sage du ghetto](https://www.bedetheque.com/BD-Donjon-Parade-Tome-2-Le-sage-du-ghetto-6299.html)
+    - 2001
+    - language: French
+    - Scénario: Lewis Trondheim
+    - Dessin: Manu Larcenet
+    - NOTES: Again, like tome 1, the story is really short at 30 pages. A story about segregation (the title gives it away) and extreme cruelty from the dog, the Duc de Clérembard, but also about the immense stupidity of those who accept to be oppressed and ask for more. Humor, of course, going to the ghetto.
+- 2026-01-16: [Lustiges Taschenbuch Sommer 13: Sommergeschichten](https://www.lustiges-taschenbuch.de/ausgaben/nebenreihen/sommer/band-13)
+    - 2023
+    - Language: German
+    - NOTES: Practicing my German reading a little.
+- 2026-01-09: [Blake et Mortimer - 23. Le bâton de Plutarque](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-23-Le-Baton-de-Plutarque-226934.html)
+    - Language: French
+    - tags: #reread
+    - NOTES:
+        - Previous notes: A prequel to "Le secret de l'Espadon". Involves Blake and Mortimer meeting again; the two secret bases of Scaw-Fell and Hormuz; Bletchley Park; and an early encounter with Olrik.
+        - Not a bad story, but one which suffers a little from over-explaining things: where did Blake and Mortimer meet; why are they preparing for WWIII against Basam-Damdu; where does Olrik come from; etc.
 - 2026-01-04: [Les cités obscures - H11. Souvenirs de l'Éternel Présent](https://www.bedetheque.com/BD-Cites-obscures-H11-Souvenirs-de-l-Eternel-Present-26801.html)
     - 1993/2009
     - tags: #reread
