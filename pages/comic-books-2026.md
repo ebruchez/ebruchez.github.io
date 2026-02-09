@@ -19,6 +19,16 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-02-07: [https://www.bedetheque.com/BD-Olivier-Rameau-INT3-Integrale-3-130021.html)
+    - [Olivier Rameau 9. Le canon de la bonne humeur](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-9-Le-canon-de-la-bonne-humeur-10995.html)
+        - 1983
+        - NOTES: The Poyoutouffus turn out to be spreading a pollen causing bad mood. This is unacceptable for Rêverose. A special cannon ends up being the solution to spread love and good mood. The Poyoutouffus lose their hair and start loving each other and the rest of Rêverose. 
+    - [Olivier Rameau 8. La trompette du silence](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-8-La-trompette-du-silence-56026.html)
+        - 1978
+        - NOTES: A big trumpet-shaped mountain starts making noises, which stun people. Olivier and the others must find what is going on. They discover that a tiny creature is the origin of the noise, and a sort of concert hall. The introduction is pretty nice, with Olivier and Colombe naked (but with leaves covering them), just enjoying nature and water.
+    -  [Olivier Rameau 7. Le miroir à trois faces](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-7-Le-miroir-a-trois-faces-46254.html)
+        - 1977
+        - NOTES: Rêverose is threatened by Schnarkbuls, sort of empty being that can appear as the doubles of existing beings. They do this by using mirrors, hidden in the forest of Pas-Permis. The root mirror is destroyed, and all is well.
 - 2026-01-26: [Donjon Parade - 2. Le sage du ghetto](https://www.bedetheque.com/BD-Donjon-Parade-Tome-2-Le-sage-du-ghetto-6299.html)
     - 2001
     - language: French
