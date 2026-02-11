@@ -211,39 +211,48 @@ title: Comic Books (2020)
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
 - 2020-08: [Sillage - 18. Psycholocaust](https://www.bedetheque.com/BD-Sillage-Tome-18-Psycholocauste-255956.html)
+    - 2015
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
 - 2020-08: [Sillage - 17. Grands froids](https://www.bedetheque.com/BD-Sillage-Tome-17-Grands-froids-224321.html)
+    - 2014
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
 - 2020-08: [Sillage - 16. Liés par le sang](https://www.bedetheque.com/BD-Sillage-Tome-16-Lies-par-le-sang-195997.html)
+    - 2013
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
 - 2020-08: [Sillage - 15. Chasse gardée](https://www.bedetheque.com/BD-Sillage-Tome-15-Chasse-gardee-170161.html)
+    - 2012 
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
     - NOTES: Start of a new cycle.
 - 2020-08: [Sillage - 14. Liquidation totale](https://www.bedetheque.com/BD-Sillage-Tome-14-Liquidation-totale-138186.html)
+    - 2011
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
 - 2020-08: [Sillage - 13. Dérapage contrôlé](https://www.bedetheque.com/BD-Sillage-Tome-13-Derapage-controle-114669.html)
+    - 2010
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
 - 2020-08: [Sillage - 12. Zone franche](https://www.bedetheque.com/BD-Sillage-Tome-12-Zone-franche-93337.html)
+    - 2009 
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
 - 2020-08: [Sillage - 11. Monde flottant](https://www.bedetheque.com/BD-Sillage-Tome-11-Monde-flottant-78482.html)
+    - 2008
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread
 - 2020-08: [Sillage - 10. Retour de flammes](https://www.bedetheque.com/BD-Sillage-Tome-10-Retour-de-flammes-67415.html)
+    - 2007
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread

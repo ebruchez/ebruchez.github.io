@@ -19,6 +19,24 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-02-10: [Sillage - 24. Concessions](https://www.bedetheque.com/BD-Sillage-Tome-24-Concessions-507102.html)
+    - 2024
+    - Language: French 
+    - Scénario: Philippe Buchet
+    - Dessin et couleur: Philippe Buchet
+    - NOTES: Nice atmosphere on a world with Western inspiration. Some discoveries about the metamorphs, but that story goes very slowly. The idea of an alternative, paradisiac underground world is interesting, but the pacing of the story and the explanations is a little clumsy. 
+- 2026-02-09: 
+    - [Qui est ce Schtroumpf?](https://www.bedetheque.com/BD-Schtroumpfs-par-Tome-1-Qui-est-ce-Schtroumpf-472153.html)
+    - Language: French
+    - tags: #reread
+    - Author: Tebo
+    - Rating: 5/5
+- 2026-02-09: [Donjon monsters, tome 3. La Carte majeure](https://www.bedetheque.com/BD-Donjon-Monsters-Tome-3-La-Carte-majeure-21043.html)
+    - 2002
+    - language: French
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Andreas
+    - NOTES: This fits just after Armaggedon. 
 - 2026-02-07: [https://www.bedetheque.com/BD-Olivier-Rameau-INT3-Integrale-3-130021.html)
     - [Olivier Rameau 9. Le canon de la bonne humeur](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-9-Le-canon-de-la-bonne-humeur-10995.html)
         - 1983

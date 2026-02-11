@@ -465,10 +465,12 @@ title: Comic Books (2021)
     - tags: #reread
     - Rating: 2/5
 - 2021-03: [Sillage - 20. Mise à jour](https://www.bedetheque.com/BD-Sillage-Tome-20-Mise-a-jour-377557.html)
+    - 2019
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - Rating: TODO
 - 2021-03: [Sillage - 19. Temps mort](https://www.bedetheque.com/BD-Sillage-Tome-19-Temps-mort-287061.html)
+    - 2016
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
     - tags: #reread

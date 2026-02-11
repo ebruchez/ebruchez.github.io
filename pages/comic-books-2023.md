@@ -132,6 +132,7 @@ title: Comic Books (2023)
     - Scénario: Joann Sfar
     - Dessin: Mazan
 - 2023-01-24: [Sillage - 21. Exfiltration](https://www.bedetheque.com/BD-Sillage-Tome-21-Exfiltration-437531.html)
+    - 2022
     - Scénario: Jean David Morvan, Philippe Buchet
     - Dessin et couleur: Philippe Buchet
     - Rating: TODO

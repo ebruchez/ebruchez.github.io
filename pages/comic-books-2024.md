@@ -341,11 +341,13 @@ title: Comic Books (2024)
     - Scénario et dessin: Lewis Trondheim
     - NOTES: See original entry.
 - 2024-08-02: [Sillage - 23. Immersion](https://www.bedetheque.com/BD-Sillage-Tome-23-Immersion-488781.html)
+    - 2024
     - Scénario: Philippe Buchet
     - Dessin et couleur: Philippe Buchet
     - Rating: 4/5
     - NOTES: I liked this story, where [spoiler] the métamorphes finally get their due. Juliette, the computer genius, is abducted to help the enemy. I like the appearance of the "Grand Mégagister" or "Haut-Magister" Hattoyro IV. I could have done with less of Nävis's fight scenes on the ship. 
 - 2024-07-31: [Sillage - 22. Transfert](https://www.bedetheque.com/BD-Sillage-Tome-22-Transfert-462503.html)
+    - 2023
     - Scénario: Philippe Buchet
     - Dessin et couleur: Philippe Buchet
     - Rating: 4/5
