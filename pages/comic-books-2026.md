@@ -19,14 +19,60 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-02-17: [Namibia - 3. Épisode 3](https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-3-Episode-3-158433.html)
+    - 2012
+    - Language: French
+    - Scénario: Leo et Rodolphe
+    - Dessin: Bertrand Marchal
+- 2026-02-17: [Namibia - 2. Épisode 2](https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-2-Episode-2-117129.html)
+    - 2010
+    - tags: #reread
+    - Language: French
+    - Scénario: Leo et Rodolphe
+    - Dessin: Bertrand Marchal
+- 2026-02-17: [Namibia - 1. Épisode 1](https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-1-Episode-1-105592.html)
+    - 2010
+    - tags: #reread
+    - Language: French
+    - Scénario: Leo et Rodolphe
+    - Dessin: Bertrand Marchal
+- 2026-02-16: [Thorgal - 41. Mille yeux](https://www.bedetheque.com/BD-Thorgal-Tome-41-Mille-yeux-483664.html) 
+    - 2023
+    - Language: French
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - Rating: 3/5
+    - NOTES: We had left Thorgal, Jolan and Boréale (plus a certain Sven - where does he come out from?) on a small ship. That ship is about to sink, but is able to reach an island. Thorgal manages to swim to the mainland, but is captured in a fairly typical way by an cruel village chief. Thorgal has to find a special stone underground, and then he'll be freed and able to provide help to Jolan and Boréale. Of course the chief does not keep his word. But Thorgal is eventually able to escape and save Jolan and Boréale. The other main character, Mýsla, who had helped Thorgal, doesn't make it. Boréale makes it only thanks to Jolan's asking Odin's crows. Overall, a fairly standard Thorgal story, ok but not particularly exciting. In short, I mostly agree with the reviews on Bedetheque, but I wouldn't put this album below Neokóra/Tupilaks, which I consider to be a better story. Here we learn more about Boréale, who was an astrophysicist, specialized in quantum physics, no less. Now, she has to deal with a much less developed world (although not necessarily morally worse overall).
+- 2026-02-15: [Thorgal - 40. Tupilaks](https://www.bedetheque.com/BD-Thorgal-Tome-40-Tupilaks-457535.html)
+    - 2022
+    - tags: #reread
+    - Language: French
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - Rating: 4/5
+    - NOTES: I had almost no recollection of reading this album, in spite of having taken some notes three years ago! In those notes, I complained a little about the over-explanations of the ship's history. I am a little less bothered by it now. The new information we are getting from this diptych is that the Atlantians had genocidal plans for Earth, and that some of them agreed with that plan while others didn't. A malevolent (or malevolently-directed) AI is quite terrifying. So-called advanced societies turn out not to be so advanced, especially morally, when the metal hits the road. I must disagree with the average rating on Bedetheque (2/5), which is quite low, and I would consider it in fact a rather good story. Overall, it's a decent arc, and a way to get Jolan a life partner. 
+- 2026-02-14: [Thorgal - 39. Neokóra](https://www.bedetheque.com/BD-Thorgal-Tome-39-Neokora-433699.html)
+    - 2021
+    - tags: #reread
+    - Language: French
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - Rating: 4/5
+- 2026-02-12: [Sillage - 23. Immersion](https://www.bedetheque.com/BD-Sillage-Tome-23-Immersion-488781.html)
+    - 2024
+    - Language: French
+    - tags: #reread
+    - Scénario: Philippe Buchet
+    - Dessin et couleur: Philippe Buchet
 - 2026-02-10: [Sillage - 24. Concessions](https://www.bedetheque.com/BD-Sillage-Tome-24-Concessions-507102.html)
     - 2024
     - Language: French 
     - Scénario: Philippe Buchet
     - Dessin et couleur: Philippe Buchet
     - NOTES: Nice atmosphere on a world with Western inspiration. Some discoveries about the metamorphs, but that story goes very slowly. The idea of an alternative, paradisiac underground world is interesting, but the pacing of the story and the explanations is a little clumsy. 
-- 2026-02-09: 
-    - [Qui est ce Schtroumpf?](https://www.bedetheque.com/BD-Schtroumpfs-par-Tome-1-Qui-est-ce-Schtroumpf-472153.html)
+- 2026-02-09: [Qui est ce Schtroumpf?](https://www.bedetheque.com/BD-Schtroumpfs-par-Tome-1-Qui-est-ce-Schtroumpf-472153.html)
+    - 2023
     - Language: French
     - tags: #reread
     - Author: Tebo
