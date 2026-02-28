@@ -19,6 +19,33 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-02-28:  [Donjon Zénith - 10. Formule incantatoire](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-10-Formule-incantatoire-469011.html)
+    - 2023
+    - Language: French
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Boulet
+    - NOTES: Alcibiade, Marvin, and Pirzuie (who are busy taking care of their newborn) must find how to save Horous, who is dying trying to control the "coffre aux esprits", which could not only kill Horous but then free all its spirits into the Dungeon. Since that chest came from Blaise Pilozzi, a magicien-entrepreneur, they first go get his help. He is a  not very likable, but very competent, magician. He is also an old friend and old classmate of Pirzuine, and there is some complicity between the two, while Blaise is otherwise a heartless businessman with everybody. Blaise knows that there is an elf poem, located in their central library, which might help solve the issue. So they enter that library. The elves, it turns out, are extremely racist and cruel beings. But the team manages to escape with the scroll of the poem, thanks to Marvin. With the help of Professor Cormor, the undercover automaton, they unlock the solution: the chest, and Horous, must be dropped from a very high place. Marvin jumps into action and his dragon friends do it, and the resulting blast creates the "trou aux esprits", as well as makes a ghost out of Horous, thanks to a charm by Blaise. In this story, we see again those who care about life and friendship, and those who don't.  
+- 2026-02-24: [Donjon Crépuscule - 113. Passation](https://www.bedetheque.com/BD-Donjon-Crepuscule-Tome-112-Pourfendeurs-de-demons-423607.html)
+    - 2024
+    - Language: French
+    - Scénario: Joann Sfar, Lewis Trondheim
+    - Dessin: Obion
+    - NOTES: Better than the previous tome. Zakûtu is the main character. An older Herbert appears in the story, but wants to stay out of it. Vaucanson needs rebuilding, and Zakûtu is in charge, having to fend of the Clérembards, a local mafioso, l'Atlas, traitors, and some kind of zombies. Marvin Rouge is mostly useless, except by mistake. 
+- 2026-02-18: [Donjon Crépuscule - 112. Pourfendeurs de démons](https://www.bedetheque.com/BD-Donjon-Crepuscule-Tome-112-Pourfendeurs-de-demons-423607.html)
+    - 2021
+    - Language: French
+    - tags: #reread
+    - Scénario: Joann Sfar, Lewis Trondheim
+    - Dessin: Obion
+    - Rating: 3/5
+    - NOTES: The story is a little disappointing compared with the previous arcs.
+- 2026-02-18: [Donjon Crépuscule - 111. La fin du Donjon](https://www.bedetheque.com/BD-Donjon-Crepuscule-Tome-111-La-fin-du-Donjon-212137.html)
+    - 2014
+    - Language: French
+    - tags: #reread
+    - Scénario: Joann Sfar
+    - Dessin: Mazan
+    - NOTES: I confirm that the last page is nice, but otherwise the story, while it moves fast, is a little difficult to follow.
 - 2026-02-17: [Namibia - 3. Épisode 3](https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-3-Episode-3-158433.html)
     - 2012
     - Language: French
