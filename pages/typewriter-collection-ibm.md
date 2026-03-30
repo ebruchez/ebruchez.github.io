@@ -15,7 +15,7 @@ I collect IBM typewriters, including:
 - __Electronic typewriters:__ Machines using electronics include machines in the Selectric family, such as the MT/SC, the Mag Card and Mag Card II families, but also the Electronic Typewriter family, which did not have the Selectric name.
 - __Wheelwriter:__ The Wheelwriter family features a daisy wheel. This said, I don't own a Wheelwriter yet!
 
-This page presents my collection of 29 IBM typewriters as of May 2025 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system (for more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/)).
+This page presents my collection of 32 IBM typewriters as of March 2026 (excluding a couple of parts machines), covering almost 45 years of history. The collection includes uncommon machines, as well as the rare, and possibly unique, IBM MT/SC system (for more, read [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/)).
 
 ## The collection
 
@@ -114,6 +114,10 @@ This page presents my collection of 29 IBM typewriters as of May 2025 (excluding
     |
     <a href="https://typewriterdatabase.com/1969-ibm-magnetic-tape-selectric-composer.22538.typewriter">TWDB</a>
     </figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/typewriter-ibm/ibm-composers.webp"/>
+    <figcaption>196x/197x - Three IBM Selectric Composers obtained at the same time. They all need refurbishing.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_5408.jpg"/>
