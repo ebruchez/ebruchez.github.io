@@ -56,5 +56,5 @@ title: Comic Books (2015)
 - [Alix Senator: 2. Le Dernier Pharaon](http://www.bedetheque.com/BD-Alix-Senator-Tome-2-Le-Dernier-Pharaon-194830.html)
 - Spirou et Fantasio - L'intégrale - tome 8 - Spirou et Fantasio 8 (intégrale) Aventures humoristiques
 - Tif et Tondu - L'intégrale - tome 11 - Tif et Tondu 11 (intégrale) Sortilèges et manipulations
-- Blake & Mortimer Tome 22 l'Onde Septimus
+- Blake et Mortimer Tome 22 l'Onde Septimus
 - Sillage, Tome 16: Liés par le sang

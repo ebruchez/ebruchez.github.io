@@ -25,9 +25,9 @@ title: Comic Books (2019)
 - 2019-12-17: [Dragonero. La fine di Yastrad](https://en.shop.sergiobonelli.it/dragonero/2018/08/29/book/dragonero-la-fine-di-yastrad-1003379/)
     - Language: Italian
     - NOTES: There is a clear parallel between the Eleusi and the Jews. The Eleusi live in ghettos, are educated but disliked and blamed when things go bad. The similarity stops there, as they are "Alchimisti ed Erboristi" (alchemists and herborists).
-- 2019-12-05: [Autour de Blake & Mortimer - Le dernier pharaon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-HS3-Le-Dernier-Pharaon-367398.html)
+- 2019-12-05: [Autour de Blake et Mortimer - Le dernier pharaon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-HS3-Le-Dernier-Pharaon-367398.html)
     - Language: French
-    - NOTES: I rather liked this story, which seems to have been misunderstood by many Blake & Mortimer fans out there. It features beautiful graphics.
+    - NOTES: I rather liked this story, which seems to have been misunderstood by many Blake et Mortimer fans out there. It features beautiful graphics.
 - 2019-11-07: [The Don Rosa Library Vol. 2]()
 - 2019-10-31: [The Don Rosa Library Vol. 1]()
     - NOTES: A really beautiful edition of Don Rosa's work, with his
@@ -53,9 +53,11 @@ title: Comic Books (2019)
 - 2019-08-0x: [Le cycle de Cyann - 3. Aïeïa d'Aldaal](https://www.bedetheque.com/BD-Cycle-de-Cyann-Tome-3-Aieia-d-Aldaal-43343.html)
     - Language: French
     - tags: #reread
-- 2019-08-0x: [Blake & Mortimer - 22. l'Onde Septimus](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-22-L-Onde-Septimus-197200.html)
+- 2019-08-0x: [Blake et Mortimer - 22. l'Onde Septimus](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-22-L-Onde-Septimus-197200.html)
     - Language: French
     - tags: #reread
+    - Dessin: Antoine Aubin
+    - Scénario: Jean Dufaux
 - 2019-08-0x: Spirou et Fantasio - Intégrale 8
     - Language: French
     - tags: #reread

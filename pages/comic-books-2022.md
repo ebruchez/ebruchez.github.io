@@ -285,7 +285,7 @@ title: Comic Books (2022)
         - Not a bad start for this diptych. This ends with a big cliffhanger.
         - This is a modern story, with echoes of real companies and machines, in particular Paul Allen's space plane (Stratolaunch Systems Corp).
         - I'd criticize, as often in the last 10-20 years, the colors, which feel too computerized (gradients) at times.
-- 2022-02: [Blake & Mortimer - 28. Le Dernier Espadon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-28-Le-Dernier-Espadon-436466.html)
+- 2022-02: [Blake et Mortimer - 28. Le Dernier Espadon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-28-Le-Dernier-Espadon-436466.html)
     - Language: French
     - 2021
     - Scénario: Jean Van Hamme

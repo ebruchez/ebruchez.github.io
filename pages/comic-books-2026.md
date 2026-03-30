@@ -19,6 +19,28 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-03-28: [Manu Larcenet - La route](https://www.bedetheque.com/BD-Route-Larcenet-La-Route-492383.html)
+    - 2024
+    - Language: French
+    - Scénario et dessin: Manu Larcenet
+    - Adapted from: Cormac McCarthy
+    - Rating: 5/5
+    - NOTES:
+        - Heavy, beautiful, dark, intense, horrible, touching, sad, etc.
+        - Of course, one can complain that the story doesn't have much. But that's the idea.
+        - I hadn't read the novel, but this seems to follow it closely.  
+- 2026-03-09: [Largo Winch - 25. Si les dieux t'abandonnent...](https://www.bedetheque.com/BD-Largo-Winch-Tome-25-Si-les-dieux-t-abandonnent-529645.html)
+    - 2025
+    - Language: French
+    - Scénario: Jérémie Guez
+    - Dessin: Philippe Francq
+    - NOTES: Start of a new diptych. Reviews complain about the small amount of text in this opus compared with previous ones. Somehow that didn't strike me as I was reading it, but indeed there is very little text overall. 
+- 2026-03-01  : [Blake et Mortimer - 29. Huit heures à Berlin](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-29-Huit-heures-a-Berlin-461918.html)
+    - 2022
+    - Language: French
+    - Scénario: José-Louis Bocquet, Jean-Luc Fromental
+    - Dessin: Antoine Aubin
+    - NOTES: 
 - 2026-02-28:  [Donjon Zénith - 10. Formule incantatoire](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-10-Formule-incantatoire-469011.html)
     - 2023
     - Language: French

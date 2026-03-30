@@ -449,9 +449,11 @@ title: Comic Books (2021)
     - Scénario: Yves Sentes
     - Dessin et couleur: Laurent Verron
     - Rating: 5/5
-- 2021-03: [Blake & Mortimer - 27. Le cri du Moloch](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-27-Le-cri-du-Moloch-405221.html)
+- 2021-03: [Blake et Mortimer - 27. Le cri du Moloch](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-27-Le-cri-du-Moloch-405221.html)
     - Language: French
     - 2020
+    - Dessin: Christian Cailleaux
+    - Scénario: Jean Dufaux
     - NOTES: "L'Onde Septimus" part 2.
     - Rating: 2/5
     - NOTES:
@@ -459,10 +461,12 @@ title: Comic Books (2021)
         - I don't particularly like the original idea of reviving the Marque Jaune. It was a wonderful invention and one of the most gripping Blake and Mortimer stories. But building on that doesn't work so well for me.
         - The idea of spaceships buried under London, why not.
         - The drawings were better in Tome 22. Yes, it's hard to draw Blake (see Bob de Moor), but Mortimer too looks weird more often than not.
-- 2021-03: [Blake & Mortimer - 22. L'Onde Septimus](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-22-L-Onde-Septimus-197200.html)
+- 2021-03: [Blake et Mortimer - 22. L'Onde Septimus](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-22-L-Onde-Septimus-197200.html)
     - Language: French
     - 2013
     - tags: #reread
+    - Dessin: Antoine Aubin
+    - Scénario: Jean Dufaux
     - Rating: 2/5
 - 2021-03: [Sillage - 20. Mise à jour](https://www.bedetheque.com/BD-Sillage-Tome-20-Mise-a-jour-377557.html)
     - 2019

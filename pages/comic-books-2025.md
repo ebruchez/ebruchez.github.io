@@ -19,10 +19,12 @@ title: Comic Books (2025)
  
 # Comic Books (2025)
 
-- 2025-10-17: [Blake & Mortimer - 27. Le cri du Moloch](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-27-Le-cri-du-Moloch-405221.html)
+- 2025-10-17: [Blake et Mortimer - 27. Le cri du Moloch](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-27-Le-cri-du-Moloch-405221.html)
     - Language: French
     - 2020
     - tags: #reread
+    - Dessin: Christian Cailleaux
+    - Scénario: Jean Dufaux
     - NOTES: "L'Onde Septimus" part 2.
     - Rating: 2/5
     - NOTES:
@@ -46,7 +48,7 @@ title: Comic Books (2025)
     - NOTES:
         - a lot of Red Baron episodes
         - Peppermint Patty appears in 1966; she tries to save Charlie Brown's baseball team, but then considers it impossible and gives up; she considers Snoopy the best player
-- 2025-08-01: [Autour de Blake & Mortimer - Le dernier pharaon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-HS3-Le-Dernier-Pharaon-367398.html)
+- 2025-08-01: [Autour de Blake et Mortimer - Le dernier pharaon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-HS3-Le-Dernier-Pharaon-367398.html)
     - 2019
     - tags: #reread
     - Language: French
@@ -56,7 +58,7 @@ title: Comic Books (2025)
         - First reread of this 2019 story.
         - This is a very long story (around 170 pages in the large, horizontal format that I have, but 85 pages in the regular format), with incredibly beautiful art by Shuitten.
         - The art is particularly showcased in the large format, and the colors by Laurent Durieux appear beautiful here.
-        - It is, of course, only lightly related to the Blake & Mortimer universe. This ties in to the Mystère de la Grande Pyramide, but in spirit, it is more of a Shuitten and Peeter Cités Obscures story.
+        - It is, of course, only lightly related to the Blake et Mortimer universe. This ties in to the Mystère de la Grande Pyramide, but in spirit, it is more of a Shuitten and Peeter Cités Obscures story.
         - The premise is fantastic, if not phantasmagoric: a sort of secret society, initiated by the ancient Egyptians, who built a system of pyramids, including an inverted one below the ground of the Brussels Palace of Justice, which are necessary for a technological civilization. This massive system can be turned off by a mechanism at the top of the palace, only by the "Last Pharaoh" who turns out to be Pr. Mortimer. He does manage to do so, eventually, and the world is saved but also loses advanced technology.
         - As found in a review, the scenario contains "d'ésotérisme, de politique, de terrorisme, d’environnement, de science-fiction, de fantastique, de monstres préhistoriques, de thérapies « nouvelâgeuses » et de complots millénaristes, sans oublier les nombreuses séquences oniriques qui ponctuent l’ensemble". So yes, it is a little confused.
         - I do not agree with the implied premise that technology is inherently bad, and that it would be a good thing to turn it off. Neither would Mortimer, I think.
