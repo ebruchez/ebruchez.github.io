@@ -52,7 +52,7 @@ title: Comic Books (2026)
     - Language: French
     - Scénario: Joann Sfar, Lewis Trondheim
     - Dessin: Obion
-    - NOTES: Better than the previous tome. Zakûtu is the main character. An older Herbert appears in the story, but wants to stay out of it. Vaucanson needs rebuilding, and Zakûtu is in charge, having to fend of the Clérembards, a local mafioso, l'Atlas, traitors, and some kind of zombies. Marvin Rouge is mostly useless, except by mistake. 
+    - NOTES: Better than the previous tome. Zakûtu is the main character. An older Herbert appears in the story, but wants to stay out of it. Vaucanson needs rebuilding, and Zakûtu is in charge, having to fend off the Clérembards, a local mafioso, l'Atlas, traitors, and some kind of zombies. Marvin Rouge is mostly useless, except by mistake. 
 - 2026-02-18: [Donjon Crépuscule - 112. Pourfendeurs de démons](https://www.bedetheque.com/BD-Donjon-Crepuscule-Tome-112-Pourfendeurs-de-demons-423607.html)
     - 2021
     - Language: French
@@ -165,7 +165,7 @@ title: Comic Books (2026)
     - Scénario: Benoît Peeters
     - Dessin: François Schuiten
     - NOTES:
-        - I had forgotten most of this, last reread in 2020. As I noted them, this is based on the sketches for the movie Taxandria.
+        - I had forgotten most of this, last reread in 2020. As I noted then, this is based on the sketches for the movie Taxandria.
         - The world is in the spirit of the Cités Obscures. Human activity is absurd (see the tram pullers and pushers). The world is initially unexplained.
         - The story:
             - A long time ago, Taxandria became prosperous thanks to scientific developments.
