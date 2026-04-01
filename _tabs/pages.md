@@ -15,15 +15,18 @@ I maintain the following "bucket lists" of things to acquire:
 - [Typewriters](/pages/typewriter-bucket-list/)
 - [Computers](/pages/computer-bucket-list/)
 
-## Typewriter pages
+## Collections
+
+### Typewriters
 
 - [Typewriter Collection: Completed Restorations](/pages/typewriter-collection-completed-restorations/)
 - [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter Collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
 - [Typewriter Collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter Collection: Varityper](/pages/typewriter-collection-varityper/)
+- [Typewriter Collection: Accounting and Bookkeeping](/pages/typewriter-collection-accounting/)
 
-## Computer pages
+### Computers
 
 - [Computer Collection: Vintage Computers](/pages/computer-collection/)
 
