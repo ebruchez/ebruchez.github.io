@@ -132,7 +132,7 @@ title: Comic Books (2026)
     - Scénario: Lewis Trondheim, Joann Sfar
     - Dessin: Andreas
     - NOTES: This fits just after Armaggedon. 
-- 2026-02-07: [https://www.bedetheque.com/BD-Olivier-Rameau-INT3-Integrale-3-130021.html)
+- 2026-02-07: [Olivier Rameau - INT3. Intégrale 3](https://www.bedetheque.com/BD-Olivier-Rameau-INT3-Integrale-3-130021.html)
     - [Olivier Rameau 9. Le canon de la bonne humeur](https://www.bedetheque.com/BD-Olivier-Rameau-Tome-9-Le-canon-de-la-bonne-humeur-10995.html)
         - 1983
         - NOTES: The Poyoutouffus turn out to be spreading a pollen causing bad mood. This is unacceptable for Rêverose. A special cannon ends up being the solution to spread love and good mood. The Poyoutouffus lose their hair and start loving each other and the rest of Rêverose. 
