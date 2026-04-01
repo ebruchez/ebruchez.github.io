@@ -23,9 +23,14 @@ I maintain the following "bucket lists" of things to acquire:
 - [Typewriter Collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter Collection: Varityper](/pages/typewriter-collection-varityper/)
 
+## Computer pages
+
+- [Computer Collection: Vintage Computers](/pages/computer-collection/)
+
 ## Lists of comic books I have read
 
 - [Comic Books](/pages/comic-books/)
+    - [2026](/pages/comic-books-2026/)
     - [2025](/pages/comic-books-2025/)
     - [2024](/pages/comic-books-2024/)
     - [2023](/pages/comic-books-2023/)
