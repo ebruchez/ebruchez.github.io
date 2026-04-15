@@ -24,7 +24,7 @@ I maintain the following "bucket lists" of things to acquire:
 - [Typewriter Collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
 - [Typewriter Collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter Collection: Varityper](/pages/typewriter-collection-varityper/)
-- [Typewriter Collection: Accounting and Bookkeeping](/pages/typewriter-collection-accounting/)
+- [Typewriter Collection: Accounting Machines](/pages/typewriter-collection-accounting/)
 
 ### Computers
 
