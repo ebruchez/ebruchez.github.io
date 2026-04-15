@@ -4,7 +4,7 @@ title: "Typewriter Collection: Accounting Machines"
 comments: true
 ---
 
-# Typewriter Collection: Tabulator and Accounting Machines
+# Typewriter Collection: Accounting Machines
 
 This page lists typewriters which are enhanced for numerical work. It took a while for typewriters to get a *tabulator* — a mechanism to quickly move the carriage to one or more specific columns on the page. But once that happened, basic tabulators became very popular and even a default feature on most machines.
 
