@@ -159,5 +159,6 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
 - [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
+- [Typewriter collection: Accounting Machines](/pages/typewriter-collection-accounting/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)

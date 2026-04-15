@@ -116,5 +116,6 @@ In the meanwhile, this page presents my collection of 20 Hermes typewriters as o
 - [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
+- [Typewriter collection: Accounting Machines](/pages/typewriter-collection-accounting/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)

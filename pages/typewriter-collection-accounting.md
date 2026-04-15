@@ -22,7 +22,7 @@ Besides Wahl/Remington, other companies made bookkeeping machines, like Underwoo
 
 ## The collection
 
-As of April 2026, I count 11 machines in my collection with a decimal tabulator:
+As of April 2026, I count 11 machines with a decimal tabulator in my collection:
 
 - Three of them have the Gorin Tabulator (the earliest machine, from 1896, missing the "Gorin" label)
 - Five of them have the Wahl mechanism.
@@ -109,3 +109,13 @@ I am lucky that some of my machines came with totalizers - but some didn't (base
 - remington 30: new pics; TWDB
 - others?
 -->
+
+## See also
+
+- [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
+- [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
+- [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
+- [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
+- [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
+- [Typewriter bucket list](/pages/typewriter-bucket-list/)
+- [Computer bucket list](/pages/computer-bucket-list/)

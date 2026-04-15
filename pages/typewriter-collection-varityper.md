@@ -129,6 +129,7 @@ I have a few Varityper artifacts and manuals, which I also plan to document. An 
 - [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
 - [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
+- [Typewriter collection: Accounting Machines](/pages/typewriter-collection-accounting/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
 - [Computer bucket list](/pages/computer-bucket-list/)
 
