@@ -93,7 +93,7 @@ Totalizers are the mechanical counters that Wahl accounting and bookkeeping mach
 
 ![Totalizer types and prices from a ca. 1928 brochure](/assets/pages/typewriter-accounting/totalizer-prices.webp){:standalone width="75%"}
 
-I am lucky that some of my machines came with totalizers - but some didn't (based on pictures and sales online, this seems to be a common issue). But in 2019, I bought 2 totalizers from a third party, and in 2022, I bought a parts Model-23, which came with 6 totalizers. These were in poor cosmetic condition, but they are entirely restorable. In particular, the machine came with a row totalizer, which so far is the only one I have in my collection.
+I am lucky that some of my machines came with totalizers - but some didn't (based on pictures and sales online, this seems to be a common issue). In 2019, I bought 2 totalizers from a third party, and in 2022, I bought a parts Model-23, which came with 6 totalizers. These were in poor cosmetic condition, but they are entirely restorable. In particular, the machine came with a row totalizer, which so far is the only one I have in my collection.
 
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_8500.webp"/>
