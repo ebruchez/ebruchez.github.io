@@ -20,7 +20,7 @@ terminals are electromechanical, while the later ones are fully electronic (and 
 <figure>
     <img src="/assets/pages/computer-vintage/teletype-33-1.webp"/>
     <figcaption>
-        1969? - Teletype Model 33 ASR. This instance is being restored. Model 33 was made between 1962 and 1976. Some capacitors have date codes staring with "9", which might indicate a 1969 manufacturing date.
+        1969? - Teletype Model 33 ASR. This instance is being restored as of 2026. Model 33 was made between 1962 and 1976. Some capacitors have date codes staring with "9", which might indicate a 1969 manufacturing date.
         <br/>
         <a href="https://photos.app.goo.gl/fJ12timrVkYpFo8NA">Before</a> | <a href="https://photos.app.goo.gl/S2CtApKF8CMEmwm5A">In progress</a>
     </figcaption>
@@ -53,7 +53,7 @@ terminals are electromechanical, while the later ones are fully electronic (and 
 <figure>
     <img src="/assets/pages/computer-vintage/tvi-912.webp"/>
     <figcaption>
-        1979 - TeleVideo TVI-912. This terminal has been fixed and restored.
+        1979 - TeleVideo TVI-912. This terminal has been fixed and restored in 2023.
         <br/>
         <a href="https://photos.app.goo.gl/uKXsfHny6XiJ9Fu3A">Before</a> | <a href="https://photos.app.goo.gl/knuWobsZPeTy7DGj6">In progress</a> | <a href="https://photos.app.goo.gl/MASdRMNVc9YxrEW26">Restored</a>
     </figcaption>
