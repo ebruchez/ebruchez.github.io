@@ -101,7 +101,7 @@ The other boxes were not better. But the good news is that the machines arrived 
 
 - __Erika 11:__ I noticed a bent carriage release lever, which *might* have happened during transit. This was very minor and easy to fix and the machine now looks like new.
 - __S.I.M.:__ The left ribbon spool was bent. This happened because the spool cover was loose! This should be easy to fix.
-- __Torpedo:__ The case's wooden board broke off in the front. The case was probably already weak or even damaged before shipping.
+- __Torpedo 12:__ The case's wooden board broke off in the front. The case was probably already weak or even damaged before shipping.
 
 So all in these were really minor things which possibly could have been prevented with some more immobilization inside the respective boxes, but maybe not even that.
 
