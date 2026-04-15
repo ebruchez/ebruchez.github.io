@@ -106,7 +106,7 @@ How should we use the word "restoration" when applied to typewriters? Like with 
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-completed-restorations/IMG_3313.jpg"/>
-    <figcaption>1909 - This aluminum Blickensderfer 5 is one of my luckiest finds. This is a semi-completed project. The machine should still be fully disassembled for cleaning. It already has a new platen.</figcaption>
+    <figcaption>1909 - This aluminum Blickensderfer 5 is one of my luckiest finds. This is a semi-completed project. The machine should still be fully disassembled for cleaning. It already has a new platen and 3D printed feet.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-completed-restorations/IMG_6670.jpg"/>
@@ -118,7 +118,7 @@ How should we use the word "restoration" when applied to typewriters? Like with 
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-completed-restorations/IMG_3330.jpg"/>
-    <figcaption>1942 - This humble Underwood "S" was bought for cheap. It smelled terrible. But after solid cleaning, polishing, and a new platen, it is one of my favorite machines.</figcaption>
+    <figcaption>1942 - This humble Underwood "S" was bought for cheap. It smelled terrible. But after solid cleaning, polishing, and a new platen, it is one of my favorite machines. It also has new 3D printed feet.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-completed-restorations/IMG_4249.jpg"/>
@@ -126,7 +126,7 @@ How should we use the word "restoration" when applied to typewriters? Like with 
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-completed-restorations/IMG_8458.jpg"/>
-    <figcaption>1949 - This Underwood Rhythm Touch had a broken escapement wheel. I swapped the escapement wheel from a parts machine. I replaced the sound-proofing material inside, polished, and cleaned everything. I really like the bicolor keyboard, and the metal stripes around the machine make it very classy.</figcaption>
+    <figcaption>1949 - This Underwood Rhythm Touch had a broken escapement wheel. I swapped the escapement wheel from a parts machine. I replaced the sound-proofing material inside, polished, and cleaned everything. I really like the bicolor keyboard, and the metal stripes around the machine make it very classy. This has new 3D printed feet.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-hermes/IMG_3853.jpg"/>
@@ -138,7 +138,7 @@ How should we use the word "restoration" when applied to typewriters? Like with 
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-completed-restorations/IMG_7207.jpg"/>
-    <figcaption>1951 - This early Hermes Ambassador has a new platen, new button, and a new back panel, which was missing when I got the machine.</figcaption>
+    <figcaption>1951 - This early Hermes Ambassador has a new platen, a new button, new 3D printed fett, and a new back panel, which was missing when I got the machine.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-completed-restorations/IMG_4185.jpg"/>
@@ -154,6 +154,7 @@ How should we use the word "restoration" when applied to typewriters? Like with 
 ## See also
 
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
+- [Typewriter Collection: Completed Restorations](/pages/typewriter-collection-completed-restorations/)
 - [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
 - [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)

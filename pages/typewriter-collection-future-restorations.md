@@ -45,7 +45,7 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_9110.jpg"/>
-    <figcaption>1896 - This is a very early Remington 7 with tabulator with serial 3397. It has a broken key and a missing tabulator plaque in the back, but otherwise is in great condition.</figcaption>
+    <figcaption>1896 - This is a very early Remington 7 with tabulator (presumably Gorin) with serial 3397. It has a broken key and a missing tabulator plaque in the back, but otherwise is in great condition.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-future-restorations/IMG_4435.jpg"/>
@@ -155,6 +155,7 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 ## See also
 
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
+- [Typewriter Collection: Completed Restorations](/pages/typewriter-collection-completed-restorations/)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
 - [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
