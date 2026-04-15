@@ -84,7 +84,7 @@ I am not showing here later machines like the IBM Memory Typewriter which includ
     <img src="/assets/pages/typewriter-future-restorations/IMG_1615.webp"/>
     <figcaption>1941 - This Remington 20 features a 10-key decimal tabulator. It came partially disassembled.</figcaption>
 </figure>
-a
+
 </div>
 
 ## Totalizers
