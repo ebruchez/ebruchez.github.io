@@ -17,7 +17,7 @@ Jerry Walker has amazing video series on that terminal, and Usagi Electric has a
 
 ![Lear Siegler ADM-3A](/assets/pages/typewriter-bucket-list/lear-siegler-adm3a.jpg){:standalone style="max-width: 75%; width="100%"}
 
-*Credit: [Chris Jacobs, CC BY-SA 3.0](https://en.wikipedia.org/wiki/ADM-3A#/media/File:Adm3aimage.jpg).*
+*Credit: [Chris Jacobs, CC BY-SA 3.0](https://en.wikipedia.org/wiki/ADM-3A#/media/File:Adm3aimage.jpg)*
 
 ## DEC VT-52 and VT-220
 
