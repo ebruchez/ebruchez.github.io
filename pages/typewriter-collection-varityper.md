@@ -82,16 +82,6 @@ As of April 2026,  the collection includes 9 machines, as summarized below:
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_2945.webp"/>
-    <figcaption>
-        1950s - This is a Varityper 160F. It looks almost identical to the 610F. I have yet to identify actual differences between the two models.
-        <br>
-        <a href="https://typewriterdatabase.com/195x-varityper-160.27879.typewriter">TWDB</a>
-        |
-        <a href="https://photos.app.goo.gl/uozqMBV3HRAC37qc6">Pics</a>
-    </figcaption>
-</figure>
-<figure>
     <img src="/assets/pages/typewriter-varityper/IMG_4254.jpg"/>
     <figcaption>1950x - This is an "Engineering" machine, which supports neither justification nor proportional spacing. It is in very poor condition, and might not be salvageable. However, some fonts from its drawer were rescued.
     <br>
@@ -100,6 +90,16 @@ As of April 2026,  the collection includes 9 machines, as summarized below:
     <a href="https://photos.app.goo.gl/12PCzHGiqVCsiVAC7">During</a>
     |
     <a href="https://typewriterdatabase.com/195x-varityper-engineering.22789.typewriter">TWDB</a>
+    </figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/typewriter-varityper/IMG_2945.webp"/>
+    <figcaption>
+        1958 - This is a Varityper 160. It looks almost identical to the 610F. I have yet to identify actual differences between the two models. It is unclear if it was ever referred to as "160 F", given that it has the forms ruling attachment.
+        <br>
+        <a href="https://typewriterdatabase.com/195x-varityper-160.27879.typewriter">TWDB</a>
+        |
+        <a href="https://photos.app.goo.gl/uozqMBV3HRAC37qc6">Pics</a>
     </figcaption>
 </figure>
 <figure>
