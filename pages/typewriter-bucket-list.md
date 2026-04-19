@@ -58,11 +58,11 @@ I know that a few of those are around, as I've seen them for sale a couple of ti
 *Credit: [National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_904253?fbclid=IwAR02VU29QBYN5V7w2-Z0fcxLodE5XzPoDFhsFpXcw-2eqcN21Ns-3nRcbDo)*
 
 
-## VariTyper Model 160/660/720/1010/1030
+## VariTyper Model 660/1010/1030
 
-I own a [small collection of Varityper-branded machines](/pages/typewriter-collection-varityper/), including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below, as well as models 160 and 720.
+I own a [collection of Varityper-branded machines](/pages/typewriter-collection-varityper/), including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below. Model 1010 is an improvement over model 720, and features a power keyboard. 
 
-I have seen a few 1010 for sale, but in places too far for me, and proper shipping is a challenge. I think that the 1030 is a European model of the 1010. I am not sure that it was ever sold in the US.
+I have seen a few 1010 for sale, but in places too far for me, and shipping is a challenge. I think that the 1030 is a European model of the 1010. I know that a pair of these machines were unfortunately scrapped not long ago in the UK!
 
 I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
 
@@ -122,13 +122,23 @@ In addition to owning a beautiful [Remington 6 from 1902](https://photos.app.goo
 
 The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 4 only did capital letters and 35,000 were made, approximately. Needless to say, I'd be happy to find one of those as well!
 
-## IBM Input/Output (I/O) Selectric Typewriter
+### IBM Input/Output (I/O) Selectric Typewriter
 
 _FOUND: May 2025._
 
 [My IBM MT/SC](/posts/ibm-mt-sc-1/) includes a variant of an IBM I/O Selectric Typewriter, called the MT/SR. I'd love to find an actual I/O typewriter. These look like a regular Selectric, but with a fatter bottom containing extra hardware. Inside, there are contacts and solenoids that allow the machine to transmit information, and to act as a printer. These machines were connected to IBM MT/ST machines, or to a computer.
 
 ![IBM I/O Selectric Typewriter](/assets/pages/typewriter-bucket-list/mt-sr-no-background.jpg){:standalone style="max-width: 75%; width="100%"}
+
+### VariTyper Models 160 and 720
+
+_FOUND: April 2026_
+
+I was very lucky to be able to purchase these machines together in April 2026, especially model 720, which features the latest body and keyboard style. I also got some manuals, fonts, and accessories as part of that purchase.
+
+![VariTyper Model 160](/assets/pages/typewriter-varityper/IMG_2945.webp){:standalone style="max-width: 75%; width="100%"}
+
+![VariTyper Model 720](/assets/pages/typewriter-varityper/IMG_2894.webp){:standalone style="max-width: 75%; width="100%"}
 
 ## See also
 
