@@ -60,7 +60,7 @@ I know that a few of those are around, as I've seen them for sale a couple of ti
 
 ## VariTyper Model 660/1010/1030
 
-I own a [collection of Varityper-branded machines](/pages/typewriter-collection-varityper/), including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below. Model 1010 is an improvement over model 720, and features a power keyboard. 
+I own a [collection of Varityper-branded machines](/pages/typewriter-collection-varityper/), including some 1930s and 1940s models, and a beautiful Model 610F from the late 1950s or early 1960s. I'd love to find some of the missing models, such as the Model 660 or 1010, shown below. Model 1010 is an improvement over model 720, and features a power keyboard. It also has a faux wood finish on the front of the machine's drawer.
 
 I have seen a few 1010 for sale, but in places too far for me, and shipping is a challenge. I think that the 1030 is a European model of the 1010. I know that a pair of these machines were unfortunately scrapped not long ago in the UK!
 
@@ -143,10 +143,12 @@ I was very lucky to be able to purchase these machines together in April 2026, e
 ## See also
 
 - [Typewriter collection on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection)
+- [Typewriter Collection: Completed Restorations](/pages/typewriter-collection-completed-restorations/)
 - [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)
 - [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
+- [Typewriter collection: Accounting Machines](/pages/typewriter-collection-accounting/)
 - [Computer bucket list](/pages/computer-bucket-list/)
 
 ---
