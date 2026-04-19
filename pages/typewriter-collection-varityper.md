@@ -16,17 +16,19 @@ I have taken a particular interest in these machines, collecting a few, and I am
 
 ## Collection
 
-The following table summarizes the collection:
+As of April 2026,  the collection includes 9 machines, as summarized below:
 
-| Branding               | Model                | Date  | Misc             | Electric | Justifying | Differential | Paint   |
-|------------------------|----------------------|-------|------------------|----------|------------|--------------|---------|
-| VARITYPER Incorporated | Folding              | 1927  | Hammond Patents  | N        | N          | N            | Glossy  |
-| VARITYPER Incorporated | 1st electric version | 1930s | mathematical     | Y        | N          | N            | Glossy  |
-| Vari-Typer             | Secretarial SM-9     | 1940s | fair condition   | Y        | Y          | N            | Crinkle |
-| Vari-Typer             | A-20                 | 1940s | poor condition   | Y        | Y          | N            | Crinkle |
-| Vari-Typer             | A-20                 | 1940s | good condition   | Y        | Y          | N            | Crinkle |
-| VariTyper              | 610 F                | 1950s | forms attachment | Y        | Y          | Y            | Crinkle |
-| VariTyper              | Engineering          | 1950s | poor condition   | Y        | N          | N            | Crinkle |
+| Branding               | Model                | Date  | Notes                       | Electric | Justifying | Differential | Paint   | Forms |
+|------------------------|----------------------|-------|-----------------------------|----------|------------|--------------|---------|-------|
+| VARITYPER Incorporated | Folding              | 1927  | Hammond Patents<br>restored | N        | N          | N            | Glossy  | N     |
+| VARITYPER Incorporated | 1st electric version | 1930s | mathematical                | Y        | N          | N            | Glossy  | N     |
+| Vari-Typer             | Secretarial SM-9     | 1940s | fair condition              | Y        | Y          | N            | Crinkle | N     |
+| Vari-Typer             | A-20                 | 1940s | poor condition              | Y        | Y          | N            | Crinkle | N     |
+| Vari-Typer             | A-20                 | 1940s | good condition              | Y        | Y          | N            | Crinkle | N     |
+| VariTyper              | Engineering?         | 1950s | poor condition              | Y        | N          | N            | Crinkle | N     |
+| VariTyper              | 160                  | 1958  | good condition              | Y        | Y          | Y            | Crinkle | Y     |
+| VariTyper              | 610 F                | 1962  | restored                    | Y        | Y          | Y            | Crinkle | Y     |
+| VariTyper              | 720                  | 1967  | good condition              | Y        | Y          | Y            | Crinkle | Y     |
 
 <div class="tw-table">
 
@@ -80,14 +82,13 @@ The following table summarizes the collection:
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_3360.jpg"/>
-    <figcaption>1950s - This beautiful VariTyper (notice yet another name variation) is a model 610 F. The "F" indicates the "forms" function for creating lines, embodied in the box to the right of the machine. It supports right-margin justification and proportional (differential) fonts, two capabilities that Varityper named "DSJ" (Differential Spacing and Justifying). This machine is refurbished.
-    <br>
-    <a href="https://photos.app.goo.gl/GUmYxr92cdLTffL48">During</a>
-    |
-    <a href="https://photos.app.goo.gl/UKbPhrpYy34SvN9W6">After</a>
-    |
-    <a href="https://typewriterdatabase.com/1962-varityper-610.17981.typewriter">TWDB</a>
+    <img src="/assets/pages/typewriter-varityper/IMG_2945.webp"/>
+    <figcaption>
+        1950s - This is a Varityper 160F. It looks almost identical to the 610F. I have yet to identify actual differences between the two models.
+        <br>
+        <a href="https://typewriterdatabase.com/195x-varityper-160.27879.typewriter">TWDB</a>
+        |
+        <a href="https://photos.app.goo.gl/uozqMBV3HRAC37qc6">Pics</a>
     </figcaption>
 </figure>
 <figure>
@@ -102,6 +103,27 @@ The following table summarizes the collection:
     </figcaption>
 </figure>
 <figure>
+    <img src="/assets/pages/typewriter-varityper/IMG_3360.jpg"/>
+    <figcaption>1962 - This beautiful VariTyper (notice yet another name variation) is a model 610 F. The "F" indicates the "forms" function for creating lines, embodied in the box to the right of the machine. It supports right-margin justification and proportional (differential) fonts, two capabilities that Varityper named "DSJ" (Differential Spacing and Justifying). This machine is refurbished.
+    <br>
+    <a href="https://photos.app.goo.gl/GUmYxr92cdLTffL48">During</a>
+    |
+    <a href="https://photos.app.goo.gl/UKbPhrpYy34SvN9W6">After</a>
+    |
+    <a href="https://typewriterdatabase.com/1962-varityper-610.17981.typewriter">TWDB</a>
+    </figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/typewriter-varityper/IMG_2894.webp"/>
+    <figcaption>
+        1967 - This is a Varityper model 720. With this model, Varityper introduced many changes, including a new body style (which might have arrived a few years earlier with model 660), a continuous operation motor, a take-up spool, a power button, and a new keyboard style. This model was announced in 1967, and the motor date code and serial number are compatible with a tentative production date of that same year.
+        <br>
+        <a href="https://typewriterdatabase.com/1967-varityper-720.27878.typewriter">TWDB</a>
+        |
+        <a href="https://photos.app.goo.gl/PG2wtxSf31T4M3yJ6">Pics</a>
+    </figcaption>
+</figure>
+<figure>
     <img src="/assets/pages/typewriter-varityper/IMG_4228.jpg"/>
     <figcaption>1988 - As a bonus, this is a CPU board for the AM Varityper EPICS system. This board is based on the MC 68000 microprocessor. By that time, Varityper was still producing machines in the domain of cold typesetting, but these machines had become in effect computers.
     <br>
@@ -113,15 +135,79 @@ The following table summarizes the collection:
 
 ## Font collection
 
-I have a small collection of about 70 varityper fonts (known as *shuttles* on earlier and Hammond models). The Varityper fonts, except for the very early ones, are gray rather than black, and typically will not work in older Hammond typewriters. I have yet to document the collection in details, but I plan to do it.
+I have a small collection of about 100 varityper fonts (previously known as *shuttles* on the Hammond). Varityper fonts, except for the very early ones, are gray rather than black, made of metal, and typically will not work in older Hammond typewriters.[^hammond-shuttles]
 
 ![Varityper fonts](/assets/pages/typewriter-varityper/IMG_1171.jpg){:standalone style="max-width: 75%; width="100%"}
+
+## Manuals collection
+
+
 
 ## Varityper artifacts
 
 I have a few Varityper artifacts and manuals, which I also plan to document. An example is this beautiful Varityper ribbon box, probably from the 1940s.
 
 ![Varityper paper ribbon](/assets/pages/typewriter-varityper/IMG_4908.jpg){:standalone style="max-width: 75%; width="100%"}
+
+<!--
+
+TODO:
+
+- other Varityper boxes
+- list all fonts
+- list of Varityper manuals
+
+## Notes on Varityper chronology
+
+- 1933: introduction of the name Varityper? ("Century of the Typewriter")
+- 1934: carbon ribbon? ("Century of the Typewriter")
+- 1937: "Century of the Typewriter" says this is when justification arrived (my "1940" date)
+- ~1940 marketing brochure, many details on the "1940" machines
+- 1947 ad
+    - Vari-Typer 
+    - Ralph C. Coxhead Corporation
+    - shows 1-dial machine
+- 1947: first proportional? "Century of the Typewriter"
+- 1948 ad
+    - Vari-Typer
+    - Ralph C. Coxhead Corp.
+    - picture shows 2-dials justifying, proportional machine
+- 1948 ad
+    - D.S.J. (Differential Spacing Justifying) Vari-Typer
+    - Ralph C. Coxhead Corp.
+    - picture shows 2-dials justifying, proportional machine
+    - logo has Vari-Typer, white on machine gray
+- 1950 ad
+    - Vari-Typer
+    - shows two-dial justifying, proportional machine
+    - Vari-Typer logo on machine, white on gray
+    - Ralph C. Coxhead Corp.
+- 1950: forms device ("Century of the Typewriter")
+- 1951 ad (Time, May 14, 1951)
+    - Vari-Typer 
+    - Coxhead DSJ
+    - other mentions of DSJ
+    - logo on machine shows "Coxhead"
+    - 2-dials justifying, proportional machine
+    - with "forms" attachment
+- 1953: coder, line spacing (Linomatic) "Century of the Typewriter"
+- 1955 and 1956 ad
+    - Lettering Machine
+    - Vari-Typer
+    - Ralph C. Coxhead Corp.
+    - mentions DSJ Model
+- 1958 date code on Varityper 160
+- 1962 date code on Varityper 610
+- 1963: 660, new styling ("Century of the Typewriter")
+- January 1967 announcement
+    - VariTyper 720
+- 1967 date code on VariTyper 720
+- 1968: 1010; power keyboard ("Century of the Typewriter")
+- 1970 ad
+    - VariTyper 1010
+    - subsidiary of Addressograph Multigraph Corporation
+
+-->
 
 ## See also
 
@@ -136,3 +222,5 @@ I have a few Varityper artifacts and manuals, which I also plan to document. An 
 ---
 
 [^naming]: As shown in the descriptions, the name Varityper had a few different spellings and capitalization over time. 
+
+[^hammond-shuttles]: In addition, the vast majority of Varityper fonts feature proportional spacing, which doesn' make sense on the fixed-space Hammond. Don't be lured into using Varityper fonts on the Hammond!
