@@ -97,9 +97,9 @@ As of April 2026,  the collection includes 9 machines, as summarized below:
     <figcaption>
         1958 - This is a Varityper 160. It looks almost identical to the 610F. I have yet to identify actual differences between the two models. It is unclear if it was ever referred to as "160 F", given that it has the forms ruling attachment.
         <br>
-        <a href="https://typewriterdatabase.com/195x-varityper-160.27879.typewriter">TWDB</a>
-        |
         <a href="https://photos.app.goo.gl/uozqMBV3HRAC37qc6">Pics</a>
+        |
+        <a href="https://typewriterdatabase.com/195x-varityper-160.27879.typewriter">TWDB</a>        
     </figcaption>
 </figure>
 <figure>
@@ -118,9 +118,9 @@ As of April 2026,  the collection includes 9 machines, as summarized below:
     <figcaption>
         1967 - This is a Varityper model 720. With this model, Varityper introduced many changes, including a new body style (which might have arrived a few years earlier with model 660), a continuous operation motor, a take-up spool, a power button, and a new keyboard style. This model was announced in 1967, and the motor date code and serial number are compatible with a tentative production date of that same year.
         <br>
-        <a href="https://typewriterdatabase.com/1967-varityper-720.27878.typewriter">TWDB</a>
-        |
         <a href="https://photos.app.goo.gl/PG2wtxSf31T4M3yJ6">Pics</a>
+        |
+        <a href="https://typewriterdatabase.com/1967-varityper-720.27878.typewriter">TWDB</a>
     </figcaption>
 </figure>
 <figure>
