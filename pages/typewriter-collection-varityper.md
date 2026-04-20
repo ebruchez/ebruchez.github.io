@@ -25,7 +25,7 @@ As of April 2026,  the collection includes 9 machines, as summarized below:
 | Vari-Typer             | Secretarial SM-9     | 1940s | fair condition              | Y        | Y          | N            | Crinkle | N     |
 | Vari-Typer             | A-20                 | 1940s | poor condition              | Y        | Y          | N            | Crinkle | N     |
 | Vari-Typer             | A-20                 | 1940s | good condition              | Y        | Y          | N            | Crinkle | N     |
-| VariTyper              | Engineering?         | 1950s | poor condition              | Y        | N          | N            | Crinkle | N     |
+| VariTyper              | Engineering          | 1950s | poor condition              | Y        | N          | N            | Crinkle | N     |
 | VariTyper              | 160                  | 1958  | good condition              | Y        | Y          | Y            | Crinkle | Y     |
 | VariTyper              | 610 F                | 1962  | restored                    | Y        | Y          | Y            | Crinkle | Y     |
 | VariTyper              | 720                  | 1967  | good condition              | Y        | Y          | Y            | Crinkle | Y     |
@@ -116,7 +116,7 @@ As of April 2026,  the collection includes 9 machines, as summarized below:
 <figure>
     <img src="/assets/pages/typewriter-varityper/IMG_2894.webp"/>
     <figcaption>
-        1967 - This is a Varityper model 720. With this model, Varityper introduced many changes, including a new body style (which might have arrived a few years earlier with model 660), a continuous operation motor, a take-up spool, a power button, and a new keyboard style. This model was announced in 1967, and the motor date code and serial number are compatible with a tentative production date of that same year.
+        1967 - This is a Varityper model 720. With this model, Varityper introduced many changes, including a new body and keyboard style (which might have arrived a few years earlier with model 660), a continuous operation motor, a take-up spool, a power button, and a power carriage return. This model was announced in 1967, and the motor date code and serial number are compatible with a tentative production date of that same year.
         <br>
         <a href="https://photos.app.goo.gl/PG2wtxSf31T4M3yJ6">Pics</a>
         |
@@ -141,7 +141,7 @@ I have a small collection of about 100 varityper fonts (previously known as *shu
 
 ## Manuals collection
 
-
+In progress.
 
 ## Varityper artifacts
 
