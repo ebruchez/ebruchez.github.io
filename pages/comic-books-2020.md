@@ -429,10 +429,10 @@ title: Comic Books (2020)
         - This is the first Lefranc story, where we meet Axel Borg, Jeanjean, and inspecteur Renard.
         - Jacques Martin had started with Alix and was pioneer of bandes dessinées set in a historical context. His editor, I believed, suggested that he create a more contemporary hero. That became reporter Lefranc, a 20th century copy of Alix.
         - Synopsis
-            - Lefranc, by pure chance, gets on the track of an organization, led by Axel Borg, which blackmails the French government to pay an enormous ransom in gold. Later, the government is also asked to fully disarm its military. Borg's plan is to take over France,then Europe, and the world. If the demands are not met, Paris will be destroyed, although initially we don't know how. We learn later that Borg has a rocket able to launch a nuclear bomb. The danger is very narrowly averted.
+            - Lefranc, by pure chance, gets on the track of an organization, led by Axel Borg, which blackmails the French government to pay an enormous ransom in gold. Later, the government is also asked to fully disarm its military. Borg's plan is to take over France, then Europe, and the world. If the demands are not met, Paris will be destroyed, although initially we don't know how. We learn later that Borg has a rocket able to launch a nuclear bomb. The danger is very narrowly averted.
             - The story takes place in a different world from today: phones are scarce, women are nowhere to be seen, and travel slow, except by the occasional small plane.
             - The first part of the story is more of a detective story. The second one, pure action.
-            - But the action is constant throughout. We chase smugglers at the Swiss-French border, find the car dropped down a ravine. The car is then set on fire, and a helicopter comes to fully destroy the remnants of the vehicles.
+            - But the action is constant throughout. We chase smugglers at the Swiss-French border, find the car fell down a ravine. The car is then set on fire, and a helicopter comes to fully destroy the remnants of the vehicles.
             - Somebody is about to tip Lefranc but is found dead. Another person shoots at him, then falls off the dungeon of a castle.
             - Lefranc immediately finds sympathy with inspector Renard.
             - Lefranc takes Jeanjean along chasing armed and obviously dangerous people. Even after that, he is sent back to his boy scouts camp on his own, and gets abducted while hitchhiking. Later, surviving a car crash, he walks himself back to Lefranc. He accompanies him down the ruins of the Black Tower, only to fall down a shaft where he is finally captured by Borg.
@@ -441,7 +441,7 @@ title: Comic Books (2020)
             - Lefranc himself is eventually abducted by Borg.
             - The French government is about to fall. Finally, it gets the powers needed to act. The Black Tower is attacked with incredible air power.
             - Lefranc manages to free himself, save Jeanjean, and escape. The tower, or rather's Borg's entire installations, are taken, Lefranc manages to steer the rocket away from Paris at the last second.
-            - Borg, of course, escapes, but other than that, and casulaties during the attack, all is well.
+            - Borg, of course, escapes, but other than that, and casualties during the attack, all is well.
         - Thoughts
             - Jeanjean shows no personality whatsover and is mostly passive. But Lefranc, not even knowing the boy, takes him through very dangerous action. We don't know anything about Jeanjean's background in this story: where he comes from, does he have family, etc. He was introduced at the demand of the editor,to appeal to younger readers. But clearly this is one of the weakest parts of the plot.
             - The drawings are pretty good.

@@ -19,6 +19,22 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+2026-04-29: [Lefranc - La grande menace](https://www.bedetheque.com/BD-Lefranc-Tome-1-La-grande-menace-20051.html)
+    - 1954
+    - tags: #reread
+    - Jacques Martin
+    - version facsimile
+    - Rating: 5/5
+    - NOTES:
+        - I last reread it about 6 years ago, and another time almost 9 years ago.
+        - See previous notes. As noted, this is action-packed. Almost everything happens in this story!
+        - Published in album in 1954, but in magazines starting in 1952.
+- 2026-04-17: [Walt Disney's Uncle Scrooge - 28. Cave of Ali Baba](https://www.fantagraphics.com/products/walt-disneys-uncle-scrooge-cave-of-ali-baba-the-complete-carl-barks-disney-library-vol-28)
+    - Author: Carl Barks
+    - language: English
+- 2026-04-17: [Walt Disney's Uncle Scrooge - 26. The Golden Nugget Boat](https://www.fantagraphics.com/products/walt-disneys-uncle-scrooge-the-golden-nugget-boat-the-complete-carl-barks-disney-library-vol-26)
+    - Author: Carl Barks
+    - language: English
 - 2026-03-28: [Manu Larcenet - La route](https://www.bedetheque.com/BD-Route-Larcenet-La-Route-492383.html)
     - 2024
     - Language: French
