@@ -16,19 +16,19 @@ I have taken a particular interest in these machines, collecting a few, and I am
 
 ## Collection
 
-As of April 2026,  the collection includes 9 machines, as summarized below:
+As of April 2026,  the collection includes 9 machines spanning about 40 years, as summarized below:
 
-| Branding               | Model                | Date  | Notes                       | Electric | Justifying | Differential | Paint   | Forms |
-|------------------------|----------------------|-------|-----------------------------|----------|------------|--------------|---------|-------|
-| VARITYPER Incorporated | Folding              | 1927  | Hammond Patents<br>restored | N        | N          | N            | Glossy  | N     |
-| VARITYPER Incorporated | 1st electric version | 1930s | mathematical                | Y        | N          | N            | Glossy  | N     |
-| Vari-Typer             | Secretarial SM-9     | 1940s | fair condition              | Y        | Y          | N            | Crinkle | N     |
-| Vari-Typer             | A-20                 | 1940s | poor condition              | Y        | Y          | N            | Crinkle | N     |
-| Vari-Typer             | A-20                 | 1940s | good condition              | Y        | Y          | N            | Crinkle | N     |
-| VariTyper              | Engineering          | 1950s | poor condition              | Y        | N          | N            | Crinkle | N     |
-| VariTyper              | 160                  | 1958  | good condition              | Y        | Y          | Y            | Crinkle | Y     |
-| VariTyper              | 610 F                | 1962  | restored                    | Y        | Y          | Y            | Crinkle | Y     |
-| VariTyper              | 720                  | 1967  | good condition              | Y        | Y          | Y            | Crinkle | Y     |
+| Branding               | Model                | Date  | Notes                       | Electric | Justifying | Differential | Paint   | Forms | Weight   |
+|------------------------|----------------------|-------|-----------------------------|----------|------------|--------------|---------|-------|----------|
+| VARITYPER Incorporated | Folding              | 1927  | Hammond Patents<br>restored | N        | N          | N            | Glossy  | N     |          |
+| VARITYPER Incorporated | 1st electric version | 1930s | mathematical                | Y        | N          | N            | Glossy  | N     |          |
+| Vari-Typer             | Secretarial SM-9     | 1940s | fair condition              | Y        | Y          | N            | Crinkle | N     |          |
+| Vari-Typer             | A-20                 | 1940s | poor condition              | Y        | Y          | N            | Crinkle | N     |          |
+| Vari-Typer             | A-20                 | 1940s | good condition              | Y        | Y          | N            | Crinkle | N     |          |
+| VariTyper              | Engineering          | 1950s | poor condition              | Y        | N          | N            | Crinkle | N     |          |
+| VariTyper              | 160                  | 1958  | good condition              | Y        | Y          | Y            | Crinkle | Y     | 45.6 lbs |
+| VariTyper              | 610 F                | 1962  | restored                    | Y        | Y          | Y            | Crinkle | Y     | 45.2 lbs |
+| VariTyper              | 720                  | 1967  | good condition              | Y        | Y          | Y            | Crinkle | Y     | 50.8 lbs |
 
 <div class="tw-table">
 
@@ -95,7 +95,7 @@ As of April 2026,  the collection includes 9 machines, as summarized below:
 <figure>
     <img src="/assets/pages/typewriter-varityper/IMG_2945.webp"/>
     <figcaption>
-        1958 - This is a Varityper 160. It looks almost identical to the 610F. I have yet to identify actual differences between the two models. It is unclear if it was ever referred to as "160 F", given that it has the forms ruling attachment.
+        1958 - This is a Varityper 160. It looks almost identical to the 610 F. I have yet to identify actual differences between the two models. It is unclear if it was ever referred to as "160 F", given that it has the forms ruling attachment.
         <br>
         <a href="https://photos.app.goo.gl/uozqMBV3HRAC37qc6">Pics</a>
         |
@@ -196,6 +196,7 @@ TODO:
     - Vari-Typer
     - Ralph C. Coxhead Corp.
     - mentions DSJ Model
+- 1957 1/57 date code on 160 document
 - 1958 date code on Varityper 160
 - 1962 date code on Varityper 610
 - 1963: 660, new styling ("Century of the Typewriter")
