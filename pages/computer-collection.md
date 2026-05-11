@@ -13,7 +13,8 @@ Here is the current collection.
 ## Vintage terminal collection
 
 As of March 2026, I count 9 teletypes/terminals, if I include what might end up as parts machines. The earliest
-terminals are electromechanical, while the later ones are fully electronic (and sometimes called "glass teletypes").
+terminals are electromechanical, including the famed Model 33, while the later ones are fully electronic (and sometimes
+called "glass teletypes").
 
 <div class="tw-table">
 
@@ -87,6 +88,10 @@ terminals are electromechanical, while the later ones are fully electronic (and 
 </div>
 
 ## Vintage computer collection
+
+The small vintage computer collection includes personal computers from around 1979 to 1993. Most machines are
+microprocessor-based, with the possible exception of the Wang CPU, which is based on the TTL logic (but does include
+at least one Z80 CPU for I/O).
 
 <div class="tw-table">
 
