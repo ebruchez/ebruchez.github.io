@@ -12,7 +12,7 @@ Here is the current collection.
 
 ## Vintage terminal collection
 
-As of March 2026, I count 8 teletypes/terminals, if I include what might end up as parts machines. The earliest
+As of March 2026, I count 9 teletypes/terminals, if I include what might end up as parts machines. The earliest
 terminals are electromechanical, while the later ones are fully electronic (and sometimes called "glass teletypes").
 
 <div class="tw-table">
