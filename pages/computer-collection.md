@@ -165,6 +165,17 @@ at least one Z80 CPU for I/O).
     </figcaption>
 </figure>
 <figure>
+    <img src="/assets/pages/computer-vintage/vic20sidekick20.webp"/>
+    <figcaption>
+        1980-1985 - Commodore VIC-20. This machine was cleaned and fixed, and is now in working condition. I built and
+        fitted it with a Sidekick20 cartridge.
+        <br/>
+        <a href="https://photos.app.goo.gl/eTxCTATgTLKgeAir5">Before</a>
+        |
+        <a href="https://photos.app.goo.gl/APVHkVkg2RPxsBgw9">Sidekick20</a>
+    </figcaption>
+</figure>
+<figure>
     <img src="/assets/pages/computer-vintage/wang-2200mvp.webp"/>
     <figcaption>
         1984 - <a href="https://www.wang2200.org/">Wang 2200MVP</a>. This is only the CPU part of this amazing computer
