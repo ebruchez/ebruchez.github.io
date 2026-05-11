@@ -173,6 +173,8 @@ at least one Z80 CPU for I/O).
         <a href="https://photos.app.goo.gl/eTxCTATgTLKgeAir5">Before</a>
         |
         <a href="https://photos.app.goo.gl/APVHkVkg2RPxsBgw9">Sidekick20</a>
+        |
+        <a href="https://blog.bruchez.name/posts/vic-20-key/">Blog post</a>
     </figcaption>
 </figure>
 <figure>
