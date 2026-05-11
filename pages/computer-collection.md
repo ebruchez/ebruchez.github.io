@@ -59,6 +59,14 @@ terminals are electromechanical, while the later ones are fully electronic (and 
     </figcaption>
 </figure>
 <figure>
+    <img src="/assets/pages/computer-vintage/vt100nbab.webp"/>
+    <figcaption>
+        1980? - VT100 Terminal Model NB converted to AB. This means that this is a 230V model, probably used in the UK. This instance needs fixing.
+        <br/>
+        <a href="https://photos.app.goo.gl/aX7fZGxN4bDjmR4T6">Before</a>
+    </figcaption>
+</figure>
+<figure>
     <img src="/assets/pages/computer-vintage/vt100.webp"/>
     <figcaption>
         1982 - Pair of VT100 Terminals. Both need of fixing. So far they only underwent a basic cleaning.
@@ -100,6 +108,14 @@ terminals are electromechanical, while the later ones are fully electronic (and 
         Monitor II, which I refurbished, and a Floppy EMU.
         <br/>
         <a href="https://photos.app.goo.gl/ax2Qta9XZLQt2WUi8">In progress</a>
+    </figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/computer-vintage/trs80iii.webp"/>
+    <figcaption>
+        1981? - Radio Schack TRS-80 Model III. This instance has breaks in its outer case. It came with a printer, some kind of acquisition device, disks, and manuals.
+        <br/>
+        <a href="https://photos.app.goo.gl/CMqSi8jH5iGhEPJKA">In progress</a>
     </figcaption>
 </figure>
 <figure>
