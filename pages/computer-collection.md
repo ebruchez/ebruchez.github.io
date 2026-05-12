@@ -141,6 +141,17 @@ at least one Z80 CPU for I/O).
     </figcaption>
 </figure>
 <figure>
+    <img src="/assets/pages/computer-vintage/nabu.webp"/>
+    <figcaption>
+        1983 - [NABU Personal Computer](https://en.wikipedia.org/wiki/NABU_Network). This machine was ahead of its time.
+        It got into the spotlight in 2023 when a large lot of them was offered for sale on eBay. It turns out that I
+        got one from this lot, but second hand. The machine is new in its box. A community has developed online to
+        revive the machine and its software.
+        <br/>
+        <a href="https://photos.app.goo.gl/b7RW6HBGUbe4Hbsm7">Pics</a>
+    </figcaption>
+</figure>
+<figure>
     <img src="/assets/pages/computer-vintage/northstar-advantage.webp"/>
     <figcaption>
         1982? - NorthStar Advantage
