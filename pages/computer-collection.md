@@ -127,7 +127,7 @@ NEC TK-80, the CompuPro System 8/16, the Wang 2200MVP, and the Smaky 130 Swiss c
 <figure>
     <img src="/assets/pages/computer-vintage/compupro-system-8-16.webp"/>
     <figcaption>
-        198x - CompuPro System 8/16. This incredible S100-bus system includes a 80286 CPU board. It needs refurbishing.
+        1984 - CompuPro System 8/16. This incredible S100-bus system includes a 80286 CPU board. It needs refurbishing.
         <br/>
         <a href="https://photos.app.goo.gl/UntkRiPxSE4Q3bsj8">Pics</a>
     </figcaption>
@@ -268,7 +268,7 @@ NEC TK-80, the CompuPro System 8/16, the Wang 2200MVP, and the Smaky 130 Swiss c
 <figure>
     <img src="/assets/pages/computer-vintage/atari-1040-ste.webp"/>
     <figcaption>
-        1990 - Atari 1040 STE. This was my own personal computer from the late 1980s to the early 1990s, and the first
+        1990 - Atari 1040 STE. This was my own personal computer in the early 1990s, and the first
         I bought with my own money on September 22, 1990, for CHF 1,490. I only used it with the built in floppy drive,
         and used it for programming, word processing, and the music program Cubase.
     </figcaption>
