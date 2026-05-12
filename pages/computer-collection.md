@@ -90,8 +90,8 @@ called "glass teletypes").
 ## Vintage computer collection
 
 The small vintage computer collection includes personal computers from around 1979 to 1993. Most machines are
-microprocessor-based, with the possible exception of the Wang CPU, which is based on the TTL logic (but does include
-at least one Z80 CPU for I/O).
+microprocessor-based, with the possible exception of the Wang CPU, which is based on TTL logic (but does include
+at least one Z80 CPU for I/O!).
 
 <div class="tw-table">
 
@@ -143,10 +143,9 @@ at least one Z80 CPU for I/O).
 <figure>
     <img src="/assets/pages/computer-vintage/nabu.webp"/>
     <figcaption>
-        1983 - [NABU Personal Computer](https://en.wikipedia.org/wiki/NABU_Network). This machine was ahead of its time.
-        It got into the spotlight in 2023 when a large lot of them was offered for sale on eBay. It turns out that I
-        got one from this lot, but second hand. The machine is new in its box. A community has developed online to
-        revive the machine and its software.
+        1983 - <a href="https://en.wikipedia.org/wiki/NABU_Network">NABU Personal Computer</a>. This machine was ahead of its time.
+        It got into the spotlight in 2023 when a large lot of them was offered for sale on eBay. It turns out that I got one from this lot, but second hand. The machine is new in its box.
+        A <a href="https://nabu.ca/">community</a> has developed online to revive the machine and its software.
         <br/>
         <a href="https://photos.app.goo.gl/b7RW6HBGUbe4Hbsm7">Pics</a>
     </figcaption>
