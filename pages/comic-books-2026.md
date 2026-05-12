@@ -19,7 +19,21 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
-2026-04-29: [Lefranc - La grande menace](https://www.bedetheque.com/BD-Lefranc-Tome-1-La-grande-menace-20051.html)
+- 2026-05-10: [Yoko Tsuno - 23. La pagode des brumes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-23-La-pagode-des-brumes-6009.html)
+    - 2001
+    - tags: #reread
+    - Roger Leloup
+    - language: French
+    - rating: 5/5
+    - NOTES: The third "Chinese" story in the intégrale "Sous le ciel de Chine", and a direct follow-up to "La jonque céleste". Yoko takes Sin Yi to find one of her maids, but finds that the latter is staying at a pagoda, in the Hunan region (says Leloup), guarded by a "dragon". Unexplained (but Leloup says, separately, that it probably came from another planet), the dragon turns out to be a giant robot, connected to an intelligence residing in the tower. The drawings of the mountains and the pagoda are beautiful. The story also unites Yu, a young boy, with Liao, a girl with a heart condition which was treated by the robot/entity of the tower. Yoko comes back to the present time with Sin Yi.
+- 2026-05-09: [Yoko Tsuno - 22. La jonque céleste](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-22-La-jonque-celeste-1344.html)
+    - 1998
+    - tags: #reread
+    - Roger Leloup
+    - language: French
+    - rating: 4/5
+    - NOTES: The second "Chinese" story in the intégrale "Sous le ciel de Chine". This is a typical time travel story. Yoko learns that an 11th Century Chinese emperor's third wife, Sin Yi, whom the emperor has never even seen, is about to get murdered. Yoko, on a whim, decides to go save her in the past. It works, and Yoko brings back Sin Yi to the present time, by tricking people to think that Sin Yi had died and her heart was stored into an urn, where Yoko has placed a tape player. Besides the time travel, there is no science-fiction involved in the core of the story. The time is that of the Tang/Song dynasties.
+- 2026-04-29: [Lefranc - La grande menace](https://www.bedetheque.com/BD-Lefranc-Tome-1-La-grande-menace-20051.html)
     - 1954
     - tags: #reread
     - Jacques Martin
