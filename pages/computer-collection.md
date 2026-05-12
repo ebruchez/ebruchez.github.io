@@ -89,9 +89,10 @@ called "glass teletypes").
 
 ## Vintage computer collection
 
-The small vintage computer collection includes personal computers from around 1979 to 1993. Most machines are
-microprocessor-based, with the possible exception of the Wang CPU, which is based on TTL logic (but does include
-at least one Z80 CPU for I/O!).
+The small collection of about 20 vintage computers includes personal computers from around 1979 to 1993, with a few
+Apple machines from the 2000s. Most machines are microprocessor-based, with the possible exception of the Wang CPU,
+which is based on TTL logic (but does include at least one Z80 CPU for I/O!). The most uncommon units here might be the
+NEC TK-80, the CompuPro System 8/16, the Wang 2200MVP, and the Smaky 130 Swiss computer.
 
 <div class="tw-table">
 
@@ -143,7 +144,7 @@ at least one Z80 CPU for I/O!).
 <figure>
     <img src="/assets/pages/computer-vintage/nabu.webp"/>
     <figcaption>
-        1983 - <a href="https://en.wikipedia.org/wiki/NABU_Network">NABU Personal Computer</a>. This machine was ahead of its time.
+        1983 - <a href="https://en.wikipedia.org/wiki/NABU_Network">Canadian NABU Personal Computer</a>. This machine was ahead of its time.
         It got into the spotlight in 2023 when a large lot of them was offered for sale on eBay. It turns out that I got one from this lot, but second hand. The machine is new in its box.
         A <a href="https://nabu.ca/">community</a> has developed online to revive the machine and its software.
         <br/>
@@ -265,18 +266,6 @@ at least one Z80 CPU for I/O!).
 </figure>
 -->
 <figure>
-    <img src="/assets/pages/computer-vintage/power-macintosh-g3.webp"/>
-    <figcaption>1997-1998 - Power Macintosh G3</figcaption>
-</figure>
-<figure>
-    <img src="/assets/pages/computer-vintage/power-mac-g4.webp"/>
-    <figcaption>2000 - PowerMac G4</figcaption>
-</figure>
-<figure>
-    <img src="/assets/pages/computer-vintage/power-mac-g5.webp"/>
-    <figcaption>200x - PowerMac G5</figcaption>
-</figure>
-<figure>
     <img src="/assets/pages/computer-vintage/atari-1040-ste.webp"/>
     <figcaption>
         1990 - Atari 1040 STE. This was my own personal computer from the late 1980s to the early 1990s, and the first
@@ -293,6 +282,18 @@ at least one Z80 CPU for I/O!).
         <br/>
         <a href="https://photos.app.goo.gl/tZpUVih1QPFGiLHZ6">In progress</a>
     </figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/computer-vintage/power-macintosh-g3.webp"/>
+    <figcaption>1997-1998 - Power Macintosh G3</figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/computer-vintage/power-mac-g4.webp"/>
+    <figcaption>2000 - PowerMac G4</figcaption>
+</figure>
+<figure>
+    <img src="/assets/pages/computer-vintage/power-mac-g5.webp"/>
+    <figcaption>200x - PowerMac G5</figcaption>
 </figure>
 
 </div>
