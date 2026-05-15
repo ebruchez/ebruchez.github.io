@@ -119,7 +119,7 @@ NEC TK-80, the CompuPro System 8/16, the Wang 2200MVP, and the Smaky 130 Swiss c
 <figure>
     <img src="/assets/pages/computer-vintage/trs80iii.webp"/>
     <figcaption>
-        1981? - Radio Schack TRS-80 Model III. This instance has breaks in its outer case. It came with a printer, some kind of acquisition device, disks, and manuals.
+        1981? - Radio Schack TRS-80 Model III. This instance has cracks in its outer case. It came with a printer, some kind of acquisition device, disks, and manuals.
         <br/>
         <a href="https://photos.app.goo.gl/CMqSi8jH5iGhEPJKA">In progress</a>
     </figcaption>
@@ -154,7 +154,7 @@ NEC TK-80, the CompuPro System 8/16, the Wang 2200MVP, and the Smaky 130 Swiss c
 <figure>
     <img src="/assets/pages/computer-vintage/northstar-advantage.webp"/>
     <figcaption>
-        1982? - NorthStar Advantage
+        1982? - NorthStar Advantage. This machine needs servicing as it doesn't boot.
         <br/>
         <a href="https://photos.app.goo.gl/ce91DbRqkLFexgt27">Pics</a>
     </figcaption>
