@@ -19,6 +19,12 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-05-15: [Alix - Tome 44. Le royaume interdit](https://www.bedetheque.com/BD-Alix-Tome-44-Le-royaume-interdit-517839.html)
+    - 2025
+    - language: French
+    - Scénario: Roger Seiter
+    - Dessin: Marc Jailloux
+    - NOTES: I tend to buy the Seiter/Jailloux albums, but not the others, as this duo usually produces better stories. Here, we have a decent album. The art is quite good, especially Alix and Enak's faces and proportions. We see a new people, with new architecture, new ships, which is interesting. The story is nothing too surprising: we know quickly who the villain is, and that the heroes will be able to go back home after figuring things out.
 - 2026-05-10: [Yoko Tsuno - 23. La pagode des brumes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-23-La-pagode-des-brumes-6009.html)
     - 2001
     - tags: #reread
