@@ -19,11 +19,26 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-06-06:[Les cités obscures - 12. Le Retour du Capitaine Nemo](https://www.bedetheque.com/BD-Cites-obscures-Le-Retour-du-Capitaine-Nemo-482133.html)
+    - 2023
+    - Language: French
+    - Scénario: Benoît Peeters
+    - Dessin: François Schuiten
+    - rating: 3/5
+    - NOTES: There is beautiful art in this book, but it is not a classic bande dessinée, or even truly what I would call an interesting story. I give 5/5 for the art. 
+- 2026-05-18: [Thorgal Saga 4. De givre et de feu](https://www.bedetheque.com/BD-Thorgal-Saga-Tome-4-De-givre-et-de-feu-517436.html)
+    - 2025
+    - Language: French
+    - Scénario: Olivier Legrand, Jean-Blaise Dijan
+    - Dessin: David Etien
+    - rating: 4/5
+    - NOTES: The first album in the "Thorgal Saga" series I have read. It's a fairly good, although classic Thorgal story. Good art. The difference with regular albums is that it is about double the length, at 90+ pages.
 - 2026-05-15: [Alix - Tome 44. Le royaume interdit](https://www.bedetheque.com/BD-Alix-Tome-44-Le-royaume-interdit-517839.html)
     - 2025
     - language: French
     - Scénario: Roger Seiter
     - Dessin: Marc Jailloux
+    - rating: 4/5
     - NOTES: I tend to buy the Seiter/Jailloux albums, but not the others, as this duo usually produces better stories. Here, we have a decent album. The art is quite good, especially Alix and Enak's faces and proportions. We see a new people, with new architecture, new ships, which is interesting. The story is nothing too surprising: we know quickly who the villain is, and that the heroes will be able to go back home after figuring things out.
 - 2026-05-10: [Yoko Tsuno - 23. La pagode des brumes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-23-La-pagode-des-brumes-6009.html)
     - 2001
