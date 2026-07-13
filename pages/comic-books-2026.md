@@ -19,6 +19,68 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-07-13: [Achille Talon - 30. Achille Talon a un gros nez Ah ! Ah ! Ah !](https://www.bedetheque.com/BD-Achille-Talon-Tome-30-Achille-Talon-a-un-gros-nez-Ah-Ah-Ah-32.html)
+    - 1982
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - Again, an album of gags, which I usually don't like as much as the complete stories.
+        - Gags are from multiple periods. There are even some so-so strips (possibly not drawn by Greg?).
+        - The short series about Talon being a presidential candidate is quite funny, as are some other two-page gags.
+- 2026-07-12: [Achille Talon - 29. Achille Talon et la loi du Bidouble](https://www.bedetheque.com/BD-Achille-Talon-Tome-29-Achille-Talon-et-la-loi-du-Bidouble-31.html)
+    - 1981
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - An entertaining story with a lot of humor. But it is maybe not quite as good as the previous album where Fo-Pli, the Chinese scientist, appears.
+        - I have never liked the cover of this album, where Talon's nose is obviously too small.
+- 2026-06-26: [Valérian - 2. L'empire des mille planètes](https://www.bedetheque.com/BD-Valerian-Tome-2-L-empire-des-mille-planetes-2578.html)
+    - 1971
+    - tags: #reread
+    - Scénario: Pierre Christin 
+    - Dessin: Jean-Claude Mézières
+    - rating: 5/5
+    - NOTES: Considered one of the best, if not the best album of the series. The adventure moves quickly, and is quite rich.
+- 2026-06-26: [Achille Talon - 28. L'insubmersible Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-28-L-insubmersible-Achille-Talon-30.html)
+    - 1981
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES: After a series of five full stories, we are back to an album of gags. The Achille Talon I enjoy the most is the hero of the complete adventure stories, even though the character started with one-page or two-page gags. In addition, in this album, the gags are a little uneven. Some of them are funny, but the ones about the flea, for example, are a little boring. 
+- 2026-06-25: [Valérian - 1. La Cité des eaux mouvantes](https://www.bedetheque.com/BD-Valerian-Tome-1-La-Cite-des-eaux-mouvantes-26647.html)
+    - 1970
+    - tags: #reread
+    - Scénario: Pierre Christin 
+    - Dessin: Jean-Claude Mézières
+    - rating: 4/5
+    - NOTES: First adventure of Valérian, with a lot of action. Excellent, just not perfect because the characters are not visually finalized yet.
+- 2026-06-24: [Les petits hommes - 5. L'œil du Cyclope](https://www.bedetheque.com/BD-Petits-hommes-Tome-5-L-oeil-du-Cyclope-24014.html)
+    - 1976
+    - Dessins: Pierre Seron
+    - Scénario: Jean Mariette (Hao)
+    - tags: #reread
+    - rating: 5/5
+    - NOTES: My only album of "Les petits hommes", that I have owned since I was a kid (actually, I also have "Le pickpocket", a funny album which crossed over with the Scrameustache). It seems that the series is really good, and that this one is not the best album. But I enjoyed this story.
+- 2026-06-24: [Achille Talon - 27. Ne rêvons pas !](https://www.bedetheque.com/BD-Achille-Talon-Tome-27-Ne-revons-pas-29.html)
+    - 1981
+    - Author: Greg
+    - tags: #reread
+    - rating: 5/5
+    - NOTES: Good story, in which Maman Talon takes an important role. Pétard also plays a role. Papa Talon is hilarious when his wife takes the lead to get him to serve as bait to trap the villains.
+- 2026-06-23: [Achille Talon - 26. Achille Talon et l'arme du crocodile](https://www.bedetheque.com/BD-Achille-Talon-Tome-26-Achille-Talon-et-l-arme-du-crocodile-28.html)
+    - 1980
+    - Author: Greg
+    - tags: #reread
+    - rating: 5/5
+    - NOTES: Pétard the duck is now fully part of the Talon universe. But Achille, throughout the beginning of the story, doesn't yet want to admit that he loves the animal. We know from the first drawing that in fact he does, with Pétard in his own swimming pool, including a little rubber ducky. Eventually, our Chichille has to admit it. I, for one, like Pétard. It is an unlikely companion for a hero, but that is part of the humor, as Talon himself is an unlikely hero. Again, here we have a detective story. But in the end the monopoly of the "Bzz" company would have been discovered anyway. However, Talon, Lefuneste, Papa Talon, Mr. Honeywell, and Pétard, help remove Gavial's threat entirely. And curiously, Gavial is not punished at all.
+- 2026-06-23: [Achille Talon - 25. Achille Talon et l'esprit d'Éloi](https://www.bedetheque.com/BD-Achille-Talon-Tome-25-Achille-Talon-et-l-esprit-d-Eloi-27.html)
+    - 1980
+    - Author: Greg
+    - tags: #reread
+    - rating: 5/5
+    - NOTES: Talon inherits the duck Pétard at the end of this story. This is a great detective story. The humor is top notch, from the first page to the last. The atmosphere of the beginning of the story, in an unusually heavy rain, is wonderful. It makes me think of "S.O.S Météores", although here the weather is not being manipulated. I like how Papa and Maman Talon help save the day in the end.
 - 2026-06-06:[Les cités obscures - 12. Le Retour du Capitaine Nemo](https://www.bedetheque.com/BD-Cites-obscures-Le-Retour-du-Capitaine-Nemo-482133.html)
     - 2023
     - Language: French
