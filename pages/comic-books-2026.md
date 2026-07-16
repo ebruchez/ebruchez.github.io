@@ -19,6 +19,32 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-07-15: [Achille Talon - 33. Achille Talon et la vie secrète du journal... Polite !](https://www.bedetheque.com/BD-Achille-Talon-Tome-33-Achille-Talon-et-la-vie-secrete-du-journal-Polite-35.html)
+    - 1983
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - Gags about Talon at Polite - first, about this return to the journal, and then older gags too.
+        - There are some really good jabs at life in a magazine, and a lot of self-deprecating humor about the author, his own work, and his character.
+- 2026-07-15: [Achille Talon - 32. Achille Talon et la traversée du disert](https://www.bedetheque.com/BD-Achille-Talon-Tome-32-Achille-Talon-et-la-traversee-du-disert-34.html)
+    - 1982
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - Finally, a new complete story, after a series of albums of gags.
+        - The story is fairly unambitious: a family picnic turns to an abduction by two bandits and a run towards the border.
+        - But there is so much humor along the way!
+- 2026-07-14: [Achille Talon - 31. Il n'y a (Dieu merci) qu'un seul Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-31-Il-n-y-a-Dieu-merci-qu-un-seul-Achille-Talon-33.html)
+    - 1982
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - Again, an album of gags, which I usually don't like as much as the complete stories.
+        - The series about history is pretty funny.
+        - The other gags are quite good as well.
 - 2026-07-13: [Achille Talon - 30. Achille Talon a un gros nez Ah ! Ah ! Ah !](https://www.bedetheque.com/BD-Achille-Talon-Tome-30-Achille-Talon-a-un-gros-nez-Ah-Ah-Ah-32.html)
     - 1982
     - Author: Greg
