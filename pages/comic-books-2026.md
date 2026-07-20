@@ -19,6 +19,44 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-07-19: [Achille Talon - 35. Achille Talon et l'archipel de Sanzunron](https://www.bedetheque.com/BD-Achille-Talon-Tome-37-Achille-Talon-et-l-archipel-de-Sanzunron-29354.html)
+    - 1985
+    - Author: Greg
+    - Dessin: Robert Pire
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - This is one of the first Achille Talon albums I had. I probably bought it soon after its release.
+        - This is not drawn by Greg, but by Robert Pire. The art is very good in its own way, but again we have a different visual style.
+        - The humor is excellent. But this story was sponsored by a French bank, and had to have an educative message about the importance of financial institutions. You might like this or not.
+        - Talon in this story is clearly the wise person, the one how understands that society cannot work without certain institutions, while Lefuneste is the naive character who believes there is a truly different way, but without much supporting evidence. In the end, Talon wins: the world needs banking, insurances, etc. A pure return to barter alone cannot work.
+        - In its way, this is a small masterpiece, and there are many memorable moments. But it is not exactly in line with Talon's regular adventures, which is why I don't think I can give it a 5/5. Also note that Petard, Talon's duck, is missing from this story - another indication that this story sits separately from other Talon adventures.
+- 2026-07-19: [Achille Talon - 36. Achille Talon n'a pas tout dit...](https://www.bedetheque.com/BD-Achille-Talon-Tome-36-Achille-Talon-n-a-pas-tout-dit-38.html)
+    - 1984
+    - Author: Greg
+    - tags: #reread
+    - rating: 3/5
+    - NOTES:
+        - A clear change of visual style in this album. The art is less detailed, the characters different from the older Greg styles. I am not sure Greg drew these himself, but that is possible.
+        - Here we have several multipage gags. Some are quite funny, in their way, like the one about laundry detergents, and the one about doing a magazine special. I'll regret seeing Talon burning cash on page 24 - this has been done other times in Talon's career. Some of the other gags are so-so. 
+- 2026-07-17: [Achille Talon - 35. Achille Talon... à bout portant !](https://www.bedetheque.com/BD-Achille-Talon-Tome-35-Achille-Talon-a-bout-portant-37.html)
+    - 1984 
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - Another album of gags.
+        - This is possibly the first Achille Talon I had. I have two instances, one in worse condition, and I must have bought a newer one later.
+        - Several excellent gags here, including the "telephone game" one, the 250th gag, and more.
+- 2026-07-16: [Achille Talon - 34. L'incorrigible Achille Talon](https://www.bedetheque.com/BD-Achille-Talon-Tome-34-L-incorrigible-Achille-Talon-36.html)
+    - 1983
+    - Author: Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - Another album of gags.
+        - Some excellent ones, like the chess game, the new neighbor, the modesty contest, the car accident. Some so-so gags.
+        - The last one, "Faux tôt printemps", is a 4-page story with some extraordinary humor, although the story itself is not much. Papa Talon says "C'est curieux, Chichille mon fils, mais soudain je t'observe et je m'interroge: l'air vif de la campagne te donne bien des couleurs, mais plus variées qu'il n'est d'usage." Then later the same happens to papa Talon. Also: "Dommage que ton chapeau ne réponde à aucune forme précise. - Il a la forme de ma tête, mon chapeau!" 
 - 2026-07-15: [Achille Talon - 33. Achille Talon et la vie secrète du journal... Polite !](https://www.bedetheque.com/BD-Achille-Talon-Tome-33-Achille-Talon-et-la-vie-secrete-du-journal-Polite-35.html)
     - 1983
     - Author: Greg
