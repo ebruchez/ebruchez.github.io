@@ -19,6 +19,18 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-07-20: [Achille Talon - 36. Achille Talon contre docteur Chacal et Mister Bide !](https://www.bedetheque.com/BD-Achille-Talon-Tome-38-Achille-Talon-contre-docteur-Chacal-et-Mister-Bide-40.html)
+    - 198x
+    - Author : Greg
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - We are back to a regular Achille Talon story, with Pétard, Papa Talon, etc.
+        - Inspired by the story of Dr. Jekyll and Mr. Hyde (which I didn't know when I read this album first).
+        - Papa Talon takes an important role in this story, in the role of the old "barroudeur" with experience of Africa. This echoes xxx.
+        - A lot of the story requires minimal decors, like the "nth album" gag, and the part where the breaking of glass containers takes place. Greg had a certain laziness, which he commented on in "La traversée du disert".
+        - All the action is local, taking place at the Talons, then Dr. Jekyll's house, and then at the bank.
+        - It is a good story, but I miss adventure. It is drawn better than what we had in "N'a pas tout dit".
 - 2026-07-19: [Achille Talon - 35. Achille Talon et l'archipel de Sanzunron](https://www.bedetheque.com/BD-Achille-Talon-Tome-37-Achille-Talon-et-l-archipel-de-Sanzunron-29354.html)
     - 1985
     - Author: Greg
@@ -28,6 +40,7 @@ title: Comic Books (2026)
     - NOTES:
         - This is one of the first Achille Talon albums I had. I probably bought it soon after its release.
         - This is not drawn by Greg, but by Robert Pire. The art is very good in its own way, but again we have a different visual style.
+        - Decors are maybe more detailed than they are in most Talon stories. 
         - The humor is excellent. But this story was sponsored by a French bank, and had to have an educative message about the importance of financial institutions. You might like this or not.
         - Talon in this story is clearly the wise person, the one how understands that society cannot work without certain institutions, while Lefuneste is the naive character who believes there is a truly different way, but without much supporting evidence. In the end, Talon wins: the world needs banking, insurances, etc. A pure return to barter alone cannot work.
         - In its way, this is a small masterpiece, and there are many memorable moments. But it is not exactly in line with Talon's regular adventures, which is why I don't think I can give it a 5/5. Also note that Petard, Talon's duck, is missing from this story - another indication that this story sits separately from other Talon adventures.
