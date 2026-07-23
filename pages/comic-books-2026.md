@@ -20,7 +20,7 @@ title: Comic Books (2026)
 # Comic Books (2026)
 
 - 2026-07-20: [Achille Talon - 36. Achille Talon contre docteur Chacal et Mister Bide !](https://www.bedetheque.com/BD-Achille-Talon-Tome-38-Achille-Talon-contre-docteur-Chacal-et-Mister-Bide-40.html)
-    - 198x
+    - 1987
     - Author : Greg
     - tags: #reread
     - rating: 4/5
