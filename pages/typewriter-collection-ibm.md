@@ -134,7 +134,10 @@ This page presents my collection of 32 IBM typewriters as of March 2026 (excludi
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_8159.jpg"/>
-    <figcaption>1974 - This IBM Memory Typewriter still has some life in it, but refurbishing is in progress.</figcaption>
+    <figcaption>1974 - This IBM Memory Typewriter still has some life in it, but refurbishing is in progress.
+    <br>
+    <a href="/posts/ibm-memory-typewriter/">Blog</a>
+    </figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_5521.jpg"/>
@@ -167,7 +170,7 @@ This page presents my collection of 32 IBM typewriters as of March 2026 (excludi
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_7043.jpg"/>
-    <figcaption>1981 - This IBM Memory Typwewriter 100 needs refurbishing. It barely escaped destruction. The 100 has double the tape capacity as the earlier Memory Typewriter.</figcaption>
+    <figcaption>1981 - This IBM Memory Typewriter 100 needs refurbishing. It barely escaped destruction. The 100 has double the tape capacity as the earlier Memory Typewriter.</figcaption>
 </figure>
 <figure>
     <img src="/assets/pages/typewriter-ibm/IMG_4254.jpg"/>
@@ -179,6 +182,10 @@ This page presents my collection of 32 IBM typewriters as of March 2026 (excludi
 </figure>
 
 </div>
+
+TODO:
+
+- list of all IBM manuals I have 
 
 ## See also
 
