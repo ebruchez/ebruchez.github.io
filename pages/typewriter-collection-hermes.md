@@ -8,6 +8,8 @@ comments: true
 
 ## Introduction
 
+*This page describes part of the Bruchez typewriter collection.*
+
 As a native of Switzerland, I am a little partial to Hermes typewriters (which, of course, were designed and made there). This said, I truly love the look and feel of these machines. In particular, a 1970 "boxy" Hermes 3000 and a 1946 Media 2000 are some of my favorite typewriters.
 
 I would love to eventually complete my collection with:

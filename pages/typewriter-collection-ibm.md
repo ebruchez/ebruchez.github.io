@@ -8,6 +8,8 @@ comments: true
 
 ## Introduction
 
+*This page describes part of the Bruchez typewriter collection.*
+
 I collect IBM typewriters, including:
 
 - __Typebar typewriters:__ This family of typewriters started with IBM's acquisition of Electromatic in 1933. A subset of this family are _Executive_ models, that feature proportional spacing and carbon ribbon.

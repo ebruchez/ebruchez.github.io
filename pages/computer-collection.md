@@ -3,9 +3,14 @@ layout: page
 title: "Computer collection"
 ---
 
+TODO: indicate this is part of the Bruchez Collection (Typewriter and Computer Collections)
+TODO: also the Pietro Mascagni Collection
+
 # Computer collection
 
 ## Introduction
+
+*This page describes part of the Bruchez computer collection.*
 
 In addition to typewriters, I have been collecting vintage computers, teletypes, terminals, and a few other accessories for a while.
 Here is the current collection.
@@ -334,6 +339,22 @@ But I worked hard to make the Apple-1 reproduction, in spite of standing on the 
 
 </div>
 
+## Other devices and accessories
+
+- De Vry Institute of Technology - Logic learner
+- HAL Communications Corp DKB-2010 Dual Mode Keyboard
+- knight-kit - KG620 Vacuum Tube Voltmeter
+- Heathkit Transistor Checker - Part 1
+- DEC CPU board (PDP-11 KDF11-A CPU)
+- Power Designs Inc. Transistorized Power Supply Model 2050 
+- Trendcom 100 small printer
+- other tube PSU
+- vintage oscilloscope
+- Apple printer
+- 8080 CPU
+- PDP-11 CPU
+- Apple monitors
+
 <!--
 ## TODO
 
@@ -352,10 +373,6 @@ Better pics:
 
 TODO:
 
-- Apple IIe
-- Apple monitors
-- 8080 CPU
-- PDP-11 CPU
 - printers: small one and Apple
 -->
 

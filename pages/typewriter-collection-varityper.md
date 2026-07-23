@@ -6,6 +6,8 @@ comments: true
 
 # Typewriter Collection: Varityper
 
+*This page describes part of the Bruchez typewriter collection.*
+
 ![Disassembled Varityper A-20 from 1940](/assets/pages/typewriter-varityper/IMG_4833.jpg){:standalone width="50%"}
 
 ## Introduction

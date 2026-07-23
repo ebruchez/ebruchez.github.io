@@ -6,6 +6,8 @@ comments: true
 
 # Typewriter Collection: Accounting Machines
 
+*This page describes part of the Bruchez typewriter collection.*
+
 This page lists typewriters which are enhanced for numerical work. It took a while for typewriters to get a *tabulator* — a mechanism to quickly move the carriage to one or more specific columns on the page. But once that happened, basic tabulators became very popular and even a default feature on most machines.
 
 Tabulators evolved further to be useful for accounting and bookkeeping, specifically in the form of the *decimal tabulator*, which allows aligning numbers on their decimal point. The first instance of this type which I am aware of, and which is fairly well-known among typewriter collectors, is the *Gorin tabulator*, patented in 1896.

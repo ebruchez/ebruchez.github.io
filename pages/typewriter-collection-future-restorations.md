@@ -10,6 +10,8 @@ comments: true
 
 ## Introduction
 
+*This page describes part of the Bruchez typewriter collection.*
+
 This page covers some of my typewriters that need restoration, and that should look particularly beautiful if not stunning once restored. The conditions vary from machines that require full restoration to machine that should only need a quick cleaning.
 
 Among them are a couple of rare machines, as well as several uncommon ones. There are 6 machines from the nineteenth century, while all the other ones are from the twentieth century. 

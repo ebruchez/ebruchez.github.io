@@ -8,6 +8,8 @@ comments: true
 
 ## Introduction
 
+*This page describes part of the Bruchez typewriter collection.*
+
 How should we use the word "restoration" when applied to typewriters? Like with many words, there can be a more or less strict meaning. The word generally means "bring back to a previous, functional, or original state." Under this general definition, work done on a typewriter is a restoration if it gets it closer to its former glory. A stricter definition could require that parts be fixed or replaced, or significant work such as disassembly or paint touch-ups be performed. On this page, I start with projects that qualify for the stricter use of the word under "Advanced restorations," and I continue with projects that involved significant work — just not as much.
 
 ## Advanced restorations
