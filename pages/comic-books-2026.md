@@ -27,7 +27,7 @@ title: Comic Books (2026)
     - NOTES:
         - We are back to a regular Achille Talon story, with Pétard, Papa Talon, etc.
         - Inspired by the story of Dr. Jekyll and Mr. Hyde (which I didn't know when I read this album first).
-        - Papa Talon takes an important role in this story, in the role of the old "barroudeur" with experience of Africa. This echoes xxx.
+        - Papa Talon takes an important role in this story, in the role of the old "barroudeur" with experience of Africa. This echoes "Le Coquin de Sort".
         - A lot of the story requires minimal decors, like the "nth album" gag, and the part where the breaking of glass containers takes place. Greg had a certain laziness, which he commented on in "La traversée du disert".
         - All the action is local, taking place at the Talons, then Dr. Jekyll's house, and then at the bank.
         - It is a good story, but I miss adventure. It is drawn better than what we had in "N'a pas tout dit".
