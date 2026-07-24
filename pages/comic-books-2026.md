@@ -19,6 +19,15 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-07-23: [Boule et Bill - 10. Bill, chien modèle](https://www.bedetheque.com/BD-Boule-et-Bill-02-Edition-actuelle-Tome-10-Boule-Bill-10-139343.html)
+    - 1970, 1980
+    - Author: Jean Roba
+    - tags: #reread
+    - rating: 5/5
+    - NOTES:
+        - It seems that the Boule et Bill collection is a bit of a mess with several incompatible editions.
+        - I remember all gags of this album. All gags are classics.
+        - I particularly like the one where the dad tries to get to the sea and is constantly interrupted by the mom.
 - 2026-07-20: [Achille Talon - 36. Achille Talon contre docteur Chacal et Mister Bide !](https://www.bedetheque.com/BD-Achille-Talon-Tome-38-Achille-Talon-contre-docteur-Chacal-et-Mister-Bide-40.html)
     - 1987
     - Author : Greg
@@ -42,7 +51,7 @@ title: Comic Books (2026)
         - This is not drawn by Greg, but by Robert Pire. The art is very good in its own way, but again we have a different visual style.
         - Decors are maybe more detailed than they are in most Talon stories. 
         - The humor is excellent. But this story was sponsored by a French bank, and had to have an educative message about the importance of financial institutions. You might like this or not.
-        - Talon in this story is clearly the wise person, the one how understands that society cannot work without certain institutions, while Lefuneste is the naive character who believes there is a truly different way, but without much supporting evidence. In the end, Talon wins: the world needs banking, insurances, etc. A pure return to barter alone cannot work.
+        - Talon in this story is clearly the wise person, the one who understands that society cannot work without certain institutions, while Lefuneste is the naive character who believes there is a truly different way, but without much supporting evidence. In the end, Talon wins: the world needs banking, insurances, etc. A pure return to barter alone cannot work.
         - In its way, this is a small masterpiece, and there are many memorable moments. But it is not exactly in line with Talon's regular adventures, which is why I don't think I can give it a 5/5. Also note that Petard, Talon's duck, is missing from this story - another indication that this story sits separately from other Talon adventures.
 - 2026-07-19: [Achille Talon - 36. Achille Talon n'a pas tout dit...](https://www.bedetheque.com/BD-Achille-Talon-Tome-36-Achille-Talon-n-a-pas-tout-dit-38.html)
     - 1984
@@ -158,7 +167,7 @@ title: Comic Books (2026)
     - tags: #reread
     - rating: 5/5
     - NOTES: Talon inherits the duck Pétard at the end of this story. This is a great detective story. The humor is top notch, from the first page to the last. The atmosphere of the beginning of the story, in an unusually heavy rain, is wonderful. It makes me think of "S.O.S Météores", although here the weather is not being manipulated. I like how Papa and Maman Talon help save the day in the end.
-- 2026-06-06:[Les cités obscures - 12. Le Retour du Capitaine Nemo](https://www.bedetheque.com/BD-Cites-obscures-Le-Retour-du-Capitaine-Nemo-482133.html)
+- 2026-06-06: [Les cités obscures - 12. Le Retour du Capitaine Nemo](https://www.bedetheque.com/BD-Cites-obscures-Le-Retour-du-Capitaine-Nemo-482133.html)
     - 2023
     - Language: French
     - Scénario: Benoît Peeters
