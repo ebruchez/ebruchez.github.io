@@ -19,6 +19,38 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-02-27: [Thorgal - 42. Özurr le Varègue](https://www.bedetheque.com/BD-Thorgal-Tome-42-Ozurr-le-Varegue-506689.html)
+    - 2024
+    - language: French
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - NOTES:
+        - A decent story. I don't quite get the low ratings on Bedetheque.
+        - Again Thorgal takes the party of the weak, voluntering to fight Özurr to save a younger man from certain death.
+        - The arc of Boréale develops a little. She is a highly intelligent and educated woman, and must go back to a simple, violent life. She cannot stand it and leaves the village, contemplating suicide. Certainly, in the next album (which I haven't read yet), Jolan will try to get her back.
+        - The story takes place entirely in the village.
+        - I disagree with reviews on Bedetheque for the last few albums.
+            - Are we at the top of the Thorgal universe? Of course not. That is long gone. That magic will probably never come back.
+            - But on the other hand, there is a clear new arc developing, returning, with Neokóra, to Thorgal's ship, and getting a new character, Boréale, into the story.
+- 2026-07-26: [Donjon monsters, tome 4. Le Noir Seigneur](https://www.bedetheque.com/BD-Donjon-Monsters-Tome-4-Le-Noir-Seigneur-26860.html)
+    - 2003
+    - language: French
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Stéphane Blanquet
+    - NOTES:
+        - Takes place right after "La Carte majeure".
+        - Shows some of the same events "La Carte majeure" from a different perspective, like when Marvin Rouge goes fetch the map.
+        - Herbert gets rid of the black entity, and must also retrieve the map. 
+        - He must reassert his power. Now that the entity has left him, not everybody is loyal to him.
+        - The world explodes, and the black fortress (formerly the Dungeon) is split into multiple parts.
+        - Darker album, less humor.
+- 2026-07-26: [Donjon monsters, tome 3. La Carte majeure](https://www.bedetheque.com/BD-Donjon-Monsters-Tome-3-La-Carte-majeure-21043.html)
+    - 2002
+    - language: French
+    - tags: #reread
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Andreas
+    - NOTES: Quick reread before reading "Le noir seigneur" 
 - 2026-07-23: [Boule et Bill - 10. Bill, chien modèle](https://www.bedetheque.com/BD-Boule-et-Bill-02-Edition-actuelle-Tome-10-Boule-Bill-10-139343.html)
     - 1970, 1980
     - Author: Jean Roba
