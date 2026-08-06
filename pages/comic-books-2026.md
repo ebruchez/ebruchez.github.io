@@ -19,6 +19,18 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-08-05: [Il Destino de Paperone](https://www.bedetheque.com/BD-Topolino-INT-Il-destino-di-Paperone-486266.html)
+    - 2023
+    - language: Italian
+    - Scénario: Fabio Celoni
+    - Dessin: Fabio Celoni
+    - Couleurs: Luca Merli
+    - NOTES:
+        - Contains a prologue, 4 stories, and then an epilogue, organized in a planned arc based on a follow-up to a Romano Scarpa story, ["Paperino e le lenticchie di Babilonia"](https://it.wikipedia.org/wiki/Paperino_e_le_lenticchie_di_Babilonia).
+        - This complete hardcover album also includes interviews of Fabio Celoni and Luca Merli, and some background about the project.
+        - The art is excellent, very cinema-like. You can tell that there is significant work behind the project.
+        - All in all, a really well-made series of stories.
+        - I already knew Celino, having a book of this stries, as well as his "Duckenstein".
 - 2026-02-27: [Thorgal - 42. Özurr le Varègue](https://www.bedetheque.com/BD-Thorgal-Tome-42-Ozurr-le-Varegue-506689.html)
     - 2024
     - language: French
