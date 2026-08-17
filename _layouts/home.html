@@ -43,7 +43,7 @@ layout: page
 {% if paginator.page == 1 or paginator.page == nil %}
 <div class="home-tiles-container mb-4">
   <h2 class="home-tiles-heading text-muted">
-    <i class="fas fa-layer-group mr-2"></i>Featured Series
+    <i class="fas fa-layer-group mr-2"></i>Featured Series & Collections
   </h2>
 
   <div class="home-tiles-grid">
@@ -57,7 +57,7 @@ layout: page
         </figcaption>
       </div>
       <div class="tile-body">
-        <h3 class="tile-title">Building an Apple-1 reproduction</h3>
+        <h3 class="tile-title">Building an Apple-1 Reproduction</h3>
         <ul class="tile-post-list">
           {% assign apple1_paths = "/posts/apple-1-reproduction-part-1-components/,/posts/apple-1-reproduction-part-2-power-supply/,/posts/apple-1-reproduction-part-3-retro-chip-tester/,/posts/apple-1-reproduction-part-4-assembly/,/posts/apple-1-reproduction-part-5-monitor-keyboard-power-up/,/posts/apple-1-reproduction-part-6-c-programming/,/posts/apple-1-reproduction-part-7-audio-cassette-adapter/" | split: "," %}
           {% for path in apple1_paths %}
@@ -82,7 +82,7 @@ layout: page
         </figcaption>
       </div>
       <div class="tile-body">
-        <h3 class="tile-title">IBM typewriters</h3>
+        <h3 class="tile-title">IBM Typewriters</h3>
         <ul class="tile-post-list">
           {% assign ibm_paths = "/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/" | split: "," %}
           {% for path in ibm_paths %}
@@ -94,6 +94,54 @@ layout: page
             </li>
             {% endif %}
           {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tile 3: Typewriter collection -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/pages/typewriter-completed-restorations/IMG_3871.jpg' | relative_url }}" alt="Typewriter collection" loading="lazy">
+        <figcaption class="tile-caption">
+          From the typewriter collection
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">The Bruchez Typewriter Collection</h3>
+        <ul class="tile-post-list">
+          {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/pages/typewriter-bucket-list/" | split: "," %}
+          {% for path in tw_paths %}
+            {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
+            {% if p %}
+            <li>
+              <i class="far fa-file-alt mr-2 text-muted"></i>
+              <a href="{{ p.url | relative_url }}">{{ p.title | remove: "Typewriter Collection: " }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tile 4: Computer collection -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/pages/computer-vintage/northstar-advantage.webp' | relative_url }}" alt="Computer collection" loading="lazy">
+        <figcaption class="tile-caption">
+          From the computer collection
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">The Bruchez Computer Collection</h3>
+        <ul class="tile-post-list">
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/pages/computer-collection/' | relative_url }}">Computer collection</a>
+          </li>
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/pages/computer-bucket-list/' | relative_url }}">Computer bucket list</a>
+          </li>
         </ul>
       </div>
     </div>
