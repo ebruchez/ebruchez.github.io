@@ -40,6 +40,69 @@ layout: page
 {% endif %}
 
 
+{% if paginator.page == 1 or paginator.page == nil %}
+<div class="home-tiles-container mb-4">
+  <h2 class="home-tiles-heading text-muted">
+    <i class="fas fa-layer-group mr-2"></i>Featured Series
+  </h2>
+
+  <div class="home-tiles-grid">
+
+    <!-- Tile 1: Building an Apple-1 reproduction -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/posts/apple1/2x/IMG_0240.jpg' | relative_url }}" alt="Building an Apple-1 reproduction" loading="lazy">
+        <figcaption class="tile-caption">
+          Completed Apple-1 reproduction
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">Building an Apple-1 reproduction</h3>
+        <ul class="tile-post-list">
+          {% assign apple1_paths = "/posts/apple-1-reproduction-part-1-components/,/posts/apple-1-reproduction-part-2-power-supply/,/posts/apple-1-reproduction-part-3-retro-chip-tester/,/posts/apple-1-reproduction-part-4-assembly/,/posts/apple-1-reproduction-part-5-monitor-keyboard-power-up/,/posts/apple-1-reproduction-part-6-c-programming/,/posts/apple-1-reproduction-part-7-audio-cassette-adapter/" | split: "," %}
+          {% for path in apple1_paths %}
+            {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% if p %}
+            <li>
+              <i class="far fa-file-alt mr-2 text-muted"></i>
+              <a href="{{ p.url | relative_url }}">{{ p.title | remove: "Building an Apple-1 Reproduction in 2024/2025 - " | remove: "Building an Apple-1 Reproduction in 2024 - " }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tile 2: IBM typewriters -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/pages/typewriter-bucket-list/ibmmtsc.jpg' | relative_url }}" alt="IBM Magnetic Tape Selectric Composer (MT/SC)" loading="lazy">
+        <figcaption class="tile-caption">
+          IBM Magnetic Tape Selectric Composer (MT/SC)
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">IBM typewriters</h3>
+        <ul class="tile-post-list">
+          {% assign ibm_paths = "/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/" | split: "," %}
+          {% for path in ibm_paths %}
+            {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% if p %}
+            <li>
+              <i class="far fa-file-alt mr-2 text-muted"></i>
+              <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+{% endif %}
+
+
 <div id="post-list">
 
 {% for post in posts %}
@@ -52,8 +115,11 @@ layout: page
     <div class="post-content">
       <p>
         {% include no-linenos.html content=post.content %}
-        {{ content | markdownify | strip_html | truncate: 200 }}
+        {{ content | markdownify | strip_html | truncate: 300 }}
       </p>
+      {% if post.main_image %}
+      <img src="{{ site.baseurl }}{{ post.main_image }}">
+      {% endif %}
     </div>
 
     <div class="post-meta text-muted d-flex justify-content-between">
