@@ -163,6 +163,10 @@ This page presents my collection of 32 IBM typewriters as of March 2026 (excludi
     <figcaption>1978 - This IBM Electronic Selectric Composer still has some life in it, but refurbishing is in progress.</figcaption>
 </figure>
 <figure>
+    <img src="/assets/pages/typewriter-ibm/IMG_6935.webp"/>
+    <figcaption>1978 - This IBM Electronic Typewriter 50 needs refurbishing. This is similar to its successor, the IBM Electronic Typewriter 75, shown below.</figcaption>
+</figure>
+<figure>
     <img src="/assets/pages/typewriter-ibm/IMG_8476.jpg"/>
     <figcaption>197x - This black IBM Correcting Selectric II works to some degree, but needs further refurbishing.</figcaption>
 </figure>
