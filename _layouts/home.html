@@ -107,11 +107,15 @@ layout: page
         </figcaption>
       </div>
       <div class="tile-body">
-        <h3 class="tile-title">The Bruchez Typewriter Collection</h3>
+        <h3 class="tile-title">Bruchez Typewriter Collection</h3>
         <ul class="tile-post-list">
-          {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/posts/hermes-baby-1961/,/pages/typewriter-bucket-list/" | split: "," %}
+          {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/posts/hermes-baby-1961/,/posts/royal-fp-special-order-1960/,/pages/typewriter-bucket-list/" | split: "," %}
           {% for path in tw_paths %}
-            {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
+            {% if path contains "/posts/" %}
+              {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% else %}
+              {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
+            {% endif %}
             {% if p %}
             <li>
               <i class="far fa-file-alt mr-2 text-muted"></i>
@@ -132,7 +136,7 @@ layout: page
         </figcaption>
       </div>
       <div class="tile-body">
-        <h3 class="tile-title">The Bruchez Computer Collection</h3>
+        <h3 class="tile-title">Bruchez Computer Collection</h3>
         <ul class="tile-post-list">
           <li>
             <i class="far fa-file-alt mr-2 text-muted"></i>
