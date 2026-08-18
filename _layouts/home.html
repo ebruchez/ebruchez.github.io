@@ -140,8 +140,45 @@ layout: page
           </li>
           <li>
             <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/posts/televideo-800a-terminal/' | relative_url }}">The Televideo 800A Terminal</a>
+          </li>
+            <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/posts/televideo-912-terminal-1/' | relative_url }}">The Televideo 912 Terminal 1</a>
+          </li>
+            <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/posts/televideo-912-terminal-2/' | relative_url }}">The Televideo 912 Terminal 2</a>
+          </li>
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
             <a href="{{ '/pages/computer-bucket-list/' | relative_url }}">Computer bucket list</a>
           </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tile 5: Repairs and restorations -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/pages/typewriter-future-restorations/caligraph-2-knolling.jpg' | relative_url }}" alt="Repairs and restorations" loading="lazy">
+        <figcaption class="tile-caption">
+          Disassembled 1893 Caligraph 2
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">Repairs and restorations</h3>
+        <ul class="tile-post-list">
+          {% assign repair_paths = "/posts/fixing-yamaha-clavinova-clp-280/,/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/,/posts/restoring-yost-20/,/posts/televideo-800a-terminal/,/posts/televideo-912-terminal-1/,/posts/televideo-912-terminal-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/restoring-ibm-memory-typewriter-1/,/posts/vic-20-key/" | split: "," %}
+          {% for path in repair_paths %}
+            {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% if p %}
+            <li>
+              <i class="far fa-file-alt mr-2 text-muted"></i>
+              <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
         </ul>
       </div>
     </div>
