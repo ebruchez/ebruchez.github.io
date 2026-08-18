@@ -42,9 +42,9 @@ layout: page
 
 {% if paginator.page == 1 or paginator.page == nil %}
 <div class="home-tiles-container mb-4">
-  <h2 class="home-tiles-heading text-muted">
-    <i class="fas fa-layer-group mr-2"></i>Featured Series & Collections
-  </h2>
+<!--  <h2 class="home-tiles-heading text-muted">-->
+<!--    <i class="fas fa-layer-group mr-2"></i>Featured Series & Collections-->
+<!--  </h2>-->
 
   <div class="home-tiles-grid">
 
@@ -109,7 +109,7 @@ layout: page
       <div class="tile-body">
         <h3 class="tile-title">The Bruchez Typewriter Collection</h3>
         <ul class="tile-post-list">
-          {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/pages/typewriter-bucket-list/" | split: "," %}
+          {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/posts/hermes-baby-1961/,/pages/typewriter-bucket-list/" | split: "," %}
           {% for path in tw_paths %}
             {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
             {% if p %}
@@ -167,7 +167,7 @@ layout: page
         </figcaption>
       </div>
       <div class="tile-body">
-        <h3 class="tile-title">Repairs and restorations</h3>
+        <h3 class="tile-title">Repairs and Restorations</h3>
         <ul class="tile-post-list">
           {% assign repair_paths = "/posts/fixing-yamaha-clavinova-clp-280/,/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/,/posts/restoring-yost-20/,/posts/televideo-800a-terminal/,/posts/televideo-912-terminal-1/,/posts/televideo-912-terminal-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/restoring-ibm-memory-typewriter-1/,/posts/vic-20-key/" | split: "," %}
           {% for path in repair_paths %}
@@ -183,11 +183,38 @@ layout: page
       </div>
     </div>
 
+    <!-- Tile 6: Recent blog posts -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/posts/hermes-baby-1961/2x/IMG_3376.jpg' | relative_url }}" alt="Recent blog posts" loading="lazy">
+        <figcaption class="tile-caption">
+          Recent Blog Posts
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">Recent blog posts</h3>
+        <ul class="tile-post-list">
+          {% for post in posts limit: 10 %}
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </li>
+          {% endfor %}
+          <li>
+            <i class="fas fa-archive mr-2 text-muted"></i>
+            <a href="{{ '/tabs/archives/' | relative_url }}">All posts...</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
   </div>
 </div>
 {% endif %}
 
+{% if false %}
 
+{% if paginator.page > 1 %}
 <div id="post-list">
 
 {% for post in posts %}
@@ -241,7 +268,10 @@ layout: page
 {% endfor %}
 
 </div> <!-- #post-list -->
+{% endif %}
 
 {% if paginator.total_pages > 0 %}
   {% include post-paginator.html %}
+{% endif %}
+
 {% endif %}
