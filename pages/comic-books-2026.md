@@ -19,6 +19,80 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-08-31: [Les petits hommes - INT01. Intégrale 1967-1970](https://www.bedetheque.com/BD-Petits-hommes-INT01-Integrale-1967-1970-107174.html)
+    - Language: French
+    - NOTES:
+        - Dossier about Seron and the world of the Petits Hommes.
+        - The first stories: : "Alerte à Eslapion sous Rajevols", "Les Évadés", "Le petit homme qui rit", "Le coq en pâte", "Des pâques pour deux enfants", "Des souris et des petits hommes", "Des petits hommes font la bombe", "L'exode".
+        - Renaud (or "M. Renaud"), the hero, looks different in these earlier stories, with a more pointy noise. As mentioned in the dossier, he was not very good looking then. Later, he started looking a little more like Gaston Lagaffe, but fairly different in personality.
+        - "Des pâques pour deux enfants" is a short feel good story.
+        - In "Le petit homme qui rit", retired Doctor Hondegger, a "grand", ends up choosing to join the "petits" to help them.
+- 2026-08: [Spirou et Fantasio - Intégrale 2](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Integrale-Dupuis-2-Tome-2-De-Champignac-au-Marsupilami-59323.html)
+    - Language: French
+    - tags: #reread
+    - [Tome 2 - Il y a un sorcier à Champignac](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-2-Il-y-a-un-sorcier-a-Champignac-12473.html)
+        - The first encounter with the Comte de Champignac, who appears quite crazy, more so than in later stories.
+        - He is of course into mushrooms, and initially doesn't seem to care too much about the effects of his experiments.
+        - Spirou and Fantasio are still not mature in appearance.
+        - A gypsy is unjustly accused of the problems of the village.
+        - We encounter, for the first time, the mayor of Champignac and his weird ideas.
+    - [Tome 4 - Spirou et les héritiers](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-4-Spirou-et-les-heritiers-57481.html)
+        - Fantasio inherits from an uncle, and must perform 3 challenges to get the inheritance, with his cousin Zantafio. Whoever wins gets the inheritance.
+        - Zantafio cheats his way through, but eventually gives up. He doesnt seem that bad in the end, but in later stories he becomes more of a villain.
+        - Fantasio wins, but it turns out there is no money - only life experience won through the challenges.
+        - One of the challenges is to participate in a car race and be well placed. This is the beginning of a long tradition of car-related topics in the Spirou series, explained by the fact that readers loved cars and speed, I think.
+        - This is where we meet the Marsupilami for the first time, but it has, by the rules of the will, must be donated to a zoo.
+    - [Tome 5 - Les voleurs du Marsupilami](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-5-Les-voleurs-du-Marsupilami-18734.html)
+        - The thieves are not the ones we initially believe. Indeed, the heroes wanted to steal the Marsupilami from the zoo, or somehow rescue it.
+        - But it is stolen by a character who steals out of desperation, to make money to feed his family.
+        - So this is not an actual villain, but a character meant to be endearing to the reader.
+        - The bad guys actually want the Marsupilami for a circus gig. The animal is very unhappy in this situation.
+        - In the end, the Marsupilami is rescued.
+- 2026-08: [Spirou et Fantasio - Intégrale 5](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Integrale-Dupuis-2-Tome-5-Mysterieuses-creatures-1956-1958-75280.html)
+    - Language: French
+    - tags: #reread
+    - [Tome 11. Le gorille a mauvaise mine](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-11-Le-gorille-a-bonne-mine-18739.html)
+        - This might be the first album I had of Spirou. Great story, good representation of Africa (Congo), locals, and animals.
+        - Original title was "Le gorille a mauvaise mine", but the publisher changed it to "bonne mine" to be more positive.
+        - I appreciate seeing Spirou without his outdated red jacket here.
+    - [Tome 12. Le nid des marsupilamis](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-12-Le-nid-des-Marsupilamis-32824.html))
+        - Said to be Franquin's masterpiece. I don't dislike it, and it is cute and funny and well-paced, but there is no big adventure here, so it isn't my favorite.
+    - [Tome 13. Le voyageur du Mézozoïque](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-13-Le-voyageur-du-mesozoique-32854.html))
+        - About a dinosaur's egg found by the Comte, which actually produces a living dinosaur.
+        - The dinosaur grows up overnight, through a special mushroom mix which wasn't supposed to be integrated into the dinosaur's dish.
+        - The animal itself is rather stupid and without personality. It looks funny and not very realistic.
+        - But in the end, a solution is found, to let it live peacefully in a protected area.
+        - The funniest part is the atomic scientist, accidentally devoured by the dinosaur, with everybody being actually happy about the fact.
+        - Not my favorite Franquin story, but of course full of humor.
+    - Le homard
+    - Vacances sans histoires
+    - La foire aux gangsters
+- 2026-08: [Spirou et Fantasio - Intégrale 4](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Integrale-Dupuis-2-Tome-4-Aventures-modernes-69626.html)
+    - Language: French
+    - tags: #reread
+    - [Tome 9. Le repaire de la murène](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-9-Le-repaire-de-la-murene-32853.html)
+        - Good story, mixing technology and adventure.
+        - The marsupilami turns out to be amphibian.
+        - Good research by Franquin about underwater technology (unlike in some other stories by other authors).
+    - La Quick Super
+    - [Tome 10. Les Pirates du Silence](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-10-Les-pirates-du-silence-32855.html)
+        - Another good story, with a weird atmosphere in the town of xxx.
+- 2026-08: [Spirou et Fantasio - Intégrale 3](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Integrale-Dupuis-2-Tome-3-Voyages-autour-du-monde-63804.html)
+    - Language: French
+    - tags: #reread
+    - [Spirou et Fantasio - 8. La mauvaise tête](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-8-La-mauvaise-tete-32825.html)
+        - Good detective story. The bad guys make a mask in Fantasio's image, and then use it to commit crimes.
+        - There is a scene where the mask is inflated to a very large balloon size, with some comic effect.
+        - Fantasio must prove he is innocent of the crimes, which is not easy, but of course eventually happens.
+    - [Spirou et Fantasio - 7. Le dictateur et le champignon](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-7-Le-dictateur-et-le-champignon-18736.html)
+        - The heroes end up in Palombie again, as they are trying to return Marsupilami to his environment, after the zoo ran out of money and closed.
+        - We find Zantafio again, this time established as a dictator in Palombie. We had left him them after "Les heritiers."
+        - The mushrooms come from the Comte de Champignac's experiments, who created a product, the metomol, able to soften metal instantly.
+        - This is used to melt the dictator's army, after the product had comical effects in Champignac and elsewhere.
+        - At the end, while Marsupilami is abandoned in the forest, we see that he actually follows the heroes on their way back home.
+    - [Spirou et Fantasio - 6. La corne du rhinoceros](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-7-Le-dictateur-et-le-champignon-18736.html)
+        - Funny adventure, rather nice towards Africans and even rhinos, although one got unexpectedly killed, although not by the heroes.
+        - The Marsupilami doesn't appear in this story.
 - 2026-08-05: [Il Destino de Paperone](https://www.bedetheque.com/BD-Topolino-INT-Il-destino-di-Paperone-486266.html)
     - 2023
     - language: Italian
