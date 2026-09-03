@@ -27,6 +27,13 @@ title: Comic Books (2026)
         - Renaud (or "M. Renaud"), the hero, looks different in these earlier stories, with a more pointy noise. As mentioned in the dossier, he was not very good looking then. Later, he started looking a little more like Gaston Lagaffe, but fairly different in personality.
         - "Des pâques pour deux enfants" is a short feel good story.
         - In "Le petit homme qui rit", retired Doctor Hondegger, a "grand", ends up choosing to join the "petits" to help them.
+        - In "Des souris et des petits hommes", Renaud progressively starts looking better, with a more rounded nose.
+        - "L'exode"
+            - The first "real" story of the series, official Tome 1.
+            - Renaud and the other characters are now more mature.
+            - A flood condemns the cisterns of Eslapion, where the "petits hommes" live. They must leave the city and find a new home, as the military nearby decide to blow up the old cisterns after the flood.
+            - Doctor Hondegger finds a way to make the "petits hommes" grow to the size of "grands". Nobody wants to do this permanently, but a few, including Renaud, do it temporarily to help with the relocation of the "petits hommes" to a new home, involving a trip by car, hay wagon, and train.
+            - They finally arrive at their destination, a cave on the sea, which they name "Eslapion 2".
 - 2026-08: [Spirou et Fantasio - Intégrale 2](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Integrale-Dupuis-2-Tome-2-De-Champignac-au-Marsupilami-59323.html)
     - Language: French
     - tags: #reread
