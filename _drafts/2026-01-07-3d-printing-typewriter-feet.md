@@ -37,21 +37,21 @@ That last option is real, and many typewriter feet are available from various se
 
 PLA and PETG, the most common materials for 3D printing, are not appropriate for typewriter feet, as they are too hard and not grippy enough. But TPU (thermoplastic polyurethane) is a flexible filament that can be suited for this purpose. Like rubber, it is sold in various hardness levels, measured in Shore A, the most common being Shore 95A.
 
-One challenge is that because it is a soft material, it might not print well on all printers. But in 2025-2026, many printers handle TPU well.
+One challenge is that because it is a soft material, it might not print well on all printers. But in 2026, many printers handle TPU well.
 
-I first tried Shore 95A TPU, but I didn't find it suitable: it is too hard and not grippy enough (although these materials would be fine for display). So I switched to Shore 85A TPU, of the Siraya brand.
+I first tried Shore 95A TPU, but I didn't find it suitable: it is too hard and not grippy enough (although this material would be fine for display purposes). So I switched to Shore 85A TPU, of the Siraya brand.
 
 ![Shore 85A TPU filament](/assets/posts/3d-printing-typewriter-feet/2x/siraya85a.webp){:standalone width="50%"}
 
-PLA can, however, be used to prototype the shape of the feet. Here is an example for the Underwood 5, showing the original foot on the right, and the orange PLA prototype on the left.
+PLA can, however, be used to prototype the shape of the feet. Here is an example for the Underwood 5, showing the original foot on the right, and the orange PLA prototype on the left (both seen from below).
 
 ![Prototyping typewriter feet in PLA](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1614.webp){:standalone}
 
-For this softer TPU, I couldn't feed the filament through the PTFE tube of my printer, and I fed it directly from the top of the extruder. I had already modded my machine to be able to easily remove its top cover.
+With softer TPU, I couldn't feed the filament through the PTFE tube of my printer, and I fed it directly from the top of the extruder. I had already modded my machine to be able to easily remove its top cover.
 
 [//]: # (![Feeding TPU filament directly into the extruder]&#40;/assets/posts/3d-printing-typewriter-feet/2x/IMG_1439.webp&#41;{:standalone})
 
-I did have a few extruder jams, which probably happened during filament retraction. After playing with the tension of the screws on the extruder, I managed to avoid most jams. The following video shows that setup in more details, including the use of a textured printing sheet/plate.
+I did have a few extruder jams, which probably happened during filament retraction. After playing with the tension of the screws on the extruder, I managed to avoid most jams. The following video shows that setup in more detail, including the use of a textured printing sheet/plate.
 
 <script>
   var tag = document.createElement('script');
@@ -80,55 +80,56 @@ I did have a few extruder jams, which probably happened during filament retracti
 
 TPU 85A allows me to print feet that are softer and grippier, and while maybe not exactly as grippy as new rubber, given the weight of the typewriters I have designed the feet for, it works very well, and certainly beats missing feet or hard or crumbled ones!
 
-TPU needs to be dry to print well, and a filament dryer is a must to obtain the best appearance. I am also feeding it to the printer directly from a dry box.
+TPU needs to be dry to print well, and a filament dryer is a must to obtain the best appearance. I am feeding the filament to the printer directly from a dry box, so it doesn't get to absorb much humidity after drying.
 
 As far as the softness or bounce of the TPU is concerned, it is excellent and on par with rubber feet. I played with various infill percentages, from 100% down to about 25% depending on the feet.
 
-Color availability is very limited for TPU. I printed the feet in black TPU, which is the most common color. Alternatives include white, clear, and I even saw an orange, but we are far from the wide range of colors available for PLA or PETG. This said, black is perfect for most typewriter feet.
+Color availability is very limited for TPU. I printed the feet in black TPU, which is the most common color. Alternatives include white, clear, and I even saw an orange, but we are far from the wide range of colors available for PLA or PETG. This said, black is more than adequate for most typewriter feet.
 
 ## Design process
 
-The process of creating feet is simple:
+The process of creating feet is straightforward:
 
-- take the original part, or what's left of it
+- take the original part (or what's left of it!)
 - observe its general shape, reconstituting it mentally if needed, or on paper
-- measure diameters and other dimensions with a digital caliper
-- design the part in CAD (I used Autodesk Fusion)
+- measure diameters and other dimensions with a caliper
+- design the part in CAD (I use Autodesk Fusion)
 - print a test part in PLA
 - see how close the part is from the original
 - make adjustments, and repeat as needed
 - add some chamfers or fillets to improve the look and feel
+- print in TPU
 
-In general, with 3D printing, large spaces under parts require *supports*. Ideally, one should try to avoid supports, especially with TPU (although some multi-material printers allow making supports in another material like PLA). So I used chamfers and grooved bottoms to avoid overhangs.
+In general, with 3D printing, large spaces under parts require *supports*. Ideally, one should try to avoid supports, especially with TPU (although some multi-material printers allow making supports in another material like PLA). To reduce or remove the need for supports, I used chamfers and grooved bottoms to avoid overhangs. None of the feet I have designed so far require supports.
 
 ##  Feet I designed so far
 
-I started by designing a simple Underwood 5 foot. Once successful, I rapidly designed feet for several other machines, each with different shapes and attachment mechanisms. Here is the list as of August 2026:
+I started by designing a simple Underwood 5 foot. Once successful, I rapidly designed feet for several other machines, each with different shapes and attachment mechanisms. Here is the list as of September 2026:
 
-| Typewriter                             | Year(s)     | Notes                                                                 |
-|----------------------------------------|-------------|-----------------------------------------------------------------------|
-| Remington 2                            | 1885        | push-in                                                               |
-| Densmore 1b                            | 1894-1896   | push-in                                                               |
-| Densmore 4                             | 1899        | push-in; cylindrical and conical versions                             |
-| Remington Model 7 with Gorin tabulator | 1907        | push-in; reinforced with rods; tall                                   |
-| Smith Premier 5 with Gorin tabulator   | 1907        | push-in; tall                                                         |
-| Blickensderfer 5                       | 1909        | push-in; hole for slotted wood screws from the top                    |
-| Royal 1/5/6                            | 1906-1913   | screw-in; can be shorter or taller                                    |
-| Courier                                | 1917        | push-in                                                               |
-| Underwood 5                            | 1920        | metal cup and screw; tall                                             |
-| Remington Vertical Adder Model-21      | 1920s       | metal cup and screw                                                   |
-| Varityper Folding                      | 1927        | push-in; goes inside and around the metal frame                       |
-| Royal KHM                              | 1938        | sandwiched with metal parts; top rubber cushions                      |
-| Underwood "S"                          | 1942        | metal cup and screw; felt-like cushions on top of rubber              |
-| Underwood "SS"                         | 1948        | metal cup and screw; wide                                             |
-| Underwood Rhythm Touch                 | 1949        | metal cup and screw; wide                                             |
-| Adler standard                         | 1950s       | square-ish with holes for screws; taped/glued to metal cups           |
-| Lexicon 80                             | 1950s       | in metal cups; different shape for front and back                     |
-| Hermes Ambassador                      | 1951        | large, rectangular shape; sandwiched with metal parts                 |
-| Hermes Media                           | 1958        | small and short; screw and washer; fits in cups at bottom of the case |
-| Erika 10                               | 1960        | metal cup and 2 screws; elongated, rounded shape                      |
-| Princess 100                           | 1950s-1960s | cylindrical, screwed to the case                                      |
-| Facit TP2                              | 1960s       | rectangular with hexagonal hole and metal part                        |
+| Typewriter                             | Link | Year(s)     | Notes                                                                 |
+|----------------------------------------|------|-------------|-----------------------------------------------------------------------|
+| Remington 2                            |      | 1885        | push-in                                                               |
+| Densmore 1b                            |      | 1894-1896   | push-in                                                               |
+| Densmore 4                             |      | 1899        | push-in; cylindrical and conical versions                             |
+| Remington Model 7 with Gorin tabulator |      | 1907        | push-in; reinforced with rods; tall                                   |
+| Smith Premier 5 with Gorin tabulator   |      | 1907        | push-in; tall                                                         |
+| Blickensderfer 5                       |      | 1909        | push-in; hole for slotted wood screws from the top                    |
+| Royal 1/5/6                            |      | 1906-1913   | screw-in; can be shorter or taller                                    |
+| Courier                                |      | 1917        | push-in                                                               |
+| Underwood 5                            |      | 1920        | metal cup and screw; tall                                             |
+| Remington Vertical Adder Model-21      |      | 1920s       | metal cup and screw                                                   |
+| Varityper Folding                      |      | 1927        | push-in; goes inside and around the metal frame                       |
+| Royal KHM                              |      | 1938        | sandwiched with metal parts; top rubber cushions                      |
+| Underwood "S"                          |      | 1942        | metal cup and screw; felt-like cushions on top of rubber              |
+| Underwood "SS"                         |      | 1948        | metal cup and screw; wide                                             |
+| Underwood Rhythm Touch                 |      | 1949        | metal cup and screw; wide                                             |
+| Adler standard                         |      | 1950s       | square-ish with holes for screws; taped/glued to metal cups           |
+| Lexicon 80                             |      | 1950s       | in metal cups; different shape for front and back                     |
+| Hermes Ambassador                      | Å    | 1951        | large, rectangular shape; sandwiched with metal parts                 |
+| Hermes Media                           |      | 1958        | small and short; screw and washer; fits in cups at bottom of the case |
+| Erika 10                               |      | 1960        | metal cup and 2 screws; elongated, rounded shape                      |
+| Princess 100                           |      | 1950s-1960s | cylindrical, screwed to the case                                      |
+| Facit TP2                              |      | 1960s       | rectangular with hexagonal hole and metal part                        |
 
 The following section document some specific aspects of the design of some of these feet.
 
@@ -172,7 +173,7 @@ These are the interesting, rather large Remington feet of the period. They proba
 
 ### Varityper Folding
 
-It's hard to know exactly how the original feet looked like. On top of the case bottom, I had some felt-like cushions. Their tops were cupped a little, but this might have been due to aging. Then on top of that was the rubber foot, which espoused that shape. But if the feet were to be ever used on a table, they would have to have been flat underneath. So I designed the feet with a flat bottom. They feet wrap around the metal legs which are part of the frame. I just had to guess. Existing pictures of the Varityper Folding or Hammond Folding didn't help that much, as they all have very poor quality feet. 
+It's hard to know exactly what the original feet looked like. On top of the case bottom, I had some felt-like cushions. Their tops were cupped a little, but this might have been due to aging. Then on top of that was the rubber foot, which espoused that shape. But if the feet were to be ever used on a table, they would have to have been flat underneath. So I designed the feet with a flat bottom. The feet wrap around the metal legs which are part of the frame. I just had to guess. Existing pictures of the Varityper Folding or Hammond Folding didn't help that much, as they all have very poor quality feet. 
 
 ![Varityper Folding feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1713.webp){:standalone}
 
@@ -208,7 +209,7 @@ The Facit TP2 feet are very similar in design, but a small fraction of the size.
 
 ### Courier
 
-Here, I designed a built-in notch to clear the typewriter side. This is probably now how the original (flattened) feet were, but I figured I would do this so the feet can be wider.   
+Here, I designed a built-in notch to clear the typewriter side. This is probably not how the original (flattened) feet were, but I figured I would do this so the feet can be wider.   
 
 ![Courier foot with notch](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1867.webp){:standalone}
 
@@ -220,7 +221,7 @@ These are fairly simple feet. They attach to the bottom of the typewriter's trav
 
 ### Erika 10
 
-Due to their non-circular, and non-rectangular shape, the Erika 10 feet were more challenging to design. I used a loft, again, but also a scan of the outline of the foot to approximate the shnpe better, with splines. It's not perfect, but pretty close. The original feet are not exactly perfect either!
+Due to their non-circular, and non-rectangular shape, the Erika 10 feet were more challenging to design. I used a loft, again, but also a scan of the outline of the foot to approximate the shape better, with splines. It's not perfect, but pretty close. The original feet are not exactly perfect either!
 
 ![Erika 10 feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1690.webp){:standalone}
 
@@ -252,13 +253,13 @@ For my Blickensderfer 5, for example, only 2 feet were left, and they were rock-
 
 On the negative side, the feet are not as grippy as new rubber, although in practice I don't think that's a problem.
 
-The appearance is also different from new rubber: there is a shine, and there are layer lines. I know that those can both some people. In many cases, the feet are not very visible anyway, and they are not exactly the first part one's attention focuses on. So here as well, I don't think it is a big problem.
+The appearance is also different from new rubber: there is a shine, and there are layer lines. I know that those can bother some people. In many cases, the feet are not very visible anyway, and they are not exactly the first part one's attention focuses on. So here as well, I don't think it is a big problem.
 
 Recently, someone recommended using a polishing wheel to removes layer lines and gives the parts a more rubbery look. I haven't tried this at the time of writing, but it could be a solution for the perfectionist. Another possibility is to use a resin printer.
 
 ## Future work
 
-I intend to design feet for other machines as well. I might also consider printing bail, or other, rollers. I know that it is easy to buy tubing for that purpose, but I am still curious about printing them. I printed some Underwood carriage return lever bumpers as well: this is one of the easiest shape you can imagine printing. Until now, I hadn't realized that those tended to break or be deformed!
+I intend to design feet for other machines as well. I might also consider printing bail, or other, rollers. I know that it is easy to buy tubing for that purpose, but I am still curious about printing them. I printed some Underwood carriage return lever bumpers as well: this is one of the easiest shapes you can imagine printing. Until now, I hadn't realized that those tended to break or be deformed!
 
 ![Underwood carriage return lever bumper (cover removed)](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1726.webp){:standalone}
 
