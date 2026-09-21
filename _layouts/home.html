@@ -84,9 +84,13 @@ layout: page
       <div class="tile-body">
         <h3 class="tile-title">IBM Typewriters</h3>
         <ul class="tile-post-list">
-          {% assign ibm_paths = "/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/" | split: "," %}
+          {% assign ibm_paths = "/pages/typewriter-collection-ibm/,/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/" | split: "," %}
           {% for path in ibm_paths %}
-            {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% if path contains "/posts/" %}
+              {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% else %}
+              {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
+            {% endif %}
             {% if p %}
             <li>
               <i class="far fa-file-alt mr-2 text-muted"></i>
