@@ -148,11 +148,11 @@ layout: page
           </li>
             <li>
             <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/posts/televideo-912-terminal-1/' | relative_url }}">The Televideo 912 Terminal 1</a>
+            <a href="{{ '/posts/televideo-912-terminal-1/' | relative_url }}">The Televideo 912 Terminal - Part 1</a>
           </li>
             <li>
             <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/posts/televideo-912-terminal-2/' | relative_url }}">The Televideo 912 Terminal 2</a>
+            <a href="{{ '/posts/televideo-912-terminal-2/' | relative_url }}">The Televideo 912 Terminal - Part 2</a>
           </li>
           <li>
             <i class="far fa-file-alt mr-2 text-muted"></i>
@@ -173,7 +173,7 @@ layout: page
       <div class="tile-body">
         <h3 class="tile-title">Repairs and Restorations</h3>
         <ul class="tile-post-list">
-          {% assign repair_paths = "/posts/fixing-yamaha-clavinova-clp-280/,/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/,/posts/restoring-yost-20/,/posts/televideo-800a-terminal/,/posts/televideo-912-terminal-1/,/posts/televideo-912-terminal-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/restoring-ibm-memory-typewriter-1/,/posts/vic-20-key/" | split: "," %}
+          {% assign repair_paths = "/posts/fixing-yamaha-clavinova-clp-280/,/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/,/posts/restoring-yost-20/,/posts/televideo-800a-terminal/,/posts/televideo-912-terminal-1/,/posts/televideo-912-terminal-2/,/posts/televideo-912-terminal-3/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/restoring-ibm-memory-typewriter-1/,/posts/vic-20-key/" | split: "," %}
           {% for path in repair_paths %}
             {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
             {% if p %}
@@ -196,7 +196,7 @@ layout: page
         </figcaption>
       </div>
       <div class="tile-body">
-        <h3 class="tile-title">Recent blog posts</h3>
+        <h3 class="tile-title">Recent Blog Posts</h3>
         <ul class="tile-post-list">
           {% for post in posts limit: 10 %}
           <li>
