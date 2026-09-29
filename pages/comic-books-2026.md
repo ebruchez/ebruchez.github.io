@@ -19,6 +19,76 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-09: [[Les mondes de Thorgal - La jeunesse, Tome 10. Sydonia](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-10-Sydonia-450311.html)
+    - 2022
+    - Language: French
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+    - Rating: 3/5
+    - NOTES: Not a bad story. Harald's young daughter shows immense cruelty, but also cunning. She convinces the powerful of the city to help her seize power. Thorgal helps Sveynn reconquer the town. We learn that Sveynn almost killed Thorgal, who is now between life and death. Sveynn hopes Thorgal survives and pardons him. 
+- 2026-09: [[Les mondes de Thorgal - La jeunesse, Tome 9. Les larmes de Hel](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-9-Les-larmes-de-Hel-421561.html)
+    - 2021
+    - Language: French
+    - Scénario: Yann
+    - tags: #reread
+    - Dessin: Roman Surzhenko
+    - Rating: 3/5
+- 2026-09:  [Donjon Zénith - 11. Les Méandres du pouvoir](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-11-Les-Meandres-du-pouvoir-532554.html)
+    - 2026
+    - Language: French
+    - Scénario: Lewis Trondheim, Joann Sfar
+    - Dessin: Boulet
+    - NOTES: Herbert is in charte at Vaucanson, but powerful families pull the strings. Herbert's mother is trying to separate Herbert from Isis by arranging meetings with other women. When a poisoining attempts occurs, Herbert suspects his mother. A lady, daughter of one of the city nobles, manages to court Herbert's father. She takes over him by drugging him while Herbert and Isis are away. Herbert comes back to Vaucanson, saves his father, and the lady dies. Herbert punishes the noble by taking away all his wealth and distributing it to the other families. Herbert and Marvin visit the Donjon to recover money the warden owes Blaise Pilozzi. They find money serendipitously, so their work ends. Back to Vaucason, Isis tells Herbert she is pregnent, she is doing ok with Herbert's mother - and also that she killed all the nobles.
+- 2026-09: [Spirou et Fantasio - Intégrale 7](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Integrale-Dupuis-2-Tome-7-Le-mythe-Zorglub-1959-1960-85703.html)
+    - Language: French
+    - tags: #reread
+    - [Tome 15. Z comme Zorglub](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-15-Z-comme-Zorglub-30305.html)
+        - NOTES:
+            - Zorglub is introduced as the bad guys, some kind of authoritarian dictator, but with technology.
+            - We learn that he was a classmate of the Comte de Champignac, but tended to fail.
+            - In the end, and fairly quickly, he admits his defeat. It turns out he is not totally bad after all.
+    - [Tome 16. L'ombre du Z](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-16-L-ombre-du-Z-18742.html) 
+        - NOTES:
+            - Follow-up to "Tome 15. Z comme Zorglub". Mostly, Spirou must find Jerôme, the policeman-turned-zorglhomme, who proceeded to stun everybody at Champignac.
+            - TODO
+- 2026-09: [Spirou et Fantasio - Intégrale 6](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Integrale-Dupuis-2-Tome-6-Inventions-malefiques-1958-1959-79723.html)
+    - Language: French
+    - tags: #reread
+    - [Tome 14. Le prisonnier du Bouddha](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-14-Le-prisonnier-du-Bouddha-18741.html))
+        - NOTES:
+            - Good story, anti-military, taking place largely in a fantasy China.
+            - It's the 1950s, and the Chinese characters are quite poorly done by modern standards, but information was harder to get at the time. Still, most characters are supposed to be Chinese and not made up.
+    - [Tome 17. Spirou et les hommes-bulles](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-17-Spirou-et-les-hommes-bulles-18743.htmlx)
+        - NOTES: 
+            - Follow-up to "Le repère de la murène".
+            - M. D'Oups is a little insufferable as the super-rich guy, but he is very well portrayed, and in the end a good man.
+                - Just after I wrote this, I read that that character was drawn by Roba, of Boule et Bill's fame, and Franquin commented positively on that character.  
+    - [Tome 24. Tembo Tabou](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-24-Tembo-Tabou-2778.html))
+        - NOTES:
+            - A late Franquin story, with Greg at the scenario, ok but without much that is new: jungle, wildlife, bad guys, we have seen this before. 
+    - Les Petits Formats
+        - NOTES:
+            - Shorter story about a photographer who invents 3D photography.
+- 2026-09: [Spirou et Fantasio - Intégrale 9](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Integrale-Dupuis-2-Tome-9-1969-1972-103254.html)
+    - Language: French
+    - [Tome 20 - Le faiseur d'or](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-20-Le-faiseur-d-or-2774.html)
+        - Dessin: Fournier
+        - Scénario: Fournier
+        - NOTES:
+            - The first story by Fournier after Franquin quit. Franquin still drew the Marsupilami, for the last time in Spirou et Fantasio.
+            - So-so story.
+    - [Tome 21 - Du glucose pour Noémie](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-21-Du-glucose-pour-Noemie-2775.html)
+        - Dessin: Fournier
+        - Scénario: Fournier
+        - NOTES:
+            - Follows "Le champignon nippon", which is a 6-page intro to this story, where we meet Itoh Kata and the Triangle for the first time.
+            - Interesting title, a little poetic (Noémie is a car).
+    - [Tome 22 - L'abbaye truquée](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-22-L-abbaye-truquee-2776.html)
+        - Dessin: Fournier
+        - Scénario: Fournier
+        - NOTES:
+            - Itoh Kata and the Triangle appear again.
+            - Fournier himself said he didn't draw very well compared with Franquin. It's difficult not to agree.
 - 2026-08-31: [Les petits hommes - INT01. Intégrale 1967-1970](https://www.bedetheque.com/BD-Petits-hommes-INT01-Integrale-1967-1970-107174.html)
     - Language: French
     - NOTES:
