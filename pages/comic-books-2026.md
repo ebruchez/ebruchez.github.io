@@ -19,6 +19,17 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-09-29: [Lefranc - 36. La Régate](https://www.bedetheque.com/BD-Lefranc-Tome-36-La-Regate-525474.html)
+    - 2025
+    - language: French
+    - Scénario: Roger Seiter
+    - Dessin: Régric
+    - Rating: 3/5
+    - NOTES:
+        - Comments on Bedetheque are not positive: characters's faces not nice, title not appropriate, story boring, etc.
+        - I didn't find this album to be that bad.
+        - I do find the location of the action interesting.
+        - The bombing of the ship in the end is indeed surprising from Lefranc.
 - 2026-09: [[Les mondes de Thorgal - La jeunesse, Tome 10. Sydonia](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-10-Sydonia-450311.html)
     - 2022
     - Language: French
