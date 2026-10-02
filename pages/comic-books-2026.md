@@ -19,6 +19,20 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-09-30: - [Blake et Mortimer - 30. Signé Olrik](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-30-Signe-Olrik-505570.html)
+    - Language: French
+    - Scénario: Yves Sente
+    - Dessin: André Juillard
+    - NOTES:
+        - A classic-style Blake et Mortimer story. Olrik, in prison, learns of a group of Cornwall nationalists who want to find Arthur's tomb and treasure.
+        - Pr. Mortimer just announced his latest invention, a machine to travel underground.
+        - We learn that there is a grandmaster, and you can fairly easily guess who it is halfway through.
+        - Olrik helps the nationalists steal Mortimer's machine, they find the tomb, but then Olrik wants to steal the treasure.
+        - As expected, the tomb is destroyed, the grandmaster dies, but Olrik escapes with the sheath of Excalibur.
+        - Overall, it's not too bad, and you do want to know what will happen.
+        - The title of the story could be much better and have an actual connection to the story. 
+        - Good art from the late Juillard, but almost too "clean" - probably due to computer processing/coloring.
+        - But I found issues with the scenes on horseback - the horse seems detached from the ground!
 - 2026-09-29: [Lefranc - 36. La Régate](https://www.bedetheque.com/BD-Lefranc-Tome-36-La-Regate-525474.html)
     - 2025
     - language: French
@@ -30,6 +44,8 @@ title: Comic Books (2026)
         - I didn't find this album to be that bad.
         - I do find the location of the action interesting.
         - The bombing of the ship in the end is indeed surprising from Lefranc.
+        - The title doesn't bother me at all. It does start with a boat race, and then unplanned events happen. The ocean is present throughout.
+        - I am not sure I buy the character of Thea, who is oblivious to her father's shady dealings.
 - 2026-09: [[Les mondes de Thorgal - La jeunesse, Tome 10. Sydonia](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-10-Sydonia-450311.html)
     - 2022
     - Language: French
