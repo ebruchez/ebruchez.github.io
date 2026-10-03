@@ -19,6 +19,24 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-10-01: [Les Fils d'El Topo - Tome 01: Caïn](https://www.bedetheque.com/BD-Fils-d-El-Topo-Tome-1-Cain-280653.html)
+    - 2016
+    - tags: #reread
+    - Scénario: Alexandro Jodorowsky
+    - Dessin: José Ladronn
+    - Rating: 5/5
+    - NOTES:
+        - I reread this after a few years.
+        - Yes, this is Jodorowsky and his crazy ideas, in the spirit of El Topo, his movie. You like it or you don't like it.
+        - But you have to admit that the art is amazing, from beginning to end.
+        - There is a lot of magic in this story, which otherwise is set in a Wild West environment.
+        - For example, the "saint"'s tomb, with its golden pillars, and magic bridge which judges the visitor.
+        - The caricature of religion echoes scenes of El Topo.
+        - As always, there are disturbing scenes: the cripples, rape, murder.
+        - But there is also beauty: Abel and his mother, for example.
+        - I found the scene with the group of blind very human. The huge lady, offering her body, but in joy and fun. Where else would you see such a scene?
+        - Finally, the young virgin, following Cain as if preordained, is troubling and intriguing.
+        - I can now set a 5/5 rating.
 - 2026-09-30: - [Blake et Mortimer - 30. Signé Olrik](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-30-Signe-Olrik-505570.html)
     - Language: French
     - Scénario: Yves Sente
