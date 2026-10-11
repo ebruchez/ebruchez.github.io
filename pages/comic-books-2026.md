@@ -19,11 +19,58 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
-- 2026-10-01: [Les Fils d'El Topo - Tome 01: Caïn](https://www.bedetheque.com/BD-Fils-d-El-Topo-Tome-1-Cain-280653.html)
+- 2026-10: [Les Fils d'El Topo - Tome 3: Abelcaïn](https://www.bedetheque.com/BD-Fils-d-El-Topo-Tome-3-Abelcain-454667.html)
+    - 2022
+    - tags: #reread
+    - Scénario: Alexandro Jodorowsky
+    - Dessin: José Ladrönn
+    - NOTES:
+        - We continue the story from the previous albums.
+        - Now Abel falls for Lilith.
+        - They arrive at a casino-temple in the shape of a pyramid.
+        - Lilith bets on everything with gems obtained earlier. But when that is gone, she wants to bet Abel's mother's heart. He relents.
+        - The colonel finds them, kills everybody, and proceeds to torture Lilith, who is left alive but disfigured. Disturbing.
+        - Having had his revenge, the colonel leaves.
+        - In the meanwhile, Caïn tries to save Nina's life, as she had been hit by a poisoned arrow. To save her, Caïn must go to his father's tomb, and give her some honey from there.
+        - At the tomb, everybody meets again.6
+          - The colonel tries to use the mother to reach the tomb
+          - Caïn fights him.
+          - Abel kills the bandits, and the Colonel who was fighting Lilith.
+          - Lilith tortures the colonel, in another gory scene. He is absorbed by the earth before she is quite done.
+          - Caïn tries to save Nina, but she is dead.
+          - Abel only thinks about getting gold for Lilith.
+          - Caïn fulfils the prophecy and kills Abel, without wanting it.
+          - Lilith understands love, through Abel, and she and abel both fall into the Earth.
+          - Caïn and Abel's father speaks, telling Caïn that he must find his wife's body and bury her to be forgiven.
+          - For 3 years, Caïn digs.
+          - Caïn performs miracles for strangers.
+          - Caïn eventually manages to bring his mother's body to his father, who blesses him and names him Abelcaïn.
+          - Caïn leaves the tomb area, meets his father again, who is absorbed into Abelcaïn.
+        - It is a very weird story with horror and redemption.
+        - I like the second part of the volume, but I am not a big fan of the gore and horror of the first part.
+- 2026-10: [Les Fils d'El Topo - Tome 2: Abel](https://www.bedetheque.com/BD-Fils-d-El-Topo-Tome-2-Abel-368248.html)
+    - 2019
+    - tags: #reread
+    - Scénario: Alexandro Jodorowsky
+    - Dessin: José Ladrönn
+    - NOTES:
+        - We continue the story from the previous album.
+        - Let's be clear: there are some disturbing scenes, again.
+        - Caïn and Abel meet, and Abel gets Caïn to agree to help him.
+        - But the relationship is difficult. In addition, Abel, who was almost a saint, falls for Nina, who only has eyes for Caïn.
+        - A lot of the story focuses on the attack of the citadel held by weird "nuns", that look like men.
+        - There is blood, and a lot of it. It is weird.
+        - We meet Lilith, who controls the colonel chief of the bandits, who believes he is a dog. Abel manages to get him to behave like a human again.
+        - But Lilith later betrays the colonel to follow Caïn.
+        - The group: Caïn, Abel, Nina, and Lilith, leave the citadel, and have to fight bandits.
+        - During that encounter, Nina saves and absolves Caïn, who is somehow converted and leaves with her.
+        - The colonel follows them, and promises to get his revenge.
+        - Not as good, overall, than the first part. The amount of blood is particularly disturbing.
+- 2026-10-01: [Les Fils d'El Topo - Tome 1: Caïn](https://www.bedetheque.com/BD-Fils-d-El-Topo-Tome-1-Cain-280653.html)
     - 2016
     - tags: #reread
     - Scénario: Alexandro Jodorowsky
-    - Dessin: José Ladronn
+    - Dessin: José Ladrönn
     - Rating: 5/5
     - NOTES:
         - I reread this after a few years.
@@ -35,7 +82,7 @@ title: Comic Books (2026)
         - As always, there are disturbing scenes: the cripples, rape, murder.
         - But there is also beauty: Abel and his mother, for example.
         - I found the scene with the group of blind very human. The huge lady, offering her body, but in joy and fun. Where else would you see such a scene?
-        - Finally, the young virgin, following Cain as if preordained, is troubling and intriguing.
+        - Finally, the young virgin Nina, following Cain as if preordained, is troubling and intriguing.
         - I can now set a 5/5 rating.
 - 2026-09-30: - [Blake et Mortimer - 30. Signé Olrik](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-30-Signe-Olrik-505570.html)
     - Language: French
