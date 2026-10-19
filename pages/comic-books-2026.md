@@ -19,6 +19,66 @@ title: Comic Books (2026)
  
 # Comic Books (2026)
 
+- 2026-02-27: [Thorgal - 43. La vengeance de la déesse Skædhi](https://www.bedetheque.com/BD-Thorgal-Tome-43-La-vengeance-de-la-deesse-Skaedhi-529030.html)
+    - 2025
+    - language: French
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - NOTES:
+        - Bad reviews on Bedetheque.
+        - We follow Boréale after her escape. Thorgal and her are captured by the men of Aniel, Thorgal's son with Kriss.
+        - Rather, still a child, Aniel doesn't handle this kind of matters. But Rolf, his security chief, secretly wants power.
+        - We learn that Aniel is trying to find the secret of the Eyes of Goddess Skaedhi. For that purpose, he has wise men come from all over the world.
+        - Thorgal and Boréale are now prisoners of Aniel, but without the latter even knowing about it.
+        - Dame Pallas, who lives at Aniel's compound, secretly drugs him hoping to get power.
+        - In the meanwhile, Kriss comes back, but wounded.
+        - Thorgal and Boréale escape.
+        - Boréale stays in the compound, and explains to Aniel and Kriss what some of the objects returned from the spaceship are for.
+        - Boréale behaves strangely, brushing Thorgal away.
+        - A fight ends up happening, the Eyes are released, and start killing around. The heroes escape. We understand that a "her" was in Boréale's head.
+        - Dame Pallas escapes, and the "her" entity is now in her head.
+        - The last frame tells us that it was "The Lord with the Three Eagles". So it's a cliffhanger.
+- 2026-10: [Olympus Mons - 5. Dans l'ombre du soleil](https://www.bedetheque.com/BD-Olympus-Mons-Tome-5-Dans-l-ombre-du-soleil-353815.html)
+    - 2019
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+    - NOTES:
+        - We hear Aaron's childhood story.
+        - On Mars, Elena Chevtchenko meets one of the androids, whom she calls "Einstein". It explains some of the background story: two civilizations waging a forever war on each other.
+        - We also learn that the massive bomb that was going to destroy Earth can be stopped by a mechanism located inside the crashed ship on Mars. But the android can't go in, due to enemy drones flying around. Earth's end is only hours away if that can't be stopped.
+        - On Earth, around Anomaly 1, the US and Russia start fighting each other.
+        - We see the shape the deceised Marta appear.
+- 2026-10: [Olympus Mons - 4. Millénaires](https://www.bedetheque.com/BD-Olympus-Mons-Tome-4-Millenaires-340743.html)
+    - 2018
+    - tags: #reread
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+    - NOTES:
+        - Some background about the ship crashing on Mt. Ararat a thousand of years ago, and recovered by the Russians in the 20th century.
+        - Some background about Elena's childhood, and the birth of her love of space.
+        - Aaron communicates with Marta.
+        - Within Anomaly 1, a guy talks to Androids, who explain that NATO activity woke up the ship a few decades ago, thereby starting the countdown. That can't be stopped. He starts having the Mount Ararat symptoms, while the androids go back to their cocoons, and is killed by Seals.
+        - Aaron's wife has a miscarriage.
+        - Elena tries to find a symbol in the ship on Mount Olympus, but has no luck. She comes out of the ship, and finds a cavern, where one of the androids is waiting.
+- 2026-10: [Olympus Mons - 3. Hangar 754](https://www.bedetheque.com/BD-Olympus-Mons-Tome-3-Hangar-754-318688.html)
+    - 2018
+    - Language: French
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+- 2026-10: [Olympus Mons - 2. Opération Mainbrace](https://www.bedetheque.com/BD-Olympus-Mons-Tome-2-Operation-Mainbrace-309885.html)
+    - 2017
+    - Language: French
+    - tags: #reread
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
+- 2026-10: [Olympus Mons - 1. Anomalie 1](https://www.bedetheque.com/BD-Olympus-Mons-Tome-1-Anomalie-un-294405.html)
+    - 2017
+    - Language: French
+    - tags: #reread
+    - Scénario: Christophe Bec
+    - Dessin: Stefano Raffaele
 - 2026-10: [Les Fils d'El Topo - Tome 3: Abelcaïn](https://www.bedetheque.com/BD-Fils-d-El-Topo-Tome-3-Abelcain-454667.html)
     - 2022
     - tags: #reread
@@ -125,7 +185,7 @@ title: Comic Books (2026)
     - tags: #reread
     - Dessin: Roman Surzhenko
     - Rating: 3/5
-- 2026-09:  [Donjon Zénith - 11. Les Méandres du pouvoir](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-11-Les-Meandres-du-pouvoir-532554.html)
+- 2026-09: [Donjon Zénith - 11. Les Méandres du pouvoir](https://www.bedetheque.com/BD-Donjon-Zenith-Tome-11-Les-Meandres-du-pouvoir-532554.html)
     - 2026
     - Language: French
     - Scénario: Lewis Trondheim, Joann Sfar
