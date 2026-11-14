@@ -16,7 +16,7 @@ After nearly a decade offline, I have finally brought [Mascagni.org](https://mas
 
 I started putting together a site about Italian opera composer Pietro Mascagni (1863–1945) under the domain [mascagni.org](https://mascagni.org/) in 1999. While Mascagni is universally remembered for his 1890 one-act masterpiece *Cavalleria rusticana*, he composed 16 operas and operettas along with dozens of vocal, piano, orchestral, and sacred works, much of it wonderful and vastly underrated music.
 
-For many years, the site grew thanks to archival research, acquisitions of material, and generous contributions from *Mascagnani* around the world. Technically, it also served as a testbed: through around 2010, `mascagni.org` was dynamically generated using XML pipelines on Orbeon Presentation Server (an earlier name of [Orbeon Forms](https://www.orbeon.com/)) backed by a relational database. Unfortunately, as servers and dependencies aged, the original site eventually went offline around late 2016 / 2017.
+For many years, the site grew thanks to archival research, acquisitions of material, and generous contributions from *Mascagnani* around the world. Technically, it also served as a testbed: Mascagni.org was dynamically generated using XML pipelines on Orbeon Presentation Server (an earlier name of [Orbeon Forms](https://www.orbeon.com/)) backed by a relational database. Unfortunately, as servers and dependencies aged, the original site eventually went offline around late 2016 / 2017.
 
 ## Rebuilding for longevity
 
