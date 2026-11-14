@@ -46,6 +46,10 @@ I maintain the following "bucket lists" of things to acquire:
     - [2016](/pages/comic-books-2016/)
     - [2015](/pages/comic-books-2015/)
 
+## Other websites
+
+- [Mascagni.org](https://mascagni.org/) — My website dedicated to Italian composer Pietro Mascagni (1863–1945)
+
 ## Other
 
 - [Predictions](/pages/predictions/)
