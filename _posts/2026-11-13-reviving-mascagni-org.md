@@ -6,6 +6,9 @@ date: '2026-11-13T18:00:00-08:00'
 tags:
 - music
 category: Technology
+main_image: /assets/posts/mascagni-org/pensiero-autograph.webp
+main_image_caption: "Mascagni's 1903 autograph of Un pensiero a San Francisco"
+main_image_position: top
 ---
 
 ![Pietro Mascagni writing at his office desk at the Teatro Costanzi in Rome in 1909](/assets/posts/mascagni-org/mascagni-desk-1909.webp){:standalone width="75%"}

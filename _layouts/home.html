@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: default
 # The Home page layout
 ---
+
+<div class="row">
+  <div class="col-12 col-lg-11 col-xl-12 home-col">
+    <div id="page" class="post pb-5 pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4 mb-md-4">
 
 
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
@@ -73,129 +77,7 @@ layout: page
       </div>
     </div>
 
-    <!-- Tile 2: IBM typewriters -->
-    <div class="series-tile">
-      <div class="tile-image-wrapper">
-        <img src="{{ '/assets/pages/typewriter-bucket-list/ibmmtsc.jpg' | relative_url }}" alt="IBM Magnetic Tape Selectric Composer (MT/SC)" loading="lazy">
-        <figcaption class="tile-caption">
-          IBM Magnetic Tape Selectric Composer (MT/SC)
-        </figcaption>
-      </div>
-      <div class="tile-body">
-        <h3 class="tile-title">IBM Typewriters</h3>
-        <ul class="tile-post-list">
-          {% assign ibm_paths = "/pages/typewriter-collection-ibm/,/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/" | split: "," %}
-          {% for path in ibm_paths %}
-            {% if path contains "/posts/" %}
-              {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
-            {% else %}
-              {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
-            {% endif %}
-            {% if p %}
-            <li>
-              <i class="far fa-file-alt mr-2 text-muted"></i>
-              <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-            </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-
-    <!-- Tile 3: Typewriter collection -->
-    <div class="series-tile">
-      <div class="tile-image-wrapper">
-        <img src="{{ '/assets/pages/typewriter-completed-restorations/IMG_3871.jpg' | relative_url }}" alt="Typewriter collection" loading="lazy">
-        <figcaption class="tile-caption">
-          From the typewriter collection
-        </figcaption>
-      </div>
-      <div class="tile-body">
-        <h3 class="tile-title">Bruchez Typewriter Collection</h3>
-        <ul class="tile-post-list">
-          {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/posts/hermes-baby-1961/,/posts/royal-fp-special-order-1960/,/pages/typewriter-bucket-list/" | split: "," %}
-          {% for path in tw_paths %}
-            {% if path contains "/posts/" %}
-              {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
-            {% else %}
-              {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
-            {% endif %}
-            {% if p %}
-            <li>
-              <i class="far fa-file-alt mr-2 text-muted"></i>
-              <a href="{{ p.url | relative_url }}">{{ p.title | remove: "Typewriter Collection: " }}</a>
-            </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-
-    <!-- Tile 4: Computer collection -->
-    <div class="series-tile">
-      <div class="tile-image-wrapper">
-        <img src="{{ '/assets/pages/computer-vintage/northstar-advantage.webp' | relative_url }}" alt="Computer collection" loading="lazy">
-        <figcaption class="tile-caption">
-          From the computer collection
-        </figcaption>
-      </div>
-      <div class="tile-body">
-        <h3 class="tile-title">Bruchez Computer Collection</h3>
-        <ul class="tile-post-list">
-          <li>
-            <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/pages/computer-collection/' | relative_url }}">Computer collection</a>
-          </li>
-          <li>
-            <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/posts/televideo-800a-terminal/' | relative_url }}">The Televideo 800A Terminal</a>
-          </li>
-          <li>
-            <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/posts/televideo-912-terminal-1/' | relative_url }}">The Televideo 912 Terminal - Part 1</a>
-          </li>
-          <li>
-            <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/posts/televideo-912-terminal-2/' | relative_url }}">The Televideo 912 Terminal - Part 2</a>
-          </li>
-          <li>
-            <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/posts/televideo-912-terminal-3/' | relative_url }}">The Televideo 912 Terminal - Part 3</a>
-          </li>
-          <li>
-            <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/pages/computer-bucket-list/' | relative_url }}">Computer bucket list</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-
-    <!-- Tile 5: Repairs and restorations -->
-    <div class="series-tile">
-      <div class="tile-image-wrapper">
-        <img src="{{ '/assets/pages/typewriter-future-restorations/caligraph-2-knolling.jpg' | relative_url }}" alt="Repairs and restorations" loading="lazy">
-        <figcaption class="tile-caption">
-          Disassembled 1893 Caligraph 2
-        </figcaption>
-      </div>
-      <div class="tile-body">
-        <h3 class="tile-title">Repairs and Restorations</h3>
-        <ul class="tile-post-list">
-          {% assign repair_paths = "/posts/fixing-yamaha-clavinova-clp-280/,/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/,/posts/restoring-yost-20/,/posts/televideo-800a-terminal/,/posts/televideo-912-terminal-1/,/posts/televideo-912-terminal-2/,/posts/televideo-912-terminal-3/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/restoring-ibm-memory-typewriter-1/,/posts/vic-20-key/" | split: "," %}
-          {% for path in repair_paths %}
-            {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
-            {% if p %}
-            <li>
-              <i class="far fa-file-alt mr-2 text-muted"></i>
-              <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-            </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-
-    <!-- Tile 6: Mascagni.org -->
+    <!-- Tile 2: Mascagni.org -->
     <div class="series-tile">
       <div class="tile-image-wrapper">
         <img src="{{ '/assets/posts/mascagni-org/mascagni-desk-1909.webp' | relative_url }}" alt="Pietro Mascagni writing at his office desk at the Teatro Costanzi in Rome in 1909" loading="lazy">
@@ -238,27 +120,208 @@ layout: page
       </div>
     </div>
 
-    <!-- Tile 7: Recent blog posts -->
+    <!-- Tile 3: IBM typewriters -->
     <div class="series-tile">
       <div class="tile-image-wrapper">
-        <img src="{{ '/assets/posts/hermes-baby-1961/2x/IMG_3376.jpg' | relative_url }}" alt="Recent blog posts" loading="lazy">
+        <img src="{{ '/assets/pages/typewriter-bucket-list/ibmmtsc.jpg' | relative_url }}" alt="IBM Magnetic Tape Selectric Composer (MT/SC)" loading="lazy">
         <figcaption class="tile-caption">
-          Recent Blog Posts
+          IBM Magnetic Tape Selectric Composer (MT/SC)
         </figcaption>
       </div>
       <div class="tile-body">
-        <h3 class="tile-title">Recent Blog Posts</h3>
+        <h3 class="tile-title">IBM Typewriters</h3>
         <ul class="tile-post-list">
-          {% for post in posts limit: 10 %}
+          {% assign ibm_paths = "/pages/typewriter-collection-ibm/,/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/" | split: "," %}
+          {% for path in ibm_paths %}
+            {% if path contains "/posts/" %}
+              {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% else %}
+              {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
+            {% endif %}
+            {% if p %}
+            <li>
+              <i class="far fa-file-alt mr-2 text-muted"></i>
+              <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tile 4: Typewriter collection -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/pages/typewriter-completed-restorations/IMG_3871.jpg' | relative_url }}" alt="Typewriter collection" loading="lazy">
+        <figcaption class="tile-caption">
+          From the typewriter collection
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">Bruchez Typewriter Collection</h3>
+        <ul class="tile-post-list">
+          {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/posts/hermes-baby-1961/,/posts/royal-fp-special-order-1960/,/pages/typewriter-bucket-list/" | split: "," %}
+          {% for path in tw_paths %}
+            {% if path contains "/posts/" %}
+              {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% else %}
+              {% assign p = site.pages | where_exp: "item", "item.url == path" | first %}
+            {% endif %}
+            {% if p %}
+            <li>
+              <i class="far fa-file-alt mr-2 text-muted"></i>
+              <a href="{{ p.url | relative_url }}">{{ p.title | remove: "Typewriter Collection: " }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tile 5: Computer collection -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/pages/computer-vintage/northstar-advantage.webp' | relative_url }}" alt="Computer collection" loading="lazy">
+        <figcaption class="tile-caption">
+          From the computer collection
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">Bruchez Computer Collection</h3>
+        <ul class="tile-post-list">
           <li>
             <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/pages/computer-collection/' | relative_url }}">Computer collection</a>
+          </li>
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/posts/televideo-800a-terminal/' | relative_url }}">The Televideo 800A Terminal</a>
+          </li>
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/posts/televideo-912-terminal-1/' | relative_url }}">The Televideo 912 Terminal - Part 1</a>
+          </li>
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/posts/televideo-912-terminal-2/' | relative_url }}">The Televideo 912 Terminal - Part 2</a>
+          </li>
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/posts/televideo-912-terminal-3/' | relative_url }}">The Televideo 912 Terminal - Part 3</a>
+          </li>
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted"></i>
+            <a href="{{ '/pages/computer-bucket-list/' | relative_url }}">Computer bucket list</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tile 6: Repairs and restorations -->
+    <div class="series-tile">
+      <div class="tile-image-wrapper">
+        <img src="{{ '/assets/pages/typewriter-future-restorations/caligraph-2-knolling.jpg' | relative_url }}" alt="Repairs and restorations" loading="lazy">
+        <figcaption class="tile-caption">
+          Disassembled 1893 Caligraph 2
+        </figcaption>
+      </div>
+      <div class="tile-body">
+        <h3 class="tile-title">Repairs and Restorations</h3>
+        <ul class="tile-post-list">
+          {% assign repair_paths = "/posts/fixing-yamaha-clavinova-clp-280/,/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/,/posts/restoring-yost-20/,/posts/televideo-800a-terminal/,/posts/televideo-912-terminal-1/,/posts/televideo-912-terminal-2/,/posts/televideo-912-terminal-3/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/restoring-ibm-memory-typewriter-1/,/posts/vic-20-key/" | split: "," %}
+          {% for path in repair_paths %}
+            {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
+            {% if p %}
+            <li>
+              <i class="far fa-file-alt mr-2 text-muted"></i>
+              <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tile 7: Recent blog posts (full-width row) -->
+    {% assign latest_post = posts.first %}
+    {% assign latest_img_src = nil %}
+    {% assign latest_img_alt = nil %}
+    {% assign latest_img_pos = nil %}
+    {% if latest_post %}
+      {% if latest_post.main_image %}
+        {% assign latest_img_src = latest_post.main_image %}
+      {% elsif latest_post.image.path %}
+        {% assign latest_img_src = latest_post.image.path %}
+      {% elsif latest_post.image %}
+        {% assign latest_img_src = latest_post.image %}
+      {% elsif latest_post.content contains '<img ' %}
+        {% assign first_img_tag = latest_post.content | split: '<img ' | slice: 1 | first | split: '>' | first %}
+        {% if first_img_tag contains 'src="' %}
+          {% assign latest_img_src = first_img_tag | split: 'src="' | slice: 1 | first | split: '"' | first %}
+        {% endif %}
+      {% endif %}
+
+      {% if latest_post.main_image_position %}
+        {% assign latest_img_pos = latest_post.main_image_position %}
+      {% endif %}
+
+      {% if latest_post.main_image_caption %}
+        {% assign latest_img_alt = latest_post.main_image_caption | escape %}
+      {% elsif latest_post.image.alt %}
+        {% assign latest_img_alt = latest_post.image.alt | escape %}
+      {% elsif latest_img_src %}
+        {% assign img_needle = 'src="' | append: latest_img_src | append: '"' %}
+        {% if latest_post.content contains img_needle %}
+          {% assign matched_after_src = latest_post.content | split: img_needle | slice: 1 | first | split: '>' | first %}
+          {% assign matched_before_src = latest_post.content | split: img_needle | first | split: '<img ' | last %}
+          {% assign matched_img_tag = matched_before_src | append: matched_after_src %}
+          {% if matched_img_tag contains 'alt="' %}
+            {% assign latest_img_alt = matched_img_tag | split: 'alt="' | slice: 1 | first | split: '"' | first %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+    <div class="series-tile series-tile--wide">
+      <figure class="tile-image-wrapper">
+        {% if latest_img_src %}
+          {% if latest_img_src contains '://' %}
+            {% assign resolved_latest_img_src = latest_img_src %}
+          {% else %}
+            {% assign resolved_latest_img_src = latest_img_src | relative_url %}
+          {% endif %}
+          {% if latest_img_alt == nil or latest_img_alt == '' %}
+            {% assign latest_img_caption = latest_post.title | escape %}
+          {% else %}
+            {% assign latest_img_caption = latest_img_alt %}
+          {% endif %}
+          <a href="{{ latest_post.url | relative_url }}" class="tile-image-link" aria-label="{{ latest_post.title | escape }}">
+            <img src="{{ resolved_latest_img_src }}" alt="{{ latest_img_caption }}" loading="lazy"{% if latest_img_pos %} style="object-position: {{ latest_img_pos | escape }};"{% endif %}>
+          </a>
+          <figcaption class="tile-caption">
+            {{ latest_img_caption }}
+          </figcaption>
+        {% else %}
+          <img src="{{ '/assets/posts/hermes-baby-1961/2x/IMG_3376.jpg' | relative_url }}" alt="1961 Hermes Baby typewriter" loading="lazy">
+          <figcaption class="tile-caption">
+            1961 Hermes Baby
+          </figcaption>
+        {% endif %}
+      </figure>
+      <div class="tile-body">
+        <div class="tile-header-row">
+          <h3 class="tile-title">Recent Blog Posts</h3>
+          <a href="{{ '/tabs/archives/' | relative_url }}" class="tile-all-link">
+            <i class="fas fa-archive mr-1" aria-hidden="true"></i>All posts →
+          </a>
+        </div>
+        <ul class="tile-post-list" role="list">
+          {% for post in posts limit: 10 %}
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted" aria-hidden="true"></i>
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="tile-post-date text-muted">{{ post.date | date: "%b %Y" }}</span>
           </li>
           {% endfor %}
-          <li>
-            <i class="fas fa-archive mr-2 text-muted"></i>
-            <a href="{{ '/tabs/archives/' | relative_url }}">All posts...</a>
-          </li>
         </ul>
       </div>
     </div>
@@ -330,3 +393,7 @@ layout: page
 {% endif %}
 
 {% endif %}
+
+    </div> <!-- #page -->
+  </div><!-- .home-col -->
+</div><!-- .row -->

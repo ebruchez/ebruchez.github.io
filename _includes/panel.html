@@ -4,6 +4,7 @@
 
 <div id="panel-wrapper" class="col-xl-3 pl-2 text-muted topbar-down">
 
+  {% comment %}
   <div class="access">
 
   {% include update-list.html %}
@@ -26,7 +27,6 @@
 
   {% endif %}
 
-  {% comment %}
   {% include trending-tags.html %}
 
   {% if trending_tags.size > 0 %}
@@ -42,13 +42,13 @@
       </div>
     </div>
   {% endif %}
-  {% endcomment %}
   </div> <!-- .access -->
+  {% endcomment %}
 
   {% if include.toc %}
     <!-- BS-toc.js will be loaded at medium priority -->
     <script src="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.js"></script>
-    <div id="toc-wrapper" class="pl-0 pr-4 mb-5">
+    <div id="toc-wrapper" class="pl-0 pr-4 mb-5 mt-5">
       <span class="pl-3 pt-2 mb-2">
       {{- site.data.label.panel.toc | default: 'Contents' -}}
       </span>

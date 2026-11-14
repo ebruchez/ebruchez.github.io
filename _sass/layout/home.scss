@@ -155,10 +155,39 @@
   }
 }
 
+/* Full-width Home column (no right-side panel) */
+@media all and (min-width: 1200px) {
+  #main > div.row > div.home-col {
+    flex: 0 0 100%;
+    max-width: min(100%, #{$main-content-max-width});
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+  }
+}
+
+@media all and (min-width: 1400px) {
+  #main > div.row > div.home-col {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media all and (min-width: 1650px) {
+  #main > div.row > div.home-col {
+    padding-left: 0;
+    padding-right: 0;
+
+    > div:first-child {
+      padding-left: 0.55rem !important;
+      padding-right: 0.55rem !important;
+    }
+  }
+}
+
 /* Featured Series Tiles */
 .home-tiles-container {
   margin-top: 1rem;
-  margin-bottom: 2.5rem;
+  margin-bottom: 3.5rem;
 
   .home-tiles-heading {
     font-size: 1.1rem;
@@ -172,15 +201,27 @@
 
   .home-tiles-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+
+    @media all and (min-width: 640px) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    @media all and (min-width: 1200px) {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    @media all and (min-width: 1400px) {
+      gap: 1.5rem;
+    }
   }
 
   .series-tile {
     background-color: var(--card-bg, var(--button-bg));
     border: 1px solid var(--card-border-color, var(--main-border-color));
     border-radius: 10px;
-    overflow: hidden;
+    overflow: clip;
     display: flex;
     flex-direction: column;
     box-shadow: 0 4px 12px var(--card-box-shadow, rgba(0, 0, 0, 0.04));
@@ -193,7 +234,28 @@
 
     .tile-image-wrapper {
       position: relative;
+      margin: 0;
       background-color: var(--tb-odd-bg);
+
+      .tile-image-link {
+        display: block;
+        overflow: hidden;
+
+        &:focus-visible {
+          outline: 2px solid var(--link-color);
+          outline-offset: -2px;
+        }
+
+        @media (prefers-reduced-motion: no-preference) {
+          img {
+            transition: transform 0.25s ease;
+          }
+
+          &:hover img {
+            transform: scale(1.02);
+          }
+        }
+      }
 
       img {
         width: 100%;
@@ -220,6 +282,7 @@
       display: flex;
       flex-direction: column;
       flex-grow: 1;
+      min-inline-size: 0;
 
       .tile-title {
         font-size: 1.2rem;
@@ -241,6 +304,7 @@
           margin-bottom: 0.5rem;
           display: flex;
           align-items: baseline;
+          min-inline-size: 0;
 
           &:last-child {
             margin-bottom: 0;
@@ -264,6 +328,99 @@
             &:hover {
               text-decoration: underline;
             }
+          }
+        }
+      }
+    }
+
+    /* Full-width bottom banner card for Recent Blog Posts */
+    &.series-tile--wide {
+      grid-column: 1 / -1;
+
+      .tile-header-row {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin-bottom: 0.9rem;
+
+        .tile-title {
+          margin-bottom: 0;
+        }
+
+        .tile-all-link {
+          font-size: 0.88rem;
+          font-weight: 600;
+          color: var(--link-color);
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+
+      .tile-post-list {
+        li {
+          gap: 0.25rem;
+
+          a {
+            min-inline-size: 0;
+          }
+
+          .tile-post-date {
+            font-size: 0.78rem;
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-inline-start: auto;
+            padding-inline-start: 0.5rem;
+          }
+        }
+      }
+
+      @media all and (min-width: 768px) {
+        .tile-post-list {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          column-gap: 2rem;
+          row-gap: 0.6rem;
+
+          li {
+            margin-bottom: 0;
+          }
+        }
+      }
+
+      @media all and (min-width: 992px) {
+        flex-direction: row;
+
+        .tile-image-wrapper {
+          flex: 0 0 260px;
+          display: flex;
+          flex-direction: column;
+          border-right: 1px solid var(--main-border-color);
+
+          .tile-image-link {
+            flex: 1 1 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 180px;
+
+            img {
+              flex: 1 1 0;
+              height: 0;
+            }
+          }
+
+          > img {
+            flex: 1 1 0;
+            height: 0;
+            min-height: 180px;
+          }
+
+          .tile-caption {
+            border-bottom: 0;
           }
         }
       }
