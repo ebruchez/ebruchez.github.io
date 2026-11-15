@@ -27,7 +27,7 @@ See also my [computer bucket list](../computer-bucket-list/).
 
 I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also known as MT72 in Europe), which came out in 1964.[^mtst-ebay][^mtst-diagrams][^mtsc] It is a large machine, with a special desk and a large console, as you can see on the picture below.
 
-![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone style="max-width: 75%; width="100%"}
+![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone style="max-width: 75%; width: 100%"}
 
 [//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.jpg&#41;{:standalone})
 [//]: # (*Credit: [Norsk Teknisk Museum]&#40;https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier&#41;*)
@@ -36,14 +36,14 @@ I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also kn
 
 The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969, seems to be quite rare. I am aware of a museum in Europe that has an instance (alongside an MT/ST). It had a different style of console compared to the newer and more stylish Mag Card/II console. In fact it looks more like the MT/ST, although possibly a little smaller.
 
-![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.jpg){:standalone style="max-width: 75%; width="100%"}
+![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.jpg){:standalone style="max-width: 75%; width: 100%"}
 
 
 ## IBM Displaywriter System
 
 The Displaywriter System is a word processing system that IBM produced in the early 1980s. It is at the intersection of typewriters and computers.
 
-![IBM Displaywriter System](/assets/pages/typewriter-bucket-list/ibm-displaywriter.webp){:standalone style="max-width: 75%; width="100%"}
+![IBM Displaywriter System](/assets/pages/typewriter-bucket-list/ibm-displaywriter.webp){:standalone style="max-width: 75%; width: 100%"}
 
 *Credit: [National Museum of American History](https://americanhistory.si.edu/collections/object/nmah_1289571)*
 
@@ -53,7 +53,7 @@ I own a [Remington Model-121 Vertical Adder](https://typewriterdatabase.com/192x
 
 I know that a few of those are around, as I've seen them for sale a couple of times: once in Europe, and once in the US, but too far away from me. Hopefully one is waiting form me somewhere.
 
-![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone style="max-width: 60%; width="100%"}
+![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone style="max-width: 60%; width: 100%"}
 
 *Credit: [National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_904253?fbclid=IwAR02VU29QBYN5V7w2-Z0fcxLodE5XzPoDFhsFpXcw-2eqcN21Ns-3nRcbDo)*
 
@@ -68,9 +68,9 @@ I am also interested in completing my collection of Varityper shuttles (or fonts
 
 [//]: # (![The current &#40;2022&#41; Varityper collection]&#40;/assets/posts/varityper-610f/2x/montage.jpg&#41;{:standalone width="50%"})
 
-![VariTyper Model 660F](/assets/pages/typewriter-bucket-list/varityper660.jpg){:standalone style="max-width: 75%; width="100%"}
+![VariTyper Model 660F](/assets/pages/typewriter-bucket-list/varityper660.jpg){:standalone style="max-width: 75%; width: 100%"}
 
-![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone style="max-width: 75%; width="100%"}
+![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone style="max-width: 75%; width: 100%"}
 
 ## Hermes 10
 
@@ -95,7 +95,7 @@ The following machines would be nice to complete that collection:
 - Mag Card Executive
 - Mag Card Composer
 
-![IBM Mag Card II](/assets/pages/typewriter-bucket-list/ibmcstii.jpg){:standalone style="max-width: 75%; width="100%"}
+![IBM Mag Card II](/assets/pages/typewriter-bucket-list/ibmcstii.jpg){:standalone style="max-width: 75%; width: 100%"}
 
 ---
 
@@ -128,7 +128,7 @@ _FOUND: May 2025._
 
 [My IBM MT/SC](/posts/ibm-mt-sc-1/) includes a variant of an IBM I/O Selectric Typewriter, called the MT/SR. I'd love to find an actual I/O typewriter. These look like a regular Selectric, but with a fatter bottom containing extra hardware. Inside, there are contacts and solenoids that allow the machine to transmit information, and to act as a printer. These machines were connected to IBM MT/ST machines, or to a computer.
 
-![IBM I/O Selectric Typewriter](/assets/pages/typewriter-bucket-list/mt-sr-no-background.jpg){:standalone style="max-width: 75%; width="100%"}
+![IBM I/O Selectric Typewriter](/assets/pages/typewriter-bucket-list/mt-sr-no-background.jpg){:standalone style="max-width: 75%; width: 100%"}
 
 ### VariTyper Models 160 and 720
 
@@ -136,9 +136,9 @@ _FOUND: April 2026_
 
 I was very lucky to be able to purchase these machines together in April 2026, especially model 720, which features the latest body and keyboard style. I also got some manuals, fonts, and accessories as part of that purchase.
 
-![VariTyper Model 160](/assets/pages/typewriter-varityper/IMG_2945.webp){:standalone style="max-width: 75%; width="100%"}
+![VariTyper Model 160](/assets/pages/typewriter-varityper/IMG_2945.webp){:standalone style="max-width: 75%; width: 100%"}
 
-![VariTyper Model 720](/assets/pages/typewriter-varityper/IMG_2894.webp){:standalone style="max-width: 75%; width="100%"}
+![VariTyper Model 720](/assets/pages/typewriter-varityper/IMG_2894.webp){:standalone style="max-width: 75%; width: 100%"}
 
 ## See also
 

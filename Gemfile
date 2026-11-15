@@ -7,6 +7,7 @@ group :jekyll_plugins do
   # gem "jekyll-xxx", "~> x.y"
   gem 'jekyll-redirect-from'
   gem 'jekyll-relative-links'
+  gem 'nokogiri'
 end
 
 group :test do
