@@ -201,7 +201,7 @@
 
   .home-tiles-grid {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.25rem;
 
     @media all and (min-width: 640px) {
@@ -218,6 +218,7 @@
   }
 
   .series-tile {
+    min-inline-size: 0;
     background-color: var(--card-bg, var(--button-bg));
     border: 1px solid var(--card-border-color, var(--main-border-color));
     border-radius: 10px;
