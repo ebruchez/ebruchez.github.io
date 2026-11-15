@@ -9,6 +9,31 @@ category: Technology
 main_image: /assets/posts/mascagni-org/pensiero-autograph.webp
 main_image_caption: "Mascagni's 1903 autograph of Un pensiero a San Francisco"
 main_image_position: top
+history_slides:
+  - year: "1999"
+    src: /assets/posts/mascagni-org/mascagni-org-1999-11.webp
+    width: 2048
+    height: 1536
+    alt: "Mascagni.org homepage in November 1999 showing an orange top bar, left-hand site map, and the Iris Project feature"
+    caption: "November 1999 — The original Mascagni.org homepage, with a simple table layout, site map, and the \"Iris Project\" feature."
+  - year: "2002"
+    src: /assets/posts/mascagni-org/mascagni-org-2002-11.webp
+    width: 2048
+    height: 1536
+    alt: "Mascagni.org version 2.5 homepage in November 2002 with a maroon sidebar, painted logo artwork, and latest news"
+    caption: "November 2002 — Version 2.5 introduced the maroon sidebar, painted header artwork, and sections for news, articles, and recordings."
+  - year: "2006"
+    src: /assets/posts/mascagni-org/mascagni-org-2006-11.webp
+    width: 2048
+    height: 1536
+    alt: "Mascagni.org homepage in November 2006 with a two-column layout, search bar, inline MP3 and Ogg players, and featured 1902 photograph"
+    caption: "November 2006 — A richer two-column layout adding site search, inline MP3/Ogg audio excerpts, and a featured archival photo."
+  - year: "2011"
+    src: /assets/posts/mascagni-org/mascagni-org-2011-11.webp
+    width: 2048
+    height: 1536
+    alt: "Mascagni.org homepage in November 2011 featuring Teatro Grattacielo's North American premiere of Il Piccolo Marat at Lincoln Center"
+    caption: "November 2011 — Later iteration of the Orbeon-powered site, featuring Teatro Grattacielo's U.S. première of Il Piccolo Marat at Lincoln Center."
 ---
 
 ![Pietro Mascagni writing at his office desk at the Teatro Costanzi in Rome in 1909](/assets/posts/mascagni-org/mascagni-desk-1909.webp){:standalone width="75%"}
@@ -20,6 +45,8 @@ After nearly a decade offline, I have finally brought [Mascagni.org](https://mas
 I started putting together a site about Italian opera composer Pietro Mascagni (1863–1945) under the domain [mascagni.org](https://mascagni.org/) in 1999. While Mascagni is universally remembered for his 1890 one-act masterpiece *Cavalleria rusticana*, he composed 16 operas and operettas along with dozens of vocal, piano, orchestral, and sacred works, much of it wonderful and vastly underrated music.
 
 For many years, the site grew thanks to archival research, acquisitions of material, and generous contributions from *Mascagnani* around the world. Technically, it also served as a testbed: Mascagni.org was dynamically generated using XML pipelines on Orbeon Presentation Server (an earlier name of [Orbeon Forms](https://www.orbeon.com/)) backed by a relational database. Unfortunately, as servers and dependencies aged, the original site eventually went offline around late 2016 / 2017.
+
+{% include carousel.html id="mascagni-history" label="Mascagni.org through the years (1999–2011)" slides=page.history_slides %}
 
 ## Rebuilding for longevity
 
