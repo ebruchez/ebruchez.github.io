@@ -6,10 +6,10 @@ theme: jekyll-theme-chirpy
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
 title: Erik's Ponderings
-tagline: A blog and More
+tagline: Technology, vintage machines & music
 
 description: >-                        # used by seo meta and the atom feed
-  Erik's blog, essays, and other content.
+  Erik Bruchez on technology, programming, vintage typewriters and computers, restorations, and music.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://blog.bruchez.name'
@@ -126,20 +126,13 @@ defaults:
       toc: true         # Display TOC column in posts.
       breadcrumb:
         -
-          label: Posts
+          label: Home
           url: /
   -
     scope:
       path: _drafts
     values:
       comments: false
-  -
-    scope:
-      path: index.html
-    values:
-      breadcrumb:
-        -
-          label: Posts
 #  -
 #    scope:
 #      path: tags

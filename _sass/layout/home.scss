@@ -2,6 +2,80 @@
   Style for Homepage
 */
 
+.visually-hidden:where(:not(:focus-within, :active)) {
+  position: absolute !important;
+  clip-path: inset(50%) !important;
+  overflow: hidden !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  border: 0 !important;
+  white-space: nowrap !important;
+}
+
+.home-topbar-heading {
+  margin: 0;
+  padding-left: 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: 0.01em;
+  color: var(--topbar-text-color);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  @media all and (max-width: 830px) {
+    position: absolute !important;
+    clip-path: inset(50%) !important;
+    overflow: hidden !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -1px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    white-space: nowrap !important;
+  }
+
+  @media all and (min-width: 832px) and (max-width: 1199px) {
+    max-width: 65%;
+  }
+
+  @media all and (min-width: 1400px) {
+    padding-left: 0;
+  }
+}
+
+@media all and (min-width: 831px) {
+  #topbar-wrapper.topbar-home {
+    position: absolute;
+    background-color: var(--main-wrapper-bg);
+    border-bottom: 0;
+    box-shadow: none;
+  }
+}
+
+@media all and (min-width: 1400px) and (max-width: 1649px) {
+  #topbar-wrapper.topbar-home #topbar {
+    padding-right: 0;
+  }
+}
+
+@media all and (min-width: 1650px) {
+  #topbar-wrapper.topbar-home {
+    #topbar {
+      max-width: #{$main-content-max-width};
+      padding-left: 0.55rem;
+      padding-right: 0.55rem;
+    }
+
+    #search-wrapper {
+      margin-right: 0;
+    }
+  }
+}
+
 #post-list {
   margin-top: 1rem;
   padding-right: 0.5rem;

@@ -2,8 +2,15 @@
   The Top Bar
 -->
 
-<div id="topbar-wrapper" class="row justify-content-center topbar-down">
+<div id="topbar-wrapper" class="row justify-content-center topbar-down{% if page.layout == 'home' %} topbar-home{% endif %}">
   <div id="topbar" class="col-11 d-flex h-100 align-items-center justify-content-between">
+    {% if page.layout == "home" %}
+      {% if page.topbar_title and page.topbar_title != "" %}
+        <h1 class="home-topbar-heading">{{ page.topbar_title }}</h1>
+      {% else %}
+        <h1 class="visually-hidden">{{ site.title }}</h1>
+      {% endif %}
+    {% else %}
     <span id="breadcrumb">
       {% for item in page.breadcrumb %}
         {% if item.url %}
@@ -17,11 +24,10 @@
         {% endif %}
       {% endfor %}
 
-      {% unless page.layout == "home" %}
-        <span>{{ page.title }}</span>
-      {% endunless %}
+      <span>{{ page.title }}</span>
 
     </span><!-- endof #breadcrumb -->
+    {% endif %}
 
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 

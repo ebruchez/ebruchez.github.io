@@ -84,11 +84,12 @@ $sidebar-display: "sidebar-display";
   .site-subtitle {
     font-size: 95%;
     color: #828282;
-    line-height: 1.2rem;
+    line-height: 1.35;
     word-spacing: 1px;
     margin: 0.5rem 1.5rem 0.5rem 1.5rem;
     min-height: 3rem; // avoid vertical shifting in multi-line words
     user-select: none;
+    text-wrap: balance;
   }
 
   .nav-link {
