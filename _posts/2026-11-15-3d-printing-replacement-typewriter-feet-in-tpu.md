@@ -218,7 +218,7 @@ All of the models below are available on [my Printables profile](https://www.pri
 
 What I love most about this workflow is the speed of iteration: going from a crumbled remnant and a pair of calipers to a fitted TPU foot installed on a machine takes at most a few hours, often much less. Even better, because filament costs pennies per foot, I have been able to outfit unrestored project machines before putting them back on storage shelves - protecting both the shelves and the typewriters until their turn on the workbench comes.
 
-There are, of course, a couple of honest trade-offs compared with poured rubber:
+There are, of course, a couple of trade-offs compared with poured rubber:
 
 - **Grip:** Shore 85A TPU is slightly less tacky than fresh rubber, though under the weight of a typewriter I haven't found sliding to be an issue in practice.
 - **Cosmetics:** Printed TPU has a slight sheen and visible layer lines. Underneath a typewriter frame, feet rarely draw the eye, so this doesn't bother me at all. For perfectionists, someone recently suggested lightly buffing TPU on a polishing wheel to knock down layer lines and leave a matte, rubbery finish; flexible SLA resins - or using 3D-printed positives to cast silicone molds for poured rubber - are also possibilities, though for my needs direct TPU prints are already more than good enough.
