@@ -186,6 +186,7 @@
 
 /* Featured Series Tiles */
 .home-tiles-container {
+  container: home-tiles / inline-size;
   margin-top: 1rem;
   margin-bottom: 3.5rem;
 
@@ -363,7 +364,12 @@
       }
 
       .tile-post-list {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr);
+        row-gap: 0.5rem;
+
         li {
+          margin-bottom: 0;
           gap: 0.25rem;
 
           a {
@@ -380,24 +386,14 @@
         }
       }
 
-      @media all and (min-width: 768px) {
-        .tile-post-list {
-          display: grid;
-          grid-template-columns: repeat(2, minmax(0, 1fr));
-          column-gap: 2rem;
-          row-gap: 0.6rem;
-
-          li {
-            margin-bottom: 0;
-          }
+      /* 2 columns: side-by-side image + single-column post list */
+      @container home-tiles (min-width: 540px) {
+        &:has(> .tile-image-wrapper) {
+          flex-direction: row;
         }
-      }
-
-      @media all and (min-width: 992px) {
-        flex-direction: row;
 
         .tile-image-wrapper {
-          flex: 0 0 260px;
+          flex: 0 0 clamp(200px, 35cqi, 260px);
           display: flex;
           flex-direction: column;
           border-right: 1px solid var(--main-border-color);
@@ -423,6 +419,15 @@
           .tile-caption {
             border-bottom: 0;
           }
+        }
+      }
+
+      /* 3 columns: side-by-side image + two-column post list */
+      @container home-tiles (min-width: 900px) {
+        .tile-post-list {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          column-gap: 2rem;
+          row-gap: 0.6rem;
         }
       }
     }
