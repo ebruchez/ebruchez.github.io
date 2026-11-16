@@ -52,6 +52,90 @@ layout: default
 
   <div class="home-tiles-grid">
 
+    <!-- Recent blog posts (full-width row) -->
+    {% assign latest_post = posts.first %}
+    {% assign latest_img_src = nil %}
+    {% assign latest_img_alt = nil %}
+    {% assign latest_img_pos = nil %}
+    {% if latest_post %}
+      {% if latest_post.main_image %}
+        {% assign latest_img_src = latest_post.main_image %}
+      {% elsif latest_post.image.path %}
+        {% assign latest_img_src = latest_post.image.path %}
+      {% elsif latest_post.image %}
+        {% assign latest_img_src = latest_post.image %}
+      {% elsif latest_post.content contains '<img ' %}
+        {% assign first_img_tag = latest_post.content | split: '<img ' | slice: 1 | first | split: '>' | first %}
+        {% if first_img_tag contains 'src="' %}
+          {% assign latest_img_src = first_img_tag | split: 'src="' | slice: 1 | first | split: '"' | first %}
+        {% endif %}
+      {% endif %}
+
+      {% if latest_post.main_image_position %}
+        {% assign latest_img_pos = latest_post.main_image_position %}
+      {% endif %}
+
+      {% if latest_post.main_image_caption %}
+        {% assign latest_img_alt = latest_post.main_image_caption | escape %}
+      {% elsif latest_post.image.alt %}
+        {% assign latest_img_alt = latest_post.image.alt | escape %}
+      {% elsif latest_img_src %}
+        {% assign img_needle = 'src="' | append: latest_img_src | append: '"' %}
+        {% if latest_post.content contains img_needle %}
+          {% assign matched_after_src = latest_post.content | split: img_needle | slice: 1 | first | split: '>' | first %}
+          {% assign matched_before_src = latest_post.content | split: img_needle | first | split: '<img ' | last %}
+          {% assign matched_img_tag = matched_before_src | append: matched_after_src %}
+          {% if matched_img_tag contains 'alt="' %}
+            {% assign latest_img_alt = matched_img_tag | split: 'alt="' | slice: 1 | first | split: '"' | first %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+    <div class="series-tile series-tile--wide">
+      <figure class="tile-image-wrapper">
+        {% if latest_img_src %}
+          {% if latest_img_src contains '://' %}
+            {% assign resolved_latest_img_src = latest_img_src %}
+          {% else %}
+            {% assign resolved_latest_img_src = latest_img_src | relative_url %}
+          {% endif %}
+          {% if latest_img_alt == nil or latest_img_alt == '' %}
+            {% assign latest_img_caption = latest_post.title | escape %}
+          {% else %}
+            {% assign latest_img_caption = latest_img_alt %}
+          {% endif %}
+          <a href="{{ latest_post.url | relative_url }}" class="tile-image-link" aria-label="{{ latest_post.title | escape }}">
+            <img src="{{ resolved_latest_img_src }}" alt="{{ latest_img_caption }}" fetchpriority="high"{% if latest_img_pos %} style="object-position: {{ latest_img_pos | escape }};"{% endif %}>
+          </a>
+          <figcaption class="tile-caption">
+            {{ latest_img_caption }}
+          </figcaption>
+        {% else %}
+          <img src="{{ '/assets/posts/hermes-baby-1961/2x/IMG_3376.jpg' | relative_url }}" alt="1961 Hermes Baby typewriter" fetchpriority="high">
+          <figcaption class="tile-caption">
+            1961 Hermes Baby
+          </figcaption>
+        {% endif %}
+      </figure>
+      <div class="tile-body">
+        <div class="tile-header-row">
+          <h3 class="tile-title">Recent Blog Posts</h3>
+          <a href="{{ '/tabs/archives/' | relative_url }}" class="tile-all-link">
+            <i class="fas fa-archive mr-1" aria-hidden="true"></i>All posts →
+          </a>
+        </div>
+        <ul class="tile-post-list" role="list">
+          {% for post in posts limit: 8 %}
+          <li>
+            <i class="far fa-file-alt mr-2 text-muted" aria-hidden="true"></i>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="tile-post-date text-muted">{{ post.date | date: "%b %Y" }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
     <!-- Tile 1: Building an Apple-1 reproduction -->
     <div class="series-tile">
       <div class="tile-image-wrapper">
@@ -237,90 +321,6 @@ layout: default
               <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
             </li>
             {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-
-    <!-- Tile 7: Recent blog posts (full-width row) -->
-    {% assign latest_post = posts.first %}
-    {% assign latest_img_src = nil %}
-    {% assign latest_img_alt = nil %}
-    {% assign latest_img_pos = nil %}
-    {% if latest_post %}
-      {% if latest_post.main_image %}
-        {% assign latest_img_src = latest_post.main_image %}
-      {% elsif latest_post.image.path %}
-        {% assign latest_img_src = latest_post.image.path %}
-      {% elsif latest_post.image %}
-        {% assign latest_img_src = latest_post.image %}
-      {% elsif latest_post.content contains '<img ' %}
-        {% assign first_img_tag = latest_post.content | split: '<img ' | slice: 1 | first | split: '>' | first %}
-        {% if first_img_tag contains 'src="' %}
-          {% assign latest_img_src = first_img_tag | split: 'src="' | slice: 1 | first | split: '"' | first %}
-        {% endif %}
-      {% endif %}
-
-      {% if latest_post.main_image_position %}
-        {% assign latest_img_pos = latest_post.main_image_position %}
-      {% endif %}
-
-      {% if latest_post.main_image_caption %}
-        {% assign latest_img_alt = latest_post.main_image_caption | escape %}
-      {% elsif latest_post.image.alt %}
-        {% assign latest_img_alt = latest_post.image.alt | escape %}
-      {% elsif latest_img_src %}
-        {% assign img_needle = 'src="' | append: latest_img_src | append: '"' %}
-        {% if latest_post.content contains img_needle %}
-          {% assign matched_after_src = latest_post.content | split: img_needle | slice: 1 | first | split: '>' | first %}
-          {% assign matched_before_src = latest_post.content | split: img_needle | first | split: '<img ' | last %}
-          {% assign matched_img_tag = matched_before_src | append: matched_after_src %}
-          {% if matched_img_tag contains 'alt="' %}
-            {% assign latest_img_alt = matched_img_tag | split: 'alt="' | slice: 1 | first | split: '"' | first %}
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endif %}
-    <div class="series-tile series-tile--wide">
-      <figure class="tile-image-wrapper">
-        {% if latest_img_src %}
-          {% if latest_img_src contains '://' %}
-            {% assign resolved_latest_img_src = latest_img_src %}
-          {% else %}
-            {% assign resolved_latest_img_src = latest_img_src | relative_url %}
-          {% endif %}
-          {% if latest_img_alt == nil or latest_img_alt == '' %}
-            {% assign latest_img_caption = latest_post.title | escape %}
-          {% else %}
-            {% assign latest_img_caption = latest_img_alt %}
-          {% endif %}
-          <a href="{{ latest_post.url | relative_url }}" class="tile-image-link" aria-label="{{ latest_post.title | escape }}">
-            <img src="{{ resolved_latest_img_src }}" alt="{{ latest_img_caption }}" loading="lazy"{% if latest_img_pos %} style="object-position: {{ latest_img_pos | escape }};"{% endif %}>
-          </a>
-          <figcaption class="tile-caption">
-            {{ latest_img_caption }}
-          </figcaption>
-        {% else %}
-          <img src="{{ '/assets/posts/hermes-baby-1961/2x/IMG_3376.jpg' | relative_url }}" alt="1961 Hermes Baby typewriter" loading="lazy">
-          <figcaption class="tile-caption">
-            1961 Hermes Baby
-          </figcaption>
-        {% endif %}
-      </figure>
-      <div class="tile-body">
-        <div class="tile-header-row">
-          <h3 class="tile-title">Recent Blog Posts</h3>
-          <a href="{{ '/tabs/archives/' | relative_url }}" class="tile-all-link">
-            <i class="fas fa-archive mr-1" aria-hidden="true"></i>All posts →
-          </a>
-        </div>
-        <ul class="tile-post-list" role="list">
-          {% for post in posts limit: 10 %}
-          <li>
-            <i class="far fa-file-alt mr-2 text-muted" aria-hidden="true"></i>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            <span class="tile-post-date text-muted">{{ post.date | date: "%b %Y" }}</span>
-          </li>
           {% endfor %}
         </ul>
       </div>
