@@ -1,6 +1,7 @@
 /*
   The common styles
 */
+@use 'sass:math';
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;900&display=swap');
 
 @mixin mode-toggle($dark-mode: false) {
@@ -128,7 +129,7 @@ $sidebar-display: "sidebar-display";
 
         > a {
           position: relative;
-          left: $cursor-width / 2;
+          left: math.div($cursor-width, 2);
           width: 100%;
         }
 
@@ -154,7 +155,7 @@ $sidebar-display: "sidebar-display";
 
     @for $i from 1 through $tab-count {
       $offset: $tab-count - $i;
-      $top: -$offset * $tab-height + $tab-cursor-height / 2;
+      $top: -$offset * $tab-height + math.div($tab-cursor-height, 2);
 
       @if $i < $tab-count {
         > li.active:nth-child(#{$i}),
