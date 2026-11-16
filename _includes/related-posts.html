@@ -3,6 +3,32 @@
  if the number is not enough, use the other latest posts to supplement.
 -->
 
+{% if page.related_posts_cached %}
+  {% if page.related_posts_cached.size > 0 %}
+  <div id="related-posts" class="mt-5 mb-2 mb-sm-4">
+    <h3 class="pt-2 mt-1 mb-4 ml-1"
+      data-toc-skip>{{ site.data.label.post.relate_posts | default: 'Further Reading' }}</h3>
+    <div class="card-deck mb-4">
+    {% for post in page.related_posts_cached %}
+      <div class="card">
+        <a href="{{ post.url | relative_url }}">
+          <div class="card-body">
+            {% include timeago.html date=post.date class="small" %}
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>{{ post.title }}</h3>
+            <div class="text-muted small">
+              <p>
+                {{ post.related_excerpt }}
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+    </div> <!-- .card-deck -->
+  </div> <!-- #related-posts -->
+  {% endif %}
+{% else %}
+
 <!-- The total size of related posts  -->
 {% assign TOTAL_SIZE = 3 %}
 
@@ -103,4 +129,5 @@
     {% endfor %}
     </div> <!-- .card-deck -->
   </div> <!-- #related-posts -->
+{% endif %}
 {% endif %}

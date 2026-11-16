@@ -20,22 +20,39 @@ module BruchezLightbox
     src = img['src']&.strip
     return true if src.nil? || src.empty? || src.start_with?('data:')
 
-    ([img] + img.ancestors).any? do |node|
-      next false unless node.element?
+    node = img
+    while node && node.element?
+      return true if node.key?('data-no-lightbox')
 
-      classes = node['class'].to_s.split
-      node.key?('data-no-lightbox') ||
-        classes.include?('no-lightbox') ||
-        classes.include?('post-carousel')
+      if (cls = node['class']) && (cls.include?('no-lightbox') || cls.include?('post-carousel'))
+        classes = cls.split
+        return true if classes.include?('no-lightbox') || classes.include?('post-carousel')
+      end
+      node = node.parent
     end
+    false
+  end
+
+  def collect_text_with_br(node, buf = +'')
+    node.children.each do |child|
+      if child.text?
+        buf << child.content
+      elsif child.element?
+        if child.name == 'br'
+          buf << "\n"
+        else
+          collect_text_with_br(child, buf)
+        end
+      end
+    end
+    buf
   end
 
   def derive_alt_from_figcaption(figcaption)
     return nil unless figcaption
 
-    clone = figcaption.dup
-    clone.css('br').each { |br| br.replace("\n") }
-    first_line = clone.text.lines.map(&:strip).reject(&:empty?).first
+    text = collect_text_with_br(figcaption)
+    first_line = text.lines.map(&:strip).reject(&:empty?).first
     return nil if first_line.nil? || first_line.empty?
 
     first_line.length > 160 ? "#{first_line[0, 157].rstrip}..." : first_line
@@ -55,15 +72,61 @@ module BruchezLightbox
     node['class'] = (existing | names).join(' ')
   end
 
+  def collect_elements(root, tag_name, out = [])
+    root.children.each do |child|
+      next unless child.element?
+
+      out << child if child.name == tag_name
+      collect_elements(child, tag_name, out)
+    end
+    out
+  end
+
+  def find_first_element(root, tag_name)
+    root.children.each do |child|
+      next unless child.element?
+      return child if child.name == tag_name
+
+      found = find_first_element(child, tag_name)
+      return found if found
+    end
+    nil
+  end
+
   def transform(html)
     fragment = parse_fragment(html)
     changed = false
 
-    fragment.css('img').each do |img|
-      next if skip_image?(img)
+    collect_elements(fragment, 'img').each do |img|
+      src = img['src']&.strip
+      next if src.nil? || src.empty? || src.start_with?('data:')
 
-      figure = img.ancestors('figure').first
-      figcaption = figure&.at_css('figcaption')
+      # Walk ancestors once in Ruby instead of compiling CSS/XPath per image
+      skip = false
+      figure = nil
+      anchor = nil
+      node = img
+      while node && node.element?
+        if node.key?('data-no-lightbox')
+          skip = true
+          break
+        end
+        if (cls = node['class']) && (cls.include?('no-lightbox') || cls.include?('post-carousel'))
+          classes = cls.split
+          if classes.include?('no-lightbox') || classes.include?('post-carousel')
+            skip = true
+            break
+          end
+        end
+        if node != img
+          figure ||= node if node.name == 'figure'
+          anchor ||= node if node.name == 'a'
+        end
+        node = node.parent
+      end
+      next if skip
+
+      figcaption = figure ? find_first_element(figure, 'figcaption') : nil
       caption_html = extract_caption_html(figcaption, img)
 
       if img['alt'].nil?
@@ -71,7 +134,6 @@ module BruchezLightbox
         img['alt'] = derived_alt || ''
       end
 
-      anchor = img.ancestors('a').first
       if anchor
         next if anchor.key?('data-lightbox')
 
@@ -85,7 +147,7 @@ module BruchezLightbox
         changed = true
       else
         anchor = fragment.document.create_element('a')
-        anchor['href'] = img['src'].strip
+        anchor['href'] = src
         anchor['class'] = 'img-hyperlink lightbox-trigger'
         anchor['data-lightbox'] = GALLERY_ID
         anchor['data-caption'] = caption_html if caption_html

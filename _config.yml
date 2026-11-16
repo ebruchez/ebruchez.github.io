@@ -189,6 +189,7 @@ compress_html:
 exclude:
   - vendor
   - Gemfile.lock
+  - Gemfile.lock.bak.erik
   - Gemfile
   - tools
   - docs
@@ -199,6 +200,17 @@ exclude:
   - package.json
   - package-lock.json
   - .idea
+  - .bsp
+  - _site.bak*
+  - _drafts/*.png
+  - assets/posts/*/orig
+  - assets/posts/*/original
+  - erik-roller-import
+  - Images from blog
+  - erik-blog-01-23-2021.xml
+  - import-blog-blogger.txt
+  - jline-2.14.6.jar
+  - project
 
 jekyll-archives:
   enabled: [categories]
