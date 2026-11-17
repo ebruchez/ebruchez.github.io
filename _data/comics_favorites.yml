@@ -150,9 +150,13 @@ classics:
   authors:
   - Edgar P. Jacobs
   bedetheque_url: https://www.bedetheque.com/serie-1850-BD-Blake-et-Mortimer.html
+  url: https://fr.wikipedia.org/wiki/Blake_et_Mortimer
   cover_label: 'Tome 6: La Marque jaune'
   cover_query: La Marque jaune Jacobs
-  review: You can just read and re-read these albums without ever tiring of them.
+  review: >-
+    You can just read and re-read these albums without ever tiring of them. See also my
+    [2004 review of *La Damnation d'Edgar P. Jacobs*](/posts/la-damnation-d-edgar-p-jacobs/),
+    the biography of Jacobs by Benoît Mouchart and François Rivière.
   cover: fav-blake-et-mortimer.webp
 - id: fav-thorgal
   title: Thorgal
