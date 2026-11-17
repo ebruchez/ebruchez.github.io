@@ -241,6 +241,15 @@ module BruchezComicsData
     site.data['comics_total_reads'] = total_reads
     site.data['comics_total_reviewed'] = total_reviewed
     site.data['comics_latest_featured'] = featured_sorted
+
+    favs = site.data['comics_favorites']
+    if favs.is_a?(Hash)
+      %w[individual_works classics].each do |group_key|
+        Array(favs[group_key]).each do |fav_entry|
+          enrich_item!(fav_entry, converter, site.source)
+        end
+      end
+    end
   end
 end
 

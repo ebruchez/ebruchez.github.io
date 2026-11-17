@@ -22,6 +22,7 @@ require 'nokogiri'
 
 ROOT = File.expand_path('..', __dir__)
 DATA_DIR = File.join(ROOT, '_data', 'comics')
+FAVORITES_PATH = File.join(ROOT, '_data', 'comics_favorites.yml')
 COVERS_DIR = File.join(ROOT, 'assets', 'pages', 'comic-books', 'covers')
 INBOX_DIR = File.join(ROOT, '_covers_inbox')
 
@@ -72,25 +73,44 @@ def extract_volume_markers(title)
   markers
 end
 
-def load_all_years(filter_year = nil)
-  paths = Dir.glob(File.join(DATA_DIR, '*.yml')).sort.reverse
-  paths.select! { |p| File.basename(p, '.yml') == filter_year.to_s } if filter_year
-  paths.map do |p|
-    yr = File.basename(p, '.yml')
-    entries = YAML.safe_load(File.read(p), permitted_classes: [Date]) || []
-    [yr, p, entries]
-  end
+def load_favorites_bundle
+  return nil unless File.exist?(FAVORITES_PATH)
+
+  raw = YAML.safe_load(File.read(FAVORITES_PATH), permitted_classes: [Date]) || {}
+  entries = Array(raw['individual_works']) + Array(raw['classics'])
+  ['favorites', FAVORITES_PATH, entries, raw]
 end
 
-def save_year_yaml(year, path, entries)
-  yaml_str = YAML.dump(entries, line_width: 100).sub(/\A---\s*\n/, '')
-  File.write(path, "# Comic book reads for #{year}\n#{yaml_str}")
+def load_all_years(filter_year = nil)
+  if filter_year.to_s == 'favorites'
+    fav = load_favorites_bundle
+    return fav ? [fav] : []
+  end
+
+  paths = Dir.glob(File.join(DATA_DIR, '*.yml')).sort.reverse
+  paths.select! { |p| File.basename(p, '.yml') == filter_year.to_s } if filter_year
+  list = paths.map do |p|
+    yr = File.basename(p, '.yml')
+    entries = YAML.safe_load(File.read(p), permitted_classes: [Date]) || []
+    [yr, p, entries, entries]
+  end
+
+  if filter_year.nil? && (fav = load_favorites_bundle)
+    list.unshift(fav)
+  end
+  list
+end
+
+def save_year_yaml(year, path, payload)
+  yaml_str = YAML.dump(payload, line_width: 100).sub(/\A---\s*\n/, '')
+  header = year == 'favorites' ? '# Favorite comic books showcased on /pages/comic-books/' : "# Comic book reads for #{year}"
+  File.write(path, "#{header}\n#{yaml_str}")
 end
 
 def find_entry_across_years(entry_id)
-  load_all_years.each do |yr, path, entries|
+  load_all_years.each do |yr, path, entries, payload|
     idx = entries.index { |e| e['id'] == entry_id }
-    return [yr, path, entries, entries[idx]] if idx
+    return [yr, path, payload, entries[idx]] if idx
   end
   nil
 end
@@ -183,6 +203,8 @@ rescue StandardError
 end
 
 def build_apple_books_query(entry)
+  return entry['cover_query'].to_s.strip unless entry['cover_query'].to_s.strip.empty?
+
   title = entry['title'].to_s
   cleaned_title = title
                   .gsub(/\(The complete\)\s*\(\d{4}\)/i, 'The Complete Peanuts')
@@ -214,7 +236,8 @@ def country_for_entry(entry)
 end
 
 def candidate_matches_entry?(entry, track_name, artist_name)
-  entry_title = entry['title'].to_s
+  target_ref = entry['cover_query'].to_s.strip.empty? ? entry['title'].to_s : entry['cover_query'].to_s
+  entry_title = target_ref
   cand_title = track_name.to_s
 
   # 1. Check integrale / tome mismatch strictly
@@ -306,11 +329,11 @@ rescue StandardError
 end
 
 def print_status(filter_year)
-  load_all_years(filter_year).each do |yr, _path, entries|
+  load_all_years(filter_year).each do |yr, _path, entries, _payload|
     with_cover = entries.count { |e| e['cover'] && File.exist?(File.join(COVERS_DIR, File.basename(e['cover']))) }
     with_bede = entries.count { |e| e['bedetheque_url'] }
     with_rev = entries.count { |e| e['review'] }
-    puts "=== #{yr}: #{entries.size} reads | #{with_cover} covers | #{with_bede} Bédéthèque | #{with_rev} visible reviews ==="
+    puts "=== #{yr}: #{entries.size} entries | #{with_cover} covers | #{with_bede} Bédéthèque | #{with_rev} visible reviews ==="
     next unless filter_year
 
     entries.each do |e|
@@ -408,7 +431,7 @@ end
 
 def fetch_online(filter_year, limit: nil)
   fetched = 0
-  load_all_years(filter_year).each do |yr, yml_path, entries|
+  load_all_years(filter_year).each do |yr, yml_path, entries, payload|
     dirty = false
     entries.each do |entry|
       break if limit && fetched >= limit
@@ -444,7 +467,7 @@ def fetch_online(filter_year, limit: nil)
       end
       sleep 0.5
     end
-    save_year_yaml(yr, yml_path, entries) if dirty
+    save_year_yaml(yr, yml_path, payload) if dirty
   end
   puts "Done. Fetched #{fetched} new cover(s)."
 end
@@ -454,6 +477,7 @@ parser = OptionParser.new do |opts|
   opts.banner = 'Usage: ruby tools/manage-comic-covers.rb [options]'
   opts.on('--status', 'Show cover and review status summary') { options[:mode] = :status }
   opts.on('--year YEAR', 'Filter to a specific year (e.g. 2026)') { |y| options[:year] = y }
+  opts.on('--favorites', 'Target _data/comics_favorites.yml') { options[:year] = 'favorites' }
   opts.on('--inbox', 'Ingest dropped images from _covers_inbox/<id>.*') { options[:mode] = :inbox }
   opts.on('--clipboard ID', 'Save cover from macOS clipboard for entry ID') do |id|
     options[:mode] = :clipboard

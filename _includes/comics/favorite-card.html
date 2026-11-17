@@ -1,0 +1,73 @@
+{%- assign entry = include.entry -%}
+<article class="comic-fav-card{% if entry.cover_url %} has-cover{% endif %}" id="{{ entry.id }}">
+  {% if entry.cover_url %}
+    {% capture lb_caption %}{{ entry.title | escape }}{% if entry.cover_label %} — {{ entry.cover_label | escape }}{% endif %}{% if entry.creators_plain and entry.creators_plain != '' %} ({{ entry.creators_plain | escape }}){% endif %}{% endcapture %}
+    <a href="{{ entry.cover_url | relative_url }}"
+       class="comic-fav-card__cover-link lightbox-trigger"
+       data-lightbox="page-gallery"
+       data-caption="{{ lb_caption }}"
+       {% if entry.cover_label %}title="{{ entry.cover_label | escape }}"{% endif %}
+       aria-label="Enlarge cover for {{ entry.title | escape }}">
+      <img src="{{ entry.cover_url | relative_url }}"
+           alt="Cover for {{ entry.title | escape }}{% if entry.cover_label %} ({{ entry.cover_label | escape }}){% endif %}"
+           class="comic-fav-card__cover"
+           width="{{ entry.cover_width | default: 450 }}"
+           height="{{ entry.cover_height | default: 600 }}"
+           loading="lazy">
+    </a>
+  {% endif %}
+
+  <header class="comic-fav-card__header">
+    <div class="comic-fav-card__top-row">
+      <h4 class="comic-fav-card__title">
+        {% if entry.bedetheque_url %}
+          <a href="{{ entry.bedetheque_url }}" class="comic-fav-card__title-link" target="_blank" rel="noopener">{{ entry.title }}</a>
+        {% elsif entry.url %}
+          <a href="{{ entry.url }}" class="comic-fav-card__title-link" target="_blank" rel="noopener">{{ entry.title }}</a>
+        {% else %}
+          <span>{{ entry.title }}</span>
+        {% endif %}
+      </h4>
+
+      <div class="comic-fav-card__badges">
+        {% if entry.bedetheque_url %}
+          <a href="{{ entry.bedetheque_url }}"
+             class="comic-ext-pill comic-ext-pill--bedetheque comic-ext-pill--sm"
+             target="_blank"
+             rel="noopener"
+             aria-label="{{ entry.title | escape }} on Bédéthèque">
+            <span>Bédéthèque</span>
+            <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+          </a>
+        {% endif %}
+
+        {% if entry.url %}
+          <a href="{{ entry.url }}"
+             class="comic-ext-pill comic-ext-pill--sm"
+             target="_blank"
+             rel="noopener"
+             aria-label="{{ entry.title | escape }} on {{ entry.url_label | escape }}">
+            <span>{{ entry.url_label }}</span>
+            <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if entry.creators_parts and entry.creators_parts.size > 0 %}
+      <div class="comic-fav-card__creators">
+        {%- for part in entry.creators_parts -%}
+          <span class="comic-creator-group">
+            <span class="comic-creator-role">{{ part.role }}:</span> {{ part.names }}
+          </span>
+        {%- endfor -%}
+      </div>
+    {% endif %}
+  </header>
+
+  {% if entry.review_html %}
+    <div class="comic-fav-card__review">
+      {{ entry.review_html }}
+    </div>
+  {% endif %}
+</article>

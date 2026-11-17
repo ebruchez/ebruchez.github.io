@@ -37,7 +37,9 @@ Personal blog and collection site for Erik Bruchez (`https://blog.bruchez.name`)
 
 ### Source of Truth
 
-- **Data files**: `_data/comics/<year>.yml` (`2015.yml` through `2026.yml`, plus new `<YYYY>.yml` files for future years).
+- **Data files**:
+  - Yearly reading logs: `_data/comics/<year>.yml` (`2015.yml` through `2026.yml`, plus new `<YYYY>.yml` files for future years).
+  - Curated favorites: `_data/comics_favorites.yml` (`individual_works` and `classics` groups rendered on `/pages/comic-books/`).
 - **Pages**:
   - Hub page: `pages/comic-books.md` (`layout: comics` — renders Background, year pill bar, `Latest reads & quick reviews`, and Favorites).
   - Yearly pages: `pages/comic-books-YYYY.md` are thin frontmatter stubs (`layout: comics`, `comics_year: YYYY`). Add or edit comic entries in `_data/comics/YYYY.yml`, **not** in `pages/comic-books-YYYY.md`.
@@ -87,8 +89,9 @@ Covers are stored locally as optimized `.webp` images (`<= 600px` wide) under `a
 > **Note on `bedetheque.com`**: `www.bedetheque.com` serves a Cloudflare anti-bot challenge (`HTTP 403`) to automated CLI HTTP requests. Never attempt to scrape `bedetheque.com` HTML or bypass challenges; use `--clipboard`, `--inbox`, `--set`, or `--fetch-online` below.
 
 ```sh
-# Audit cover, Bédéthèque link, and review status
+# Audit cover, Bédéthèque link, and review status (use --favorites for _data/comics_favorites.yml)
 ruby tools/manage-comic-covers.rb --status --year 2026
+ruby tools/manage-comic-covers.rb --status --favorites
 
 # Save cover copied to macOS clipboard (e.g. right-click "Copy Image" in browser)
 ruby tools/manage-comic-covers.rb --clipboard <entry-id>

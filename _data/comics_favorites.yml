@@ -1,0 +1,171 @@
+# Favorite comic books showcased on /pages/comic-books/
+individual_works:
+- id: fav-maus
+  title: Maus
+  language: English
+  authors:
+  - Art Spiegelman
+  bedetheque_url: https://www.bedetheque.com/serie-245-BD-Maus.html
+  url: https://en.wikipedia.org/wiki/Maus
+  cover_query: Maus Art Spiegelman
+  cover: fav-maus.webp
+- id: fav-cyann
+  title: Le Cycle de Cyann
+  writers:
+  - François Bourgeon
+  - Claude Lacroix
+  artists:
+  - François Bourgeon
+  bedetheque_url: https://www.bedetheque.com/serie-37-BD-Cycle-de-Cyann.html
+  url: https://fr.wikipedia.org/wiki/Le_Cycle_de_Cyann
+  cover_label: 'Tome 1: La sOurce et la sOnde'
+  cover_query: La source et la sonde Bourgeon
+  cover: fav-cyann.webp
+- id: fav-malaterre
+  title: Le dernier chant des Malaterre
+  authors:
+  - François Bourgeon
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-3-Le-dernier-chant-des-Malaterre-142.html
+  cover_query: Les Compagnons du crépuscule tome 3 Bourgeon
+  review: >-
+    This is the third part of *Les compagnons du crépuscule*, and contains some of the most amazing art
+    I have ever seen.
+  cover: fav-malaterre.webp
+- id: fav-cites-obscures
+  title: Les Cités obscures
+  writers:
+  - Benoît Peeters
+  artists:
+  - François Schuiten
+  bedetheque_url: https://www.bedetheque.com/serie-414-BD-Cites-obscures.html
+  url: https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures
+  cover_label: La Fièvre d'Urbicande
+  cover_query: La Fièvre d'Urbicande Schuiten Peeters
+  cover: fav-cites-obscures.webp
+- id: fav-don-rosa
+  title: Donald Duck and Uncle Scrooge stories
+  language: English
+  authors:
+  - Don Rosa
+  bedetheque_url: https://www.bedetheque.com/serie-36394-BD-Grande-Epopee-de-Picsou.html
+  url: https://en.wikipedia.org/wiki/Don_Rosa
+  cover_label: The Life and Times of Scrooge McDuck
+  cover_query: The Life and Times of Scrooge McDuck Don Rosa
+  cover: fav-don-rosa.webp
+- id: fav-la-vie-comme-elle-vient
+  title: La vie comme elle vient
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-12-La-vie-comme-elle-vient-37048.html
+  url: https://en.wikipedia.org/wiki/La_vie_comme_elle_vient_(Lapinot)
+  cover_query: La vie comme elle vient Lewis Trondheim
+  review: >-
+    Part of [Lewis Trondheim](https://en.wikipedia.org/wiki/Lewis_Trondheim)'s series *Les formidables
+    aventures de Lapinot*.
+  cover: fav-la-vie-comme-elle-vient.webp
+- id: fav-incal
+  title: L'Incal
+  writers:
+  - Alejandro Jodorowsky
+  artists:
+  - Mœbius
+  url: https://fr.wikipedia.org/wiki/L%27Incal
+  cover_query: L'Incal Jodorowsky Moebius
+  review: Alejandro Jodorowsky and Mœbius's masterpiece.
+  cover: fav-incal.webp
+classics:
+- id: fav-tintin
+  title: Tintin
+  authors:
+  - Hergé
+  url: https://fr.wikipedia.org/wiki/Les_Aventures_de_Tintin
+  cover_label: 'Tome 16: Objectif Lune'
+  cover_query: Objectif Lune Hergé
+  cover: fav-tintin.webp
+- id: fav-asterix
+  title: Astérix
+  writers:
+  - René Goscinny
+  artists:
+  - Albert Uderzo
+  bedetheque_url: https://www.bedetheque.com/serie-59-BD-Asterix.html
+  url: https://fr.wikipedia.org/wiki/Ast%C3%A9rix
+  cover_label: 'Tome 1: Astérix le Gaulois'
+  cover_query: Astérix le Gaulois Goscinny Uderzo
+  cover: fav-asterix.webp
+- id: fav-yoko-tsuno
+  title: Yoko Tsuno
+  authors:
+  - Roger Leloup
+  bedetheque_url: https://www.bedetheque.com/serie-149-BD-Yoko-Tsuno.html
+  url: https://fr.wikipedia.org/wiki/Yoko_Tsuno
+  cover_label: 'Tome 1: Le Trio de l''étrange'
+  cover_query: Le Trio de l'étrange Yoko Tsuno Leloup
+  review: >-
+    One particularity of this series is that the hero is a woman and women constitute the majority of
+    the important characters of the stories (even though the author, Roger Leloup, is a man). This never
+    bothered me the least as a boy and, as an adult, I still love the series.
+  cover: fav-yoko-tsuno.webp
+- id: fav-achille-talon
+  title: Achille Talon
+  authors:
+  - Greg
+  bedetheque_url: https://www.bedetheque.com/serie-33-BD-Achille-Talon.html
+  cover_label: 'Tome 5: Achille Talon... mon fils à moi !'
+  cover_query: Achille Talon cerveau-choc Greg
+  review: >-
+    This series has been a favorite of mine ever since I encountered it (only the original albums by Greg).
+    It is probably impossible to translate this to English or other languages, as the humor is often tied
+    to the French language. Greg even went to the US for a while to promote his character, without success.
+  cover: fav-achille-talon.webp
+- id: fav-alix
+  title: Alix
+  authors:
+  - Jacques Martin
+  url: https://fr.wikipedia.org/wiki/Alix_(bande_dessin%C3%A9e)
+  cover_label: 'Tome 1: Alix l''intrépide'
+  cover_query: Alix l'intrépide Jacques Martin
+  review: >-
+    Jacques Martin created this genre where the story takes place during Roman antiquity. He started with
+    *Alix*, and later created a modern counterpart with *Lefranc*.
+  cover: fav-alix.webp
+- id: fav-lefranc
+  title: Lefranc
+  authors:
+  - Jacques Martin
+  bedetheque_url: https://www.bedetheque.com/serie-187-BD-Lefranc.html
+  cover_label: 'Tome 4: Le Repaire du loup (art by Bob de Moor)'
+  cover_query: Lefranc tome 4 Le repaire du loup Martin
+  review: >-
+    The other major character created by Jacques Martin; some of the stories in this series are just very
+    good. My favorite might be [Le Repaire du loup](https://fr.wikipedia.org/wiki/Le_Repaire_du_loup)
+    ([Bédéthèque](https://www.bedetheque.com/album-28161-BD-Le-repaire-du-loup.html)), drawn by Bob de
+    Moor, which is a masterpiece of the genre. Unfortunately, de Moor was not allowed by the Studios Hergé
+    to continue working on Lefranc.
+  cover: fav-lefranc.webp
+- id: fav-blake-et-mortimer
+  title: Blake et Mortimer (the original series)
+  authors:
+  - Edgar P. Jacobs
+  bedetheque_url: https://www.bedetheque.com/serie-1850-BD-Blake-et-Mortimer.html
+  cover_label: 'Tome 6: La Marque jaune'
+  cover_query: La Marque jaune Jacobs
+  review: You can just read and re-read these albums without ever tiring of them.
+  cover: fav-blake-et-mortimer.webp
+- id: fav-thorgal
+  title: Thorgal
+  writers:
+  - Jean Van Hamme
+  artists:
+  - Grzegorz Rosiński
+  bedetheque_url: https://www.bedetheque.com/serie-12-BD-Thorgal.html
+  cover_label: 'Tome 1: La Magicienne trahie'
+  cover_query: Thorgal tome 1 La magicienne trahie Rosinski
+  review: >-
+    An excellent series mixing northern mythology and science-fiction at times, always with adventure.
+    The art by Grzegorz Rosiński evolved over time from album 1 to album 36 (1980 to 2018); album 37,
+    from 2019, features a new cartoonist, Fred Vignaux. Writers: Jean Van Hamme (1–29), Yves Sente (30–34),
+    Xavier Dorison (35), Yann (36–37).
+  cover: fav-thorgal.webp

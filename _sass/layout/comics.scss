@@ -571,6 +571,182 @@
   }
 }
 
+/* Favorite comic books 2-column gallery grid */
+.comics-favorites-grid {
+  container: fav-grid / inline-size;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr));
+  gap: 1rem;
+  margin-top: 0.9rem;
+  margin-bottom: 1.85rem;
+}
+
+.comic-fav-card {
+  background-color: var(--card-bg, var(--button-bg));
+  border: 1px solid var(--card-border-color, var(--main-border-color));
+  border-radius: 12px;
+  padding: 1rem 1.15rem;
+  box-shadow: 0 2px 8px var(--card-box-shadow, rgba(0, 0, 0, 0.04));
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.55rem 1.05rem;
+  align-items: start;
+  align-content: start;
+
+  .comic-fav-card__cover-link {
+    display: block;
+    justify-self: center;
+    max-width: 120px;
+    width: 100%;
+    border-radius: 6px;
+  }
+
+  .comic-fav-card__cover {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 !important;
+    border-radius: 6px !important;
+    border: 1px solid rgba(0, 0, 0, 0.09);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    background-color: var(--tb-odd-bg);
+  }
+
+  @container fav-grid (min-width: 360px) {
+    &:has(.comic-fav-card__cover) {
+      grid-template-columns: 98px minmax(0, 1fr);
+    }
+
+    &:has(.comic-fav-card__cover) .comic-fav-card__cover-link {
+      grid-column: 1;
+      grid-row: 1 / span 2;
+      justify-self: start;
+      max-width: 98px;
+    }
+
+    &:has(.comic-fav-card__cover) .comic-fav-card__header,
+    &:has(.comic-fav-card__cover) .comic-fav-card__review {
+      grid-column: 2;
+    }
+  }
+
+  .comic-fav-card__header {
+    min-inline-size: 0;
+  }
+
+  .comic-fav-card__top-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.35rem 0.65rem;
+  }
+
+  .comic-fav-card__title {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 1.04rem;
+    font-weight: 700;
+    line-height: 1.32;
+    color: var(--text-color);
+    min-inline-size: 0;
+    flex: 1 1 170px;
+
+    a.comic-fav-card__title-link {
+      color: var(--text-color);
+      border-bottom: none !important;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--link-color);
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .comic-fav-card__badges {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem;
+    flex-shrink: 0;
+  }
+
+  a.comic-ext-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    line-height: 1.35;
+    color: var(--text-muted-color);
+    background-color: var(--tb-odd-bg);
+    border: 1px solid var(--btn-border-color) !important;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+
+    i {
+      font-size: 0.62rem;
+      opacity: 0.8;
+    }
+
+    &:hover {
+      color: var(--link-color);
+      border-color: var(--link-color) !important;
+    }
+
+    &.comic-ext-pill--bedetheque {
+      color: var(--link-color);
+      background-color: rgba(42, 64, 142, 0.07);
+      border-color: rgba(42, 64, 142, 0.22) !important;
+
+      &:hover {
+        background-color: rgba(42, 64, 142, 0.14);
+        border-color: var(--link-color) !important;
+      }
+    }
+  }
+
+  .comic-fav-card__creators {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2rem 0.65rem;
+    margin-top: 0.3rem;
+    font-size: 0.81rem;
+    line-height: 1.4;
+    color: var(--text-color);
+
+    .comic-creator-role {
+      color: var(--text-muted-color);
+      font-weight: 500;
+    }
+  }
+
+  .comic-fav-card__review {
+    min-inline-size: 0;
+    padding-top: 0.45rem;
+    border-top: 1px solid var(--main-border-color);
+    font-size: 0.9rem;
+    line-height: 1.56;
+    color: var(--text-color);
+
+    > :first-child {
+      margin-top: 0;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+
+    p {
+      margin-bottom: 0.45rem;
+    }
+  }
+}
+
 /* Fallback for older browsers without :has() support (per modern-web-guidance content-based-styling) */
 @supports not selector(:has(*)) {
   @media (min-width: 640px) {
@@ -587,6 +763,22 @@
 
     .comic-card.has-cover .comic-card__header,
     .comic-card.has-cover .comic-card__body {
+      grid-column: 2;
+    }
+
+    .comic-fav-card.has-cover {
+      grid-template-columns: 98px minmax(0, 1fr);
+    }
+
+    .comic-fav-card.has-cover .comic-fav-card__cover-link {
+      grid-column: 1;
+      grid-row: 1 / span 2;
+      justify-self: start;
+      max-width: 98px;
+    }
+
+    .comic-fav-card.has-cover .comic-fav-card__header,
+    .comic-fav-card.has-cover .comic-fav-card__review {
       grid-column: 2;
     }
   }
