@@ -9,7 +9,7 @@ breadcrumb:
 
 ## Background
 
-I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of [Franco-Belgian comics](https://en.wikipedia.org/wiki/Franco-Belgian_comics) including classics known all around the world, such as Tintin and Asterix, but also Mickey Mouse and Donald Duck which of course originate from the US. I am not a huge fan of the [superhero comics](https://en.wikipedia.org/wiki/Superhero_comics) or [manga](https://en.wikipedia.org/wiki/Manga), but that might still come. I do like some American comic strips, including Peanuts and Calvin and Hobbes.
+I grew up reading comic books (known as "bandes dessinées" in French). My taste leans towards [Franco-Belgian comics](https://en.wikipedia.org/wiki/Franco-Belgian_comics), but I am also an admirer of American comics like Mickey Mouse and Donald Duck, as well as some American comic strips including Peanuts and Calvin and Hobbes. I am not into [superhero comics](https://en.wikipedia.org/wiki/Superhero_comics) or [manga](https://en.wikipedia.org/wiki/Manga), but that might still happen, who knows?
 
 {% if site.data.comics_latest_featured and site.data.comics_latest_featured.size > 0 %}
 <div class="comics-hub-section-header">
