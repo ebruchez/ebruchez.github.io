@@ -27,9 +27,8 @@
 
 /* Horizontal year pill bar */
 .comics-year-nav {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(6.3rem, 1fr));
   gap: 0.45rem;
   padding: 0.75rem 0.9rem;
   margin-bottom: 1.75rem;
@@ -38,14 +37,17 @@
   border-radius: 10px;
 
   a.comics-year-pill {
-    display: inline-flex;
+    display: flex;
     align-items: center;
+    justify-content: center;
     gap: 0.35rem;
-    padding: 0.28rem 0.68rem;
+    padding: 0.28rem 0.55rem;
     border-radius: 999px;
     font-size: 0.85rem;
     font-weight: 600;
+    font-variant-numeric: tabular-nums;
     line-height: 1.35;
+    white-space: nowrap;
     color: var(--text-color);
     background-color: var(--button-bg);
     border: 1px solid var(--btn-border-color);
