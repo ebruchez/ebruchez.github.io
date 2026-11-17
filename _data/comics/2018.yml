@@ -1,0 +1,324 @@
+# Comic book reads for 2018
+- id: donjon-crepuscule
+  read_date: 2018-12
+  title: Donjon Crépuscule
+  edition: 101-106
+  language: French
+  reread: true
+- id: 2018-12-2x-disney-d-autore-fabio-celoni-https-www-amazon-com-disney-daut
+  title: >-
+    2018-12-2x: [Disney d'autore - Fabio Celoni](https://www.amazon.com/Disney-dautore-Fabio-Celoni/dp/8852218858/)
+  language: Italian
+  review: |-
+    "Da Topolino a PK, I magnifici racconti di uno straordinario viaggiatore del segno"
+
+    Some really good stories and an interesting style.
+- id: disney-d-autore-corrado-mastantuono
+  read_date: '2018-12-03'
+  title: Disney d'autore - Corrado Mastantuono
+  language: Italian
+  url: https://www.amazon.com/Disney-dautore-Corrado-Mastantuono/dp/8852217258
+  review: |-
+    "Le straordinarie avventure dei personaggi di Paperopoli et di Topolinia tra ironia e divertimento"
+
+    I didn't realize before reading this that I had read a number of stories by Mastantuono. I really like his style. The character of Bum Bum is interesting in that he takes the central spot of a number of stories, playing the role usually taken by Donald Duck (Paperino). Instead, when Bum Bum is present, Paperino is repositioned as a character who behaves more normally.
+- id: le-complexe-du-chimpanze
+  read_date: '2018-10-30'
+  title: Le complexe du chimpanzé
+  bedetheque_url: https://www.bedetheque.com/serie-15177-BD-Complexe-du-chimpanze.html
+  rating: 3
+  reread: true
+  review: >-
+    My main issue with this series is the lack of explanations. A lot of the story seems arbitrary. I
+    would have preferred a more classic story.
+- id: les-cosmonautes-du-futur
+  read_date: '2018-10-22'
+  title: Les cosmonautes du futur
+  bedetheque_url: https://www.bedetheque.com/BD-Cosmonautes-du-futur-Tome-1-1934.html
+  rating: 5
+  reread: true
+  review: Cute and funny.
+- id: le-rayon-u
+  read_date: '2018-10-19'
+  title: Le rayon U
+  bedetheque_url: https://www.bedetheque.com/BD-Rayon-U-27159.html
+  rating: 5
+  reread: true
+  review: A great classic.
+- id: spirou-et-fantasio-50-aux-sources-du-z
+  read_date: '2018-10-19'
+  title: Spirou et Fantasio - 50. Aux sources du Z
+  bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-50-Aux-sources-du-Z-79695.html
+  rating: 4
+  reread: true
+  review: >-
+    This is not a story like most others. It has lots of references to older albums, and plays over the
+    Spirou and Fantasio timeline. It feels more like an experiment than a story to take "seriously".
+- id: le-troisieme-testament
+  read_date: '2018-10-17'
+  title: Le troisième Testament
+  bedetheque_url: https://www.bedetheque.com/albums-23-BD-Troisieme-Testament.html
+  rating: 5
+  reread: true
+- id: le-mystere-de-la-grande-pyramide
+  read_date: '2018-10-11'
+  title: Le Mystère de la Grande Pyramide
+  year: 1954-1955
+  authors:
+  - Edgar P. Jacobs
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Historique-Tome-3-7644.html
+  rating: 5
+  reread: true
+- id: le-secret-de-l-espadon
+  read_date: '2018-10-10'
+  title: Le secret de l'Espadon
+  year: 1950-1953
+  authors:
+  - Edgar P. Jacobs
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-1-Le-Secret-de-l-Espadon-T1-7652.html
+  rating: 5
+  reread: true
+  review: >-
+    Yes, it is about the "Yellows" (probably Chinese) against the rest of the world, and we wouldn't dare
+    write a story like this today, but it is a fantastic story about fighting a totalitarian regime wanting
+    to take over the world, and a wonderful story of resistance for freedom. I think that the story is
+    really well written, especially given the fact that the author had to go very fast, and you eagerly
+    follow over three volumes the heroes as they have setback upon setback. Not everybody is depicted
+    in a negative way: resistance fighters are Indian, Arabs, and near the end Shanghai's "Tchang-Li-Tchek"
+    joins the resistance as well.
+- id: une-mysterieuse-melodie
+  read_date: 2018-10
+  title: Une mystérieuse mélodie
+  language: French
+  authors:
+  - Cosey
+- id: moby-dick
+  read_date: 2018-10
+  title: Moby Dick
+  edition: Topolino Limited De Luxe Edition
+  language: Italian
+  writers:
+  - Francesco Artibani
+  artists:
+  - Paolo Mottura
+- id: donald-s-happiest-adventures
+  read_date: '2018-09-15'
+  title: Donald's Happiest Adventures
+  year: 2018
+  writers:
+  - Lewis Trondheim
+  artists:
+  - Nicolas Keramidas
+- id: les-mondes-de-thorgal-la-jeunesse-tome-3-runa
+  read_date: '2018-09-12'
+  title: Les mondes de Thorgal - La jeunesse, Tome 3. Runa
+  year: 2015
+  writers:
+  - Yann
+  artists:
+  - Roman Surzhenko
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-3-Runa-241654.html
+- id: mickey-s-craziest-adventures
+  read_date: '2018-09-07'
+  title: Mickey's craziest adventures
+  year: 2016
+  writers:
+  - Lewis Trondheim
+  artists:
+  - Nicolas Keramidas
+- id: les-mondes-de-thorgal-kriss-de-valnor-tome-2-la-sentence-des-walkyries
+  read_date: '2018-09-03'
+  title: Les Mondes de Thorgal - Kriss de Valnor - Tome 2 - La sentence des Walkyries
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-2-La-sentence-des-Walkyries-156670.html
+- id: retour-sur-aldebaran-episode-1
+  read_date: '2018-08-30'
+  title: Retour sur Aldébaran - Episode 1
+  year: 2018
+  bedetheque_url: https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-1-Episode-1-332186.html
+- id: yoko-tsuno-l-integrale-tome-4-vinea-en-peril
+  read_date: '2018-08-28'
+  title: 'Yoko Tsuno l''intégrale, tome 4: Vinéa en péril'
+  sub_items:
+  - title: 8. Les Titans
+    reread: true
+    rating: 5
+  - title: 10. La lumière d'Ixo
+    reread: true
+    rating: 5
+  - title: 13. Les archanges de Vinéa
+    reread: true
+    rating: 4
+- id: 2018-08-1x-meta-baron-tome-4-simak-le-transhumain-https-www-bedetheque-c
+  title: >-
+    2018-08-1x: [Meta-Baron - Tome 4 - Simak le Transhumain](https://www.bedetheque.com/BD-Meta-Baron-Tome-4-Simak-le-Transhumain-298307.html)
+  year: 2017
+  writers:
+  - Jerry Frissen
+  artists:
+  - Niko Henrichon
+  colors:
+  - Niko Henrichon
+  adapted_from: Alexandro Jodorowsky
+- id: meta-baron-tome-3-orne-8-le-techno-cardinal
+  read_date: '2018-08-12'
+  title: Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal
+  year: 2016
+  writers:
+  - Jerry Frissen
+  artists:
+  - Niko Henrichon
+  colors:
+  - Niko Henrichon
+  adapted_from: Alexandro Jodorowsky
+  bedetheque_url: https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html
+  reread: true
+- id: ralph-azham-3-noires-sont-les-etoiles
+  read_date: '2018-08-03'
+  title: Ralph Azham - 3. Noires sont les étoiles
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html
+- id: ralph-azham-2-la-mort-au-debut-du-chemin
+  read_date: '2018-08-02'
+  title: Ralph Azham - 2. La mort au début du chemin
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html
+- id: ralph-azham-1-est-ce-qu-on-ment-aux-gens-qu-on-aime
+  read_date: '2018-08-01'
+  title: Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html
+  reread: true
+- id: centaurus-4-terre-d-angoisse
+  read_date: '2018-07-30'
+  title: Centaurus - 4. Terre d'angoisse
+  year: 2018
+  writers:
+  - Léo
+  - Rodolphe
+  artists:
+  - Zoran Janjetov
+  bedetheque_url: https://www.bedetheque.com/BD-Centaurus-Tome-4-Terre-d-angoisse-335592.html
+- id: centaurus-3-terre-de-folie
+  read_date: 2018-07
+  title: Centaurus - 3. Terre de folie
+  year: 2017
+  writers:
+  - Leo
+  - Rodolphe
+  artists:
+  - Zoran Janjetov
+  bedetheque_url: https://www.bedetheque.com/BD-Centaurus-Tome-3-Terre-de-folie-300530.html
+  reread: true
+- id: dragonero-minaccia-all-impero
+  read_date: '2018-05-27'
+  title: Dragonero - Minaccia all'Impero
+  language: Italian
+  writers:
+  - Luca Enoch
+  artists:
+  - Giancarlo Olivares
+  url: http://shop.sergiobonelli.it/dragonero/2017/08/21/libro/dragonero-minaccia-all-impero-1001525/
+  rating: 4
+- id: la-saga-di-messer-papero-e-di-ser-paperone
+  read_date: 2018-05
+  title: La saga di Messer Papero e di Ser Paperone
+  year: 1983
+  edition: Disney Golden Edition
+  language: Italian
+  authors:
+  - Guido Martina
+  - Giovan Battista Carpi
+  url: http://it.paperpedia.wikia.com/wiki/Saga_di_Messer_Papero_e_di_Ser_Paperone
+  rating: 3
+- id: goofy-eine-komische-historie-teil-1
+  read_date: '2018-03-23'
+  title: Goofy - Eine komische Historie - Teil 1
+  language: German
+  rating: 5
+  review: I have always loved this series full of humor.
+- id: storia-e-gloria-della-dinastia-dei-paperi
+  read_date: '2018-03-05'
+  title: Storia e Gloria della dinastia dei Paperi
+  year: 1970
+  edition: Disney Golden Edition
+  authors:
+  - Guido Martina
+  - Romano Scarpa
+  - Giovan Battista Carpi
+  - Giorgio Cavazzano
+  url: https://it.wikipedia.org/wiki/Storia_e_gloria_della_dinastia_dei_paperi
+  rating: 3
+- id: dragonero-nelle-terre-dei-ghoul
+  read_date: '2018-02-18'
+  title: Dragonero - Nelle terre dei Ghoul
+  language: Italian
+  url: http://shop.sergiobonelli.it/libro/libri/41223/dragonero-nelle-terre-dei-ghoul.html
+  rating: 4
+- id: alix-senator-4-les-demons-de-sparte
+  read_date: '2018-01-23'
+  title: 'Alix Senator: 4. Les démons de Sparte'
+  bedetheque_url: https://www.bedetheque.com/BD-Alix-Senator-Tome-4-Les-Demons-de-Sparte-253345.html
+- id: yoko-tsuno-23-la-pagode-des-brumes
+  read_date: '2018-01-14'
+  title: Yoko Tsuno - 23. La pagode des brumes
+  year: 2001
+  bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-23-La-pagode-des-brumes-6009.html
+  reread: true
+- id: yoko-tsuno-22-la-jonque-celeste
+  read_date: '2018-01-12'
+  title: Yoko Tsuno - 22. La jonque céleste
+  year: 1998
+  bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-22-La-jonque-celeste-1344.html
+  reread: true
+- id: yoko-tsuno-16-le-dragon-de-hong-kong
+  read_date: '2018-01-11'
+  title: Yoko Tsuno - 16. Le dragon de Hong Kong
+  year: 1986
+  bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-16-Le-dragon-de-Hong-Kong-4642.html
+  reread: true
+- id: valerian-l-empire-des-mille-planetes
+  read_date: '2018-01-09'
+  title: Valérian - L'empire des mille planètes
+  year: 1971
+  bedetheque_url: https://www.bedetheque.com/BD-Valerian-Tome-2-L-empire-des-mille-planetes-2578.html
+  reread: true
+- id: les-naufrages-d-ythaq-14-le-joyau-du-genie
+  read_date: '2018-01-07'
+  title: Les naufragés d'Ythaq - 14. Le Joyau du Génie
+  year: 2016
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-14-Le-Joyau-du-Genie-293592.html
+  reread: true
+- id: les-naufrages-d-ythaq-13-glebe-la-singuliere
+  read_date: '2018-01-06'
+  title: Les naufragés d'Ythaq - 13. Glèbe la Singulière
+  year: 2015
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-13-Glebe-la-Singuliere-258181.html
+  reread: true
+- id: les-naufrages-d-ythaq-12-les-clefs-du-neant
+  read_date: '2018-01-04'
+  title: Les naufragés d'Ythaq - 12. Les Clefs du néant
+  year: 2014
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-12-Les-Clefs-du-neant-226732.html
+  reread: true
+- id: les-naufrages-d-ythaq-11-l-haleine-de-l-ogre
+  read_date: '2018-01-03'
+  title: Les naufragés d'Ythaq - 11. L'Haleine de l'Ogre
+  year: 2013
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-11-L-Haleine-de-l-Ogre-197183.html
+  reread: true
+- id: les-naufrages-d-ythaq-10-nehorf-capitol-transit
+  read_date: '2018-01-02'
+  title: Les naufragés d'Ythaq - 10. Nehorf-Capitol Transit
+  year: 2012
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-10-Nehorf-Capitol-Transit-171913.html
+  reread: true
+- id: les-naufrages-d-ythaq-9-l-impossible-verite
+  read_date: '2018-01-01'
+  title: Les naufragés d'Ythaq - 9. L'Impossible Vérité
+  year: 2011
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-9-L-Impossible-Verite-136859.html
+  reread: true
+- id: les-naufrages-d-ythaq-8-le-miroir-des-mensonges
+  read_date: '2018-01-01'
+  title: Les naufragés d'Ythaq - 8. Le miroir des mensonges
+  year: 2010
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-8-Le-miroir-des-mensonges-116943.html
+  reread: true

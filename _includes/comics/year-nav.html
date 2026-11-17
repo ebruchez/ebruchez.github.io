@@ -1,0 +1,24 @@
+<!--
+  Compact horizontal year navigation bar for Comic Books pages
+-->
+<nav class="comics-year-nav" aria-label="Comic books by year">
+  <a href="{{ '/pages/comic-books/' | relative_url }}"
+     class="comics-year-pill comics-year-pill--hub{% if page.url == '/pages/comic-books/' %} is-active{% endif %}"
+     {% if page.url == '/pages/comic-books/' %}aria-current="page"{% endif %}>
+    <i class="fas fa-book-open" aria-hidden="true"></i>
+    <span>Overview</span>
+  </a>
+  {% for ym in site.data.comics_years %}
+    {% assign current_yr_str = page.comics_year | append: '' %}
+    {% assign is_current = false %}
+    {% if current_yr_str == ym.year %}
+      {% assign is_current = true %}
+    {% endif %}
+    <a href="{{ ym.url | relative_url }}"
+       class="comics-year-pill{% if is_current %} is-active{% endif %}"
+       {% if is_current %}aria-current="page"{% endif %}>
+      <span class="comics-year-pill__year">{{ ym.year }}</span>
+      <span class="comics-year-pill__count">{{ ym.count }}</span>
+    </a>
+  {% endfor %}
+</nav>

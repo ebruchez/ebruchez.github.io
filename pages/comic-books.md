@@ -1,28 +1,40 @@
 ---
-layout: page
+layout: comics
 title: Comic Books
+dynamic_title: true
+breadcrumb:
+  - label: Home
+    url: /
 ---
-
-# Comic Books
 
 ## Background
 
 I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of [Franco-Belgian comics](https://en.wikipedia.org/wiki/Franco-Belgian_comics) including classics known all around the world, such as Tintin and Asterix, but also Mickey Mouse and Donald Duck which of course originate from the US. I am not a huge fan of the [superhero comics](https://en.wikipedia.org/wiki/Superhero_comics) or [manga](https://en.wikipedia.org/wiki/Manga), but that might still come. I do like some American comic strips, including Peanuts and Calvin and Hobbes.
 
-## Latest reads
+{% if site.data.comics_latest_featured and site.data.comics_latest_featured.size > 0 %}
+<div class="comics-hub-section-header">
+  <h2>Latest reads &amp; quick reviews</h2>
+  <a href="{{ '/pages/comic-books-2026/' | relative_url }}" class="comics-hub-all-link">
+    All 2026 reads ({{ site.data.comics['2026'] | size }}) →
+  </a>
+</div>
 
-- [2026](../comic-books-2026/)
-- [2025](../comic-books-2025/)
-- [2024](../comic-books-2024/)
-- [2023](../comic-books-2023/)
-- [2022](../comic-books-2022/)
-- [2021](../comic-books-2021/)
-- [2020](../comic-books-2020/)
-- [2019](../comic-books-2019/)
-- [2018](../comic-books-2018/)
-- [2017](../comic-books-2017/)
-- [2016](../comic-books-2016/)
-- [2015](../comic-books-2015/)
+<div class="comics-card-list">
+  {% assign hub_cover_idx = 0 %}
+  {% for entry in site.data.comics_latest_featured %}
+    {% assign hub_prio = 'lazy' %}
+    {% if entry.cover_url %}
+      {% assign hub_cover_idx = hub_cover_idx | plus: 1 %}
+      {% if hub_cover_idx == 1 %}
+        {% assign hub_prio = 'high' %}
+      {% elsif hub_cover_idx == 2 %}
+        {% assign hub_prio = 'normal' %}
+      {% endif %}
+    {% endif %}
+    {% include comics/card.html entry=entry hub_mode=true priority=hub_prio %}
+  {% endfor %}
+</div>
+{% endif %}
 
 ## Favorite comic books
 
@@ -30,7 +42,7 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 
 - [Maus](https://en.wikipedia.org/wiki/Maus), by Art Spiegelman
 - [Le Cycle de Cyann](https://fr.wikipedia.org/wiki/Le_Cycle_de_Cyann), by François Bourgeon
-- [Le dernier chant des Malaterre](http://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-3-Le-dernier-chant-des-Malaterre-142.html), by François Bourgeon. This is the third part of *Les compagnons du crépuscule*, and contains some of the most amazing art I have ever seen.
+- [Le dernier chant des Malaterre](https://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-3-Le-dernier-chant-des-Malaterre-142.html), by François Bourgeon. This is the third part of *Les compagnons du crépuscule*, and contains some of the most amazing art I have ever seen.
 - [Les Cités obscures](https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures), by Schuiten and Peeters
 - Donald Duck and Uncle Scrooge stories, by [Don Rosa](https://en.wikipedia.org/wiki/Don_Rosa)
 - [La vie comme elle vient](https://en.wikipedia.org/wiki/La_vie_comme_elle_vient_(Lapinot)), by [Lewis Trondheim](https://en.wikipedia.org/wiki/Lewis_Trondheim). This is part of his series *Les formidables aventures de Lapinot*.
@@ -55,6 +67,6 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 - Blake et Mortimer (the original series)
     - You can just read and re-read these albums without ever tiring of them.
 - [Thorgal](https://www.bedetheque.com/serie-12-BD-Thorgal.html)
-    - This is a excellent series which mixes northern mythology, science-fiction at times, always with adventure.
+    - This is an excellent series which mixes northern mythology, science-fiction at times, always with adventure.
     - The art by Grzegorz Rosiński has evolved over time from album 1 to album 36 (1980 to 2018). Album 37, from 2019, features a new cartoonist, Fred Vignaux.
     - Jean Van Hamme (1-29), Yves Sente (30-34), Xavier Dorison (35), Yann (36-37).

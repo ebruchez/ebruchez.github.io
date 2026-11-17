@@ -1,0 +1,205 @@
+{%- assign entry = include.entry -%}
+{%- assign priority = include.priority | default: 'lazy' -%}
+{%- assign hub_mode = include.hub_mode | default: false -%}
+
+<article class="comic-card{% if entry.cover_url %} has-cover{% endif %}" id="{{ entry.id }}">
+  {% if entry.cover_url %}
+    {% capture lb_caption %}{{ entry.title | escape }}{% if entry.year %} ({{ entry.year | escape }}){% endif %}{% if entry.creators_plain and entry.creators_plain != '' %} — {{ entry.creators_plain | escape }}{% endif %}{% endcapture %}
+    <a href="{{ entry.cover_url | relative_url }}"
+       class="comic-card__cover-link lightbox-trigger"
+       data-lightbox="page-gallery"
+       data-caption="{{ lb_caption }}"
+       aria-label="Enlarge cover of {{ entry.title | escape }}">
+      <img src="{{ entry.cover_url | relative_url }}"
+           alt="Cover of {{ entry.title | escape }}"
+           class="comic-card__cover"
+           width="{{ entry.cover_width | default: 450 }}"
+           height="{{ entry.cover_height | default: 600 }}"
+           {% if priority == 'high' %}fetchpriority="high"{% elsif priority == 'lazy' %}loading="lazy"{% endif %}>
+    </a>
+  {% endif %}
+
+  <header class="comic-card__header">
+    <div class="comic-card__top-row">
+      <h3 class="comic-card__title">
+        {% if hub_mode %}
+          <a href="{{ entry.deep_url | relative_url }}" class="comic-card__title-link">{{ entry.title }}</a>
+        {% elsif entry.bedetheque_url %}
+          <a href="{{ entry.bedetheque_url }}" class="comic-card__title-link" target="_blank" rel="noopener">{{ entry.title }}</a>
+          <a href="#{{ entry.id }}" class="comic-card__anchor" aria-label="Permalink to {{ entry.title | escape }}">#</a>
+        {% elsif entry.url %}
+          <a href="{{ entry.url }}" class="comic-card__title-link" target="_blank" rel="noopener">{{ entry.title }}</a>
+          <a href="#{{ entry.id }}" class="comic-card__anchor" aria-label="Permalink to {{ entry.title | escape }}">#</a>
+        {% else %}
+          <span>{{ entry.title }}</span>
+          <a href="#{{ entry.id }}" class="comic-card__anchor" aria-label="Permalink to {{ entry.title | escape }}">#</a>
+        {% endif %}
+      </h3>
+
+      <div class="comic-card__badges">
+        {% if entry.rating %}
+          <span class="comic-rating" role="img" aria-label="Rated {{ entry.rating_display }} out of 5">
+            {%- for _i in (1..entry.rating_stars_full) -%}<span class="comic-rating__star comic-rating__star--filled" aria-hidden="true">★</span>{%- endfor -%}
+            {%- if entry.rating_stars_empty > 0 -%}
+              {%- for _i in (1..entry.rating_stars_empty) -%}<span class="comic-rating__star comic-rating__star--empty" aria-hidden="true">★</span>{%- endfor -%}
+            {%- endif -%}
+          </span>
+        {% endif %}
+
+        {% if entry.bedetheque_url %}
+          <a href="{{ entry.bedetheque_url }}"
+             class="comic-ext-pill comic-ext-pill--bedetheque"
+             target="_blank"
+             rel="noopener"
+             aria-label="{{ entry.title | escape }} on Bédéthèque">
+            <span>Bédéthèque</span>
+            <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+          </a>
+        {% endif %}
+
+        {% if entry.url %}
+          <a href="{{ entry.url }}"
+             class="comic-ext-pill"
+             target="_blank"
+             rel="noopener"
+             aria-label="{{ entry.title | escape }} on {{ entry.url_label | escape }}">
+            <span>{{ entry.url_label }}</span>
+            <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="comic-card__meta">
+      {% if entry.read_date_display %}
+        <span class="comic-meta-item comic-meta-item--date" title="Date read">
+          <i class="far fa-calendar-alt" aria-hidden="true"></i>
+          {% if hub_mode %}
+            <a href="{{ entry.deep_url | relative_url }}">{{ entry.read_date_display }}</a>
+          {% else %}
+            <span>{{ entry.read_date_display }}</span>
+          {% endif %}
+        </span>
+      {% endif %}
+
+      {% if entry.creators_parts and entry.creators_parts.size > 0 %}
+        <span class="comic-meta-item comic-meta-item--creators">
+          {%- for part in entry.creators_parts -%}
+            <span class="comic-creator-group">
+              <span class="comic-creator-role">{{ part.role }}:</span> {{ part.names }}
+            </span>
+          {%- endfor -%}
+        </span>
+      {% endif %}
+
+      {% if entry.year or entry.edition %}
+        <span class="comic-meta-item comic-meta-item--pub">
+          {%- if entry.year -%}{{ entry.year }}{%- endif -%}
+          {%- if entry.year and entry.edition %} · {% endif -%}
+          {%- if entry.edition -%}{{ entry.edition }}{%- endif -%}
+        </span>
+      {% endif %}
+
+      {% if entry.language %}
+        <span class="comic-pill comic-pill--lang">{{ entry.language }}</span>
+      {% endif %}
+
+      {% if entry.reread %}
+        <span class="comic-pill comic-pill--reread" title="Reread">
+          <i class="fas fa-redo-alt" aria-hidden="true"></i> Reread
+        </span>
+      {% endif %}
+    </div>
+  </header>
+
+  {% if entry.review_html or entry.sub_items or entry.notes_html %}
+    <div class="comic-card__body">
+      {% if entry.review_html %}
+        <div class="comic-card__review">
+          {{ entry.review_html }}
+        </div>
+      {% endif %}
+
+      {% if entry.sub_items and entry.sub_items.size > 0 %}
+        <div class="comic-subitems">
+          <div class="comic-subitems__heading">Included stories / volumes</div>
+          <ul class="comic-subitems__list">
+            {% for sub in entry.sub_items %}
+              <li class="comic-subitem">
+                <div class="comic-subitem__header">
+                  <span class="comic-subitem__title">
+                    {% if sub.bedetheque_url %}
+                      <a href="{{ sub.bedetheque_url }}" target="_blank" rel="noopener">{{ sub.title }}</a>
+                    {% elsif sub.url %}
+                      <a href="{{ sub.url }}" target="_blank" rel="noopener">{{ sub.title }}</a>
+                    {% else %}
+                      {{ sub.title }}
+                    {% endif %}
+                  </span>
+
+                  {% if sub.year %}
+                    <span class="comic-subitem__meta">({{ sub.year }})</span>
+                  {% endif %}
+
+                  {% if sub.creators_plain and sub.creators_plain != '' %}
+                    <span class="comic-subitem__meta">{{ sub.creators_plain }}</span>
+                  {% endif %}
+
+                  {% if sub.rating %}
+                    <span class="comic-rating comic-rating--sm" role="img" aria-label="Rated {{ sub.rating_display }} out of 5">
+                      {%- for _i in (1..sub.rating_stars_full) -%}<span class="comic-rating__star comic-rating__star--filled" aria-hidden="true">★</span>{%- endfor -%}
+                      {%- if sub.rating_stars_empty > 0 -%}
+                        {%- for _i in (1..sub.rating_stars_empty) -%}<span class="comic-rating__star comic-rating__star--empty" aria-hidden="true">★</span>{%- endfor -%}
+                      {%- endif -%}
+                    </span>
+                  {% endif %}
+
+                  {% if sub.bedetheque_url %}
+                    <a href="{{ sub.bedetheque_url }}"
+                       class="comic-ext-pill comic-ext-pill--bedetheque comic-ext-pill--sm"
+                       target="_blank"
+                       rel="noopener"
+                       aria-label="{{ sub.title | escape }} on Bédéthèque">
+                      <span>Bédéthèque</span>
+                      <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+                    </a>
+                  {% endif %}
+                </div>
+
+                {% if sub.review_html %}
+                  <div class="comic-subitem__review">
+                    {{ sub.review_html }}
+                  </div>
+                {% endif %}
+
+                {% if sub.notes_html %}
+                  <details class="comic-card__notes comic-card__notes--sm">
+                    <summary>
+                      <i class="fas fa-chevron-right comic-notes-chevron" aria-hidden="true"></i>
+                      <span>Plot notes &amp; spoilers</span>
+                    </summary>
+                    <div class="comic-card__notes-inner">
+                      {{ sub.notes_html }}
+                    </div>
+                  </details>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+
+      {% if entry.notes_html %}
+        <details class="comic-card__notes">
+          <summary>
+            <i class="fas fa-chevron-right comic-notes-chevron" aria-hidden="true"></i>
+            <span>Plot notes &amp; spoilers</span>
+          </summary>
+          <div class="comic-card__notes-inner">
+            {{ entry.notes_html }}
+          </div>
+        </details>
+      {% endif %}
+    </div>
+  {% endif %}
+</article>

@@ -1,0 +1,68 @@
+---
+layout: default
+# Wide layout for Comic Books hub and yearly reading logs
+---
+
+<div class="row">
+  <div class="col-12 col-lg-11 col-xl-12 home-col">
+    <div id="page" class="post comics-page pb-5 pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4 mb-md-4">
+
+      {% assign yr_str = page.comics_year | append: '' %}
+      {% assign yr_meta = site.data.comics_years | where: 'year', yr_str | first %}
+
+      <div class="comics-page__header">
+        <h1 class="dynamic-title mb-2">{{ page.title }}</h1>
+        {% if yr_meta %}
+          <p class="comics-page__summary text-muted mb-0">
+            <span><strong>{{ yr_meta.count }}</strong> {% if yr_meta.count == 1 %}comic read{% else %}comics read{% endif %}</span>
+            {% if yr_meta.reviewed_count > 0 %}
+              <span class="comics-summary-sep" aria-hidden="true">·</span>
+              <span><strong>{{ yr_meta.reviewed_count }}</strong> with notes/reviews</span>
+            {% endif %}
+            {% if yr_meta.bedetheque_count > 0 %}
+              <span class="comics-summary-sep" aria-hidden="true">·</span>
+              <span><strong>{{ yr_meta.bedetheque_count }}</strong> linked to Bédéthèque</span>
+            {% endif %}
+          </p>
+        {% elsif page.url == '/pages/comic-books/' and site.data.comics_total_reads %}
+          <p class="comics-page__summary text-muted mb-0">
+            <span><strong>{{ site.data.comics_total_reads }}</strong> comics logged since {{ site.data.comics_years.last.year }}</span>
+            <span class="comics-summary-sep" aria-hidden="true">·</span>
+            <span><strong>{{ site.data.comics_total_reviewed }}</strong> quick reviews &amp; reading notes</span>
+          </p>
+        {% endif %}
+      </div>
+
+      {% include comics/year-nav.html %}
+
+      <div class="post-content comics-content">
+        {{ content }}
+
+        {% if yr_str != '' %}
+          {% assign entries = site.data.comics[yr_str] %}
+          {% assign cover_idx = 0 %}
+          <div class="comics-card-list">
+            {% for entry in entries %}
+              {% if entry.section %}
+                <h2 class="comics-section-divider">{{ entry.section }}</h2>
+              {% endif %}
+
+              {% assign img_priority = 'lazy' %}
+              {% if entry.cover_url %}
+                {% assign cover_idx = cover_idx | plus: 1 %}
+                {% if cover_idx == 1 %}
+                  {% assign img_priority = 'high' %}
+                {% elsif cover_idx == 2 %}
+                  {% assign img_priority = 'normal' %}
+                {% endif %}
+              {% endif %}
+
+              {% include comics/card.html entry=entry priority=img_priority %}
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+
+    </div> <!-- #page -->
+  </div><!-- .home-col -->
+</div><!-- .row -->

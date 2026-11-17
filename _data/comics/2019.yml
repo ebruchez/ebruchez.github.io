@@ -1,0 +1,429 @@
+# Comic book reads for 2019
+- id: dragonero-avventura-a-darkwood
+  read_date: '2019-12-23'
+  title: Dragonero. Avventura a Darkwood
+  language: Italian
+  url: https://en.shop.sergiobonelli.it/books/2019/02/25/book/dragonero-avventura-a-darkwood-1004270/
+  review: >-
+    A "team-up" with the character of Zagor. Somehow the two universes get connected via special stones
+    that allow traveling through time and space. Not knowing Zagor, I would tend to prefer the character
+    of Dragonero. Zagor is a little bit too much of the perfect hero in looks and dress, while his sidekick,
+    Cico, is a little too burlesque. But overall the story is not bad.
+- id: dragonero-la-fine-di-yastrad
+  read_date: '2019-12-17'
+  title: Dragonero. La fine di Yastrad
+  language: Italian
+  url: https://en.shop.sergiobonelli.it/dragonero/2018/08/29/book/dragonero-la-fine-di-yastrad-1003379/
+  review: >-
+    There is a clear parallel between the Eleusi and the Jews. The Eleusi live in ghettos, are educated
+    but disliked and blamed when things go bad. The similarity stops there, as they are "Alchimisti ed
+    Erboristi" (alchemists and herborists).
+- id: autour-de-blake-et-mortimer-le-dernier-pharaon
+  read_date: '2019-12-05'
+  title: Autour de Blake et Mortimer - Le dernier pharaon
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-HS3-Le-Dernier-Pharaon-367398.html
+  review: >-
+    I rather liked this story, which seems to have been misunderstood by many Blake et Mortimer fans out
+    there. It features beautiful graphics.
+- id: the-don-rosa-library-vol-2
+  read_date: '2019-11-07'
+  title: The Don Rosa Library Vol. 2
+- id: the-don-rosa-library-vol-1
+  read_date: '2019-10-31'
+  title: The Don Rosa Library Vol. 1
+  review: A really beautiful edition of Don Rosa's work, with his
+- id: lefranc-30-lune-rouge
+  read_date: '2019-10-22'
+  title: Lefranc - 30. Lune rouge
+  language: French
+  writers:
+  - François Corteggiani
+  artists:
+  - Christophe Alvès
+  colors:
+  - Bonaventure
+  bedetheque_url: https://www.bedetheque.com/BD-Lefranc-Tome-30-Lune-rouge-366379.html
+- id: retour-sur-aldebaran-episode-2
+  read_date: '2019-10-17'
+  title: Retour sur Aldébaran - Episode 2
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-2-Episode-2-366478.html
+- id: retour-sur-aldebaran-episode-1
+  read_date: '2019-10-16'
+  title: Retour sur Aldébaran - Episode 1
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-1-Episode-1-332186.html
+  reread: true
+- id: le-cycle-de-cyann-6-les-aubes-douces-d-aldalarann
+  read_date: 2019-09-0x
+  title: Le cycle de Cyann - 6. Les aubes douces d'Aldalarann
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Cycle-de-Cyann-Tome-6-Les-aubes-douces-d-Aldalarann-223413.html
+  reread: true
+- id: le-cycle-de-cyann-5-les-couloirs-de-l-entretemps
+  read_date: 2019-09-0x
+  title: Le cycle de Cyann - 5. Les Couloirs de l'Entretemps
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Cycle-de-Cyann-Tome-5-Les-Couloirs-de-l-Entretemps-165736.html
+  reread: true
+- id: le-cycle-de-cyann-4-les-couleurs-de-marcade
+  read_date: 2019-08-0x
+  title: Le cycle de Cyann - 4. Les Couleurs de Marcade
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Cycle-de-Cyann-Tome-4-Les-Couleurs-de-Marcade-60673.html
+  reread: true
+- id: le-cycle-de-cyann-3-aieia-d-aldaal
+  read_date: 2019-08-0x
+  title: Le cycle de Cyann - 3. Aïeïa d'Aldaal
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Cycle-de-Cyann-Tome-3-Aieia-d-Aldaal-43343.html
+  reread: true
+- id: blake-et-mortimer-22-l-onde-septimus
+  read_date: 2019-08-0x
+  title: Blake et Mortimer - 22. l'Onde Septimus
+  language: French
+  writers:
+  - Jean Dufaux
+  artists:
+  - Antoine Aubin
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-22-L-Onde-Septimus-197200.html
+  reread: true
+- id: spirou-et-fantasio-integrale-8
+  read_date: 2019-08-0x
+  title: Spirou et Fantasio - Intégrale 8
+  language: French
+  reread: true
+  sub_items:
+  - title: Tome 18. QRN sur Bretzelburg
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-18-QRN-sur-Bretzelburg-18744.html
+  - title: Tome 19. Panade à Champignac
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-19-Panade-a-Champignac-18745.html
+- id: spirou-et-fantasio-integrale-7
+  read_date: 2019-08-0x
+  title: Spirou et Fantasio - Intégrale 7
+  language: French
+  reread: true
+  sub_items:
+  - title: Tome 15. Z comme Zorglub
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-15-Z-comme-Zorglub-30305.html
+  - title: Tome 16. L'ombre du Z
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-16-L-ombre-du-Z-18742.html
+- id: spirou-et-fantasio-integrale-6
+  read_date: 2019-08
+  title: Spirou et Fantasio - Intégrale 6
+  language: French
+  reread: true
+  sub_items:
+  - title: Tome 14. Le prisonnier du Bouddha
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-14-Le-prisonnier-du-Bouddha-18741.html
+  - title: Tome 17. Spirou et les hommes-bulles
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-17-Spirou-et-les-hommes-bulles-18743.html
+  - title: Tome 24. Tembo Tabou
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-24-Tembo-Tabou-2778.html
+  - title: Les petits formats
+- id: spirou-et-fantasio-integrale-5
+  read_date: 2019-08
+  title: Spirou et Fantasio - Intégrale 5
+  language: French
+  reread: true
+  sub_items:
+  - title: Tome 12. Le nid des marsupilamis
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-12-Le-nid-des-Marsupilamis-32824.html
+  - title: Tome 13. Le voyageur du Mézozoïque
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-13-Le-voyageur-du-mesozoique-32854.html
+  - title: Le homard
+  - title: Vacances sans histoires
+  - title: La foire aux gangsters
+- id: spirou-et-fantasio-integrale-4
+  read_date: 2019-08
+  title: Spirou et Fantasio - Intégrale 4
+  language: French
+  reread: true
+  sub_items:
+  - title: >-
+      9. Le repaire de la murène ([tome 9](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-9-Le-repaire-de-la-murene-32853.html)
+  - title: La Quick Super
+  - title: >-
+      10. Les Pirates du Silence ([tome 10](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-10-Les-pirates-du-silence-32855.html)
+  - title: >-
+      11. Le gorille a mauvaise mine ([tome 11](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-11-Le-gorille-a-bonne-mine-18739.html)
+- id: spirou-et-fantasio-8-la-mauvaise-tete
+  read_date: '2019-07-29'
+  title: Spirou et Fantasio - 8. La mauvaise tête
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-8-La-mauvaise-tete-32825.html
+  reread: true
+- id: spirou-et-fantasio-7-le-dictateur-et-le-champignon
+  read_date: '2019-07-28'
+  title: Spirou et Fantasio - 7. Le dictateur et le champignon
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-7-Le-dictateur-et-le-champignon-18736.html
+  reread: true
+- id: les-formidables-aventures-de-lapinot-10-la-couleur-de-l-enfer
+  read_date: '2019-07-24'
+  title: Les formidables aventures de Lapinot - 10. La couleur de l'enfer
+  language: French
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-10-La-couleur-de-l-enfer-2068.html
+  reread: true
+- id: les-formidables-aventures-de-lapinot-11-l-accelerateur-atomique
+  read_date: '2019-07-23'
+  title: Les formidables aventures de Lapinot - 11. L'accélérateur Atomique
+  language: French
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-11-L-accelerateur-Atomique-22710.html
+  reread: true
+- id: les-technoperes
+  read_date: '2019-07-22'
+  title: Les Technopères
+  language: French
+  bedetheque_url: https://www.bedetheque.com/serie-65-BD-Technoperes.html
+  reread: true
+- id: blake-et-mortimer-21-la-malediction-des-trente-deniers-2
+  read_date: '2019-07-15'
+  title: Blake et Mortimer - 21. La malédiction des trente deniers - 2
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-20-115948.html
+  reread: true
+- id: blake-et-mortimer-20-la-malediction-des-trente-deniers-1
+  read_date: '2019-07-14'
+  title: Blake et Mortimer - 20. La malédiction des trente deniers - 1
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-19-96034.html
+  reread: true
+- id: blake-et-mortimer-18-le-sanctuaire-du-gondwana
+  read_date: '2019-07-13'
+  title: Blake et Mortimer - 18. Le Sanctuaire du Gondwana
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-18-Le-Sanctuaire-du-Gondwana-73189.html
+  reread: true
+  review: This is in effect the continuation of "Les Sarcophages du 6e continent" with an interesting
+    twist.
+- id: blake-et-mortimer-17-les-sarcophages-du-6e-continent-tome-2
+  read_date: '2019-07-12'
+  title: Blake et Mortimer - 17. Les Sarcophages du 6e continent - Tome 2
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-17-40150.html
+  reread: true
+- id: blake-et-mortimer-16-les-sarcophages-du-6e-continent-tome-1
+  read_date: '2019-07-11'
+  title: Blake et Mortimer - 16. Les Sarcophages du 6e continent - Tome 1
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-16-30980.html
+  reread: true
+- id: blake-et-mortimer-15-l-etrange-rendez-vous
+  read_date: '2019-07-10'
+  title: Blake et Mortimer - 15. L'Étrange Rendez-vous
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-15-L-Etrange-Rendez-vous-7667.html
+  reread: true
+- id: blake-et-mortimer-14-la-machination-voronov
+  read_date: '2019-07-08'
+  title: Blake et Mortimer - 14. La Machination Voronov
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-14-La-Machination-Voronov-7665.html
+  reread: true
+- id: blake-et-mortimer-13-l-affaire-francis-blake
+  read_date: '2019-07-07'
+  title: Blake et Mortimer - 13. L'affaire Francis Blake
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-13-L-affaire-Francis-Blake-7664.html
+  reread: true
+  review: This story keeps the reader wondering what will happen, which is the mark of a good story.
+- id: spirou-et-fantasio-41-la-vallee-des-bannis
+  read_date: '2019-07-05'
+  title: Spirou et Fantasio - 41. La vallée des bannis
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-41-La-vallee-des-bannis-2795.html
+  reread: true
+  review: 'A really good story: fun, scary, tender moments, and humor.'
+- id: blake-et-mortimer-12b-dossier-mortimer-contre-mortimer
+  read_date: '2019-07-05'
+  title: Blake et Mortimer - 12B. Dossier Mortimer contre Mortimer
+  language: French
+  reread: true
+- id: blake-et-mortimer-12-les-3-formules-du-professeur-sato-tome-2
+  read_date: '2019-07-05'
+  title: Blake et Mortimer - 12. Les 3 formules du professeur Satō - Tome 2
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-12-7663.html
+  reread: true
+- id: blake-et-mortimer-11-les-3-formules-du-professeur-sato-tome-1
+  read_date: '2019-07-04'
+  title: Blake et Mortimer - 11. Les 3 formules du professeur Satō - Tome 1
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-11-7662.html
+  reread: true
+- id: blake-et-mortimer-10-l-affaire-du-collier
+  read_date: '2019-07-03'
+  title: Blake et Mortimer - 10. L'affaire du collier
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-10-L-affaire-du-collier-7661.html
+  reread: true
+- id: blake-et-mortimer-9-le-piege-diabolique
+  read_date: '2019-07-02'
+  title: Blake et Mortimer - 9. Le piège diabolique
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-9-Le-Piege-diabolique-7660.html
+  reread: true
+- id: blake-et-mortimer-8-s-o-s-meteores
+  read_date: '2019-07-01'
+  title: Blake et Mortimer - 8. S.O.S. météores
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-8-SOS-meteores-7659.html
+  reread: true
+  review: >-
+    The atmosphere of the beginning of the story, with rain and fog, and the taxi getting lost, is just
+    perfect.
+- id: blake-et-mortimer-7-l-enigme-de-l-atlantide
+  read_date: '2019-06-30'
+  title: Blake et Mortimer - 7. L'énigme de l'Atlantide
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-7-L-enigme-de-l-Atlantide-75606.html
+  reread: true
+- id: blake-et-mortimer-6-la-marque-jaune
+  read_date: '2019-06-27'
+  title: Blake et Mortimer - 6. La marque jaune
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-6-La-marque-jaune-7657.html
+  reread: true
+- id: blake-et-mortimer-24-le-testament-de-william-s
+  read_date: 2019-06-xx
+  title: Blake et Mortimer - 24. Le Testament de William S.
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-24-Le-Testament-de-William-S-293206.html
+  reread: true
+  review: >-
+    About the discovery in Venice of a manuscript explaining that Shakespeare consisted, in fact, of two
+    people.
+- id: blake-et-mortimer-23-le-baton-de-plutarque
+  read_date: 2019-06-xx
+  title: Blake et Mortimer - 23. Le bâton de Plutarque
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-23-Le-Baton-de-Plutarque-226934.html
+  reread: true
+  review: >-
+    A prequel to "Le secret de l'Espadon". Involves Blake and Mortimer meeting again; the two secret bases
+    of Scaw-Fell and Hormuz; Bletchley Park; and an early encounter with Olrik.
+- id: blake-et-mortimer-21-le-serment-des-cinq-lords
+  read_date: 2019-06-xx
+  title: Blake et Mortimer - 21. Le serment des cinq lords
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-21-Le-Serment-des-cinq-lords-170145.html
+  reread: true
+  review: Involves the character of Lawrence of Arabia.
+- id: 2019-06-04-asterix-la-serpe-d-or
+  title: 2019-06-04 [Asterix - La serpe d'or]
+  language: French
+  reread: true
+- id: pk-cronaca-di-un-ritorno
+  read_date: 2019-05-xx
+  title: Pk Cronaca di un ritorno
+  edition: Topolino Limited De Luxe Edition
+  language: Italian
+  artists:
+  - Alessandro Sisti
+  - Claudio Sciarrone
+  - Max Monteduro
+- id: duckenstein
+  read_date: 2019-05
+  title: Duckenstein
+  year: 2017
+  edition: Topolino Limited De Luxe Edition
+  language: Italian
+  writers:
+  - Bruno Enna
+  artists:
+  - Fabio Celoni
+  review: A take on Mary Shelley's Frankenstein.
+- id: le-cycle-de-cyann-2-six-saisons-sur-ilo
+  read_date: '2019-04-29'
+  title: Le cycle de Cyann - 2. Six saisons sur ilO
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Cycle-de-Cyann-Tome-2-Six-saisons-sur-ilO-1082.html
+  rating: 4
+  reread: true
+- id: le-cycle-de-cyann-1-la-source-et-la-sonde
+  read_date: '2019-04-14'
+  title: Le cycle de Cyann - 1. La sOurce et la sOnde
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Cycle-de-Cyann-Tome-1-La-sOurce-et-la-sOnde-146.html
+  rating: 5
+  reread: true
+- id: corpus-hermeticum-operation-gremikha-2003-ap-j-c
+  read_date: 2019-03-xx
+  title: Corpus Hermeticum - Opération Gremikha - 2003 AP J. C.
+  language: French
+  authors:
+  - Tackian
+  - Brion
+  reread: true
+- id: corpus-hermeticum-les-hautes-terres-121-ap-j-c
+  read_date: 2019-03-xx
+  title: Corpus Hermeticum - Les Hautes Terres - 121 AP J. C.
+  language: French
+  authors:
+  - Gonzalbo
+  - Palma
+  reread: true
+- id: 2019-0-xx-mickey-mouse-the-deltas-dimension
+  title: '2019-0?-xx: [Mickey Mouse - The Deltas Dimension]'
+  language: English
+  artists:
+  - Romano Scarpa
+  review: A classic by one of the great Italian cartoonists.
+- id: metopolis
+  read_date: 2019-02-xx
+  title: Metopolis
+  year: 2014
+  edition: Topolino Limited De Luxe Edition
+  writers:
+  - Francesco Artibani
+  artists:
+  - Paolo Mottura
+  review: A take on the movie Metropolis.
+- id: pk-gli-argini-del-tempo
+  read_date: '2019-02-02'
+  title: PK - Gli argini del tempo
+  edition: Topolino Limited De Luxe Edition
+  language: Italian
+  authors:
+  - Alessandro Sisti
+  - Claudio Sciarrone
+  - Max Monteduro
+  review: >-
+    This is a longer (130+ pages) PK story. The art is done entirely on a computer. I believe that this
+    is a newer story, done in 2014.
+- id: dragonero-oltre-i-confini-dell-erondar
+  read_date: '2019-01-18'
+  title: Dragonero - Oltre i confini dell'Erondár
+  language: Italian
+- id: donjon-zenith
+  read_date: 2019-01
+  title: Donjon Zénith
+  edition: 6 volumes
+  language: French
+  bedetheque_url: https://www.bedetheque.com/serie-2324-BD-Donjon-Zenith.html
+  reread: true
+- id: donjon-potron-minet
+  read_date: 2019-01
+  title: Donjon Potron-Minet
+  language: French
+  bedetheque_url: https://www.bedetheque.com/serie-2325-BD-Donjon-Potron-Minet.html
+  reread: true
+  review: This series has negative volume numbers, starting at -99!
+  sub_items:
+  - title: "-99: La chemise de la nuit"
+  - title: "-98: Un justicier dans l'ennui"
+  - title: "-97: Une jeunesse qui s'enfuit"
+  - title: "-84: Après la pluie"
+  - title: "-83: Sans un bruit"
+- id: donjon-monsters-1-jean-jean-la-terreur
+  read_date: 2019-01
+  title: Donjon Monsters - 1. Jean-Jean la terreur
+  reread: true
+- id: donjon-parade-1-un-donjon-de-trop
+  read_date: 2019-01
+  title: Donjon Parade - 1. Un donjon de trop
+  reread: true

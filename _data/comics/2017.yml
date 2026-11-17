@@ -1,0 +1,752 @@
+# Comic book reads for 2017
+- id: les-naufrages-d-ythaq-7-la-marque-des-ythes
+  read_date: '2017-12-31'
+  title: Les naufragés d'Ythaq - 7. La marque des Ythes
+  year: 2009
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-7-La-marque-des-Ythes-94771.html
+  reread: true
+- id: les-naufrages-d-ythaq-6-la-revolte-des-pions
+  read_date: '2017-12-30'
+  title: Les naufragés d'Ythaq - 6. La révolte des pions
+  year: 2008
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-6-La-revolte-des-pions-78362.html
+  reread: true
+- id: les-naufrages-d-ythaq-5-l-ultime-arcane
+  read_date: '2017-12-28'
+  title: Les naufragés d'Ythaq - 5. L'ultime arcane
+  year: 2007
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-5-L-ultime-arcane-69854.html
+  reread: true
+- id: les-naufrages-d-ythaq-4-l-ombre-de-khengis
+  read_date: '2017-12-27'
+  title: Les naufragés d'Ythaq - 4. L'ombre de Khengis
+  year: 2007
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-4-L-ombre-de-Khengis-63793.html
+  reread: true
+- id: les-naufrages-d-ythaq-3-le-soupir-des-etoiles
+  read_date: '2017-12-26'
+  title: Les naufragés d'Ythaq - 3. Le soupir des étoiles
+  year: 2006
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-3-Le-soupir-des-etoiles-56813.html
+  reread: true
+- id: les-naufrages-d-ythaq-2-ophyde-la-geminee
+  read_date: '2017-12-19'
+  title: Les naufragés d'Ythaq - 2. Ophyde la géminée
+  year: 2005
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-2-Ophyde-La-Geminee-51861.html
+  rating: 5
+  reread: true
+- id: les-naufrages-d-ythaq-1-terra-incognita
+  read_date: '2017-12-17'
+  title: Les naufragés d'Ythaq - 1. Terra incognita
+  year: 2005
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-1-Terra-Incognita-48226.html
+  rating: 5
+  reread: true
+- id: largo-winch-21-l-etoile-du-matin
+  read_date: '2017-12-15'
+  title: Largo Winch - 21. L'étoile du matin
+  year: 2017
+  bedetheque_url: https://www.bedetheque.com/BD-Largo-Winch-Tome-21-L-etoile-du-matin-312659.html
+- id: lefranc-l-homme-oiseau
+  read_date: '2017-12-11'
+  title: Lefranc - L'homme-oiseau
+  rating: 4
+- id: les-nouvelles-aventures-de-lapinot-un-monde-un-peu-meilleur
+  read_date: '2017-12-06'
+  title: Les nouvelles aventures de Lapinot - Un monde un peu meilleur
+  rating: 4
+- id: les-mondes-de-thorgal-kriss-de-valnor-tome-1-je-n-oublie-rien
+  read_date: '2017-12-01'
+  title: Les Mondes de Thorgal - Kriss de Valnor - Tome 1 - Je n'oublie rien !
+  year: 2010
+  writers:
+  - Yves Sente
+  artists:
+  - Giulio De Vita
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-1-Je-n-oublie-rien-116231.html
+  rating: 4
+- id: mermaid-project-episode-2
+  read_date: 2017-11
+  title: Mermaid Project - Épisode 2
+  writers:
+  - Léo
+  - Corine Jamar
+  artists:
+  - Fred Simon
+- id: asterix-et-les-goths
+  read_date: '2017-08-22'
+  title: Astérix et les Goths
+  year: 1963-07
+  edition: La Grande Collection
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Asterix-Tome-3-Asterix-et-les-Goths-22944.html
+  rating: 5
+  reread: true
+  review: >-
+    A classic, restored and recolored as the original colors were not up to a modern standard. The large
+    format is really good.
+- id: ultime-frontiere-4-episode-4
+  read_date: '2017-08-12'
+  title: Ultime Frontière - 4. - Épisode 4
+  year: 2017
+  bedetheque_url: https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-4-Episode-4-305183.html
+- id: ultime-frontiere-3-episode-3
+  read_date: '2017-08-12'
+  title: Ultime Frontière - 3. - Épisode 3
+  year: 2016
+  bedetheque_url: https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-3-Episode-3-287747.html
+  reread: true
+- id: ultime-frontiere-2-episode-2
+  read_date: '2017-08-11'
+  title: Ultime Frontière - 2. - Épisode 2
+  year: 2015
+  bedetheque_url: https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-2-Episode-2-256969.html
+  reread: true
+- id: ultime-frontiere-1-episode-1
+  read_date: '2017-08-11'
+  title: Ultime Frontière - 1. - Épisode 1
+  year: 2014
+  bedetheque_url: https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-1-Episode-1-224795.html
+  reread: true
+- id: les-survivants-4
+  read_date: '2017-08-11'
+  title: Les survivants - 4
+  authors:
+  - Leo
+  bedetheque_url: https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-4-Episode-4-276324.html
+- id: les-survivants-3
+  read_date: '2017-08-10'
+  title: Les survivants - 3
+  authors:
+  - Leo
+  bedetheque_url: https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-3-Episode-3-222832.html
+  reread: true
+- id: les-survivants-2
+  read_date: 2017-08-0x
+  title: Les survivants - 2
+  authors:
+  - Leo
+  bedetheque_url: https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-2-Episode-2-171120.html
+  reread: true
+- id: les-survivants-1
+  read_date: 2017-08-0x
+  title: Les survivants - 1
+  authors:
+  - Leo
+  bedetheque_url: https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-1-Episode-1-120743.html
+  reread: true
+- id: thorgal-25-arachnea
+  read_date: '2017-07-27'
+  title: Thorgal - 25. Arachnéa
+  year: 1999
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-24-Arachnea-1588.html
+  rating: 5
+  reread: true
+  notes: |-
+    - A man is seen trying to escape from other men, get into some kind of fog and appears to fall.
+    - The family is sailing on two small boats. In a storm, they are separated: Thorgal and Louve on one side, the others on the other.
+    - Thorgal and Louve enter a mist and hit an island. They see a dead man's body. Spiders arrive and they try to climb a cliff. Louve gets stuck in a cave behind an invisible wall.
+    - Thorgal goes to get help but is made a prisoner. Dracon, the island's leader, tells him the story of their people and island. Thorgal, who wants to save Louve, volunteers to be sacrificed to Arachnéa.
+    - Underground, Thorgal finds a girl who was sacrified becauae she had helped the young man from the beginning of the story escape from his fate.
+    - Thorgal and her finally reach Louve, and Arachnéa, who in fact the girl was. However Arachnéa wants to end her 1000 year-old torment and lets Louve try to free the spirit of her lover.
+    - Louve manages to do this and there is an earthquake and the end of the underground volcano. Dracon is reduced to a spider and the island becomes pieceful again.
+    - Aaricia and the others reach the island.
+- id: thorgal-24-la-cage
+  read_date: '2017-07-26'
+  title: Thorgal - 24. La cage
+  year: 1997
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-23-La-cage-1109.html
+  rating: 5
+  reread: true
+  review: End of the Shaïgan-sans-merci cycle.
+  notes: |-
+    - Thorgal is ready to leave Brek Zarith to find his family again. He gets a small boat and money from Galathorn.
+    - Aaricia and Jolan leave their island for a few days, leaving Lehla and Darek and Louve.
+    - Thorgal and Aaricia's boats cross paths on the sea but they avoid each other.
+    - Thorgal is attacked by 3 crooks sent by Princess Syrane from Brek Zarith. She wanted revenge for Thorgal's rejection of her. Thorgal escapes.
+    - Aaricia & Jolan look for Sardaz l'écorché. She wants him to take over Shaïgan's fortress. Aaricia doesn't yet know Thorgal escapes (I think).
+    - Sardaz wants to make Aaricia dance and Jolan uses his powers to sink Sardaz's ship.
+    - Thorgal reaches his family's island. Muff and Louve know it's him, but Thorgal is put in a cage.
+    - Jolan & Aaricia come back. Jolan knows it's Thorgal. Aaricia pretends he is just "l'homme".
+    - Thorgal escapes from the cage to go kiss Aaricia at night then goes back to the cage. He escapes again as Sardaz and his men reach the island.
+    - Thorgal, Aaricia, Lehla, and Louve fight off Sardaz and his men.
+    - The entire family is together again and they decide to leave their island on two small boats.
+- id: thorgal-22-geants
+  read_date: '2017-07-26'
+  title: Thorgal - 22. Géants
+  year: 1996
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-22-Geants-927.html
+  rating: 5
+  reread: true
+  notes: |-
+    - Galathorn from Brek Zarith is made prisoner by Shaïgan's men. He recognizes Thorgal and says his name. Kriss wants to get him killed but that fails.
+    - Galathorn tells Thorgal what man he used to be.
+    - Thorgal/Shaïgan tells Kriss he is leaving. She had that planned and wants him made prisoner and beg for his freedom.
+    - Thorgal/Shaïgan escapes to the ramparts. Galathorn falls down. His marked hand is struck by lightning as he is calling for the gods .
+    - Goddess Frigg gives Thorgal a way to put his name again on the gods' list.
+    - Thorgal goes to the world of the giants. He is captured, made a curiosity, but manages to get the ring of Draupnir (Odin's sacred bracelet).
+    - Thorgal escapes, his name is put back on the list. He escapes with Galathorn, who had survived his fall.
+- id: thorgal-21-la-couronne-d-ogotai
+  read_date: '2017-07-25'
+  title: Thorgal - 21. La couronne d'Ogotaï
+  year: 1995
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-21-La-couronne-d-Ogotai-810.html
+  rating: 5
+  reread: true
+  notes: |-
+    - Shaïgan and Kriss are in their fortress. Kriss wants to send the men to pillaging, but Thorgal refuses.
+    - Shaïgan's captains kill Thorgal as he refuses more expeditions. Kriss kills herself by throwing herself off the window.
+    - Lehla, Darek and Jolan try to reach the family's island. In a storm, Jolan falls in the water and reappears further ahead of the boat.
+    - The boat hits the cliff and Lehla and Darek die.
+    - A "veilleur" from 30,000 years in the future, Jaax, is there to take Jolan back to the Pays de Qâ and take away the crown of Ogotaï which shouldn't be in this world.
+    - They recover the crown, but Jaax cannot help Jolan find his parents: they are dead.
+    - Jolan steals Jaax's "voyageur", the device to travel through time and places.
+    - An older Jolan hits Jaax on the head and explains things to the younger Jolan, who travels 15 years through time to find the older Jolan and explain him things.
+    - The older Jolan, back in the original timeline, sets to save Thorgal at Shaïgan and Kriss's fortress. He does.
+    - He also find Aaricia, captive there, under the pretense of spending the night with her as a reward for saving Thorgal.
+    - Older Jolan and Aaricia save Louve. Kriss wounds Jolan.
+    - Older Jolan takes Aaricia and Louve back to their island. He fixes Aaricia's "marque des bannis" and hair.
+    - Older Jolan wants to leave but Jaax wants to reset everything. The "grand veilleur" intervenes and takes older Jolan 30,000 years in the future.
+    - Younger Jolan is back and with a "voyageur" is sent to the short-term future. He is back in the storm, avoids collision with reefs so that Lehla and Darek don't die.
+    - Jolan, Lehla and Darek reunite with Aaricia and Louve.
+- id: 2017-07-2x-thorgal-20-la-marque-des-bannis-https-www-bedetheque-com-bd-t
+  title: >-
+    2017-07-2x: [Thorgal - 20. La marque des bannis](https://www.bedetheque.com/BD-Thorgal-Tome-20-La-marque-des-bannis-668.html)
+  year: 1995
+  rating: 5
+  reread: true
+- id: thorgal-19-la-forteresse-invisible
+  read_date: '2017-07-24'
+  title: Thorgal - 19. La forteresse invisible
+  year: 1993
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-19-La-forteresse-invisible-416.html
+  rating: 4
+  reread: true
+- id: thorgal-18-l-epee-soleil
+  read_date: '2017-07-24'
+  title: Thorgal - 18. L'épée-Soleil
+  year: 1992
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-18-L-epee-Soleil-415.html
+  rating: 5
+  reread: true
+  review: Start of the Shaïgan-sans-merci cycle.
+- id: thorgal-17-la-gardienne-des-cles
+  read_date: '2017-07-21'
+  title: Thorgal - 17. La gardienne des clés
+  year: 1991
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-17-La-gardienne-des-cles-414.html
+  rating: 5
+  reread: true
+- id: thorgal-16-louve
+  read_date: '2017-07-21'
+  title: Thorgal - 16. Louve
+  year: 1990
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-16-Louve-413.html
+  rating: 5
+  reread: true
+- id: thorgal-15-le-maitre-des-montagnes
+  read_date: '2017-07-21'
+  title: Thorgal - 15. Le maître des montagnes
+  year: 1989
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-15-Le-maitre-des-montagnes-412.html
+  rating: 5
+  reread: true
+- id: thorgal-14-aaricia
+  read_date: '2017-07-21'
+  title: Thorgal - 14. Aaricia
+  year: 1989
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-14-Aaricia-411.html
+  rating: 5
+  reread: true
+- id: thorgal-13-entre-terre-et-lumiere
+  read_date: '2017-07-20'
+  title: Thorgal - 13. Entre terre et lumière
+  year: 1988
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-13-Entre-terre-et-lumiere-410.html
+  rating: 5
+  reread: true
+  review: End of the pays Qâ cycle.
+- id: thorgal-12-la-cite-du-dieu-perdu
+  read_date: '2017-07-20'
+  title: Thorgal - 12. La cité du dieu perdu
+  year: 1987
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-12-La-cite-du-dieu-perdu-409.html
+  rating: 5
+  reread: true
+- id: thorgal-11-les-yeux-de-tanatloc
+  read_date: '2017-07-20'
+  title: Thorgal - 11. Les yeux de Tanatloc
+  year: 1986
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-11-Les-yeux-de-Tanatloc-408.html
+  rating: 5
+  reread: true
+- id: thorgal-10-le-pays-qa
+  read_date: '2017-07-20'
+  title: Thorgal - 10. Le pays Qâ
+  year: 1986
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-10-Le-pays-Qa-407.html
+  rating: 5
+  reread: true
+- id: thorgal-9-les-archers
+  read_date: '2017-07-20'
+  title: Thorgal - 9. Les archers
+  year: 1985
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-9-Les-archers-406.html
+  rating: 5
+  reread: true
+  review: Start of the pays Qâ cycle.
+- id: thorgal-8-alinoe
+  read_date: '2017-07-19'
+  title: Thorgal - 8. Alinoë
+  year: 1985
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-8-Alinoe-405.html
+  rating: 5
+  reread: true
+- id: thorgal-7-l-enfant-des-etoiles
+  read_date: '2017-07-18'
+  title: Thorgal - 7. L'enfant des étoiles
+  year: 1984
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-7-L-enfant-des-etoiles-404.html
+  rating: 5
+  reread: true
+- id: thorgal-6-la-chute-de-brek-zarith
+  read_date: '2017-07-18'
+  title: Thorgal - 6. La chute de Brek Zarith
+  year: 1984
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-6-La-chute-de-Brek-Zarith-403.html
+  rating: 5
+  reread: true
+  review: End of the Brek Zarith cycle.
+- id: thorgal-5-au-dela-des-ombres
+  read_date: '2017-07-18'
+  title: Thorgal - 5. Au-delà des ombres
+  year: 1983
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-5-Au-dela-des-ombres-402.html
+  rating: 5
+  reread: true
+- id: thorgal-4-la-galere-noire
+  read_date: '2017-07-18'
+  title: Thorgal - 4. La galère noire
+  year: 1982
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-4-La-galere-noire-401.html
+  rating: 5
+  reread: true
+  review: Start of the Brek Zarith cycle.
+- id: thorgal-3-les-3-vieillards-du-pays-d-aran
+  read_date: '2017-07-16'
+  title: Thorgal - 3. Les 3 vieillards du pays d'Aran
+  year: 1981
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-3-Les-trois-vieillards-du-pays-d-Aran-400.html
+  rating: 5
+  reread: true
+- id: thorgal-2-l-ile-des-mers-gelees
+  read_date: '2017-07-10'
+  title: Thorgal - 2. l'ile des mers gelées
+  year: 1980
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-2-L-ile-des-mers-gelees-399.html
+  rating: 5
+  reread: true
+- id: thorgal-1-la-magicienne-trahie
+  read_date: '2017-07-09'
+  title: Thorgal - 1. La magicienne trahie
+  year: 1980
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-1-La-magicienne-trahie-398.html
+  rating: 5
+  reread: true
+- id: amour-et-interim
+  read_date: '2017-07-09'
+  title: Amour et interim
+  year: 1998
+  bedetheque_url: https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-7-Amour-Interim-1185.html
+  reread: true
+- id: la-quete-de-l-oiseau-du-temps-https-www-bedetheque-com-serie-5-bd-quete
+  read_date: '2017-07-09'
+  title: >-
+    [La quête de l'oiseau du temps](https://www.bedetheque.com/serie-5-BD-Quete-de-l-oiseau-du-temps.html)
+    (tomes 1-4)
+  year: 1983-1987
+  reread: true
+- id: ou-le-regard-ne-porte-pas-https-www-bedetheque-com-serie-8293-bd-ou-le-r
+  read_date: '2017-07-04'
+  title: >-
+    [Où le regard ne porte pas](https://www.bedetheque.com/serie-8293-BD-Ou-le-regard-ne-porte-pas.html)
+    (tome 1 & 2)
+  year: 2004
+  reread: true
+- id: lefranc-tome-1-la-grande-menace
+  read_date: '2017-06-18'
+  title: Lefranc, Tome 1. La grande menace
+  year: 1954
+  edition: édition facsimilé
+  authors:
+  - Jacques Martin
+  bedetheque_url: https://www.bedetheque.com/BD-Lefranc-Tome-1-La-grande-menace-20051.html
+  rating: 5
+  reread: true
+- id: alix-tome-35-l-or-de-saturne
+  read_date: '2017-05-29'
+  title: Alix, Tome 35. L'or de Saturne
+  year: 2016
+  writers:
+  - Pierre Valmour
+  - Marco Venanzi
+  artists:
+  - Marco Venanzi
+  bedetheque_url: https://www.bedetheque.com/BD-Alix-Tome-35-L-or-de-saturne-291161.html
+- id: les-mondes-de-thorgal-la-jeunesse-tome-1-les-trois-soeurs-minkelsonn
+  read_date: '2017-05-17'
+  title: Les mondes de Thorgal - La jeunesse, Tome 1. Les trois soeurs Minkelsönn
+  year: 2013
+  writers:
+  - Yann
+  artists:
+  - Roman Surzhenko
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-1-Les-trois-soeurs-Minkelsonn-180601.html
+  reread: true
+- id: thorgal-tome-35-le-feu-ecarlate
+  read_date: '2017-05-15'
+  title: Thorgal, Tome 35. Le feu écarlate
+  year: 2016
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-35-Le-feu-ecarlate-292474.html
+- id: thorgal-tome-34-kah-aniel
+  read_date: '2017-05-14'
+  title: Thorgal, Tome 34. Kah-Aniel
+  year: 2013
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-34-Kah-Aniel-199374.html
+  reread: true
+- id: thorgal-tome-33-le-bateau-sabre
+  read_date: 2017-05-xx
+  title: Thorgal, Tome 33. Le Bateau-Sabre
+  year: 2011
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-33-Le-Bateau-Sabre-140423.html
+  reread: true
+- id: thorgal-tome-32-la-bataille-d-asgard
+  read_date: 2017-05-xx
+  title: Thorgal, Tome 32. La Bataille d'Asgard
+  year: 2010
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-32-La-Bataille-d-Asgard-117408.html
+  reread: true
+- id: thorgal-tome-31-le-bouclier-de-thor
+  read_date: '2017-05-07'
+  title: Thorgal, Tome 31. Le bouclier de Thor
+  year: 2008
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-31-Le-Bouclier-de-Thor-80551.html
+  reread: true
+- id: thorgal-tome-30-moi-jolan
+  read_date: 2017-05-0x
+  title: Thorgal, Tome 30. Moi, Jolan
+  year: 2007
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-30-Moi-Jolan-67373.html
+  reread: true
+- id: l-homme-qui-tua-lucky-luke
+  read_date: '2017-04-30'
+  title: L'homme qui tua Lucky Luke
+  year: 2016
+  authors:
+  - Matthieu Bonhomme
+  bedetheque_url: https://www.bedetheque.com/BD-Lucky-Luke-vu-par-Tome-1-L-Homme-qui-tua-Lucky-Luke-276314.html
+  rating: 5
+- id: jhen-tome-15-les-portes-de-fer
+  read_date: '2017-04-25'
+  title: 'Jhen, Tome 15: Les portes de fer'
+  year: 2015
+  writers:
+  - Jerry Frissen
+  artists:
+  - Paul Teng
+  bedetheque_url: https://www.bedetheque.com/BD-Jhen-Tome-15-Les-portes-de-fer-259663.html
+- id: asterix-la-serpe-d-or
+  read_date: 2017-04
+  title: Astérix - La serpe d'or
+  edition: La Grande Collection
+  bedetheque_url: https://www.bedetheque.com/BD-Asterix-Tome-2-La-serpe-d-or-22942.html
+  reread: true
+  review: >-
+    A classic, restored and recolored as the original colors were not up to a modern standard. The large
+    format is really good.
+- id: blake-et-mortimer-tome-24-le-testament-de-william-s
+  read_date: '2017-04-23'
+  title: 'Blake et Mortimer, tome 24: Le testament de William S.'
+  year: 2016
+  writers:
+  - Yves Sente
+  artists:
+  - André Juillard
+  review: >-
+    A bit difficult to judge: it's not terrible, and the original idea is good, but there are few surprises
+    and the story lacks atmosphere.
+- id: lefranc-tome-26-mission-antarctique
+  read_date: '2017-04-13'
+  title: 'Lefranc, Tome 26: Mission Antarctique'
+  reread: true
+- id: yoko-tsuno-l-integrale-tome-3-a-la-poursuite-du-temps
+  read_date: '2017-04-08'
+  title: 'Yoko Tsuno l''intégrale, tome 3: A la poursuite du temps'
+  year: 2007 (intégrale)
+  sub_items:
+  - title: La spirale du temps
+    reread: true
+    year: 1981
+    review: 'Rating: x/5'
+  - title: Le matin du monde
+    reread: true
+    year: 1988
+    review: 'Rating: x/5'
+  - title: L'astrologue de Bruges
+    reread: true
+    year: 1994
+    review: 'Rating: x/5'
+- id: tintin-au-pays-des-soviets
+  read_date: '2017-03-26'
+  title: Tintin au pays des Soviets
+  reread: true
+  review: Edition couleur
+- id: mermaid-project-episode-1
+  read_date: '2017-03-21'
+  title: Mermaid Project - Épisode 1
+  writers:
+  - Léo
+  - Corine Jamar
+  artists:
+  - Fred Simon
+- id: meta-baron-tome-3-orne-8-le-techno-cardinal
+  read_date: '2017-03-15'
+  title: Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal
+  writers:
+  - Jerry Frissen
+  artists:
+  - Niko Henrichon
+  colors:
+  - Niko Henrichon
+  adapted_from: Alexandro Jodorowsky
+  bedetheque_url: https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html
+- id: mickey-mouse-volume-8-the-tomorrow-wars-1944-1946
+  read_date: '2017-03-06'
+  title: Mickey Mouse - Volume 8 - "The Tomorrow Wars" (1944-1946)
+  artists:
+  - Floyd Gottfredson
+- id: le-monde-perdu-2-tome-2
+  read_date: '2017-02-26'
+  title: Le Monde Perdu 2. Tome 2
+  year: 2015
+  writers:
+  - Christophe Bec
+  artists:
+  - Mauro Salvatori
+  - Fabrizio Fain
+  bedetheque_url: https://www.bedetheque.com/BD-Monde-perdu-Tome-2-222826.html
+- id: les-formidables-aventures-de-lapinot-2-slaloms
+  read_date: '2017-02-22'
+  title: Les formidables aventures de Lapinot 2. Slaloms
+  year: 1993
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-2-Slaloms-16176.html
+  reread: true
+  review: >-
+    This was originally published in black and white, and Trondheim redid it (maybe even redrew it?) in
+    color at a later point.
+- id: alix-senator-3-la-conjuration-des-rapaces
+  read_date: 2017-02-xx
+  title: 'Alix Senator: 3. La Conjuration des rapaces'
+  year: 2014
+  writers:
+  - Valérie Mangin
+  artists:
+  - Démarez
+  - Thierry
+  colors:
+  - Démarez
+  - Thierry
+  bedetheque_url: https://www.bedetheque.com/BD-Alix-Senator-Tome-3-La-Conjuration-des-rapaces-226929.html
+- id: alix-senator-2-le-dernier-pharaon
+  read_date: 2017-02-xx
+  title: 'Alix Senator: 2. Le Dernier Pharaon'
+  year: 2013
+  writers:
+  - Valérie Mangin
+  artists:
+  - Démarez
+  - Thierry
+  colors:
+  - Démarez
+  - Thierry
+  bedetheque_url: https://www.bedetheque.com/BD-Alix-Senator-Tome-2-Le-Dernier-Pharaon-194830.html
+  reread: true
+- id: alix-senator-1-les-aigles-de-sang
+  read_date: '2017-02-12'
+  title: 'Alix Senator: 1. Les aigles de sang'
+  year: 2012
+  writers:
+  - Valérie Mangin
+  artists:
+  - Démarez
+  - Thierry
+  colors:
+  - Démarez
+  - Thierry
+  bedetheque_url: https://www.bedetheque.com/BD-Alix-Senator-Tome-1-Les-Aigles-de-sang-170566.html
+  reread: true
+- id: la-vengeance-du-comte-skarbek-1-deux-mains-d-or
+  read_date: 2017-02-xx
+  title: La vengeance du Comte Skarbek 1. Deux mains d'or
+  year: 2004
+  writers:
+  - Yves Sente
+  artists:
+  - Grzegorz Rosinski
+  colors:
+  - Grzegorz Rosinski
+  bedetheque_url: https://www.bedetheque.com/BD-Vengeance-du-Comte-Skarbek-Tome-1-Deux-mains-d-or-32249.html
+  rating: 5
+  reread: true
+- id: la-vengeance-du-comte-skarbek-2-un-coeur-de-bronze
+  read_date: '2017-02-04'
+  title: La vengeance du Comte Skarbek 2. Un cœur de bronze
+  year: 2005
+  writers:
+  - Yves Sente
+  artists:
+  - Grzegorz Rosinski
+  colors:
+  - Grzegorz Rosinski
+  bedetheque_url: https://www.bedetheque.com/BD-Vengeance-du-Comte-Skarbek-Tome-2-Un-coeur-de-bronze-51850.html
+  rating: 5
+  reread: true
+- id: les-naufrages-d-ythaq-14-le-joyeau-du-genie
+  read_date: '2017-02-01'
+  title: Les naufragés d'Ythaq - 14. Le joyeau du génie
+  year: 2016
+  writers:
+  - Arleston
+  artists:
+  - Floch
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-14-Le-Joyau-du-Genie-293592.html
+- id: '2017-01-28'
+  title: '2017-01-28'
+  edition: La Grande Collection
+  reread: true
+  review: Asterix Le Gaulois
+- id: la-saga-della-spada-di-ghiaccio-https-it-wikipedia-org-wiki-saga-della-s
+  read_date: '2017-01-09'
+  title: >-
+    [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino
+    e la bella addormentata del cosmo"
+  year: 1993
+  authors:
+  - Massimo De Vita
+  review: fourth part of the "trilogy"
+- id: '2017-01-23'
+  title: '2017-01-23'
+  year: 2016
+  review: |-
+    Les Druides - 9. Le temps des corbeaux
+
+    end of the series
+- id: '2017-01-22'
+  title: '2017-01-22'
+  year: 2014
+  reread: true
+  review: Les Druides - 8. Les Secrets d'Orient
+- id: lapinot-et-les-carottes-de-patagonie
+  read_date: '2017-01-20'
+  title: Lapinot et les carottes de patagonie
+  year: 1992
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-1-Lapinot-et-les-carottes-de-Patagonie-52359.html
+  review: The mythical 500-page improvisation of Lewis Trondheim which introduces the character of Lapinot.
+- id: sillage-19-temps-mort
+  read_date: '2017-01-17'
+  title: Sillage - 19. Temps mort
+  year: 2016
+  writers:
+  - Jean David Morvan
+  artists:
+  - Philippe Buchet
+  colors:
+  - Philippe Buchet
+  bedetheque_url: https://www.bedetheque.com/BD-Sillage-Tome-19-Temps-mort-287061.html
+- id: les-demons-des-carpathes-3-les-legions-de-l-enfer
+  read_date: '2017-01-13'
+  title: Les démons des Carpathes  - 3 . Les Légions de l'enfer
+  year: 2011
+  writers:
+  - Philippe Chanoinat
+  artists:
+  - Frédéric Marniquet
+  colors:
+  - Marie Galopin
+  bedetheque_url: https://www.bedetheque.com/BD-Demons-des-Carpathes-Tome-3-Les-Legions-de-l-enfer-124750.html
+- id: les-demons-des-carpathes-2-le-mangeur-d-ames
+  read_date: '2017-01-12'
+  title: Les démons des Carpathes  - 2 . Le Mangeur d'âmes
+  year: 2010
+  writers:
+  - Philippe Chanoinat
+  artists:
+  - Frédéric Marniquet
+  colors:
+  - Marie Galopin
+  bedetheque_url: https://www.bedetheque.com/BD-Demons-des-Carpathes-Tome-2-Le-Mangeur-d-ames-108685.html
+  reread: true
+- id: la-saga-della-spada-di-ghiaccio-https-it-wikipedia-org-wiki-saga-della-s-2
+  read_date: '2017-01-09'
+  title: >-
+    [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino
+    e il ritorno del "Principie della nebbie"
+  year: 1984
+  authors:
+  - Massimo De Vita
+  review: third part of the trilogy
+- id: yoko-tsuno-l-integrale-tome-2-aventures-allemandes
+  read_date: '2017-01-08'
+  title: 'Yoko Tsuno l''intégrale, tome 2: Aventures allemandes'
+  sub_items:
+  - title: L'orgue du diable
+    reread: true
+    year: 1973
+    rating: 5
+  - title: La Frontière de la vie
+    reread: true
+    year: 1977
+    rating: 5
+    review: |-
+      This was not my favorite as a child. I probably preferred the space adventures.
+
+      But re-reading it, it turns out to be really excellent. I almost had tears - after all, it is about saving the life of an innocent little girl.
+  - title: Le Feu de Wotan
+    reread: true
+    year: 1984
+    rating: 5
+- id: meta-baron-tome-2-khonrad-l-anti-baron
+  read_date: '2017-01-05'
+  title: Meta-Baron - Tome 2 - Khonrad l'anti-baron
+  writers:
+  - Jerry Frissen
+  artists:
+  - Valentin Sécher
+  colors:
+  - Valentin Sécher
+  adapted_from: Alexandro Jodorowsky
+- id: donjon-crepuscule-106-revolutions
+  read_date: 2017-01-0x
+  title: Donjon Crépuscule - 106 - Révolutions
+  artists:
+  - Obion
+  review: |-
+    Texte: Johann Sfar & Lewis Trondheim
+
+    Couleur: Walter
+- id: donjon-crepuscule-tome-105-les-nouveaux-centurions
+  read_date: 2017-01-0x
+  title: Donjon Crépuscule, Tome 105 - Les nouveaux Centurions
+  reread: true
+- id: antares-episode-6
+  read_date: 2017-01-0x
+  title: Antarès épisode 6

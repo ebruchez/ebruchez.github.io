@@ -12,3 +12,6 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+# comic covers inbox
+_covers_inbox

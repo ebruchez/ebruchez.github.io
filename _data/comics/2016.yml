@@ -1,0 +1,438 @@
+# Comic book reads for 2016
+- id: lefranc-le-mystere-borg
+  read_date: '2016-12-04'
+  title: Lefranc - Le mystère Borg
+  year: 1964-1965
+  rating: 5
+  review: one of the best Lefranc albums
+- id: the-don-rosa-library-vol-1
+  title: The Don Rosa Library Vol. 1
+  sub_items:
+  - read_date: '2016-11-27'
+    title: Uncle Scrooge and the Son of the Sun
+    reread: true
+    year: 1987-07
+    rating: 5
+    authors:
+    - Don Rosa
+- id: super-picsou-geant-194-juillet-2016
+  title: Super Picsou Géant 194, Juillet 2016
+  sub_items:
+  - read_date: '2016-11-24'
+    title: L'Île au Trésor
+    year: 2015 (L’isola del tesoro)
+    rating: 5
+    writers:
+    - Teresa Radice
+    artists:
+    - Stefano Turconi
+  - title: Donald, balayeur de problèmes
+    rating: 3
+    writers:
+    - Lars Jensen
+    artists:
+    - Andrea Ferraris
+  - title: La tactique hanséatique
+    rating: 4
+    writers:
+    - Knut Nærum
+    - Tormod Løkling
+    artists:
+    - Arild Midthun
+  - title: Picsou - La chance du fantastimilliardaire
+    rating: 3
+    writers:
+    - Michael T. Gilbert
+    artists:
+    - Andrea Ferraris
+  - title: Dingo superchanceux
+    rating: 3
+    writers:
+    - Casty
+    artists:
+    - Lorenzo Pastrovicchio
+- id: les-tresors-de-picsou-35-aventures-aquatiques
+  title: Les trésors de Picsou 35 - Aventures aquatiques
+  sub_items:
+  - title: Donald - Gammes aquatiques
+    year: 1956
+    authors:
+    - Carl Barks
+  - title: Donald - Ouragan sur le calme !
+    year: 2007
+    authors:
+    - Daan Jippes
+  - title: Donald - 20000 cadeaux sous les mers
+    year: 1955
+    authors:
+    - Carl Barks
+  - title: Donald - Les Castors Juniors perdent le nord
+    year: 1960
+    authors:
+    - Carl Barks
+  - title: Picsou - Un rubis pour la haute
+    year: 1963
+    authors:
+    - Carl Barks
+  - title: Picsou - 20 milliards sous les mers
+    year: 2000
+    authors:
+    - Wanda Gattino
+    - Daniel Branca
+  - title: Donald - Capitaine de choc
+    year: 1984
+    writers:
+    - Evert Geradts
+    artists:
+    - Ben Verhagen
+  - title: Picsou - Poule mouillée !
+    year: 2009
+    writers:
+    - Lars Jensen
+    artists:
+    - Vicar
+  - title: Donald Duck - Chasseur de perles
+    year: 1948
+    authors:
+    - Carl Barks
+  - title: Picsou - Pêche aux perles
+    year: 1984
+    authors:
+    - Carl Barks
+  - title: Donald - Gaffeur sous-marin
+    year: 1965
+    writers:
+    - Dick Kenney
+    artists:
+    - Al Hubbard
+  - title: Donald - La chasse au faido d'eau
+    year: 1995
+    authors:
+    - William Van Horn
+  - title: Donald - Le maître du tuba
+    year: 1996
+    writers:
+    - Pat McGreal
+    artists:
+    - Vicar
+  - title: Donald - Profond problème
+    year: 1997
+    writers:
+    - Per Hedman
+    artists:
+    - Vicar
+  - title: Donald - Le siphon océanique
+    year: 2001
+    writers:
+    - Gorm Transgaard
+    artists:
+    - Vicar
+  - title: Donald - Les prix plongent
+    year: 2013
+    writers:
+    - L.
+    - M. Shaw
+    artists:
+    - M. Tortajada
+  - title: Donald - Cauchemar en mer
+    year: 2007
+    authors:
+    - Marco Rota
+- id: les-fils-d-el-topo-tome-01-cain
+  read_date: 2016-11
+  title: 'Les Fils d''El Topo - Tome 01: Caïn'
+  year: 2016
+  writers:
+  - Alexandro Jodorowsky
+  artists:
+  - José Ladronn
+  url: https://www.amazon.fr/Fils-dEl-Topo-01-Caïn/dp/2344004483/
+- id: une-aventure-de-spirou-et-fantasio-le-tombeau-des-champignac
+  read_date: 2016-11
+  title: 'Une aventure de Spirou et Fantasio: Le tombeau des Champignac'
+  year: 2007
+  writers:
+  - Yann)
+  artists:
+  - Fabrice Tarrin
+  url: https://www.amazon.fr/Une-aventure-Spirou-Fantasio-Champignac/dp/280013805X/
+- id: meta-baron-tome-1-wilhelm-100-le-techno-amiral
+  read_date: '2016-11-07'
+  title: Méta-Baron - Tome 1 - Wilhelm 100, le techno-amiral
+  year: 2016
+  writers:
+  - Jerry Frissen
+  artists:
+  - Valentin Sécher
+  colors:
+  - Valentin Sécher
+  adapted_from: Alexandro Jodorowsky
+  url: https://www.amazon.fr/M%C3%A9ta-Baron-Wilhelm-100-Techno-Amiral-Jerry-Frissen/dp/2731681276/
+- id: dragonero-le-origini
+  read_date: 2016-11
+  title: Dragonero - Le Origini
+  year: 2015
+  language: Italian
+  writers:
+  - Luca Enoch
+  - Stefano Vietti
+  artists:
+  - Giuseppe Matteoni
+  url: https://www.amazon.it/origini-Dragonero-Luca-Enoch/dp/8869610160
+- id: flash-gordon-dan-barry-volume-1-the-city-of-ice
+  read_date: 2016-10
+  title: 'Flash Gordon: Dan Barry Volume 1 - The City of Ice'
+  year: 1951-1953
+  url: https://www.amazon.com/gp/product/1782766839/
+  review: |-
+    I was familiar with Flash Gordon only for having seen a few pages of "Guy L'éclair" in French Mickey Mouse magazines as a kid.
+
+    I enjoyed these stories more than I would have thought: it is 100% adventure but with a major science and even geekiness  background (kids build rockets and dream about space!).
+- id: asterix-36-le-papyrus-de-cesar
+  read_date: 2016-08
+  title: Astérix - 36. Le papyrus de César
+  year: 2015
+  writers:
+  - Jean-Yves Ferri
+  artists:
+  - Didier Conrad
+  url: https://fr.wikipedia.org/wiki/Le_Papyrus_de_C%C3%A9sar
+  review: The second post-Uderzo Astérix.
+- id: les-naufrages-d-ythaq-13-glebe-la-singuliere
+  read_date: 2016-08
+  title: Les naufragés d'Ythaq - 13. Glèbe la Singulière
+  year: 2015
+  writers:
+  - Arleston
+  artists:
+  - Floch
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-13-Glebe-la-Singuliere-258181.html
+- id: les-naufrages-d-ythaq-12-les-clefs-du-neant
+  read_date: 2016-08
+  title: Les naufragés d'Ythaq - 12. Les Clefs du néant
+  year: 2014
+  writers:
+  - Arleston
+  artists:
+  - Floch
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-12-Les-Clefs-du-neant-226732.html
+  reread: true
+- id: les-naufrages-d-ythaq-11-l-haleine-de-l-ogre
+  read_date: 2016-08
+  title: Les naufragés d'Ythaq - 11. L'Haleine de l'Ogre
+  year: 2013
+  writers:
+  - Arleston
+  artists:
+  - Floch
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-11-L-Haleine-de-l-Ogre-197183.html
+  reread: true
+- id: les-naufrages-d-ythaq-10-nehorf-capitol-transit
+  read_date: '2016-08-09'
+  title: Les naufragés d'Ythaq - 10. Nehorf-Capitol Transit
+  year: 2012
+  writers:
+  - Arleston
+  artists:
+  - Floch
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-10-Nehorf-Capitol-Transit-171913.html
+  reread: true
+  review: Beginning of the second cycle (books 1-9 cover the first cycle).
+- id: centaurus-2-terre-etrangere
+  read_date: '2016-08-03'
+  title: Centaurus - 2. Terre étrangère
+  year: 2016
+  writers:
+  - Leo
+  - Rodolphe
+  artists:
+  - Janjetov
+  - Zoran
+  bedetheque_url: https://www.bedetheque.com/BD-Centaurus-Tome-2-Terre-etrangere-273728.html
+  review: >-
+    Follow-up to [Centaurus - 1. Terre promise](https://www.bedetheque.com/BD-Centaurus-Tome-1-Terre-promise-237683.html)
+- id: mpg-353
+  title: MPG 353
+  url: http://fandemickeyetpicsou.fra.co/t780-mickey-parade-geant-353
+  sub_items:
+  - title: Chauffe, Donald ! - Commend devenir maître nageur ?
+    year: 2003
+    review: |-
+      Rudy Salvagnini
+
+      Francesco Guerrini
+
+      from MPG 353
+  - title: 'Picsou: L''arbitre était presque parfait'
+    year: 2002
+    review: |-
+      Rudy Salvagnini
+
+      Valerio Held
+  - title: 'Picsou: Un sort à sortir'
+    year: 2015
+    review: |-
+      Pat McGreal & Carol McGreal
+
+      Giorgio Cavazzano
+  - title: 'Fantomiald: Comme un poison dans l''eau'
+    year: 2015
+    review: |-
+      Sune Troelstrup
+
+      Andrea Freccero
+  - title: 'Le cycle des magiciens: L''héritage - Les gardiens de la mémoire'
+    year: 2013
+    review: |-
+      Matteo Venerus
+
+      Alessandro Perina
+  - title: 'Dingo reporter: La plume d''or'
+    year: 2013
+    review: |-
+      Teresa Radice
+
+      Stefano Turconi
+  - title: 'Donald Junior: La plage au trésor'
+    year: 2003
+    review: |-
+      Augusto Macchetto
+
+      Emilio Urbano
+  - title: 'Mickey "Les Experts: Anderville": Calypso'
+    year: 2000
+    review: |-
+      Francesco Artibani
+
+      Claudio Scarrone
+- id: orion-3-le-pharaon
+  read_date: 2016-07
+  title: Orion - 3. Le pharaon
+  year: 1998
+  authors:
+  - Jacques Martin
+  bedetheque_url: https://www.bedetheque.com/BD-Orion-J-Martin-Tome-3-Le-pharaon-3319.html
+  reread: true
+  tags:
+  - french
+  review: Christophe Simon
+- id: jhen-6-le-lys-et-l-ogre
+  read_date: 2016-07
+  title: Jhen - 6. Le lys et l'ogre
+  writers:
+  - Jacques Martin
+  artists:
+  - Jean Pleyers
+  url: http://www.casterman.com/Bande-dessinee/Catalogue/jhen-les-albums-de-jhen/le-lys-et-logre
+  reread: true
+  tags:
+  - french
+- id: apres-l-incal-incal-final
+  read_date: 2016-07
+  title: Après l'Incal / Incal Final
+  reread: true
+  tags:
+  - french
+  review: except tome 3 which I don't have yet
+- id: avant-l-incal
+  read_date: 2016-07
+  title: Avant l'Incal
+  reread: true
+  tags:
+  - french
+- id: l-incal
+  read_date: 2016-07
+  title: L'Incal
+  reread: true
+  tags:
+  - french
+- id: spirou-le-groom-vert-de-gris
+  read_date: 2016-07
+  title: Spirou - Le Groom vert-de-gris
+  year: 2009
+  writers:
+  - Yann
+  artists:
+  - Olivier Schwartz
+  url: https://fr.wikipedia.org/wiki/Le_Groom_vert-de-gris
+  reread: true
+  tags:
+  - french
+  review: part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
+- id: spirou-les-marais-du-temps
+  read_date: 2016-07
+  title: Spirou - Les Marais du temps
+  year: 2007
+  url: https://fr.wikipedia.org/wiki/Les_Marais_du_temps
+  reread: true
+  tags:
+  - french
+  review: |-
+    part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
+
+    Auteur: Frank Le Gall
+- id: spirou-les-geants-petrifies
+  read_date: 2016-07
+  title: Spirou - Les Géants pétrifiés
+  year: 2006
+  writers:
+  - Fabien Vehlmann
+  artists:
+  - Yoann
+  url: https://fr.wikipedia.org/wiki/Les_G%C3%A9ants_p%C3%A9trifi%C3%A9s
+  reread: true
+  tags:
+  - french
+  review: part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
+- id: la-saga-della-spada-di-ghiaccio-https-it-wikipedia-org-wiki-saga-della-s
+  read_date: '2016'
+  title: >-
+    [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino
+    e il Torneo dell'Argaar #italian
+  year: 1983-1984
+  authors:
+  - Massimo De Vita
+- id: la-saga-della-spada-di-ghiaccio-https-it-wikipedia-org-wiki-saga-della-s-2
+  read_date: '2016'
+  title: >-
+    [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino
+    e la Spada di Ghiaccio #italian
+  year: 1982-1983
+  authors:
+  - Massimo De Vita
+  review: >-
+    This is the first part of a series placing Mickey Mouse and Goofy (Topolino and Pippo, in Italian)
+    in a fantasy setting, namely the world of Argaar.
+- id: lefranc-tome-26-mission-antarctique
+  section: Ordered 10 décembre 2015
+  title: 'Lefranc, Tome 26: Mission Antarctique'
+- id: ultime-frontiere-2-episode-2
+  title: Ultime Frontière - 2. Épisode 2
+  bedetheque_url: https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-2-Episode-2-256969.html
+- id: sillage-t18-psycholocauste
+  title: Sillage T18 - Psycholocauste
+- id: le-monde-perdu-1-tome-1
+  title: Le Monde Perdu 1. Tome 1
+  year: 2013
+  writers:
+  - Christophe Bec
+  artists:
+  - Mauro Salvatori
+  - Fabrizio Fain
+  bedetheque_url: https://www.bedetheque.com/BD-Monde-perdu-Tome-1-193957.html
+- id: yoko-tsuno-l-integrale-tome-1-de-la-terre-a-vinea
+  title: 'Yoko Tsuno l''intégrale, tome 1: De la Terre à Vinéa'
+  sub_items:
+  - title: Le Trio de l'étrange
+    reread: true
+    year: 1972
+  - title: La forge de Vulcain
+    reread: true
+    year: 1973
+  - title: Les trois soleils de Vinéa
+    reread: true
+    year: 1976
+- id: centaurus-t01-terre-promise
+  title: 'Centaurus T01: Terre Promise'
+- id: donjon-crepuscule-tome-105-les-nouveaux-centurions
+  title: 'Donjon Crépuscule, Tome 105: Les nouveaux Centurions'

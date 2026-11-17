@@ -6,6 +6,7 @@ on:
     paths-ignore:
       - .gitignore
       - README.md
+      - AGENTS.md
       - LICENSE
 
 jobs:

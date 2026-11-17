@@ -1,0 +1,1144 @@
+# Comic book reads for 2021
+- id: walt-disney-s-uncle-scrooge-17-secret-of-hondorica
+  read_date: 2021-12
+  title: Walt Disney's Uncle Scrooge - 17. Secret of Hondorica
+  authors:
+  - Carl Barks
+- id: wizards-of-mickey-4
+  read_date: 2021-12
+  title: Wizards of Mickey - 4.
+  language: English
+  url: https://en.wikipedia.org/wiki/Wizards_of_Mickey
+  sub_items:
+  - title: Lemuria
+    sub_items:
+    - title: Dwellers of The Dark
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The City of Machines
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Heart of Albion
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+  - title: Legacy
+    sub_items:
+    - title: The Army of The Night
+      writers:
+      - Matteo Venerus
+      artists:
+      - Alessandro Perina
+    - title: The Custodians of Memory
+      writers:
+      - Matteo Venerus
+      artists:
+      - Alessandro Perina
+    - title: The Ancestral Banner
+      writers:
+      - Matteo Venerus
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Master of Magic
+      writers:
+      - Matteo Venerus
+      artists:
+      - Alessandro Perina
+  - title: The Lost Legends
+    sub_items:
+    - title: The Sparkling Dragon
+      writers:
+      - Maria Muzzolini
+      artists:
+      - Marco Palazzi
+- id: wizards-of-mickey-3
+  read_date: 2021-12
+  title: Wizards of Mickey - 3.
+  language: English
+  url: https://en.wikipedia.org/wiki/Wizards_of_Mickey
+  sub_items:
+  - title: The Ancient Evil
+    sub_items:
+    - title: The Never Ending War
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Alessandro Pastrovicchio
+    - title: The Mysterious Sleeper
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Titans of Ice
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Furnace of the Abyss
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Dawn of a New World
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+  - title: The New World
+    sub_items:
+    - title: The Lord of the Seas
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Crypt of One Hundred Lions
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Siege of Shadows
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Kingdom Below (Part One)
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+    - title: The Kingdom Below (Part Two)
+      writers:
+      - Stefano Ambrosio
+      artists:
+      - Lorenzo Pastrovicchio
+- id: wizards-of-mickey-2-the-dark-age
+  read_date: 2021-12
+  title: Wizards of Mickey - 2. The Dark Age
+  language: English
+  url: https://en.wikipedia.org/wiki/Wizards_of_Mickey
+  sub_items:
+  - title: The Tournament of the Wicked Sorcerer
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Marco Palazzi
+  - title: The Great Betrayal
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Alessandro Perina
+  - title: The Day Without Sun
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Roberto Vian
+  - title: The Dragons' Fury
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Lorenzo Pastrovicchio
+  - title: The Waterfall Labyrinth
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Alessandro Pastrovicchio
+  - title: The Cursed Keys
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Vitale Mangiatordi
+  - title: The Shadow Guardians
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Francesco D'Ippolito
+  - title: The Dragons' Stronghold
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Alessandro Perina
+  - title: The Horns of Oggoth
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Alessandro Pastrovicchio
+  - title: The Way Home
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Lorenzo Pastrovicchio
+- id: wizards-of-mickey-1-origins
+  read_date: 2021-12
+  title: Wizards of Mickey - 1. Origins
+  language: English
+  url: https://en.wikipedia.org/wiki/Wizards_of_Mickey
+  sub_items:
+  - title: The Grand Tournament
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Lorenzo Pastrovicchio
+  - title: The Dolmen Swamp
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Marco Gervaslo
+  - title: The Secret Of The Great Crown
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Marco Palazzi
+  - title: Moon Diamond
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Alessandro Perina
+  - title: The Well of Dragons
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Marco Mazzarello
+  - title: Witches in the Palace
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Vitale Mangiatordi
+  - title: The Iron Dragon
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Lorenzo Pastrovicchio
+  - title: The Monster Hunters
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Alessandro Pastrovicchio
+  - title: The Return of Phantom Blot
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Marco Gervasio
+  - title: The Supreme Sorcerer
+    writers:
+    - Stefano Ambrosio
+    artists:
+    - Marco Palazzi
+- id: flash-gordon-sundays-dan-barry-volume-i-the-death-planet
+  read_date: 2021-12
+  title: 'Flash Gordon - Sundays: Dan Barry Volume I - The Death Planet'
+  year: 1967-1971
+  authors:
+  - Dan Barry
+  url: https://titan-comics.com/c/1009-flash-gordon-sundays-dan-barry-volume-1-the-death-/
+  review: 'released: 2017'
+- id: yoko-tsuno-l-integrale-tome-7-menaces-pour-la-terre
+  read_date: 2021-12
+  title: 'Yoko Tsuno l''intégrale, tome 7: Menaces pour la Terre'
+  year: 2009 (intégrale)
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Integrale-Tome-7-Sombres-complots-87578.html
+  sub_items:
+  - title: La fille du vent
+    bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-9-La-fille-du-vent-4640.html
+    reread: true
+    year: 1979
+    rating: 5
+  - title: La proie et l'ombre
+    bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-12-La-proie-et-l-ombre-1539.html
+    reread: true
+    year: 1982
+    rating: 5
+  - title: L'or du Rhin
+    bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-19-L-or-du-Rhin-497.html
+    reread: true
+    year: 1993
+    rating: 4
+- id: les-compagnons-du-crepuscule
+  read_date: 2021-11
+  title: Les compagnons du crépuscule
+  language: French
+  authors:
+  - François Bourgeon
+  sub_items:
+  - title: 1. Le sortilège du bois des brumes
+    bedetheque_url: >-
+      https://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-1-Le-sortilege-du-bois-des-brumes-7737.html
+    rating: 5
+  - title: 2. Les Yeux d'étain de la ville glauque
+    bedetheque_url: >-
+      https://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-2-Les-Yeux-d-etain-de-la-ville-glauque-7738.html
+    rating: 5
+  - title: 3. Le dernier chant des Malaterre
+    bedetheque_url: >-
+      https://www.bedetheque.com/BD-Compagnons-du-crepuscule-Tome-3-Le-dernier-chant-des-Malaterre-142.html
+    rating: 5
+    review: >-
+      I would rate this album 6/5 as it is truly a masterpiece. The research needed for this album must
+      have been incredible. The characters, decors, atmosphere, all contribute to an atmosphere that is
+      truly incredible. There is also so much cruelty, yet a few of the characters are like the supposed
+      reader: they despise envy, injustice, power, and pain, yet have to endure that in this dark ages
+      world. I just realized that there is a book, ["Dans le sillage des sirènes"](https://www.bedetheque.com/BD-Compagnons-du-crepuscule-HS-Dans-le-sillage-des-sirenes-985.html),
+      on the topic. I need to get it.
+- id: pk-cronaca-di-un-ritorno
+  read_date: 2021-11
+  title: Pk Cronaca di un ritorno
+  edition: Topolino Limited De Luxe Edition
+  language: Italian
+  artists:
+  - Alessandro Sisti
+  - Claudio Sciarrone
+  - Max Monteduro
+  url: https://disney-comics.fandom.com/it/wiki/Cronaca_di_un_ritorno
+- id: tif-et-tondu-integrale-12-crimes-ordinaires
+  read_date: 2021-11
+  title: Tif et Tondu (Intégrale) - 12. Crimes ordinaires
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Integrale-Tome-11-Sortileges-et-manipulations-156866.html
+  reread: true
+  sub_items:
+  - title: 40. Prise d'otages
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-40-Prise-d-otages-4471.html
+    review: >-
+      First short stories by Sikorski and Lapière. They are still a little clumsy and graphically not
+      very attractive to me. But they are not bad, however they are dark!
+  - title: 41. À feu et à sang
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-41-A-feu-et-a-sang-4472.html
+    review: Better than the previous volume.
+  - title: 42. L'assassin des trois villes soeurs
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-42-L-assassin-des-trois-villes-soeurs-4473.html
+    review: A more mature story by Sikorski and Lapière.
+- id: tif-et-tondu-integrale-11-sortileges-et-manipulations
+  read_date: 2021-11
+  title: Tif et Tondu (Intégrale) - 11. Sortilèges et manipulations
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Integrale-Tome-11-Sortileges-et-manipulations-156866.html
+  reread: true
+  sub_items:
+  - title: 36. Magdalena
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-36-Magdalena-4467.html
+  - title: 37. Les phalanges de Jeanne d'Arc
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-37-Les-phalanges-de-Jeanne-d-Arc-4468.html
+    review: First part of the last story done by Will.
+  - title: 38. La tentation du bien
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-38-La-tentation-du-bien-4469.html
+    review: >-
+      Second part of the last story done by Will. Even the last drawing shows that Will was done with
+      Tif et Tondu. However, this dark story is pretty good.
+  - title: 39. Coups durs
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-39-Coups-durs-4470.html
+    review: short story "La cible"
+- id: tif-et-tondu-integrale-10-le-retour-de-choc
+  read_date: 2021-11
+  title: Tif et Tondu (Intégrale) - 10. Le Retour de Choc
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Integrale-Tome-10-Le-Retour-de-Choc-138308.html
+  reread: true
+  sub_items:
+  - title: 32. Traitement de Choc
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-32-Traitement-de-Choc-4463.html
+  - title: 33. Choc 235
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-33-Choc-235-4464.html
+  - title: 35. Dans les griffes de la Main Blanche
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-35-Dans-les-griffes-de-la-Main-Blanche-4466.html
+  - title: 39. Coups durs
+    bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-39-Coups-durs-4470.html
+    review: short story "Corps sur table"
+- id: mademoiselle-j-1938
+  read_date: 2021-10
+  title: Mademoiselle J., 1938
+  language: French
+  writers:
+  - Yves Sentes
+  artists:
+  - Laurent Verron
+  colors:
+  - Laurent Verron
+  bedetheque_url: https://www.bedetheque.com/BD-Mademoiselle-J-Tome-2-Je-ne-me-marierai-jamais-1938-404383.html
+  rating: 5
+- id: dragonero-cacciatori-di-kraken
+  read_date: '2021-10-12'
+  title: Dragonero - Cacciatori di Kraken
+  year: 2020
+  language: Italian
+  writers:
+  - Vietti Stefano
+  artists:
+  - Rizzato Francesco
+  url: https://shop.sergiobonelli.it/dragonero/2020/08/26/libro/dragonero-cacciatori-di-kraken-1008597/
+- id: dragonero-la-principessa-delle-sabbie
+  read_date: '2021-10-05'
+  title: Dragonero - La principessa delle sabbie
+  year: 2020
+  language: Italian
+  writers:
+  - Enoch Luca
+  artists:
+  - Bignamini Alessandro
+  url: >-
+    https://shop.sergiobonelli.it/dragonero/2020/03/06/libro/dragonero-la-principessa-delle-sabbie-1007813/
+  review: I really liked the drawings in this album.
+- id: tif-et-tondu-18-le-roc-maudit
+  read_date: '2021-08-23'
+  title: Tif et Tondu - 18. Le roc maudit
+  year: 1972
+  language: French
+  artists:
+  - Will
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-18-Le-roc-maudit-4453.html
+  reread: true
+  review: |-
+    Tillieux: Scénario
+
+    Good detective story with an uneasy atmosphere at a lighthouse.
+- id: tif-et-tondu-17-tif-et-tondu-contre-le-cobra
+  read_date: '2021-08-22'
+  title: Tif et Tondu - 17. Tif et Tondu contre le Cobra
+  year: 1971
+  language: French
+  artists:
+  - Will
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-17-Tif-et-Tondu-contre-le-Cobra-4452.html
+  reread: true
+  review: |-
+    Tillieux: Scénario
+
+    First appearance of Kiki, the Comtesse d'Yeu. Nice setup involving a movie studio and special effects to make people think she is going crazy. Kiki ends up very rich.
+- id: tif-et-tondu-16-l-ombre-sans-corps
+  read_date: '2021-08-21'
+  title: Tif et Tondu - 16. L'ombre sans corps
+  year: 1970
+  language: French
+  artists:
+  - Will
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-16-L-ombre-sans-corps-4451.html
+  reread: true
+  review: |-
+    Tillieux: Scénario
+
+    Good story, although the invisibility bit is even less plausible than a brain transplant.
+- id: tif-et-tondu-6-passez-muscade
+  read_date: '2021-08-20'
+  title: Tif et Tondu - 6. Passez muscade
+  year: 1958
+  language: French
+  artists:
+  - Will
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-6-Passez-muscade-36495.html
+  reread: true
+  review: 'Rosy: Scénario'
+- id: tif-et-tondu-5-le-retour-de-choc
+  read_date: '2021-08-18'
+  title: Tif et Tondu - 5. Le retour de Choc
+  year: 1957
+  language: French
+  artists:
+  - Will
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-5-Le-retour-de-Choc-85917.html
+  reread: true
+  review: 'Rosy: Scénario'
+- id: tif-et-tondu-4-la-main-blanche
+  read_date: '2021-08-17'
+  title: Tif et Tondu - 4. La main blanche
+  year: 1956
+  language: French
+  artists:
+  - Will
+  bedetheque_url: https://www.bedetheque.com/BD-Tif-et-Tondu-Tome-4-Tif-et-Tondu-contre-la-main-blanche-15698.html
+  reread: true
+  review: |-
+    Rosy: Scénario
+
+    The first appearance of Choc. Drawings still a little clumsy. A lot of action all over the place.
+- id: dragonero-nato-dalle-fiamme
+  read_date: '2021-08-11'
+  title: Dragonero - Nato dalle fiamme
+  language: Italian
+  writers:
+  - Luca Enoch
+  artists:
+  - Alfio Buscaglia
+  url: https://shop.sergiobonelli.it/libri/2019/08/29/libro/dragonero-nato-dalle-fiamme-1005132/
+- id: topolino-e-l-impero-sottozero
+  read_date: '2021-08-06'
+  title: Topolino e l'Impero Sottozero
+  year: 2015
+  language: Italian
+  authors:
+  - Casty
+  url: https://disney-comics.fandom.com/it/wiki/Topolino_e_l%27impero_sottozero
+- id: donjon-zenith-8-en-sa-memoire
+  read_date: '2021-08-01'
+  title: Donjon Zénith - 8. En sa mémoire
+  year: 2020
+  language: French
+  writers:
+  - Lewis Trondheim
+  artists:
+  - Boulet
+  bedetheque_url: https://www.bedetheque.com/BD-Donjon-Zenith-Tome-8-En-sa-memoire-405140.html
+- id: donjon-zenith-7-hors-des-remparts
+  read_date: '2021-07-30'
+  title: Donjon Zénith - 7. Hors des remparts
+  year: 2020
+  language: French
+  writers:
+  - Lewis Trondheim
+  artists:
+  - Boulet
+  bedetheque_url: https://www.bedetheque.com/BD-Donjon-Zenith-Tome-7-Hors-des-remparts-381458.html
+  reread: true
+  review: Re-reading before reading volume 8.
+- id: ralph-azham-6-l-ennemi-de-mon-ennemi
+  read_date: '2021-07-29'
+  title: Ralph Azham - 6. L'ennemi de mon ennemi
+  year: 2014
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-6-L-ennemi-de-mon-ennemi-208631.html
+- id: ralph-azham-5-le-pays-des-demons-bleus
+  read_date: '2021-07-28'
+  title: Ralph Azham - 5. Le pays des démons bleus
+  year: 2013
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-5-Le-pays-des-demons-bleus-189943.html
+- id: ralph-azham-4-un-caillou-enterre-n-apprend-jamais-rien
+  read_date: '2021-07-27'
+  title: Ralph Azham - 4. Un caillou enterré n'apprend jamais rien
+  year: 2012
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Ralph-Azham-Tome-4-Un-caillou-enterre-n-apprend-jamais-rien-173204.html
+  reread: true
+  review: Re-reading before reading volume 5.
+- id: ralph-azham-3-noires-sont-les-etoiles
+  read_date: '2021-07-26'
+  title: Ralph Azham - 3. Noires sont les étoiles
+  year: 2012
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html
+  reread: true
+- id: les-mondes-de-thorgal-la-jeunesse-tome-5-slive
+  read_date: '2021-07-25'
+  title: Les mondes de Thorgal - La jeunesse, Tome 5. Slive
+  year: 2017
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-5-Slive-312951.html
+- id: les-mondes-de-thorgal-la-jeunesse-tome-4-berserkers
+  read_date: '2021-07-24'
+  title: Les mondes de Thorgal - La jeunesse, Tome 4. Berserkers
+  year: 2016
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-4-Berserkers-276397.html
+- id: achille-talon-19-achille-talon-et-le-grain-de-la-folie
+  read_date: '2021-07-16'
+  title: Achille Talon - 19. Achille Talon et le grain de la folie
+  year: 1978
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-19-Achille-Talon-et-le-grain-de-la-folie-21.html
+  reread: true
+- id: achille-talon-18-achille-talon-et-le-coquin-de-sort
+  read_date: '2021-07-19'
+  title: Achille Talon - 18. Achille Talon et le coquin de sort
+  year: 1977
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-18-Achille-Talon-et-le-coquin-de-sort-20.html
+  reread: true
+- id: achille-talon-17-le-roi-des-zotres
+  read_date: '2021-07-18'
+  title: Achille Talon - 17. Le roi des Zôtres
+  year: 1977
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-17-Le-roi-des-Zotres-19.html
+  reread: true
+- id: achille-talon-16-achille-talon-et-le-tresor-de-virgule
+  read_date: '2021-07-16'
+  title: Achille Talon - 16. Achille Talon et le trésor de Virgule
+  year: 1977
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-16-Achille-Talon-et-le-tresor-de-Virgule-18.html
+  reread: true
+- id: achille-talon-15-achille-talon-et-le-quadrumane-optimiste
+  read_date: '2021-07-14'
+  title: Achille Talon - 15. Achille Talon et le quadrumane optimiste
+  year: 1976
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-15-Achille-Talon-et-le-quadrumane-optimiste-17.html
+  reread: true
+- id: achille-talon-14-achille-talon-et-le-mystere-de-l-homme-a-deux-tetes
+  read_date: '2021-07-13'
+  title: Achille Talon - 14. Achille Talon et le mystère de l'homme à deux têtes
+  year: 1976
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Achille-Talon-Tome-14-Achille-Talon-et-le-mystere-de-l-homme-a-deux-tetes-16.html
+  reread: true
+- id: achille-talon-13-pas-de-pitie-pour-achille-talon
+  read_date: '2021-07-12'
+  title: Achille Talon - 13. Pas de pitié pour Achille Talon
+  year: 1976
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-13-Pas-de-pitie-pour-Achille-Talon-15.html
+  reread: true
+- id: achille-talon-12-achille-talon-au-coin-du-feu
+  read_date: '2021-07-11'
+  title: Achille Talon - 12. Achille Talon au coin du feu...
+  year: 1975
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-12-Achille-Talon-au-coin-du-feu-14.html
+  reread: true
+- id: achille-talon-11-brave-et-honnete-achille-talon
+  read_date: '2021-07-10'
+  title: Achille Talon - 11. Brave et honnête Achille Talon
+  year: 1975
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-11-Brave-et-honnete-Achille-Talon-13.html
+  reread: true
+- id: achille-talon-10-le-roi-de-la-science-diction
+  read_date: '2021-07-04'
+  title: Achille Talon - 10. Le roi de la science-diction
+  year: 1974
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-10-Le-roi-de-la-science-diction-12.html
+  reread: true
+- id: achille-talon-9-les-petits-desseins-d-achille-talon
+  read_date: '2021-07-03'
+  title: Achille Talon - 9. Les petits desseins d'Achille Talon
+  year: 1974
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-9-Les-petits-desseins-d-Achille-Talon-11.html
+  reread: true
+- id: achille-talon-8-achille-talon-meprise-l-obstacle
+  read_date: '2021-07-02'
+  title: Achille Talon - 8. Achille Talon méprise l'obstacle
+  year: 1973
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-8-Achille-Talon-meprise-l-obstacle-30307.html
+  reread: true
+- id: achille-talon-7-les-insolences-d-achille-talon
+  read_date: '2021-07-01'
+  title: Achille Talon - 7. Les insolences d'Achille Talon
+  year: 1973
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-7-Les-insolences-d-Achille-Talon-9.html
+  reread: true
+- id: achille-talon-6-achille-talon-au-pouvoir
+  read_date: '2021-06-30'
+  title: Achille Talon - 6. Achille Talon au pouvoir
+  year: 1972
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-6-Achille-Talon-au-pouvoir-83235.html
+  reread: true
+- id: achille-talon-5-l-indispensable-achille-talon
+  read_date: '2021-06-29'
+  title: Achille Talon - 5. L'indispensable Achille Talon
+  year: 1971
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-5-L-indispensable-Achille-Talon-29350.html
+  reread: true
+- id: achille-talon-4-achille-talon-mon-fils-a-moi
+  read_date: '2021-06-28'
+  title: Achille Talon - 4. Achille Talon... mon fils à moi !
+  year: 1970
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-4-Achille-Talon-mon-fils-a-moi-6.html
+  reread: true
+- id: achille-talon-3-achille-talon-persiste-et-signe
+  read_date: '2021-06-27'
+  title: Achille Talon - 3. Achille Talon persiste et signe !
+  year: 1969
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-3-Achille-Talon-persiste-et-signe-5.html
+  reread: true
+- id: achille-talon-2-achille-talon-aggrave-son-cas
+  read_date: '2021-06-26'
+  title: Achille Talon - 2. Achille Talon aggrave son cas !
+  year: 1967
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-2-Achille-Talon-aggrave-son-cas-4.html
+  reread: true
+- id: achille-talon-1-les-idees-d-achille-talon-cerveau-choc
+  read_date: '2021-06-25'
+  title: Achille Talon - 1. Les idées d'Achille Talon cerveau-choc !
+  year: 1966
+  bedetheque_url: https://www.bedetheque.com/BD-Achille-Talon-Tome-1-Les-idees-d-Achille-Talon-cerveau-choc-3.html
+  reread: true
+- id: la-quete-de-l-oiseau-du-temps
+  read_date: 2021-06
+  title: La quête de l'oiseau du temps
+  year: 1983-1987
+  bedetheque_url: https://www.bedetheque.com/serie-5-BD-Quete-de-l-oiseau-du-temps.html
+  reread: true
+  review: |-
+    Tomes 1-4: Premier cycle, qui constitue la série originale.
+
+    Tome 5: Début d'un second cycle qui comporte 6 volumes au 2021-06-23. Nous n'avons pas, semble-t-il, le reste. Le tome 5 a été ensuite renuméroté tome 1 d'"Avant la quête".
+- id: olympus-mons-3-hangar-754
+  read_date: '2021-06-15'
+  title: Olympus Mons - 3. Hangar 754
+  year: 2018
+  language: French
+  writers:
+  - Christophe Bec
+  artists:
+  - Stefano Raffaele
+  bedetheque_url: https://www.bedetheque.com/BD-Olympus-Mons-Tome-3-Hangar-754-318688.html
+- id: olympus-mons-2-operation-mainbrace
+  read_date: '2021-06-11'
+  title: Olympus Mons - 2. Opération Mainbrace
+  year: 2017
+  language: French
+  writers:
+  - Christophe Bec
+  artists:
+  - Stefano Raffaele
+  bedetheque_url: https://www.bedetheque.com/BD-Olympus-Mons-Tome-2-Operation-Mainbrace-309885.html
+- id: olympus-mons-1-anomalie-1
+  read_date: '2021-06-11'
+  title: Olympus Mons - 1. Anomalie 1
+  year: 2017
+  language: French
+  writers:
+  - Christophe Bec
+  artists:
+  - Stefano Raffaele
+  bedetheque_url: https://www.bedetheque.com/BD-Olympus-Mons-Tome-1-Anomalie-un-294405.html
+  rating: 4
+  reread: true
+- id: le-retour-a-la-terre-6-les-metamorphoses
+  read_date: 2021-06
+  title: Le retour à la terre - 6. Les métamorphoses
+  year: 2019
+  writers:
+  - Jean-Yves Ferri
+  artists:
+  - Manu Larcenet
+  reread: true
+- id: le-combat-ordinaire-4-planter-des-clous
+  read_date: 2021-06
+  title: Le combat ordinaire - 4. Planter des clous
+  year: 2008
+  authors:
+  - Manu Larcenet
+  reread: true
+- id: le-cycle-de-cyann
+  read_date: 2021-06
+  title: Le cycle de Cyann
+  writers:
+  - Claude Lacroix
+  artists:
+  - François Bourgeon
+  bedetheque_url: https://www.bedetheque.com/serie-37-BD-Cycle-de-Cyann.html
+  reread: true
+- id: lefranc-tome-28-le-principe-d-heisenberg
+  read_date: 2021-05
+  title: Lefranc - Tome 28. Le principe d'Heisenberg
+  year: 2017
+  writers:
+  - François Corteggiani
+  artists:
+  - Christophe Alvès
+  bedetheque_url: https://www.bedetheque.com/BD-Lefranc-Tome-28-Le-Principe-d-Heisenberg-315474.html
+  reread: true
+- id: thorgal-38-la-selkie
+  read_date: 2021-05
+  title: Thorgal - 38. La Selkie
+  year: 2020
+  language: French
+  writers:
+  - Yann
+  artists:
+  - Fred Vignaux
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-38-La-Selkie-405264.html
+  reread: true
+- id: les-mondes-de-thorgal-la-jeunesse-tome-3-runa
+  read_date: 2021-05
+  title: Les mondes de Thorgal - La jeunesse, Tome 3. Runa
+  year: 2015
+  writers:
+  - Yann
+  artists:
+  - Roman Surzhenko
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-3-Runa-241654.html
+  reread: true
+- id: les-mondes-de-thorgal-la-jeunesse-tome-2-l-oeil-d-odin
+  read_date: 2021-05
+  title: Les mondes de Thorgal - La jeunesse, Tome 2. L'œil d'Odin
+  year: 2014
+  writers:
+  - Yann
+  artists:
+  - Roman Surzhenko
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-2-L-oeil-d-Odin-206812.html
+  reread: true
+- id: 2021-05-thorgal-tome-37-l-ermite-de-skellingar-https-www-bedetheque-com
+  title: >-
+    2021-05 [Thorgal, Tome 37. L'Ermite de Skellingar](https://www.bedetheque.com/BD-Thorgal-Tome-37-L-Ermite-de-Skellingar-375436.html)
+  year: 2019
+  writers:
+  - Yann
+  artists:
+  - Fred Vignaux
+  reread: true
+- id: blake-et-mortimer-25-la-vallee-des-immortels-menace-sur-hong-kong
+  read_date: 2021-05
+  title: Blake et Mortimer - 25. La vallée des immortels - Menace sur Hong Kong
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-aventures-de-Tome-25-348626.html
+  reread: true
+- id: blake-et-mortimer-24-le-testament-de-william-s
+  read_date: '2021-04-26'
+  title: Blake et Mortimer - 24. Le Testament de William S.
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-24-Le-Testament-de-William-S-293206.html
+  reread: true
+  review: >-
+    About the discovery in Venice of a manuscript explaining that Shakespeare consisted, in fact, of two
+    people.
+- id: blake-et-mortimer-21-le-serment-des-cinq-lords
+  read_date: '2021-04-23'
+  title: Blake et Mortimer - 21. Le serment des cinq lords
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-21-Le-Serment-des-cinq-lords-170145.html
+  reread: true
+  review: I like this story. It's maybe a little slow, but it holds together fairly well.
+- id: blake-et-mortimer-23-le-baton-de-plutarque
+  read_date: '2021-04-20'
+  title: Blake et Mortimer - 23. Le bâton de Plutarque
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-23-Le-Baton-de-Plutarque-226934.html
+  reread: true
+- id: il-s-appelait-ptirou
+  read_date: 2021-03
+  title: Il s'appelait Ptirou
+  language: French
+  writers:
+  - Yves Sentes
+  artists:
+  - Laurent Verron
+  colors:
+  - Laurent Verron
+  bedetheque_url: https://www.bedetheque.com/BD-Mademoiselle-J-Tome-1-Il-s-appelait-Ptirou-311092.html
+  rating: 5
+- id: blake-et-mortimer-27-le-cri-du-moloch
+  read_date: 2021-03
+  title: Blake et Mortimer - 27. Le cri du Moloch
+  year: 2020
+  language: French
+  writers:
+  - Jean Dufaux
+  artists:
+  - Christian Cailleaux
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-Aventures-de-Tome-27-Le-cri-du-Moloch-405221.html
+  rating: 2
+  review: |-
+    "L'Onde Septimus" part 2.
+
+    - Unfortunately, the whole "L'Onde Septimus" arc is not very convincing.
+    - I don't particularly like the original idea of reviving the Marque Jaune. It was a wonderful invention and one of the most gripping Blake and Mortimer stories. But building on that doesn't work so well for me.
+    - The idea of spaceships buried under London, why not.
+    - The drawings were better in Tome 22. Yes, it's hard to draw Blake (see Bob de Moor), but Mortimer too looks weird more often than not.
+- id: blake-et-mortimer-22-l-onde-septimus
+  read_date: 2021-03
+  title: Blake et Mortimer - 22. L'Onde Septimus
+  year: 2013
+  language: French
+  writers:
+  - Jean Dufaux
+  artists:
+  - Antoine Aubin
+  bedetheque_url: https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-22-L-Onde-Septimus-197200.html
+  rating: 2
+  reread: true
+- id: sillage-20-mise-a-jour
+  read_date: 2021-03
+  title: Sillage - 20. Mise à jour
+  year: 2019
+  writers:
+  - Jean David Morvan
+  artists:
+  - Philippe Buchet
+  colors:
+  - Philippe Buchet
+  bedetheque_url: https://www.bedetheque.com/BD-Sillage-Tome-20-Mise-a-jour-377557.html
+  review: 'Rating: TODO'
+- id: sillage-19-temps-mort
+  read_date: 2021-03
+  title: Sillage - 19. Temps mort
+  year: 2016
+  writers:
+  - Jean David Morvan
+  artists:
+  - Philippe Buchet
+  colors:
+  - Philippe Buchet
+  bedetheque_url: https://www.bedetheque.com/BD-Sillage-Tome-19-Temps-mort-287061.html
+  rating: 4
+  reread: true
+- id: les-fils-d-el-topo-tome-02-abel
+  read_date: 2021-03
+  title: 'Les Fils d''El Topo - Tome 02: Abel'
+  year: 2019
+  writers:
+  - Alexandro Jodorowsky
+  artists:
+  - José Ladronn
+  url: https://www.amazon.fr/Fils-dEl-Topo-02-Abel/dp/2344005927/
+- id: les-fils-d-el-topo-tome-01-cain
+  read_date: 2021-03
+  title: 'Les Fils d''El Topo - Tome 01: Caïn'
+  year: 2016
+  writers:
+  - Alexandro Jodorowsky
+  artists:
+  - José Ladronn
+  url: https://www.amazon.fr/Fils-dEl-Topo-01-Caïn/dp/2344004483/
+  reread: true
+- id: meta-baron-tome-4-simak-le-transhumain
+  read_date: '2021-03-12'
+  title: Meta-Baron - Tome 4 - Simak le Transhumain
+  year: 2017
+  writers:
+  - Jerry Frissen
+  artists:
+  - Niko Henrichon
+  colors:
+  - Niko Henrichon
+  adapted_from: Alexandro Jodorowsky
+  bedetheque_url: https://www.bedetheque.com/BD-Meta-Baron-Tome-4-Simak-le-Transhumain-298307.html
+  reread: true
+- id: meta-baron-tome-3-orne-8-le-techno-cardinal
+  read_date: '2021-03-11'
+  title: Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal
+  year: 2016
+  writers:
+  - Jerry Frissen
+  artists:
+  - Niko Henrichon
+  colors:
+  - Niko Henrichon
+  adapted_from: Alexandro Jodorowsky
+  bedetheque_url: https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html
+  reread: true
+- id: 6-sans-nom-le-techno-baron
+  read_date: 2021-03
+  title: 6. Sans-Nom le Techno-Baron
+  year: 2018
+  writers:
+  - Jerry Frissen
+  artists:
+  - Valentin Sécher
+  colors:
+  - Valentin Sécher
+  bedetheque_url: https://www.bedetheque.com/BD-Meta-Baron-Tome-6-Sans-Nom-le-Techno-Baron-340731.html
+- id: 5-rina-la-meta-gardienne
+  read_date: 2021-03
+  title: 5. Rina la Méta-Gardienne
+  year: 2017
+  writers:
+  - Jerry Frissen
+  artists:
+  - Valentin Sécher
+  colors:
+  - Valentin Sécher
+  bedetheque_url: https://www.bedetheque.com/BD-Meta-Baron-Tome-5-Rina-la-Meta-Gardienne-312626.html
+- id: les-naufrages-d-ythaq-17-la-grotte-des-faces
+  read_date: 2021-02
+  title: Les naufragés d'Ythaq - 17. La Grotte des faces
+  year: 2020
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-17-La-Grotte-des-faces-408928.html
+- id: les-naufrages-d-ythaq-16-les-assieges-de-glebe
+  read_date: 2021-02
+  title: Les naufragés d'Ythaq - 16. Les Assiégés de Glèbe
+  year: 2019
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-16-Les-Assieges-de-Glebe-374327.html
+  reread: true
+- id: thorgal-38-la-selkie-2
+  read_date: 2021-02
+  title: Thorgal - 38. La Selkie
+  year: 2020
+  language: French
+  writers:
+  - Yann
+  artists:
+  - Fred Vignaux
+  bedetheque_url: https://www.bedetheque.com/BD-Thorgal-Tome-38-La-Selkie-405264.html
+- id: yoko-tsuno-l-integrale-tome-8-menaces-pour-la-terre
+  read_date: 2021-02
+  title: 'Yoko Tsuno l''intégrale, tome 8: Menaces pour la Terre'
+  year: 2009 (intégrale)
+  bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Integrale-Tome-8-Menaces-pour-la-terre-99045.html
+  sub_items:
+  - title: Message pour l'éternité
+    bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-5-Message-pour-l-eternite-22227.html
+    reread: true
+    year: 1975
+    rating: 5
+  - title: Le canon de Kra
+    bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-15-Le-canon-de-Kra-1026.html
+    reread: true
+    year: 1985
+    rating: 5
+  - title: Le septième code
+    bedetheque_url: https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-24-Le-septieme-code-50621.html
+    reread: true
+    year: 2005
+    review: 'Rating: x/5'
+- id: retour-sur-aldebaran-episode-3
+  read_date: 2021-02
+  title: Retour sur Aldébaran - Episode 3
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-3-Episode-3-402397.html
+- id: retour-sur-aldebaran-episode-2
+  read_date: 2021-02
+  title: Retour sur Aldébaran - Episode 2
+  language: French
+  bedetheque_url: https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-2-Episode-2-366478.html
+  reread: true
+- id: largo-winch-22-les-voiles-ecarlates
+  read_date: 2021-02
+  title: Largo Winch - 22. Les Voiles écarlates
+  year: 2019
+  bedetheque_url: https://www.bedetheque.com/BD-Largo-Winch-Tome-22-Les-Voiles-ecarlates-378097.html
+  reread: true
+- id: largo-winch-21-l-etoile-du-matin
+  read_date: 2021-02
+  title: Largo Winch - 21. L'étoile du matin
+  year: 2017
+  bedetheque_url: https://www.bedetheque.com/BD-Largo-Winch-Tome-21-L-etoile-du-matin-312659.html
+  reread: true
+- id: donjon-zenith-7-hors-des-remparts-2
+  read_date: 2021-02
+  title: Donjon Zénith - 7. Hors des remparts
+  year: 2020
+  language: French
+  writers:
+  - Lewis Trondheim
+  artists:
+  - Boulet
+  bedetheque_url: https://www.bedetheque.com/BD-Donjon-Zenith-Tome-7-Hors-des-remparts-381458.html
+- id: mermaid-project-episode-5
+  read_date: 2021-02
+  title: Mermaid Project - Episode 5
+  year: 2017
+  language: French
+  writers:
+  - Léo
+  - Corine Jamar
+  artists:
+  - Fred Simon
+  bedetheque_url: https://www.bedetheque.com/BD-Mermaid-Project-Tome-5-Episode-5-298111.html
+- id: mermaid-project-episode-4
+  read_date: '2021-02-20'
+  title: Mermaid Project - Episode 4
+  year: 2015
+  language: French
+  writers:
+  - Léo
+  - Corine Jamar
+  artists:
+  - Fred Simon
+  bedetheque_url: https://www.bedetheque.com/BD-Mermaid-Project-Tome-4-Episode-4-251489.html
+  reread: true
+- id: namibia-1-episode-1
+  read_date: '2021-02-20'
+  title: Namibia - 1. Épisode 1
+  language: French
+  writers:
+  - Leo
+  - Rodolphe
+  artists:
+  - Bertrand Marchal
+  bedetheque_url: https://www.bedetheque.com/BD-Namibia-Kenya-Saison-2-Tome-1-Episode-1-105592.html
+- id: ralph-azham-4-un-caillou-enterre-n-apprend-jamais-rien-2
+  read_date: '2021-02-19'
+  title: Ralph Azham - 4. Un caillou enterré n'apprend jamais rien
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: >-
+    https://www.bedetheque.com/BD-Ralph-Azham-Tome-4-Un-caillou-enterre-n-apprend-jamais-rien-173204.html
+  review: I really like this series. The humor is great.
+- id: ralph-azham-3-noires-sont-les-etoiles-2
+  read_date: '2021-02-18'
+  title: Ralph Azham - 3. Noires sont les étoiles
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html
+  reread: true
+- id: ralph-azham-2-la-mort-au-debut-du-chemin
+  read_date: '2021-02-16'
+  title: Ralph Azham - 2. La mort au début du chemin
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html
+  reread: true
+- id: ralph-azham-1-est-ce-qu-on-ment-aux-gens-qu-on-aime
+  read_date: '2021-02-16'
+  title: Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?
+  language: French
+  authors:
+  - Lewis Trondheim
+  bedetheque_url: https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html
+  reread: true
+- id: donjon-antipodes-10000-l-armee-du-crane
+  read_date: '2021-02-15'
+  title: Donjon Antipodes -10000. L'Armée du Crâne
+  year: 2020
+  language: French
+  writers:
+  - Joann Sfar
+  - Lewis Trondheim
+  artists:
+  - Grégory Panaccione
+  bedetheque_url: https://www.bedetheque.com/BD-Donjon-Antipodes-Tome-10000-L-Armee-du-Crane-382307.html
+  review: |-
+    - This is a fun story involving orcs, elves, and dogs.
+    - There is sensitivity and feelings under the surface.
+- id: prince-valiant-vol-20-1975-1976
+  read_date: 2021-01-xx
+  title: 'Prince Valiant - Vol. 20: 1975-1976'
+  language: English
+- id: prince-valiant-vol-19-1973-1974
+  read_date: 2021-01-xx
+  title: 'Prince Valiant - Vol. 19: 1973-1974'
+  language: English
+- id: jhen-tome-17-le-proces-de-gilles-de-rais
+  read_date: 2021-01-xx
+  title: 'Jhen, Tome 17: Le procès de Gilles de Rais'
+  year: 2019
+  writers:
+  - Néjib
+  artists:
+  - Jean Pleyers
+  bedetheque_url: https://www.bedetheque.com/BD-Jhen-Tome-17-Le-proces-de-Gilles-de-Rais-362624.html
+  review: |-
+    - This is the black and white edition. I detect some scanning or printing artifacts. It would be interesting to see an original page for comparison.
+    - The art is very detailed, no doubt, especially the décors. But I am not convinced about the appearance and consistency of the characters' faces, in particular their mouths.
+    - I am not sure what I think about the story. Gilles is finally gone. He was a curious character, for sure.
+- id: the-don-rosa-library-vol-7
+  read_date: 2021-01-xx
+  title: The Don Rosa Library Vol. 7
+  language: English
+  authors:
+  - Keno Don Rosa
+- id: spirou-et-fantasio-integrale-8
+  read_date: 2021-01-xx
+  title: Spirou et Fantasio - Intégrale 8
+  language: French
+  reread: true
+  sub_items:
+  - title: Tome 18. QRN sur Bretzelburg
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-18-QRN-sur-Bretzelburg-18744.html
+  - title: Tome 19. Panade à Champignac
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-19-Panade-a-Champignac-18745.html
+- id: spirou-et-fantasio-integrale-6
+  read_date: 2021-01
+  title: Spirou et Fantasio - Intégrale 6
+  language: French
+  reread: true
+  sub_items:
+  - title: Tome 14. Le prisonnier du Bouddha
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-14-Le-prisonnier-du-Bouddha-18741.html
+  - title: Tome 17. Spirou et les hommes-bulles
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-17-Spirou-et-les-hommes-bulles-18743.html
+  - title: Tome 24. Tembo Tabou
+    bedetheque_url: https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-24-Tembo-Tabou-2778.html
