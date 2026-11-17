@@ -105,6 +105,16 @@ def save_year_yaml(year, path, payload)
   yaml_str = YAML.dump(payload, line_width: 100).sub(/\A---\s*\n/, '')
   header = year == 'favorites' ? '# Favorite comic books showcased on /pages/comic-books/' : "# Comic book reads for #{year}"
   File.write(path, "#{header}\n#{yaml_str}")
+  touch_dependent_pages(year)
+end
+
+def touch_dependent_pages(year)
+  targets = [
+    File.join(ROOT, 'pages', 'comic-books.md'),
+    File.join(ROOT, 'index.html')
+  ]
+  targets << File.join(ROOT, 'pages', "comic-books-#{year}.md") if year.to_s.match?(/\A\d{4}\z/)
+  targets.each { |p| FileUtils.touch(p) if File.exist?(p) }
 end
 
 def find_entry_across_years(entry_id)

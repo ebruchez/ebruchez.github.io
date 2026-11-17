@@ -26,3 +26,7 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # https://github.com/jekyll/jekyll/issues/8523
 gem "webrick"
+
+gem "csv"
+gem "base64"
+gem "bigdecimal"

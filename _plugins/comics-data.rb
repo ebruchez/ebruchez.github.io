@@ -285,8 +285,49 @@ module BruchezComicsData
     end
     site.data['comics_home_covers'] = home_covers
   end
+
+  # Register _data/comics/*.yml, _data/comics_favorites.yml, and cover assets with
+  # Jekyll::Regenerator so `jekyll serve --incremental` rebuilds comic & home pages
+  # automatically whenever YAML entries or cover files change.
+  def register_incremental_dependencies(site)
+    regen = site.respond_to?(:regenerator) ? site.regenerator : nil
+    return if regen.nil? || regen.disabled?
+
+    data_deps = Dir.glob(site.in_source_dir('_data/comics/*.yml'))
+    fav_yml = site.in_source_dir('_data/comics_favorites.yml')
+    data_deps << fav_yml if File.exist?(fav_yml)
+
+    site.pages.each do |page|
+      layout = page.data['layout'].to_s
+      next unless layout == 'comics' || layout == 'home'
+
+      page_path = site.in_source_dir(page.relative_path)
+      data_deps.each { |dep| regen.add_dependency(page_path, dep) }
+
+      entries = if (yr = page.data['comics_year']&.to_s) && site.data.dig('comics', yr).is_a?(Array)
+                  site.data['comics'][yr]
+                elsif layout == 'comics'
+                  favs = site.data['comics_favorites']
+                  fav_list = favs.is_a?(Hash) ? Array(favs['individual_works']) + Array(favs['classics']) : []
+                  Array(site.data['comics_latest_featured']) + fav_list
+                else
+                  Array(site.data['comics_latest_featured']) + Array(site.data['comics_home_covers'])
+                end
+      entries.each do |entry|
+        next unless entry['cover_url']
+
+        cov_abs = site.in_source_dir(entry['cover_url'].delete_prefix('/'))
+        regen.add_dependency(page_path, cov_abs) if File.exist?(cov_abs)
+      end
+    end
+  end
 end
 
 Jekyll::Hooks.register :site, :pre_render do |site|
   BruchezComicsData.enrich_all(site)
+  BruchezComicsData.register_incremental_dependencies(site)
+end
+
+Jekyll::Hooks.register :site, :post_render do |site|
+  BruchezComicsData.register_incremental_dependencies(site)
 end
