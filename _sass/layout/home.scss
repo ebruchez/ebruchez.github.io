@@ -544,6 +544,60 @@
         }
       }
     }
+
+    /* Full-width Comic Books banner shelf */
+    &.series-tile--comics {
+      .tile-image-wrapper {
+        display: flex;
+        flex-direction: column;
+
+        .tile-comics-shelf {
+          flex: 1 1 auto;
+          display: grid;
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          align-items: end;
+          gap: 0.55rem;
+          inline-size: 100%;
+          max-inline-size: 290px;
+          margin-inline: auto;
+          padding: 0.95rem 0.9rem 0.8rem;
+          text-decoration: none;
+
+          &:focus-visible {
+            outline: 2px solid var(--link-color);
+            outline-offset: -2px;
+          }
+
+          img {
+            inline-size: 100%;
+            block-size: auto;
+            height: auto;
+            object-fit: contain;
+            border-radius: 4px;
+            border: 1px solid var(--card-border-color, var(--main-border-color));
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.16);
+          }
+
+          @media (prefers-reduced-motion: no-preference) {
+            img {
+              transition: transform 0.22s ease, box-shadow 0.22s ease;
+            }
+
+            &:hover img {
+              transform: translateY(-2px);
+              box-shadow: 0 5px 12px rgba(0, 0, 0, 0.22);
+            }
+          }
+        }
+      }
+
+      @container home-tiles (min-width: 540px) {
+        .tile-image-wrapper .tile-comics-shelf {
+          align-content: center;
+          max-inline-size: none;
+        }
+      }
+    }
   }
 }
 

@@ -45,6 +45,13 @@
       </a>
     </li> <!-- .nav-item -->
     {% endfor %}
+    <!-- Comic Books -->
+    <li class="nav-item{% if page.layout == 'comics' %}{{ " active" }}{% endif %}">
+      <a href="{{ '/pages/comic-books/' | relative_url }}" class="nav-link">
+        <i class="fa-fw fas fa-book-open ml-xl-3 mr-xl-3 unloaded" aria-hidden="true"></i>
+        <span>COMIC BOOKS</span>
+      </a>
+    </li> <!-- .nav-item -->
     <!-- Mascagni.org -->
     <li class="nav-item">
       <a href="https://mascagni.org/" class="nav-link" target="_blank" rel="noopener">

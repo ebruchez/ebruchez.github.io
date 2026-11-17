@@ -30,22 +30,6 @@ I maintain the following "bucket lists" of things to acquire:
 
 - [Computer Collection: Vintage Computers](/pages/computer-collection/)
 
-## Lists of comic books I have read
-
-- [Comic Books](/pages/comic-books/)
-    - [2026](/pages/comic-books-2026/)
-    - [2025](/pages/comic-books-2025/)
-    - [2024](/pages/comic-books-2024/)
-    - [2023](/pages/comic-books-2023/)
-    - [2022](/pages/comic-books-2022/)
-    - [2021](/pages/comic-books-2021/)
-    - [2020](/pages/comic-books-2020/)
-    - [2019](/pages/comic-books-2019/)
-    - [2018](/pages/comic-books-2018/)
-    - [2017](/pages/comic-books-2017/)
-    - [2016](/pages/comic-books-2016/)
-    - [2015](/pages/comic-books-2015/)
-
 ## Other websites
 
 - [Mascagni.org](https://mascagni.org/) — My website dedicated to Italian composer Pietro Mascagni (1863–1945)

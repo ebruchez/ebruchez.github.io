@@ -68,6 +68,18 @@ module BruchezComicsData
     s
   end
 
+  def format_read_month(raw, fallback_year = nil)
+    s = raw.to_s.strip
+    if (m = s.match(/\A(\d{4})-(\d{2})/))
+      yr = m[1].to_i
+      mo = m[2].to_i
+      return "#{MONTH_ABBR[mo]} #{yr}" if mo.between?(1, 12)
+    elsif s.match?(/\A\d{4}\z/)
+      return s
+    end
+    fallback_year&.to_s
+  end
+
   def sortable_date_key(raw, fallback_year, reverse_idx)
     s = raw.to_s.strip
     norm = if (m = s.match(/\A(\d{4})-(\d{2})-(\d{2})\z/))
@@ -197,6 +209,7 @@ module BruchezComicsData
       entries.each_with_index do |entry, idx|
         enrich_item!(entry, converter, site.source)
         entry['year_log'] = yr
+        entry['read_month_display'] = format_read_month(entry['read_date'], yr)
         entry['deep_url'] = "/pages/comic-books-#{yr}/##{entry['id']}"
 
         # Collect candidates from the two most recent years for the Hub showcase
@@ -242,14 +255,35 @@ module BruchezComicsData
     site.data['comics_total_reviewed'] = total_reviewed
     site.data['comics_latest_featured'] = featured_sorted
 
+    fav_entries = []
     favs = site.data['comics_favorites']
     if favs.is_a?(Hash)
       %w[individual_works classics].each do |group_key|
         Array(favs[group_key]).each do |fav_entry|
           enrich_item!(fav_entry, converter, site.source)
+          fav_entries << fav_entry
         end
       end
     end
+
+    home_covers = []
+    seen_series = {}
+    cover_pool = featured_sorted + years_sorted.flat_map { |yr| Array(comics_hash[yr]) } + fav_entries
+    cover_pool.each do |entry|
+      break if home_covers.size >= 3
+      next unless entry['cover_url']
+
+      w = entry['cover_width'].to_f
+      h = entry['cover_height'].to_f
+      next if w.positive? && h.positive? && (h / w < 1.15)
+
+      series_key = entry['title'].to_s.split(/\s+[-–]\s+|\s*:/).first.to_s.strip.downcase
+      next if !series_key.empty? && seen_series[series_key]
+
+      seen_series[series_key] = true unless series_key.empty?
+      home_covers << entry
+    end
+    site.data['comics_home_covers'] = home_covers
   end
 end
 

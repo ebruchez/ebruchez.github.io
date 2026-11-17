@@ -1,7 +1,7 @@
 ---
 ---
 
-$tab-count: {{ site.tabs | size | plus: 2 }};
+$tab-count: {{ site.tabs | size | plus: 3 }};
 
 @import "jekyll-theme-chirpy";
 

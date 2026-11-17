@@ -326,6 +326,50 @@ layout: default
       </div>
     </div>
 
+    {% if site.data.comics_latest_featured and site.data.comics_latest_featured.size > 0 %}
+    <!-- Comic Books showcase (full-width row) -->
+    <article class="series-tile series-tile--wide series-tile--comics">
+      {% if site.data.comics_home_covers and site.data.comics_home_covers.size > 0 %}
+      <figure class="tile-image-wrapper">
+        <a href="{{ '/pages/comic-books/' | relative_url }}" class="tile-comics-shelf" aria-label="Comic Books: latest reads, reviews, and favorites">
+          {% for cov in site.data.comics_home_covers limit: 3 %}
+          <img
+            src="{{ cov.cover_url | relative_url }}"
+            alt=""
+            width="{{ cov.cover_width }}"
+            height="{{ cov.cover_height }}"
+            loading="lazy"
+            decoding="async"
+          >
+          {% endfor %}
+        </a>
+        <figcaption class="tile-caption">
+          Latest reads, reviews &amp; favorites
+        </figcaption>
+      </figure>
+      {% endif %}
+      <div class="tile-body">
+        <div class="tile-header-row">
+          <h2 class="tile-title">Comic Books</h2>
+          <a href="{{ '/pages/comic-books/' | relative_url }}" class="tile-all-link">
+            <i class="fas fa-book-open mr-1" aria-hidden="true"></i>Overview &amp; {{ site.data.comics_total_reads }} reads →
+          </a>
+        </div>
+        <ul class="tile-post-list" role="list">
+          {% for entry in site.data.comics_latest_featured limit: 6 %}
+          <li>
+            <i class="fas fa-book mr-2 text-muted" aria-hidden="true"></i>
+            <a href="{{ entry.deep_url | relative_url }}">{{ entry.title }}</a>
+            {% if entry.read_month_display %}
+            <span class="tile-post-date text-muted">{{ entry.read_month_display }}</span>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </article>
+    {% endif %}
+
   </div>
 </div>
 {% endif %}

@@ -43,7 +43,7 @@ Personal blog and collection site for Erik Bruchez (`https://blog.bruchez.name`)
 - **Pages**:
   - Hub page: `pages/comic-books.md` (`layout: comics` — renders Background, year pill bar, `Latest reads & quick reviews`, and Favorites).
   - Yearly pages: `pages/comic-books-YYYY.md` are thin frontmatter stubs (`layout: comics`, `comics_year: YYYY`). Add or edit comic entries in `_data/comics/YYYY.yml`, **not** in `pages/comic-books-YYYY.md`.
-  - When starting a new year (e.g. `2027`), create `_data/comics/2027.yml` and a matching `pages/comic-books-2027.md` frontmatter stub (and add the link in `_tabs/pages.md` if listed manually there); the year pill bar updates automatically from `_data/comics/*.yml`.
+  - When starting a new year (e.g. `2027`), create `_data/comics/2027.yml` and a matching `pages/comic-books-2027.md` frontmatter stub; the year pill bar updates automatically from `_data/comics/*.yml`.
   - Do **not** re-run `tools/migrate-comics-to-yaml.rb` (one-time migration tool) on years whose YAML files have been edited.
 
 ### YAML Entry Schema (`_data/comics/YYYY.yml`)
