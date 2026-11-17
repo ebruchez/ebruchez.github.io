@@ -21,7 +21,8 @@ figure {
 }
 
 dl {
-  background-color: #eee;
+  background-color: var(--tb-odd-bg);
+  border: 1px solid var(--main-border-color);
   padding: .5em 1em;
   border-radius: 1em;
 }

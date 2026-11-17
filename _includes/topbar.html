@@ -29,7 +29,9 @@
     </span><!-- endof #breadcrumb -->
     {% endif %}
 
-    <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
+    <button type="button" id="sidebar-trigger" class="topbar-icon-btn" aria-label="Toggle navigation menu" aria-expanded="false">
+      <i class="fas fa-bars fa-fw" aria-hidden="true"></i>
+    </button>
 
     <div id="topbar-title">
       {% if page.layout == 'home' %}
@@ -41,14 +43,20 @@
       {% endif %}
     </div>
 
-    <i id="search-trigger" class="fas fa-search fa-fw"></i>
-    <span id="search-wrapper" class="align-items-center">
-      <i class="fas fa-search fa-fw"></i>
+    <button type="button" id="search-trigger" class="topbar-icon-btn" aria-label="Open search">
+      <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+    </button>
+    <span id="search-wrapper" class="align-items-center" role="search">
+      <i class="fas fa-search fa-fw" aria-hidden="true"></i>
       <input class="form-control" id="search-input" type="search"
-        aria-label="search" placeholder="{{ site.data.label.search_hint | default: 'Search' }}...">
-      <i class="fa fa-times-circle fa-fw" id="search-cleaner"></i>
+        aria-label="Search site" autocomplete="off"
+        data-search-url="{{ '/assets/js/data/search.json' | relative_url }}?v={{ site.time | date: '%s' }}"
+        placeholder="{{ site.data.label.search_hint | default: 'Search' }}...">
+      <button type="button" class="topbar-icon-btn" id="search-cleaner" aria-label="Clear search">
+        <i class="fa fa-times-circle fa-fw" aria-hidden="true"></i>
+      </button>
     </span>
-    <span id="search-cancel" >Cancel</span>
+    <button type="button" id="search-cancel">Cancel</button>
   </div>
 
 </div>

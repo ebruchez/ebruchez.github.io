@@ -1,29 +1,42 @@
 <!--
-  mermaid-js loader
+  Mermaid diagram loader (zero jQuery, dark/light reactive)
 -->
 
-<script src="https://cdn.jsdelivr.net/npm/mermaid@8/dist/mermaid.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
 <script>
-  $(function() {
-    let initTheme = "default";
+  document.addEventListener('DOMContentLoaded', () => {
+    if (typeof mermaid === 'undefined') return;
 
-    if ($("html[mode=dark]").length > 0
-      || ($("html[mode]").length == 0
-        && window.matchMedia("(prefers-color-scheme: dark)").matches ) ) {
-      initTheme = "dark";
+    function currentMermaidTheme() {
+      const mode = document.documentElement.getAttribute('mode');
+      if (mode === 'dark') return 'dark';
+      if (mode === 'light') return 'default';
+      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'default';
     }
 
-    let mermaidConf = {
-      theme: initTheme  /* <default|dark|forest|neutral> */
-    };
+    for (const codeEl of document.querySelectorAll('pre > code.language-mermaid')) {
+      const pre = codeEl.parentElement;
+      const src = codeEl.textContent || '';
+      const container = document.createElement('div');
+      container.className = 'mermaid';
+      container.setAttribute('data-mermaid-src', src);
+      container.textContent = src;
+      pre.classList.add('unloaded');
+      pre.after(container);
+    }
 
-    /* Markdown converts to HTML */
-    $("pre").has("code.language-mermaid").each(function() {
-      let svgCode = $(this).children().html();
-      $(this).addClass("unloaded");
-      $(this).after(`<div class=\"mermaid\">${svgCode}</div>`);
-    });
+    async function renderMermaid() {
+      const nodes = Array.from(document.querySelectorAll('.mermaid[data-mermaid-src]'));
+      if (nodes.length === 0) return;
+      for (const node of nodes) {
+        node.removeAttribute('data-processed');
+        node.textContent = node.getAttribute('data-mermaid-src') || '';
+      }
+      mermaid.initialize({ startOnLoad: false, theme: currentMermaidTheme() });
+      await mermaid.run({ nodes });
+    }
 
-    mermaid.initialize(mermaidConf);
+    renderMermaid();
+    window.addEventListener('themechange', renderMermaid);
   });
 </script>

@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /assets/js/data/search.json
+---
+{{ site.data.search_index_json }}

@@ -59,14 +59,15 @@ layout: page
       </span>
 
       <!-- arrow -->
-      {% if sub_categories_size > 0%}
-      <a href="#{{ LIST_PREFIX }}{{ group_index }}" data-toggle="collapse"
-        aria-expanded="true" aria-label="{{ HEAD_PREFIX }}{{ group_index }}-trigger"
+      {% if sub_categories_size > 0 %}
+      <button type="button" data-collapse-target="#{{ LIST_PREFIX }}{{ group_index }}"
+        aria-expanded="true" aria-controls="{{ LIST_PREFIX }}{{ group_index }}"
+        aria-label="Toggle {{ category_name }} subcategories"
         class="category-trigger hide-border-bottom">
-        <i class="fas fa-fw fa-angle-down"></i>
-      </a>
+        <i class="fas fa-fw fa-angle-down" aria-hidden="true"></i>
+      </button>
       {% else %}
-      <span data-toggle="collapse" class="category-trigger hide-border-bottom disabled">
+      <span class="category-trigger hide-border-bottom disabled" aria-hidden="true">
         <i class="fas fa-fw fa-angle-right"></i>
       </span>
       {% endif %}

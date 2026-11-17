@@ -1,5 +1,4 @@
-# import theme
-theme: jekyll-theme-chirpy
+# Standalone site configuration (originally derived from jekyll-theme-chirpy)
 
 # The Site Configuration
 
@@ -46,14 +45,6 @@ timezone: America/Los_Angeles
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
-  pv:
-    # The Google Analytics pageviews switch.
-    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: false
-    # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: ''
-    proxy_endpoint: ''
-    cache: false  # pv data local cache, good for the users from GFW area.
 
 comments:
     disqus:
@@ -66,32 +57,21 @@ disqus:
 
 # Prefer color scheme setting.
 #
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
+# Note: Keep empty to follow the system prefers-color-scheme by default,
+# with a toggle in the bottom-left of the sidebar to override light/dark mode.
 #
 # Available options:
 #
-#     light  - Use the light color scheme
+#     light  - Pin light color scheme
+#     dark   - Pin dark color scheme
 #
-#     dark   - Use the dark color scheme
-#
-theme_mode: light  # [light|dark]
-
-# The CDN endpoint for images.
-# Notice that once it is assigned, the CDN url
-# will be added to all image (site avatar & posts' images) paths starting with '/'
-#
-# e.g. 'https://cdn.com'
-img_cdn: ''
+# theme_mode: light
 
 # the avatar on sidebar, support local or CORS resources
 avatar: public/headshot.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
-
-paginate: 20
 
 kramdown:
   syntax_highlighter: rouge
@@ -217,8 +197,11 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
+  - jekyll-archives
   - jekyll-redirect-from
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 relative_links:
   enabled:     true

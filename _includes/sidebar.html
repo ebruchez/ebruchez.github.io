@@ -10,8 +10,6 @@
         {% capture avatar_url %}
           {%- if site.avatar contains '://' -%}
             {{ site.avatar }}
-          {%- elsif site.img_cdn != '' and site.img_cdn -%}
-            {{ site.avatar | prepend: site.img_cdn }}
           {%- else -%}
             {{ site.avatar | relative_url }}
           {%- endif -%}
@@ -65,26 +63,29 @@
   <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center">
 
     {% for entry in site.data.contact %}
+      {% assign email_parts = nil %}
       {% capture url %}
         {%- if entry.type == 'github' -%}
           https://github.com/{{ site.github.username }}
         {%- elsif entry.type == 'twitter' -%}
           https://twitter.com/{{ site.twitter.username }}
         {%- elsif entry.type == 'email' -%}
-          {% assign email = site.social.email | split: '@' %}
-          javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+          {% assign email_parts = site.social.email | split: '@' %}
+          #
         {%- elsif entry.type == 'rss' -%}
-          {{ "https://feeds.feedburner.com/EriksPondering" | relative_url }}
+          {{ '/feed.xml' | relative_url }}
         {%- else -%}
           {{ entry.url }}
         {%- endif -%}
       {% endcapture %}
+      {% assign url = url | strip %}
 
-      {% if url %}
+      {% if url != '' %}
       <a href="{{ url }}" aria-label="{{ entry.type }}"
+        {% if email_parts %}data-email-user="{{ email_parts[0] }}" data-email-domain="{{ email_parts[1] }}"{% endif %}
         {% unless site.theme_mode %}class="order-{{ forloop.index | plus: 2 }}"{% endunless %}
         {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
-        <i class="{{ entry.icon }}"></i>
+        <i class="{{ entry.icon }}" aria-hidden="true"></i>
       </a>
       {% endif %}
 

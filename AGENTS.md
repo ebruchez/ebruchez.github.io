@@ -1,6 +1,6 @@
 # AGENTS.md — Guide for `bruchez.name`
 
-Personal blog and collection site for Erik Bruchez (`https://blog.bruchez.name`), built with **Jekyll** (`jekyll-theme-chirpy` base, customized) and deployed via GitHub Actions.
+Personal blog and collection site for Erik Bruchez (`https://blog.bruchez.name`), built as a standalone **Jekyll** site (originally derived from `jekyll-theme-chirpy` v3, fully decoupled from the theme gem) and deployed via GitHub Actions.
 
 ## Build & Local Development
 
@@ -22,12 +22,17 @@ Personal blog and collection site for Erik Bruchez (`https://blog.bruchez.name`)
 - **Layouts & Widths**:
   - `_layouts/home.html` and `_layouts/comics.html` use the full-width `.home-col` container (up to `$main-content-max-width: 1150px`).
   - `_layouts/post.html` and `_layouts/page.html` use the narrower `col-xl-8` column alongside `_includes/panel.html` (right-hand TOC column on posts).
-- **Stylesheets**:
+- **Stylesheets & Color Schemes**:
   - Entry point: `assets/css/style.scss` → `_sass/jekyll-theme-chirpy.scss` → `_sass/layout/*.scss`.
-  - Use theme CSS custom properties (`--card-bg`, `--card-border-color`, `--text-color`, `--text-muted-color`, `--link-color`, `--tb-odd-bg`, `--main-border-color`, `--btn-border-color`) from `_sass/colors/light-typography.scss` and `_sass/colors/dark-typography.scss`.
+  - Automatic light/dark mode follows system `prefers-color-scheme` (`:root { color-scheme: light dark }`), with an optional user override stored in `localStorage('color-scheme')` synced to `<meta name="color-scheme">` and `html[mode]`.
+  - Always use theme CSS custom properties (`--card-bg`, `--card-border-color`, `--text-color`, `--text-muted-color`, `--link-color`, `--tb-odd-bg`, `--main-border-color`, `--btn-border-color`) from `_sass/colors/light-typography.scss` and `_sass/colors/dark-typography.scss` rather than hardcoded light-only hex/rgb backgrounds.
   - When using CSS Container Queries (`@container`), declare `container: <name> / inline-size` on the **parent** wrapper (e.g. `.comics-card-list` or `.home-tiles-container`), never on the same element being matched inside `@container`.
+- **Client-Side JavaScript (`assets/js/`)**:
+  - Zero jQuery / Bootstrap JS dependencies. Site-wide UI interactions (color-scheme toggle, mobile sidebar drawer, lazy on-demand search, post TOC scrollspy, copy-code / copy-link buttons, back-to-top, and category collapse) live in `assets/js/site.js`, alongside `assets/js/carousel.js` and `assets/js/lightbox3.min.js`.
 - **Custom Jekyll Plugins (`_plugins/`)**:
   - `build-speedups.rb`: Indexes relative links in O(1), skips unchanged static asset copies, and precomputes related posts in `:pre_render`. Keep new data/Markdown processing in Ruby `:pre_render` hooks rather than expensive Liquid loops or repeated Liquid `markdownify` filters.
+  - `code-blocks.rb`: Adds deterministic `id="code-snippet-N"` targets, `data-lang` labels, and accessible copy buttons (`command="--copy"`) to Rouge syntax-highlighted blocks at `:post_convert` time while excluding line numbers from copied text.
+  - `search-index.rb`: Precomputes `assets/js/data/search.json` in `:pre_render` across posts, collection pages, and comic book reading logs for lazy client-side search.
   - `lightbox-images.rb` + `assets/js/lightbox3.min.js`: Automatically wraps content `<img>` tags on `post` and `page` layouts in `<a class="lightbox-trigger" data-lightbox="page-gallery">`. Opt out with `data-no-lightbox` or `.no-lightbox`. On custom layouts (such as `comics`), render `class="lightbox-trigger" data-lightbox="page-gallery"` directly on the `<a>` element (omit legacy `.img-hyperlink`).
   - `comics-data.rb`: Enriches `_data/comics/*.yml` at `:pre_render` time (pre-rendering Markdown, reading `.webp` dimensions to prevent CLS, computing per-year stats, and building `site.data['comics_latest_featured']`).
 

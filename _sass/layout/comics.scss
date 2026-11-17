@@ -144,7 +144,9 @@
 
   &:target {
     border-color: var(--link-color);
-    box-shadow: 0 0 0 2px rgba(42, 64, 142, 0.15), 0 4px 14px var(--card-box-shadow, rgba(0, 0, 0, 0.06));
+    box-shadow:
+      0 0 0 2px color-mix(in srgb, var(--link-color) 22%, transparent),
+      0 4px 14px var(--card-box-shadow, rgba(0, 0, 0, 0.06));
   }
 
   .comic-card__cover-link {
@@ -161,8 +163,8 @@
     height: auto;
     margin: 0 !important;
     border-radius: 6px !important;
-    border: 1px solid rgba(0, 0, 0, 0.09);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    border: 1px solid var(--card-border-color, rgba(0, 0, 0, 0.09));
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.14);
     background-color: var(--tb-odd-bg);
   }
 
@@ -302,11 +304,14 @@
 
     &.comic-ext-pill--bedetheque {
       color: var(--link-color);
-      background-color: rgba(42, 64, 142, 0.07);
-      border-color: rgba(42, 64, 142, 0.22) !important;
+      background-color: rgba(42, 64, 142, 0.08);
+      background-color: color-mix(in srgb, var(--link-color) 11%, transparent);
+      border-color: rgba(42, 64, 142, 0.24) !important;
+      border-color: color-mix(in srgb, var(--link-color) 28%, transparent) !important;
 
       &:hover {
-        background-color: rgba(42, 64, 142, 0.14);
+        background-color: rgba(42, 64, 142, 0.15);
+        background-color: color-mix(in srgb, var(--link-color) 18%, transparent);
         border-color: var(--link-color) !important;
       }
     }
@@ -609,8 +614,8 @@
     height: auto;
     margin: 0 !important;
     border-radius: 6px !important;
-    border: 1px solid rgba(0, 0, 0, 0.09);
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    border: 1px solid var(--card-border-color, rgba(0, 0, 0, 0.09));
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.14);
     background-color: var(--tb-odd-bg);
   }
 
@@ -702,11 +707,14 @@
 
     &.comic-ext-pill--bedetheque {
       color: var(--link-color);
-      background-color: rgba(42, 64, 142, 0.07);
-      border-color: rgba(42, 64, 142, 0.22) !important;
+      background-color: rgba(42, 64, 142, 0.08);
+      background-color: color-mix(in srgb, var(--link-color) 11%, transparent);
+      border-color: rgba(42, 64, 142, 0.24) !important;
+      border-color: color-mix(in srgb, var(--link-color) 28%, transparent) !important;
 
       &:hover {
-        background-color: rgba(42, 64, 142, 0.14);
+        background-color: rgba(42, 64, 142, 0.15);
+        background-color: color-mix(in srgb, var(--link-color) 18%, transparent);
         border-color: var(--link-color) !important;
       }
     }

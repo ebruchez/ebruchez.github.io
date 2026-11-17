@@ -1,12 +1,14 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy"
+gem "jekyll", "~> 4.3"
 
-# If you have any plugins, put them here!
+# Jekyll plugins
 group :jekyll_plugins do
-  # gem "jekyll-xxx", "~> x.y"
+  gem 'jekyll-archives', '~> 2.2'
   gem 'jekyll-redirect-from'
   gem 'jekyll-relative-links'
+  gem 'jekyll-seo-tag', '~> 2.8'
+  gem 'jekyll-sitemap', '~> 1.4'
   gem 'nokogiri'
 end
 

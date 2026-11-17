@@ -38,16 +38,30 @@
 } // .categories
 
 .category-trigger {
+  appearance: none;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 1.7rem;
   height: 1.7rem;
   border-radius: 50%;
   text-align: center;
-  color: #6c757d!important;
+  color: var(--text-muted-color) !important;
+  cursor: pointer;
+
+  &:focus-visible {
+    outline: 2px solid var(--link-color);
+    outline-offset: 2px;
+  }
+
   > i.fas {
     position: relative;
     height: 0.7rem;
     width: 1rem;
-    transition: 300ms ease all;
+    transition: 300ms ease transform;
   }
 }
 

@@ -1,5 +1,5 @@
 <!--
- Post sharing snippet
+  Post sharing snippet
 -->
 
 <div class="share-wrapper">
@@ -10,14 +10,17 @@
 
     {% for share in site.data.share.platforms %}
       {% assign link = share.link | replace: 'TITLE', title | replace: 'URL', url %}
-        <a href="{{ link }}" data-toggle="tooltip" data-placement="top"
-          title="{{ share.type }}" target="_blank" rel="noopener" aria-label="{{ share.type }}">
-          <i class="fa-fw {{ share.icon }}"></i>
-        </a>
+      <a href="{{ link }}" title="{{ share.type }}" target="_blank" rel="noopener" aria-label="{{ share.type }}">
+        <i class="fa-fw {{ share.icon }}" aria-hidden="true"></i>
+      </a>
     {% endfor %}
 
-    <i class="fa-fw fas fa-link small" onclick="copyLink()"
-        data-toggle="tooltip" data-placement="top" title="Copy link"></i>
+    <span class="copy copy--inline">
+      <button type="button" class="copy-button copy-link-btn" command="--copy-url" commandfor="post-wrapper" aria-label="Copy link to this post" title="Copy link">
+        <i class="fa-fw fas fa-link small" aria-hidden="true"></i>
+      </button>
+      <span class="tip" role="status"></span>
+    </span>
 
   </span>
 </div>

@@ -14,8 +14,8 @@
   --footer-bg-color: var(--main-wrapper-bg);
 
   /* common color */
-  --text-color: rgb(175, 176, 177);
-  --text-muted-color: rgb(107, 116, 124);
+  --text-color: rgb(192, 195, 199);
+  --text-muted-color: rgb(142, 150, 158);
   --link-color: rgb(138, 180, 248);
   --link-underline-color: rgb(82, 108, 150);
   --main-border-color: rgb(44, 45, 45);
@@ -83,22 +83,8 @@
   /* Footer */
   --footer-link: rgb(171, 171, 171);
 
-  .post-content img {
-    filter: brightness(90%);
-  }
-
   hr {
     border-color: var(--main-border-color);
-  }
-
-  /* posts' toc, override BS */
-  nav[data-toggle=toc] .nav-link.active,
-  nav[data-toggle=toc] .nav-link.active:focus,
-  nav[data-toggle=toc] .nav-link.active:hover,
-  nav[data-toggle=toc] .nav > li > a:focus,
-  nav[data-toggle=toc] .nav > li > a:hover {
-    color: var(--toc-highlight) !important;
-    border-left-color: var(--toc-highlight) !important;
   }
 
   /* categories */
