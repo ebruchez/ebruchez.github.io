@@ -1,0 +1,39 @@
+<!--
+  Static historical reader comments (e.g. imported from Apache Roller 2005-2006)
+-->
+
+{% if page.archived_comments and page.archived_comments.size > 0 %}
+<section class="archived-comments mt-4 mb-4" aria-label="Archived comments">
+  <h3 class="archived-comments__heading pt-2 mt-1 mb-3 ml-1" data-toc-skip>
+    Archived Comments ({{ page.archived_comments.size }})
+  </h3>
+  <div class="archived-comments__list">
+    {% for comment in page.archived_comments %}
+    <article class="archived-comment">
+      <header class="archived-comment__meta">
+        <span class="archived-comment__author">
+          {% if comment.url and comment.url != '' %}
+            {% if comment.url contains '://' %}
+              <a href="{{ comment.url }}" rel="nofollow noopener" target="_blank">{{ comment.author | escape }}</a>
+            {% else %}
+              <a href="{{ comment.url | relative_url }}">{{ comment.author | escape }}</a>
+            {% endif %}
+          {% else %}
+            {{ comment.author | escape }}
+          {% endif %}
+        </span>
+        {% if comment.date %}
+          <span class="archived-comment__sep" aria-hidden="true">·</span>
+          <time class="archived-comment__date text-muted" datetime="{{ comment.date | date_to_xmlschema }}">
+            {{ comment.date | date: "%b %e, %Y" }}
+          </time>
+        {% endif %}
+      </header>
+      <div class="archived-comment__body">
+        {{ comment.content | markdownify }}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

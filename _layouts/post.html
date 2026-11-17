@@ -53,6 +53,23 @@ layout: default
           <img src="{{ page.image }}" class="preview-img" alt="Preview Image">
         {% endif %}
 
+        {% if page.rating %}
+          {% assign rating_num = page.rating | times: 1.0 %}
+          <p class="roller-book-rating" role="img" aria-label="Rating: {{ page.rating }} out of 5 stars">
+            {% for i in (1..5) %}
+              {% assign half_threshold = i | minus: 0.5 %}
+              {% if rating_num >= i %}
+                <i class="fas fa-star roller-book-rating__star roller-book-rating__star--filled" aria-hidden="true"></i>
+              {% elsif rating_num >= half_threshold %}
+                <i class="fas fa-star-half-alt roller-book-rating__star roller-book-rating__star--filled" aria-hidden="true"></i>
+              {% else %}
+                <i class="far fa-star roller-book-rating__star roller-book-rating__star--empty" aria-hidden="true"></i>
+              {% endif %}
+            {% endfor %}
+            <span class="roller-book-rating__label text-muted">{{ page.rating }} / 5</span>
+          </p>
+        {% endif %}
+
         {{ content }}
 
       </div>
@@ -125,6 +142,8 @@ layout: default
     {% include related-posts.html %}
 
     {% include post-nav.html %}
+
+    {% include archived-comments.html %}
 
     {% if site.disqus.comments and page.comments %}
       {% include disqus.html %}
