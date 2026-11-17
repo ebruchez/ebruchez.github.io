@@ -1,0 +1,34 @@
+{% if site.data.categories_showcase and site.data.categories_showcase.size > 0 %}
+<nav class="categories-nav" aria-label="Blog categories">
+  {% unless include.hub_mode %}
+    <a href="{{ '/tabs/categories/' | relative_url }}"
+       class="categories-nav__pill{% if page.url == '/tabs/categories/' %} is-active{% endif %}"
+       {% if page.url == '/tabs/categories/' %}aria-current="page"{% endif %}>
+      <i class="fas fa-th-large categories-nav__icon" aria-hidden="true"></i>
+      <span>All Categories</span>
+    </a>
+  {% endunless %}
+
+  {% for cat in site.data.categories_showcase %}
+    {% if include.hub_mode %}
+      <a href="#cat-{{ cat.slug }}" class="categories-nav__pill">
+        <i class="{{ cat.icon }} categories-nav__icon" aria-hidden="true"></i>
+        <span>{{ cat.name }}</span>
+        <span class="categories-nav__count">{{ cat.count }}</span>
+      </a>
+    {% else %}
+      {% assign is_current = false %}
+      {% if include.current_slug == cat.slug %}
+        {% assign is_current = true %}
+      {% endif %}
+      <a href="{{ cat.url | relative_url }}"
+         class="categories-nav__pill{% if is_current %} is-active{% endif %}"
+         {% if is_current %}aria-current="page"{% endif %}>
+        <i class="{{ cat.icon }} categories-nav__icon" aria-hidden="true"></i>
+        <span>{{ cat.name }}</span>
+        <span class="categories-nav__count">{{ cat.count }}</span>
+      </a>
+    {% endif %}
+  {% endfor %}
+</nav>
+{% endif %}

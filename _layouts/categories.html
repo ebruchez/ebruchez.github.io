@@ -1,101 +1,102 @@
 ---
-layout: page
-# All the Categories of posts
+layout: default
+# Full-width editorial Categories hub
 ---
 
+<div class="row">
+  <div class="col-12 col-lg-11 col-xl-12 home-col">
+    <div id="page" class="post categories-page pb-5 pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4 mb-md-4">
 
-{% assign HEAD_PREFIX = "h_" %}
-{% assign LIST_PREFIX = "l_" %}
+      <div class="categories-page__header">
+        <h1 class="dynamic-title mb-2">{{ page.title }}</h1>
+        {% if site.data.categories_total_posts %}
+          <p class="categories-page__summary text-muted mb-0">
+            <span><strong>{{ site.data.categories_total_posts }}</strong> posts across <strong>{{ site.data.categories_showcase.size }}</strong> categories</span>
+            {% if site.data.categories_year_span %}
+              <span class="categories-summary-sep" aria-hidden="true">·</span>
+              <span>{{ site.data.categories_year_span }}</span>
+            {% endif %}
+          </p>
+        {% endif %}
+      </div>
 
-{% assign group_index = 0 %}
+      {% include category-nav.html hub_mode=true %}
 
-{% assign sort_categories = site.categories | sort %}
+      <div class="categories-grid">
+        {% for cat in site.data.categories_showcase %}
+        <article class="category-card" id="cat-{{ cat.slug }}">
+          <header class="category-card__header">
+            <div class="category-card__title-row">
+              <div class="category-card__heading-group">
+                <span class="category-card__icon-badge" aria-hidden="true">
+                  <i class="{{ cat.icon }}"></i>
+                </span>
+                <h2 class="category-card__title">
+                  <a href="{{ cat.url | relative_url }}">{{ cat.name }}</a>
+                </h2>
+              </div>
+              <span class="category-card__meta-pill">
+                <strong>{{ cat.count }}</strong> {% if cat.count == 1 %}post{% else %}posts{% endif %}{% if cat.year_span != '' %} · {{ cat.year_span }}{% endif %}
+              </span>
+            </div>
+            {% if cat.description %}
+              <p class="category-card__desc text-muted">{{ cat.description }}</p>
+            {% endif %}
+          </header>
 
-{% for category in sort_categories %}
-  {% assign category_name = category | first %}
-  {% assign posts_of_category = category | last %}
-  {% assign first_post = posts_of_category | first %}
+          <div class="category-card__content">
+            <ul class="category-card__post-list" role="list">
+              {% for post in cat.recent_posts %}
+              <li class="category-card__post-item">
+                <a href="{{ post.url | relative_url }}" class="category-card__post-link">{{ post.title }}</a>
+                {% if post.rating %}
+                  <span class="category-post-badge category-post-badge--rating" title="Rating: {{ post.rating }} out of 5">
+                    <i class="fas fa-star" aria-hidden="true"></i> {{ post.rating }}
+                  </span>
+                {% endif %}
+                {% if post.is_french %}
+                  <span class="category-post-badge" title="Written in French">FR</span>
+                {% endif %}
+                <time class="category-card__post-date text-muted" datetime="{{ post.date_iso }}">{{ post.date_short }}</time>
+              </li>
+              {% endfor %}
+            </ul>
 
-  {% if category_name == first_post.categories[0] %}
-    {% assign sub_categories = "" | split: "" %}
+            {% if cat.older_posts.size > 0 %}
+            <details class="category-card__more">
+              <summary>
+                <span class="category-card__more-closed">Show all {{ cat.count }} posts ({{ cat.older_posts.size }} older)</span>
+                <span class="category-card__more-open">Show fewer posts</span>
+              </summary>
+              <ul class="category-card__post-list category-card__post-list--older" role="list">
+                {% for post in cat.older_posts %}
+                <li class="category-card__post-item">
+                  <a href="{{ post.url | relative_url }}" class="category-card__post-link">{{ post.title }}</a>
+                  {% if post.rating %}
+                    <span class="category-post-badge category-post-badge--rating" title="Rating: {{ post.rating }} out of 5">
+                      <i class="fas fa-star" aria-hidden="true"></i> {{ post.rating }}
+                    </span>
+                  {% endif %}
+                  {% if post.is_french %}
+                    <span class="category-post-badge" title="Written in French">FR</span>
+                  {% endif %}
+                  <time class="category-card__post-date text-muted" datetime="{{ post.date_iso }}">{{ post.date_short }}</time>
+                </li>
+                {% endfor %}
+              </ul>
+            </details>
+            {% endif %}
+          </div>
 
-    {% for post in posts_of_category %}
-      {% assign second_category = post.categories[1] %}
-      {% if second_category %}
-        {% unless sub_categories contains second_category %}
-          {% assign sub_categories = sub_categories | push: second_category %}
-        {% endunless %}
-      {% endif %}
-    {% endfor %}
-
-    {% assign sub_categories = sub_categories | sort %}
-    {% assign sub_categories_size = sub_categories | size %}
-
-  <div class="card categories">
-    <!-- top-category -->
-    <div class="card-header d-flex justify-content-between hide-border-bottom"
-        id="{{ HEAD_PREFIX }}{{ group_index }}">
-      <span>
-      {% if sub_categories_size > 0 %}
-        <i class="far fa-folder-open fa-fw"></i>
-      {% else %}
-        <i class="far fa-folder fa-fw"></i>
-      {% endif %}
-        <a href="{{ site.baseurl }}/categories/{{ category_name | slugify | url_encode }}/"
-          class="ml-1 mr-2">
-          {{ category_name }}
-        </a>
-
-        <!-- content count -->
-        {% assign top_posts_size = site.categories[category_name] | size %}
-        <span class="text-muted small font-weight-light">
-          {% if sub_categories_size > 0 %}
-            {{ sub_categories_size }}
-            {% if sub_categories_size > 1 %}categories{% else %}category{% endif %},
-          {% endif %}
-            {{ top_posts_size }}
-            post{% if top_posts_size > 1 %}s{% endif %}
-        </span>
-      </span>
-
-      <!-- arrow -->
-      {% if sub_categories_size > 0 %}
-      <button type="button" data-collapse-target="#{{ LIST_PREFIX }}{{ group_index }}"
-        aria-expanded="true" aria-controls="{{ LIST_PREFIX }}{{ group_index }}"
-        aria-label="Toggle {{ category_name }} subcategories"
-        class="category-trigger hide-border-bottom">
-        <i class="fas fa-fw fa-angle-down" aria-hidden="true"></i>
-      </button>
-      {% else %}
-      <span class="category-trigger hide-border-bottom disabled" aria-hidden="true">
-        <i class="fas fa-fw fa-angle-right"></i>
-      </span>
-      {% endif %}
-
-    </div> <!-- .card-header -->
-
-    <!-- Sub-categories -->
-    {% if sub_categories_size > 0 %}
-    <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
-      <ul class="list-group">
-        {% for sub_category in sub_categories %}
-        <li class="list-group-item">
-          <i class="far fa-folder fa-fw"></i>
-          <a href="{{ site.baseurl }}/categories/{{ sub_category | slugify | url_encode }}/"
-            class="ml-1 mr-2">{{ sub_category }}</a>
-          {% assign posts_size = site.categories[sub_category] | size %}
-          <span class="text-muted small font-weight-light">{{ posts_size }}
-            post{% if posts_size > 1 %}s{% endif %}
-          </span>
-        </li>
+          <footer class="category-card__footer">
+            <a href="{{ cat.url | relative_url }}" class="category-card__archive-link">
+              Category archive<span class="visually-hidden"> for {{ cat.name }}</span> →
+            </a>
+          </footer>
+        </article>
         {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
+      </div>
 
-  </div> <!-- .card -->
-
-    {% assign group_index = group_index | plus: 1 %}
-
-  {% endif %}
-{% endfor %}
+    </div> <!-- #page -->
+  </div><!-- .home-col -->
+</div><!-- .row -->

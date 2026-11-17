@@ -593,19 +593,6 @@
   document.addEventListener('click', (event) => {
     if (!(event.target instanceof Element)) return;
 
-    const collapseBtn = event.target.closest('[data-collapse-target]');
-    if (collapseBtn) {
-      const selector = collapseBtn.getAttribute('data-collapse-target');
-      const panel = selector ? document.querySelector(selector) : null;
-      if (panel) {
-        const willOpen = !panel.classList.contains('show');
-        panel.classList.toggle('show', willOpen);
-        collapseBtn.setAttribute('aria-expanded', String(willOpen));
-        collapseBtn.querySelector('i')?.classList.toggle('rotate', !willOpen);
-      }
-      return;
-    }
-
     const emailLink = event.target.closest('a[data-email-user][data-email-domain]');
     if (emailLink) {
       event.preventDefault();

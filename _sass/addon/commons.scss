@@ -540,7 +540,7 @@ $sidebar-display: "sidebar-display";
   @include ml-mr(0);
 }
 
-footer {
+#main > footer {
   position: absolute;
   bottom: 0;
   padding: 0 1rem;
@@ -1139,7 +1139,7 @@ img {
     padding-bottom: $footer-height;
   }
 
-  footer {
+  #main > footer {
     height: $footer-height;
     > div.d-flex {
       width: 100%;
@@ -1279,7 +1279,7 @@ img {
 
 
 @media all and (min-width: 577px) and (max-width: 1199px) {
-  footer>.d-flex > div {
+  #main > footer>.d-flex > div {
     width: 312px;
   }
 }
@@ -1324,7 +1324,7 @@ img {
     text-align: left;
   }
 
-  footer > div.d-flex {
+  #main > footer > div.d-flex {
     width: 92%;
   }
 
@@ -1464,7 +1464,7 @@ img {
     }
   }
 
-  footer > div.d-felx {
+  #main > footer > div.d-felx {
     width: 85%;
   }
 
@@ -1649,7 +1649,7 @@ img {
 
   } // #sidebar
 
-  footer > div.d-flex {
+  #main > footer > div.d-flex {
     width: 87%;
     max-width: 1140px;
   }
@@ -1682,7 +1682,7 @@ img {
     margin-left: 3%;
   }
 
-  footer {
+  #main > footer {
     padding-left: 0;
     padding-right: calc(100% - #{$sidebar-width-large} - 1180px);
   }

@@ -1,66 +1,104 @@
 /*
-  Style for page Category and Tag
-*/
+ * Styles for Individual Category Archive (/categories/<slug>/) & Legacy Tag Pages
+ */
 
-#page-category, #page-tag {
+.category-year-groups {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.category-year-group {
+  background-color: var(--card-bg, var(--button-bg));
+  border: 1px solid var(--card-border-color, var(--main-border-color));
+  border-radius: 12px;
+  padding: 1rem 1.3rem;
+  box-shadow: 0 2px 8px var(--card-box-shadow, rgba(0, 0, 0, 0.04));
+
+  .category-year-group__heading {
+    margin: 0 0 0.7rem !important;
+    padding: 0 0 0.5rem !important;
+    border-bottom: 1px solid var(--main-border-color);
+    font-size: 1.15rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--text-color);
+
+    .category-year-group__count {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--text-muted-color);
+      background-color: var(--tag-bg);
+      padding: 0.06rem 0.48rem;
+      border-radius: 999px;
+    }
+  }
+}
+
+.category-archive-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.category-archive-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.25rem 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px dashed var(--main-border-color);
+
+  &:first-child {
+    padding-top: 0.15rem;
+  }
+
+  &:last-child {
+    padding-bottom: 0.1rem;
+    border-bottom: 0;
+  }
+
+  .category-archive-item__main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.45rem;
+    min-inline-size: 0;
+    flex: 1 1 260px;
+  }
+
+  .category-archive-item__link {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.45;
+    color: var(--link-color);
+    text-decoration: none;
+    border-bottom: none !important;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .category-archive-item__date {
+    font-size: 0.83rem;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+}
+
+/* Keep minimal styling for optional /tags/<name>/ template if ever enabled */
+#page-tag {
   ul > li {
     line-height: 1.5rem;
-    padding: 0.6rem 0;
-    &::before { // dot
-      background: #999;
-      width: 5px;
-      height: 5px;
-      border-radius: 50%;
-      display: block;
-      content: "";
-      position: relative;
-      top: 0.6rem;
-      margin-right: 0.5rem;
-    }
-    > a { /* post's title */
-      font-size: 1.1rem;
-      @extend %no-bottom-border;
-    }
-    > span:last-child {
-      white-space: nowrap;
-    }
-    /* post's date */
-  }
-}
-
-#page-tag h1 > i { // tag icon
-  font-size: 1.2rem;
-}
-
-#page-category h1 > i {
-  font-size: 1.25rem;
-}
-
-a:hover {
-  #page-category &,
-  #page-tag &,
-  #access-lastmod & {
-    @extend %link-hover;
-    margin-bottom: -1px; // Avoid jumping
-  }
-}
-
-.dash {
-  margin: 0 .5rem .6rem .5rem;
-  border-bottom: 2px dotted var(--dash-color);
-}
-
-@media all and (max-width: 576px) {
-  #page-category, #page-tag {
-    ul > li {
-      &::before {
-        margin: 0 .5rem;
-      }
-      > a {
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-      }
-    }
+    padding: 0.5rem 0;
   }
 }
