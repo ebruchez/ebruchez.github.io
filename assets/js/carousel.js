@@ -65,11 +65,18 @@ function initCarousel(root) {
   }
 
   function applyButtonState(idx) {
+    const prevDisabled = idx <= 0;
+    const nextDisabled = idx >= slides.length - 1;
     if (prevBtn) {
-      prevBtn.setAttribute('aria-disabled', String(idx <= 0));
+      prevBtn.setAttribute('aria-disabled', String(prevDisabled));
     }
     if (nextBtn) {
-      nextBtn.setAttribute('aria-disabled', String(idx >= slides.length - 1));
+      nextBtn.setAttribute('aria-disabled', String(nextDisabled));
+    }
+    if (prevDisabled && document.activeElement === prevBtn && nextBtn && !nextDisabled) {
+      nextBtn.focus();
+    } else if (nextDisabled && document.activeElement === nextBtn && prevBtn && !prevDisabled) {
+      prevBtn.focus();
     }
   }
 

@@ -3,23 +3,25 @@
 {% assign _slides = include.slides %}
 <section class="post-carousel" id="carousel-{{ _carousel_id }}" aria-roledescription="carousel" aria-label="{{ _carousel_label }}">
   <div class="post-carousel-toolbar">
-    <button type="button" class="post-carousel-btn post-carousel-prev" data-direction="previous" aria-label="Previous snapshot" aria-disabled="true">
+    <button type="button" class="post-carousel-btn post-carousel-prev" data-direction="previous" aria-label="Previous slide" aria-disabled="true">
       <svg aria-hidden="true" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,4 6,10 12,16"/></svg>
     </button>
-    <nav class="post-carousel-markers" aria-label="Choose a snapshot">
+    <nav class="post-carousel-markers" aria-label="Choose a slide">
       {%- for slide in _slides -%}
-      <button type="button" class="post-carousel-marker" data-slide-index="{{ forloop.index0 }}" aria-label="{{ slide.year }} ({{ forloop.index }} of {{ _slides.size }})"{% if forloop.first %} aria-current="true"{% endif %}>{{ slide.year }}</button>
+      {%- assign _slide_label = slide.label | default: slide.year -%}
+      <button type="button" class="post-carousel-marker" data-slide-index="{{ forloop.index0 }}" aria-label="{{ _slide_label }} ({{ forloop.index }} of {{ _slides.size }})"{% if forloop.first %} aria-current="true"{% endif %}>{{ _slide_label }}</button>
       {%- endfor -%}
     </nav>
-    <button type="button" class="post-carousel-btn post-carousel-next" data-direction="next" aria-label="Next snapshot"{% if _slides.size <= 1 %} aria-disabled="true"{% endif %}>
+    <button type="button" class="post-carousel-btn post-carousel-next" data-direction="next" aria-label="Next slide"{% if _slides.size <= 1 %} aria-disabled="true"{% endif %}>
       <svg aria-hidden="true" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"><polyline points="8,4 14,10 8,16"/></svg>
     </button>
   </div>
-  <div class="post-carousel-track" tabindex="0" role="group" aria-label="Snapshots">
+  <div class="post-carousel-track" tabindex="0" role="group" aria-label="Slides">
     {%- for slide in _slides -%}
-    <figure class="post-carousel-slide" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ _slides.size }}" data-slide-label="{{ slide.year | escape }}">
+    {%- assign _slide_label = slide.label | default: slide.year -%}
+    <figure class="post-carousel-slide" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ _slides.size }}" data-slide-label="{{ _slide_label | escape }}">
       <div class="post-carousel-stage">
-        <a href="{{ slide.src | relative_url }}" class="img-hyperlink post-carousel-link" data-lightbox="{{ _carousel_id }}" data-caption="{{ slide.caption | escape }}">
+        <a href="{{ slide.src | relative_url }}" class="img-hyperlink lightbox-trigger post-carousel-link" data-lightbox="{{ _carousel_id }}" data-caption="{{ slide.caption | escape }}">
           <img src="{{ slide.src | relative_url }}" alt="{{ slide.alt | escape }}" width="{{ slide.width | default: 2048 }}" height="{{ slide.height | default: 1536 }}" loading="lazy" decoding="async">
         </a>
       </div>
