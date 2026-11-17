@@ -86,6 +86,8 @@ Newest reads go at the **top** of the year's YAML file:
 
 Covers are stored locally as optimized `.webp` images (`<= 600px` wide) under `assets/pages/comic-books/covers/`. Never hotlink external cover images. Cards without a `cover` adapt automatically to a clean full-width single-column layout via CSS `:has()`.
 
+- **`<entry-id>`**: Refers to the `id:` slug of a comic entry in `_data/comics/YYYY.yml` or `_data/comics_favorites.yml` (e.g. `lefranc-36-la-regate` or `fav-maus` — also used as the card's `#<entry-id>` URL anchor). When passed to `manage-comic-covers.rb` (or used as a filename in `_covers_inbox/`), the script locates that `id:`, converts and resizes the image to `assets/pages/comic-books/covers/<entry-id>.webp`, and writes `cover: <entry-id>.webp` into the matching YAML entry automatically. Run `--status --year YYYY` (or `--status --favorites`) to list all `<entry-id>` values and see which entries are missing covers.
+
 > **Note on `bedetheque.com`**: `www.bedetheque.com` serves a Cloudflare anti-bot challenge (`HTTP 403`) to automated CLI HTTP requests. Never attempt to scrape `bedetheque.com` HTML or bypass challenges; use `--clipboard`, `--inbox`, `--set`, or `--fetch-online` below.
 
 ```sh
