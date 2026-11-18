@@ -18,15 +18,11 @@ author: Erik Bruchez                  # change to your full name
 github:
   username: ebruchez             # change to your github username
 
-twitter:
-  username: ebruchez            # change to your twitter username
-
 social:
   name: Erik Bruchez                  # it will shows as the copyright owner in Footer
   email: erik@bruchez.org             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-#    - https://twitter.com/username      # change to your twitter homepage
 #    - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
