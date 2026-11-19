@@ -212,7 +212,8 @@ def parse_twdb_gallery(url, html)
 
   # Breadcrumb: Home » Brand » Model » Year #Serial
   crumbs = []
-  if (bc_container = doc.at('a[href="https://typewriterdatabase.com"], a[href="https://typewriterdatabase.com/"]')&.parent)
+  bc_link = doc.at('a[href*="typewriter-serial-number-database"]')
+  if bc_link && (bc_container = bc_link.parent)
     crumbs = bc_container.text.split('»').map { |s| s.gsub(/\s+/, ' ').strip }.reject(&:empty?)
   end
 
