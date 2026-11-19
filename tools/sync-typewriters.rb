@@ -93,6 +93,7 @@ end
 def download_to_webp(url_str, dest_path, resize_geom:, quality: 82)
   raise 'ImageMagick (magick) not found in PATH' unless magick_binary
 
+  safe_url = url_str.to_s.strip.gsub(' ', '%20')
   FileUtils.mkdir_p(File.dirname(dest_path))
   Dir.mktmpdir('twdb_img_') do |dir|
     raw_path = File.join(dir, 'source.img')
@@ -101,7 +102,7 @@ def download_to_webp(url_str, dest_path, resize_geom:, quality: 82)
       '--max-time', '25',
       '-A', USER_AGENT,
       '-o', raw_path,
-      url_str
+      safe_url
     )
     return false unless status.success? && File.exist?(raw_path) && File.size(raw_path) > 512
 
@@ -283,15 +284,24 @@ def parse_twdb_gallery(url, html)
     end
   end
 
-  # Hero image (prefer full-size /img/g_<brand>_<id>_*.jpg over /img/thumbs/)
+  # Hero image: prefer TWDB's explicit full-size img[itemprop="image"]
   hero_src = nil
-  doc.css('img[src]').each do |img|
-    s = img['src'].to_s.strip
-    next if s.include?('/thumbs/') || s.include?('type-not-entered') || s.include?('member_')
-
-    if s =~ %r{/img/g_[a-z0-9_-]+_#{twdb_id}_}i
+  if (prop_img = doc.at('img[itemprop="image"]'))
+    s = prop_img['src'].to_s.strip
+    if !s.empty? && !s.include?('type-not-entered') && !s.include?('member_')
       hero_src = s.start_with?('http') ? s : "#{TWDB_BASE}/#{s.delete_prefix('/')}"
-      break
+      hero_src = hero_src.sub('/img/thumbs/', '/img/')
+    end
+  end
+  if hero_src.nil?
+    doc.css('img[src]').each do |img|
+      s = img['src'].to_s.strip
+      next if s.include?('/thumbs/') || s.include?('type-not-entered') || s.include?('member_')
+
+      if s =~ %r{/img/g_?[a-z0-9 _-]+_#{twdb_id}_}i
+        hero_src = s.start_with?('http') ? s : "#{TWDB_BASE}/#{s.delete_prefix('/')}"
+        break
+      end
     end
   end
   if hero_src.nil?
