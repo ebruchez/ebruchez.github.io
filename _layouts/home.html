@@ -209,7 +209,14 @@ layout: default
         </figcaption>
       </div>
       <div class="tile-body">
-        <h2 class="tile-title">Bruchez Typewriter Collection</h2>
+        <div class="tile-header-row">
+          <h2 class="tile-title">Bruchez Typewriter Collection</h2>
+          {% if site.data.typewriters_stats and site.data.typewriters_stats.total_collection > 0 %}
+          <a href="{{ '/typewriters/' | relative_url }}" class="tile-all-link">
+            <i class="fas fa-keyboard mr-1" aria-hidden="true"></i>Full catalog ({{ site.data.typewriters_stats.total_collection }}) →
+          </a>
+          {% endif %}
+        </div>
         <ul class="tile-post-list">
           {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/posts/hermes-baby-1961/,/posts/royal-fp-special-order-1960/,/pages/typewriter-bucket-list/" | split: "," %}
           {% for path in tw_paths %}

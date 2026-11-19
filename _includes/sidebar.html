@@ -49,6 +49,13 @@
       </a>
     </li> <!-- .nav-item -->
     {% endfor %}
+    <!-- Typewriters -->
+    <li class="nav-item{% if page.layout == 'typewriters' or page.layout == 'typewriter' %}{{ " active" }}{% endif %}">
+      <a href="{{ '/typewriters/' | relative_url }}" class="nav-link">
+        <i class="fa-fw fas fa-keyboard ml-xl-3 mr-xl-3 unloaded" aria-hidden="true"></i>
+        <span>TYPEWRITERS</span>
+      </a>
+    </li> <!-- .nav-item -->
     <!-- Comic Books -->
     <li class="nav-item{% if page.layout == 'comics' %}{{ " active" }}{% endif %}">
       <a href="{{ '/pages/comic-books/' | relative_url }}" class="nav-link">

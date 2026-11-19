@@ -1,0 +1,21 @@
+# Manual curation & overrides for the typewriter collection.
+#
+# Use this file for site-specific overrides without modifying auto-generated
+# _data/typewriters_twdb.yml or _data/typewriters_sheet.yml.
+#
+# Example:
+# by_twdb_id:
+#   25557:
+#     featured: true
+#     notes: |-
+#       Optional extra public notes shown on the detail page.
+#     related_posts:
+#       - /posts/restoring-ibm-electronic-selectric-composer-1/
+#
+# by_seq:
+#   258:
+#     twdb_id: 25557
+#     hidden: false
+
+by_twdb_id: {}
+by_seq: {}

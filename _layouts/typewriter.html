@@ -1,0 +1,198 @@
+---
+layout: default
+# Individual typewriter detail page (generated from _data/typewriters_*.yml)
+---
+
+{% assign m = page.machine %}
+
+<div class="row">
+  <div class="col-12 col-lg-11 col-xl-12 home-col">
+    <div id="page" class="post tw-detail-page pb-5 pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4 mb-md-4">
+
+      <div class="tw-detail__back">
+        <a href="{{ '/typewriters/' | relative_url }}">
+          <i class="fas fa-arrow-left mr-1" aria-hidden="true"></i>Back to Typewriter Collection
+        </a>
+      </div>
+
+      <header class="tw-detail__header">
+        <h1 class="dynamic-title mb-2">{{ m.title }}</h1>
+        <div class="tw-card__badges">
+          {% if m.status_group and m.status_group != 'unknown' %}
+            <span class="tw-badge tw-badge--{{ m.status_group }}">{{ m.status_label }}</span>
+          {% endif %}
+          {% if m.machine_type != '' %}
+            <span class="tw-badge tw-badge--muted">{{ m.machine_type }}</span>
+          {% endif %}
+          {% if m.collection_status and m.collection_status != 'My Collection' %}
+            <span class="tw-badge tw-badge--sighting">{{ m.collection_status }}</span>
+          {% endif %}
+          {% if m.serial != '' %}
+            <span class="tw-badge tw-badge--serial">Serial #{{ m.serial }}</span>
+          {% endif %}
+        </div>
+      </header>
+
+      <div class="tw-detail__hero-grid">
+        {% if m.hero_url %}
+        <figure class="tw-detail__hero-figure">
+          <a href="{{ m.hero_url | relative_url }}" class="lightbox-trigger" data-lightbox="page-gallery" data-title="{{ m.title | escape }}">
+            <img
+              src="{{ m.hero_url | relative_url }}"
+              alt="{{ m.title | escape }}"
+              {% if m.hero_width %}width="{{ m.hero_width }}"{% endif %}
+              {% if m.hero_height %}height="{{ m.hero_height }}"{% endif %}
+              fetchpriority="high"
+            >
+          </a>
+        </figure>
+        {% endif %}
+
+        <aside class="tw-detail__specs-card">
+          <h2 class="tw-detail__specs-heading">Specifications</h2>
+          <dl class="tw-specs-list">
+            {% if m.brand != '' %}
+              <div><dt>Brand</dt><dd>{{ m.brand }}</dd></div>
+            {% endif %}
+            {% if m.model != '' %}
+              <div><dt>Model</dt><dd>{{ m.model }}</dd></div>
+            {% endif %}
+            {% if m.year != '' %}
+              <div><dt>Year</dt><dd>{{ m.year }}</dd></div>
+            {% endif %}
+            {% if m.serial != '' %}
+              <div><dt>Serial #</dt><dd><code>{{ m.serial }}</code></dd></div>
+            {% endif %}
+            {% if m.machine_type != '' %}
+              <div><dt>Category</dt><dd>{{ m.machine_type }}</dd></div>
+            {% endif %}
+            {% if m.typeface != '' %}
+              <div><dt>Typeface</dt><dd>{{ m.typeface }}</dd></div>
+            {% endif %}
+            {% if m.status != '' %}
+              <div><dt>Status</dt><dd>{{ m.status }}</dd></div>
+            {% endif %}
+            {% if m.weight_lbs %}
+              <div>
+                <dt>Weight</dt>
+                <dd>{{ m.weight_lbs }} lbs{% if m.weight_with_case_lbs %} ({{ m.weight_with_case_lbs }} lbs w/ case){% endif %}</dd>
+              </div>
+            {% endif %}
+            {% if m.acquisition_date != '' %}
+              <div><dt>Acquired</dt><dd>{{ m.acquisition_date }}</dd></div>
+            {% endif %}
+            {% if m.twdb_id %}
+              <div><dt>TWDB Gallery</dt><dd>#{{ m.twdb_id }}</dd></div>
+            {% endif %}
+            {% if m.updated_at != '' %}
+              <div><dt>TWDB Updated</dt><dd>{{ m.updated_at }}</dd></div>
+            {% endif %}
+          </dl>
+
+          {% if m.twdb_url %}
+          <div class="tw-detail__cta-stack">
+            <a href="{{ m.twdb_url }}" class="tw-cta-primary" target="_blank" rel="noopener">
+              <i class="far fa-images mr-2" aria-hidden="true"></i>
+              {% if m.photo_count > 1 %}
+                View all {{ m.photo_count }} photos on TWDB
+              {% else %}
+                View gallery on TWDB
+              {% endif %}
+              <i class="fas fa-external-link-alt fa-xs ml-1" aria-hidden="true"></i>
+            </a>
+            {% for ext in m.external_links %}
+            <a href="{{ ext.url }}" class="tw-cta-secondary" target="_blank" rel="noopener">
+              <i class="fas fa-link mr-1" aria-hidden="true"></i>
+              {{ ext.title | default: ext.url }}
+              <i class="fas fa-external-link-alt fa-xs ml-1" aria-hidden="true"></i>
+            </a>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </aside>
+      </div>
+
+      <div class="post-content tw-detail__body">
+        {% if m.description_html != '' %}
+        <section class="tw-detail__section">
+          <h2>Notes &amp; Description</h2>
+          <div class="tw-detail__description">
+            {{ m.description_html }}
+          </div>
+        </section>
+        {% endif %}
+
+        {% if m.notes_html != '' %}
+        <section class="tw-detail__section">
+          <h2>Additional Notes</h2>
+          <div class="tw-detail__description">
+            {{ m.notes_html }}
+          </div>
+        </section>
+        {% endif %}
+
+        {% if m.typeface_url %}
+        <section class="tw-detail__section">
+          <h2>Typeface Specimen</h2>
+          <figure class="tw-detail__typeface-figure">
+            <a href="{{ m.typeface_url | relative_url }}" class="lightbox-trigger" data-lightbox="page-gallery" data-title="{{ m.title | escape }} — Typeface Specimen">
+              <img
+                src="{{ m.typeface_url | relative_url }}"
+                alt="Typeface specimen from {{ m.title | escape }}"
+                {% if m.typeface_width %}width="{{ m.typeface_width }}"{% endif %}
+                {% if m.typeface_height %}height="{{ m.typeface_height }}"{% endif %}
+                loading="lazy"
+                decoding="async"
+              >
+            </a>
+          </figure>
+        </section>
+        {% endif %}
+
+        {% if m.blog_links.size > 0 or m.thematic_guides.size > 0 %}
+        <section class="tw-detail__section">
+          <h2>Related Posts &amp; Guides</h2>
+          <ul class="tw-related-list">
+            {% for b in m.blog_links %}
+            <li>
+              <i class="far fa-file-alt mr-2 text-muted" aria-hidden="true"></i>
+              <a href="{{ b.url | relative_url }}">{{ b.title }}</a>
+            </li>
+            {% endfor %}
+            {% for g in m.thematic_guides %}
+            <li>
+              <i class="fas fa-layer-group mr-2 text-muted" aria-hidden="true"></i>
+              <a href="{{ g.url | relative_url }}">Curated Guide: {{ g.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+        {% endif %}
+      </div>
+
+      {% if page.prev_machine or page.next_machine %}
+      <nav class="tw-detail__pager" aria-label="Adjacent typewriters">
+        {% if page.prev_machine %}
+          <a href="{{ page.prev_machine.url | relative_url }}" class="tw-pager-link tw-pager-link--prev">
+            <span class="tw-pager-link__dir">← Previous</span>
+            <span class="tw-pager-link__title">{{ page.prev_machine.title }}</span>
+          </a>
+        {% else %}
+          <span></span>
+        {% endif %}
+        {% if page.next_machine %}
+          <a href="{{ page.next_machine.url | relative_url }}" class="tw-pager-link tw-pager-link--next">
+            <span class="tw-pager-link__dir">Next →</span>
+            <span class="tw-pager-link__title">{{ page.next_machine.title }}</span>
+          </a>
+        {% endif %}
+      </nav>
+      {% endif %}
+
+      {% if site.disqus.comments and page.comments %}
+        {% include disqus.html %}
+      {% endif %}
+
+    </div> <!-- #page -->
+  </div><!-- .home-col -->
+</div><!-- .row -->

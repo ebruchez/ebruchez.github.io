@@ -1,0 +1,254 @@
+---
+layout: default
+# Wide catalog hub layout for the Bruchez Typewriter Collection
+---
+
+{% assign stats = site.data.typewriters_stats %}
+{% assign machines = site.data.typewriters %}
+
+<div class="row">
+  <div class="col-12 col-lg-11 col-xl-12 home-col">
+    <div id="page" class="post tw-page pb-5 pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4 mb-md-4">
+
+      <div class="tw-page__header">
+        <div class="tw-page__title-row">
+          <h1 class="dynamic-title mb-2">{{ page.title }}</h1>
+          <a href="https://typewriterdatabase.com/typewriters.php?hunter_search=3614" class="tw-twdb-profile-link" target="_blank" rel="noopener">
+            <i class="fas fa-database mr-1" aria-hidden="true"></i>View on TWDB <i class="fas fa-external-link-alt fa-xs ml-1" aria-hidden="true"></i>
+          </a>
+        </div>
+
+        {% if stats %}
+        <p class="tw-page__summary text-muted mb-0">
+          <span><strong>{{ stats.total_collection }}</strong> in collection on TWDB</span>
+          {% if stats.brands_count > 0 %}
+            <span class="tw-summary-sep" aria-hidden="true">·</span>
+            <span><strong>{{ stats.brands_count }}</strong> brands</span>
+          {% endif %}
+          {% if stats.year_min and stats.year_max %}
+            <span class="tw-summary-sep" aria-hidden="true">·</span>
+            <span><strong>{{ stats.year_min }}–{{ stats.year_max }}</strong></span>
+          {% endif %}
+          {% if stats.total_restored_or_working > 0 %}
+            <span class="tw-summary-sep" aria-hidden="true">·</span>
+            <span><strong>{{ stats.total_restored_or_working }}</strong> working / restored</span>
+          {% endif %}
+          {% if stats.total_photos_on_twdb > 0 %}
+            <span class="tw-summary-sep" aria-hidden="true">·</span>
+            <span><strong>{{ stats.total_photos_on_twdb }}</strong> photos on TWDB</span>
+          {% endif %}
+        </p>
+        {% endif %}
+      </div>
+
+      <!-- Curated Thematic Guides sub-nav -->
+      <nav class="tw-guides-nav" aria-label="Curated typewriter guides">
+        <span class="tw-guides-nav__label">Curated guides:</span>
+        <a class="tw-guide-pill" href="{{ '/pages/typewriter-collection-hermes/' | relative_url }}">Hermes</a>
+        <a class="tw-guide-pill" href="{{ '/pages/typewriter-collection-ibm/' | relative_url }}">IBM</a>
+        <a class="tw-guide-pill" href="{{ '/pages/typewriter-collection-varityper/' | relative_url }}">Varityper</a>
+        <a class="tw-guide-pill" href="{{ '/pages/typewriter-collection-accounting/' | relative_url }}">Accounting</a>
+        <a class="tw-guide-pill" href="{{ '/pages/typewriter-collection-completed-restorations/' | relative_url }}">Completed Restorations</a>
+        <a class="tw-guide-pill" href="{{ '/pages/typewriter-collection-future-restorations/' | relative_url }}">Future Restorations</a>
+        <a class="tw-guide-pill" href="{{ '/pages/typewriter-bucket-list/' | relative_url }}">Bucket List</a>
+      </nav>
+
+      <div class="post-content tw-content">
+        {{ content }}
+
+        {% if machines and machines.size > 0 %}
+        <!-- Bucket Tabs -->
+        <div class="tw-bucket-tabs" role="tablist" aria-label="Collection sections">
+          <button type="button" class="tw-bucket-tab is-active" role="tab" aria-selected="true" data-tw-bucket="collection">
+            Collection <span class="tw-pill-count">{{ stats.total_collection }}</span>
+          </button>
+          {% if stats.total_backlog > 0 %}
+          <button type="button" class="tw-bucket-tab" role="tab" aria-selected="false" data-tw-bucket="backlog">
+            Not Yet on TWDB <span class="tw-pill-count">{{ stats.total_backlog }}</span>
+          </button>
+          {% endif %}
+          {% if stats.total_former > 0 %}
+          <button type="button" class="tw-bucket-tab" role="tab" aria-selected="false" data-tw-bucket="former">
+            Former / Parts <span class="tw-pill-count">{{ stats.total_former }}</span>
+          </button>
+          {% endif %}
+          {% if stats.total_sightings > 0 %}
+          <button type="button" class="tw-bucket-tab" role="tab" aria-selected="false" data-tw-bucket="sightings">
+            TWDB Sightings <span class="tw-pill-count">{{ stats.total_sightings }}</span>
+          </button>
+          {% endif %}
+          <button type="button" class="tw-bucket-tab" role="tab" aria-selected="false" data-tw-bucket="all">
+            All <span class="tw-pill-count">{{ stats.total_all }}</span>
+          </button>
+        </div>
+
+        <!-- Filter & Sort Controls -->
+        <div class="tw-controls" id="tw-controls">
+          <div class="tw-controls__search">
+            <label for="tw-search" class="sr-only">Filter typewriters</label>
+            <i class="fas fa-search tw-controls__search-icon" aria-hidden="true"></i>
+            <input type="search" id="tw-search" placeholder="Search brand, model, year, serial, typeface…" autocomplete="off">
+          </div>
+
+          <div class="tw-controls__selects">
+            <label for="tw-filter-brand" class="sr-only">Brand</label>
+            <select id="tw-filter-brand" aria-label="Filter by brand">
+              <option value="">All brands</option>
+              {% for b in stats.brands %}
+              <option value="{{ b.name | escape }}">{{ b.name }} ({{ b.count }})</option>
+              {% endfor %}
+            </select>
+
+            <label for="tw-filter-decade" class="sr-only">Decade</label>
+            <select id="tw-filter-decade" aria-label="Filter by decade">
+              <option value="">All decades</option>
+              {% for d in stats.decades %}
+              <option value="{{ d | escape }}">{{ d }}</option>
+              {% endfor %}
+            </select>
+
+            <label for="tw-filter-type" class="sr-only">Machine type</label>
+            <select id="tw-filter-type" aria-label="Filter by machine type">
+              <option value="">All types</option>
+              {% for mt in stats.machine_types %}
+              <option value="{{ mt | escape }}">{{ mt }}</option>
+              {% endfor %}
+            </select>
+
+            <label for="tw-filter-status" class="sr-only">Status</label>
+            <select id="tw-filter-status" aria-label="Filter by status">
+              <option value="">All statuses</option>
+              <option value="restored">Restored</option>
+              <option value="working">Working / Cleaned</option>
+              <option value="in_progress">In Progress</option>
+              <option value="to_process">To Process</option>
+              <option value="parts">For Parts</option>
+              <option value="sold">Former / Sold</option>
+            </select>
+
+            <label for="tw-sort" class="sr-only">Sort order</label>
+            <select id="tw-sort" aria-label="Sort typewriters">
+              <option value="brand">Sort: Brand A–Z</option>
+              <option value="year_asc">Sort: Year (oldest)</option>
+              <option value="year_desc">Sort: Year (newest)</option>
+              <option value="updated">Sort: Recently updated</option>
+              <option value="photos">Sort: Most photos</option>
+            </select>
+          </div>
+
+          <div class="tw-controls__meta">
+            <span id="tw-result-count" aria-live="polite">Showing {{ stats.total_collection }} machines</span>
+            <button type="button" id="tw-reset-filters" class="tw-reset-btn" hidden>Reset filters</button>
+          </div>
+        </div>
+
+        <!-- Catalog Card Grid -->
+        <div class="tw-grid-wrap">
+          <div class="tw-grid" id="tw-grid">
+            {% assign eager_count = 0 %}
+            {% for m in machines %}
+              {% assign is_default_visible = false %}
+              {% if m.bucket == 'collection' %}{% assign is_default_visible = true %}{% endif %}
+              {% assign search_blob = m.title | append: ' ' | append: m.serial | append: ' ' | append: m.typeface | append: ' ' | append: m.machine_type | append: ' ' | append: m.status | downcase %}
+              <article
+                class="tw-card{% unless m.hero_url %} tw-card--no-photo{% endunless %}"
+                data-bucket="{{ m.bucket }}"
+                data-brand="{{ m.brand | escape }}"
+                data-decade="{{ m.decade | escape }}"
+                data-type="{{ m.machine_type | escape }}"
+                data-status="{{ m.status_group }}"
+                data-year="{{ m.year_num }}"
+                data-updated="{{ m.updated_at | escape }}"
+                data-photos="{{ m.photo_count }}"
+                data-sort-brand="{{ m.brand | downcase | escape }}|{{ m.year_num }}|{{ m.model | downcase | escape }}"
+                data-search="{{ search_blob | escape }}"
+                {% unless is_default_visible %}hidden{% endunless %}
+              >
+                {% if m.hero_url %}
+                  {% assign load_attr = 'lazy' %}
+                  {% if is_default_visible and eager_count < 3 %}
+                    {% assign load_attr = 'eager' %}
+                    {% assign eager_count = eager_count | plus: 1 %}
+                  {% endif %}
+                  <a href="{{ m.url | relative_url }}" class="tw-card__media" tabindex="-1" aria-hidden="true">
+                    <img
+                      src="{{ m.hero_url | relative_url }}"
+                      alt="{{ m.title | escape }}"
+                      {% if m.hero_width %}width="{{ m.hero_width }}"{% endif %}
+                      {% if m.hero_height %}height="{{ m.hero_height }}"{% endif %}
+                      loading="{{ load_attr }}"
+                      decoding="async"
+                    >
+                    {% if m.photo_count > 0 %}
+                    <span class="tw-card__photo-count" title="{{ m.photo_count }} photos on TWDB">
+                      <i class="far fa-images" aria-hidden="true"></i> {{ m.photo_count }}
+                    </span>
+                    {% endif %}
+                  </a>
+                {% endif %}
+
+                <div class="tw-card__body">
+                  <div class="tw-card__top">
+                    <h2 class="tw-card__title">
+                      {% if m.has_detail_page %}
+                        <a href="{{ m.url | relative_url }}">{{ m.title }}</a>
+                      {% else %}
+                        <span>{{ m.title }}</span>
+                      {% endif %}
+                    </h2>
+                  </div>
+
+                  <div class="tw-card__badges">
+                    {% if m.status_group and m.status_group != 'unknown' %}
+                      <span class="tw-badge tw-badge--{{ m.status_group }}">{{ m.status_label }}</span>
+                    {% endif %}
+                    {% if m.machine_type != '' %}
+                      <span class="tw-badge tw-badge--muted">{{ m.machine_type }}</span>
+                    {% endif %}
+                    {% unless m.on_twdb %}
+                      <span class="tw-badge tw-badge--backlog">Not yet on TWDB</span>
+                    {% endunless %}
+                    {% if m.bucket == 'sightings' %}
+                      <span class="tw-badge tw-badge--sighting">Sighting</span>
+                    {% endif %}
+                  </div>
+
+                  <dl class="tw-card__meta">
+                    {% if m.serial != '' %}
+                      <div><dt>Serial</dt><dd><code>{{ m.serial }}</code></dd></div>
+                    {% endif %}
+                    {% if m.typeface != '' %}
+                      <div><dt>Typeface</dt><dd>{{ m.typeface }}</dd></div>
+                    {% endif %}
+                    {% if m.typeface_url %}
+                      <div><dt>Specimen</dt><dd><i class="fas fa-font fa-xs" aria-hidden="true"></i> Available</dd></div>
+                    {% endif %}
+                  </dl>
+
+                  <div class="tw-card__footer">
+                    {% if m.has_detail_page %}
+                      <a href="{{ m.url | relative_url }}" class="tw-card__detail-link">Details →</a>
+                    {% endif %}
+                    {% if m.twdb_url %}
+                      <a href="{{ m.twdb_url }}" class="tw-card__twdb-link" target="_blank" rel="noopener" title="View on The Typewriter Database">
+                        TWDB <i class="fas fa-external-link-alt fa-xs" aria-hidden="true"></i>
+                      </a>
+                    {% endif %}
+                  </div>
+                </div>
+              </article>
+            {% endfor %}
+          </div>
+
+          <p id="tw-empty-state" class="tw-empty-state text-muted" hidden>
+            No typewriters match the current filters.
+          </p>
+        </div>
+        {% endif %}
+      </div>
+
+    </div> <!-- #page -->
+  </div><!-- .home-col -->
+</div><!-- .row -->
+
+<script defer src="{{ '/assets/js/typewriters.js' | relative_url }}"></script>

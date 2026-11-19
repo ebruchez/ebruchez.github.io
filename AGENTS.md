@@ -35,6 +35,31 @@ Personal blog and collection site for Erik Bruchez (`https://blog.bruchez.name`)
   - `search-index.rb`: Precomputes `assets/js/data/search.json` in `:pre_render` across posts, collection pages, and comic book reading logs for lazy client-side search.
   - `lightbox-images.rb` + `assets/js/lightbox3.min.js`: Automatically wraps content `<img>` tags on `post` and `page` layouts in `<a class="lightbox-trigger" data-lightbox="page-gallery">`. Opt out with `data-no-lightbox` or `.no-lightbox`. On custom layouts (such as `comics`), render `class="lightbox-trigger" data-lightbox="page-gallery"` directly on the `<a>` element (omit legacy `.img-hyperlink`).
   - `comics-data.rb`: Enriches `_data/comics/*.yml` at `:pre_render` time (pre-rendering Markdown, reading `.webp` dimensions to prevent CLS, computing per-year stats, and building `site.data['comics_latest_featured']`).
+  - `typewriters-data.rb`: Reconciles `_data/typewriters_twdb.yml`, `_data/typewriters_sheet.yml`, and `_data/typewriters_overrides.yml` in a high-priority `Jekyll::Generator`, computes `site.data['typewriters_stats']`, and generates individual machine detail pages at `/typewriters/<slug>/`.
+
+---
+
+## Typewriter Collection Mirror (`tools/sync-typewriters.rb`)
+
+- **Data files**:
+  - `_data/typewriters_twdb.yml`: Auto-generated mirror of Erik's galleries on TWDB (`hunter_search=3614`).
+  - `_data/typewriters_sheet.yml`: Auto-generated allowlisted public fields from Google Sheets (*List of Acquisitions*). Financial columns (`Price`, `S&H / Tax`, `Total`, `Current Value`), `Loc.`, `My Score`, and `Comment` are **never** exported.
+  - `_data/typewriters_overrides.yml`: Hand-edited site-specific curation (explicit `seq` ↔ `twdb_id` links, extra public notes, related posts, featured pins, or hiding machines).
+- **Local images**: Optimized `.webp` hero photos (`<= 800px`) and typeface specimens (`<= 1000x1400`) stored in `assets/pages/typewriters/<twdb_id>/`. Full galleries remain on TWDB and are linked from each machine's detail page.
+- **Sync & Audit CLI**:
+  ```sh
+  # Incremental TWDB sync + refresh 15 most recently updated galleries
+  ruby tools/sync-typewriters.rb --twdb --refresh-recent 15
+
+  # Sync allowlisted public fields from Google Sheet
+  ruby tools/sync-typewriters.rb --sheet
+
+  # Sync both and print TWDB <-> Sheet reconciliation & backlog audit
+  ruby tools/sync-typewriters.rb --all --audit
+
+  # Preview (or --apply) writing matched TWDB URLs into the Google Sheet
+  ruby tools/sync-typewriters.rb --write-sheet-links
+  ```
 
 ---
 
@@ -112,3 +137,7 @@ ruby tools/manage-comic-covers.rb --set <entry-id> /path/to/image-or-url
 # Fetch high-confidence covers from open publisher og:image tags, Apple Books API, and Open Library
 ruby tools/manage-comic-covers.rb --fetch-online --year 2026 --limit 20
 ```
+
+## Testing in a browser
+
+Use playwright-cli to access the local deployed site, as a human would. The main instance is usually at http://localhost:4000/.

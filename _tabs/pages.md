@@ -10,15 +10,17 @@ order: 3
 bucket list
 : list of things that one has not done before but wants to do before dying
 
-I maintain the following "bucket lists" of things to acquire:
+I maintain the following "bucket lists":
 
 - [Typewriters](/pages/typewriter-bucket-list/)
+- [Typewriters found](/pages/typewriter-bucket-list-found/)
 - [Computers](/pages/computer-bucket-list/)
 
 ## Collections
 
 ### Typewriters
 
+- [Typewriter Collection (Full Catalog)](/typewriters/)
 - [Typewriter Collection: Completed Restorations](/pages/typewriter-collection-completed-restorations/)
 - [Typewriter Collection: Future Restorations](/pages/typewriter-collection-future-restorations/)
 - [Typewriter Collection: Hermes Typewriters](/pages/typewriter-collection-hermes/)

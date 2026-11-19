@@ -123,6 +123,18 @@ module BruchezSearchIndex
           extra = build_comics_hub_extra(site)
           body = "#{text} #{extra}".strip
         end
+      elsif page.data['layout'] == 'typewriter' && (m = page.data['machine']).is_a?(Hash)
+        label = 'Typewriter'
+        meta_parts = [m['serial'].to_s.empty? ? nil : "Serial ##{m['serial']}", m['machine_type'], m['typeface'], m['status_label']].reject { |s| s.nil? || s.empty? }
+        desc_plain = FilterHost.strip_html(m['description_html'].to_s).gsub(/\s+/, ' ').strip
+        snippet = FilterHost.truncate([meta_parts.join(' · '), desc_plain].reject(&:empty?).join(' — '), SNIPPET_CHARS)
+        body = [m['title'], m['brand'], m['model'], m['year'], m['serial'], m['typeface'], m['machine_type'], m['status'], desc_plain].reject { |s| s.nil? || s.empty? }.join(' ')
+      elsif page.data['layout'] == 'typewriters'
+        label = 'Typewriters'
+        stats = site.data['typewriters_stats']
+        if stats.is_a?(Hash)
+          snippet = "Catalog of #{stats['total_collection']} typewriters on TWDB (#{stats['year_min']}–#{stats['year_max']}, #{stats['brands_count']} brands)."
+        end
       elsif url.include?('typewriter') || url.include?('computer')
         label = 'Collection'
       end

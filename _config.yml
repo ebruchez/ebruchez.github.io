@@ -90,7 +90,6 @@ collections:
     output: true
     sort_by: order
 
-
 defaults:
   -
     scope:
@@ -202,3 +201,10 @@ plugins:
 relative_links:
   enabled:     true
   collections: true
+
+
+feed:
+##  path: /feeds/posts/default
+#  posts_limit: 50
+#  excerpt_only: false
+  disable_in_development: true
