@@ -27,6 +27,19 @@ carthage_lamp_slides:
     height: 1200
     alt: "Front and back line drawings of the Carthage terracotta hydraulis lamp from the 1911 Encyclopaedia Britannica"
     caption: "Front (left) and rear (right) line drawings from the 1911 Encyclopaedia Britannica, making the hexagonal cistern, strapped side pumps, broken organist figure, and row of keys easy to trace."
+norrlanda_organ_slides:
+  - label: "Manual close-up"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/norrlanda-keyboard.webp
+    width: 773
+    height: 592
+    alt: "Close-up archival photograph of the surviving manual of the medieval Norrlanda organ"
+    caption: "Close-up of the surviving manual of the Norrlanda organ (c. 1370–1400), showing the two-tier keys and the painted note-letter strip above them. Photo: Riksantikvarieämbetet / Kulturmiljöbild (Wikimedia Commons, Public Domain)."
+  - label: "Console & action (color)"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/norrlanda-organ-console.webp
+    width: 1200
+    height: 951
+    alt: "Color detail of the Norrlanda organ console, manual, and rollerboard tracker action at the Swedish History Museum in Stockholm"
+    caption: "Color view of the Norrlanda organ manual in context beneath its wooden rollerboard and vertical trackers at the Swedish History Museum in Stockholm (cropped from full-organ photograph). Photo: Statens historiska museer (SHM), CC BY 4.0."
 valere_sion_slides:
   - label: "Full manual"
     src: /assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-manual-full.webp
@@ -137,9 +150,19 @@ Of course, playing Halberstadt was nothing like playing a modern Steinway. Its u
 
 Fortunately, we do not have to rely on later engravings alone: for the end of the 14th century, untouched medieval wood survives! Preserved in the Swedish History Museum in Stockholm are the fragments of the **Norrlanda organ** from Gotland, dated c. 1370–1400 (or before 1430) - the world's oldest surviving organ case, windchest, pedals, and manual.[^rumsey]
 
-![Surviving manual of the Norrlanda organ (c. 1370–1400) in Stockholm](/assets/posts/origin-of-the-modern-musical-keyboard/norrlanda-keyboard.webp){:standalone width="75%"}
+{% include carousel.html id="norrlanda-organ" label="Surviving manual and console of the medieval Norrlanda organ" slides=page.norrlanda_organ_slides %}
+
+*Photo credits: archival manual close-up via [Wikimedia Commons / Riksantikvarieämbetet (Kulturmiljöbild)](https://commons.wikimedia.org/wiki/File:Norrlanda_kyrka_-_KMB_-_16000200025694.jpg) (Public Domain); color console detail cropped from [Statens historiska museer (SHM)](https://samlingar.shm.se/media/22F919ED-EA74-48A9-BB0B-546AEFB49C7F) ([object `116311_HST`](https://samlingar.shm.se/object/1158466A-7686-4E18-88B9-B0D4BE39E7CF), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
 Its 22-note chromatic manual (`c` to `a'`) clearly splits into two main levels, with a revealing quirk: **B♭ still sits down on the lower row** alongside the diatonic naturals (giving 14 lower keys, with `A`, `B♭`, `B♮`, and `C` side by side), leaving the 8 sharp keys (`C♯`, `D♯`, `F♯`, and `G♯` across two octaves) arranged in raised pairs above![^rumsey] (The tiny isolated key perched even higher up near the center of the photo is thought to have served an accessory function, such as a drone, rather than a regular melody note.[^meeus]) Builders had clearly invented the two-tier chromatic manual, even if B♭ had not yet moved upstairs to join F♯ and G♯.
+
+### A cautionary detour in Verona: why medieval art is a minefield
+
+Because surviving medieval instruments like Norrlanda are so rare, it is tempting to lean heavily on paintings and sculptures to date the arrival of raised accidentals. In practice, medieval art is a dating minefield - as I discovered firsthand in 2022 at the Museo di Castelvecchio in Verona, photographing a stone statue of *Saint Cecilia* attributed to the Master of Santa Anastasia and dated on the wall label to the **first half of the 14th century**:
+
+![Carved portative organ held by the Saint Cecilia statue at the Museo di Castelvecchio in Verona](/assets/posts/origin-of-the-modern-musical-keyboard/castelvecchio-saint-cecilia-organ.webp){:standalone width="75%"}
+
+At first glance, that small portative organ looks like a bombshell: neat, block-shaped raised keys predating both Halberstadt (1361) and Norrlanda (c. 1400)! Reading the fine print on the museum's placard quickly brings you back to earth: the statue underwent heavy 19th-century restorations, and **the hand, arm, and portative organ are later additions carved from stone from a different quarry** - so much so that curators are no longer even sure the sculpture originally depicted Saint Cecilia. Look closely at the keys themselves and a second classic pitfall jumps out: artistic license. Instead of a real 2-and-3 chromatic layout (or even Norrlanda's musically asymmetric pairs, where `C–D–E` has three naturals and `F–G–A–B♭–B` has five), the sculptor simply repeated four identical, symmetrical pairs of raised keys (`2–2–2–2`) as decorative shorthand for "keyboard."
 
 ## Block keys, a painted-over altarpiece, and Switzerland's oldest playable organ (1430s–1456)
 
