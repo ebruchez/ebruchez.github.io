@@ -1,128 +1,160 @@
 ---
 layout: post
-title: The origin of the modern musical keyboard
+title: "The Origin of the Modern Musical Keyboard"
 author: Erik Bruchez
 tags:
+  - music
+  - reading
 category: Technology
+main_image: /assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-organ.webp
+main_image_caption: "Detail of the angel organist's keyboard in the Ghent Altarpiece (1432)"
 ---
 
-I have been wondering when the current layout of the piano keyboard came to existence. You know, the type with the seven white keys and the 5 black keys and repeating I had trouble finding a clear answer immediately so I set to do a bit more research. This has led me to a brick-and-mortar library and even to an inter-library loan, because unfortunately not all of mankind's writings are available online just yet.
+## Introduction
 
+Have you ever wondered when the familiar layout of the modern piano keyboard came into existence—that repeating pattern of seven white keys and five raised black keys? When I first went looking for a clear answer, it turned out to be surprisingly hard to pin down online. That question sent me to brick-and-mortar libraries, inter-library loans, and eventually a 300-page history of the ancient and medieval pipe organ.[^perrot]
 
+![Modern Steinway piano keyboard (photo by madabandon)](/assets/posts/origin-of-the-modern-musical-keyboard/steinway-keyboard.webp){:standalone width="75%"}
 
-[![](http://2.bp.blogspot.com/-niAM6fVpZe0/UCg5M-OcnSI/AAAAAAAAApc/CmHqfm4Uoco/s400/steinway.jpg)](http://2.bp.blogspot.com/-niAM6fVpZe0/UCg5M-OcnSI/AAAAAAAAApc/CmHqfm4Uoco/s1600/steinway.jpg)
+Why pipe organs? Because the earliest musical keyboards were *organ* keyboards.[^manual] Unlike a flute or a harp, a multi-pipe organ fed by mechanical pumps or bellows needs a valve mechanism so the player can choose which pipe speaks and when. In a companion post, [The Early History of the Organ](/posts/2021-xx-xx-The-early-history-of-the-organ/), I trace how that remarkable machine traveled from Hellenistic Egypt to medieval cathedrals. Here, I want to follow the interface itself: how a row of ancient organ levers evolved into the chromatic keyboard we play today.
 
-_Steinway piano keyboard ([photo by madabandon](http://www.flickr.com/photos/madabandon/65316221/)__)_
+## A spring-loaded keyboard 2,300 years ago
 
-The earliest keyboards known were pipe organ \[10\] keyboards. This makes sense, because unless you want the instrument to play always the same sound, you do need a mechanism to control air flow to the pipes. Now when we talk about keyboards here, we xxxx spacing wrt pipes.
+### Hero of Alexandria's key action
 
-The pipe organ was invented as early as the 3rd century BC (so more than 2,200 years ago), and the first instruments were powered by water and called hydraulis \[13\]. The remains of a 1st century BC hydraulis were found in 1992, and "the instrument had two rows of keys" \[11\] A reconstruction of that hydraulis was made \[12\], and it features a keyboard with evenly spaced keys. As the remains found didn't include wood (which had decomposed), it is likely that the reconstructed primitive keyboard is guesswork. It seems (possibly unreliable source) that we do know that "the lower (bass) notes were situated on the left, and higher (treble) notes were situated on the right \[and the\] notes of the Hydraulis consisted only of seven basic notes (A, B, C, D, E, F, & G)" \[14\].
+To me, the single most stunning fact in Jean Perrot's book[^perrot] is that the Greco-Roman *hydraulis* (water-regulated pipe organ) *already* featured something we would immediately recognize as a finger-played musical keyboard. The invention is at least 2,000 years old, and very likely goes back to the organ's inventor, Ktesibios of Alexandria, in the 3rd century BCE.
 
-In the Middle Ages, "organs had found their way into churches by the end of the tenth century" \[3\], and a certain Theophilius (early 12th century) reports in his _Schedula diversarum artium_ "wooden sliders projecting from the chest \[of the organ\] and lettered so that the player knew which note he was sounding" \[3\]
+Thanks to a 1st-century CE treatise by Hero of Alexandria, we know the exact mechanical recipe of this ancient action:
 
-In the middle of the 13th century, a [Cantigas de Santa Maria](http://en.wikipedia.org/wiki/Cantigas_de_Santa_Maria) illumination shows portative organs with keyboards. It's hard to tell for sure but they appear to have a single row of evenly spaced keys. So no certain trace of "black keys" as of yet.
+- perforated **sliders** resting inside the windchest beneath each pipe,
+- **keys** arranged horizontally in front of the player,
+- pivoting **cranks** (bell-cranks) linking each depressed key to its slider so air could enter the pipe, and
+- flexible **horn spatulas** acting as return springs, tied with gut to pull the slider shut and return the key as soon as the finger lifted.
 
+![Cross-section of Hero of Alexandria's key, crank, slider, and horn-spring mechanism](/assets/posts/origin-of-the-modern-musical-keyboard/key-and-wind-chest.webp){:standalone width="65%"}
 
-[![](http://3.bp.blogspot.com/-m8XLBMn-S6g/UAJb391H9CI/AAAAAAAAAlg/hGxX5XSUVpM/s400/cantiga_4.jpg)](http://3.bp.blogspot.com/-m8XLBMn-S6g/UAJb391H9CI/AAAAAAAAAlg/hGxX5XSUVpM/s1600/cantiga_4.jpg)
+Modern reconstructions of the *hydraulis* have confirmed how responsive this action is. Just like a modern organ or piano (though pianos use gravity and balance weights rather than springs), the keys sat roughly horizontal, went down under finger pressure, and sprang back automatically on release.
 
-_Illumination from the [Cantigas de Santa Maria](http://en.wikipedia.org/wiki/Cantigas_de_Santa_Maria)_
+### Clues from archaeology, texts, and mosaics
 
-But "Jacobus of Liège, writing around 1330, specifies that in certain instruments, including the organ, almost everywhere the tone is divided into two unequal semitones (based on the Pythagorean intonation)". \[5\] Also, "Johannes de Muris (first half of the 14th century) mentioned keys for f# and g#". \[GROVE\]
+Because Greco-Roman artists almost always depicted the organ from the front—showing off its decorated base, gleaming pipes, and the performer's face—the keyboard itself sat hidden behind the pipes. Fortunately, archaeology and late-antique writers fill in many of the missing details:
 
-This takes us to 1361, with "[the first documented permanent organ installation](http://en.wikipedia.org/wiki/Pipe_organ)" in Halberstadt, Germany. And that is fascinating because this instrument featured the pattern of a modern keyboard ("The first recorded keyboard with this arrangement was built by one Nicholas Faber in Halberstadt, Germany in the year 1361" \[1\]). This organ was "reported to have twenty-two keys, with wind power supplied by twenty bellows operated by ten men" \[2\]. This layout can be seen on  the engravings below (left and top right panels):
+- **Physical remains:** The 1st-century BCE [Dion hydraulis][dion-link] (unearthed in Greece in 1992) and especially the 3rd-century CE [Aquincum organ][aquincum-link] confirm Hero's layout in metal, including wooden keys reinforced in bronze with bronze return springs.
+- **Ancient descriptions:** In the 4th century, Porfyrius Optatianus wrote of *"a line of square-shaped keys whereby the musician's hand opens and shuts in time the openings for the air"*—keys *"which ever tremble to the slightest touch."* His contemporary, Emperor Julian ("the Apostate"), described a *"man with nimble fingers […] manipulating the keys which give voice to the pipes,"* and 6th-century Roman statesman Cassiodorus referred explicitly to *"wooden keys."*
+- **Rare rear views:** A terracotta lamp in the Carthage museum shows a keyboard of 18 oblong, relatively broad keys, and the late-antique "Rusticus" organ carving near Rome depicts *"15 keys longer than broad, lying close together as in the modern manual."*[^perrot]
 
+How close was this to a modern piano? Think of a single row of "white" keys with no raised "black" keys yet. Because each key sat directly in line with the slider feeding its pipe—without a rollerboard to fan the motion sideways—the keys had to match the spacing of the pipes, putting key centers roughly 5 to 7 cm (2 to 3 inches) apart, wider than on a modern piano. Even so, ancient writers consistently emphasized nimble two-handed finger dexterity rather than fist-pounding: sliders *"continuously in motion"* under *"masterly fingers."*
 
+### Why are high notes on the right?
 
-[![](https://lh4.googleusercontent.com/-rekETeErM3I/UAJT1pmzMGI/AAAAAAAAAlM/B4PvFmu8sgU/s640/Photo%252520Jul%25252014%25252C%2525202012%25252010%25253A04%252520PM.jpg)](https://lh4.googleusercontent.com/-rekETeErM3I/UAJT1pmzMGI/AAAAAAAAAlM/B4PvFmu8sgU/s2048/Photo%252520Jul%25252014%25252C%2525202012%25252010%25253A04%252520PM.jpg)
+One detail I find especially intriguing is pipe ordering. Even when ancient mosaics hide the keys, the graded pipe lengths betray which way the scale ran—and in nearly every surviving Greco-Roman depiction, the shortest treble pipes sit to the **right** of the organist, just like high notes on a piano today!
 
-_From the Syntagma Musicum by Michael Praetorius (1619 or 1620)_
+![Detail of the Zliten mosaic (2nd century CE): because the organist faces us from behind the instrument, the shortest treble pipes on the viewer's left sit under her right hand](/assets/posts/origin-of-the-modern-musical-keyboard/zliten-organist-front.webp){:standalone width="60%"}
 
+Perrot treats this left-to-right bass-to-treble convention as an arbitrary habit that simply stuck from Hellenistic times onward. I cannot help wondering whether ergonomics played a role too: most players are right-handed, and agile melodic lines tend to gravitate toward the higher register where the right hand sits.
 
-It's pretty clear that it was not exactly like a modern piano or organ, as the keys look more like levers, they are spade-shaped, and they were spaced further apart than the modern keyboard. You probably wouldn't play those as you would a modern keyboard: "The Halberstadt keyboard had keys probably 2 inches (5) cm) or more wide, intended to be played with the entire hand" \[1\]. "Praetorius mentioned keys about 8 cm wide for the Halberstadt organ" \[xxx Grove\] The Cambridge Companion to the Organ: "It is not known whether keys were ever 'thumped' with the whole fist as used to be suggested, but \[…\] the early organs would require some force to operate" \[3\]. Still, the concept is there already.
+Summing up the classical evidence, Perrot concludes:
 
+> The piano keyboard […] derives directly from that of the Greco-Roman organ, and the position of the hands on that primitive manual probably contributed in no small measure to the evolution of polyphonic music.
 
-So far, except for the antique hydraulis, we have only documentary evidence. But there are remains of an organ built around 1400, the Norrlanda (Sweden) organ. It is no longer playable (no more pipes) but it is on display in Stockholm, alongside a reconstruction: "The world’s oldest surviving organ fragments, dating c1370-1400 \[The\] case remains intact with its original keyboard, pedals \[…\], action, and windchests \[…\] The organ has a fully chromatic manual compass of 22 keys \[…\] The keys for diatonic notes, including B♭, are on one level, with keys for C#, D#, F#, and G# arranged in pairs on a higher level." \[6\] The picture shows clearly shows the two rows of keys.
+## Medieval amnesia and diatonic recovery
 
+After the fall of the Western Roman Empire, organ-building knowledge in Western Europe frayed (as I recount in [The Early History of the Organ](/posts/2021-xx-xx-The-early-history-of-the-organ/)). When monastic treatises resume in the 10th through early 12th centuries, many Western organs had lost the Greco-Roman spring-return key action altogether, falling back on slow wooden **sliders** that had to be pulled out by hand and pushed back in to stop the note. At the same time, medieval builders introduced a helpful visual aid: both the 10th-century Winchester poem and Theophilus's treatise (*Schedula diversarum artium*) describe inscribing **letters of the alphabet** directly onto sliders or keys so the organist knew which pitch each controlled.[^cambridge]
 
+![Portative organ in a mid-13th-century illumination from the Cantigas de Santa Maria](/assets/posts/origin-of-the-modern-musical-keyboard/cantigas-portative-organ.webp){:standalone width="45%"}
 
-[![](http://4.bp.blogspot.com/-6wJzNbWSEAs/UB73vhLRofI/AAAAAAAAAo8/dL_J-i6Uoq0/s640/Norrlanda.jpg)](http://4.bp.blogspot.com/-6wJzNbWSEAs/UB73vhLRofI/AAAAAAAAAo8/dL_J-i6Uoq0/s1600/Norrlanda.jpg)
+By the 13th century, proper spring- or lever-returned wooden keyboards (often reinforced with iron) were back in widespread use across church, positive, and small handheld portative organs—visible in manuscripts like the c. 1260 Rutland Psalter and the [Cantigas de Santa Maria](https://en.wikipedia.org/wiki/Cantigas_de_Santa_Maria) above. Yet as far as we can tell, 13th-century manuals still arranged a diatonic scale (often with an added B♭) in a **single row of evenly spaced keys**. There is still no clear sign of a second, raised row of "black keys."
 
-_Keyboard of the Norrlanda organ_
+## Splitting the tone: Halberstadt and Norrlanda (1330–1400)
 
-It is interesting that the B♭, instead of being the 5th "black key", is alongside the other keys. This tells us that they hadn't yet figured out for sure what the best layout was. \[7\]
+The 14th century is where chromaticism—and a second tier of keys—finally breaks into the historical record:
 
-The Ghent Altarpiece by Jan and Hugo van Eyck (1432) is taking us even closer to a modern keyboard appearance. You can see on the picture that the black keys have a "block" shape consistent with what you see on a modern piano or organ. The bottom of the white keys on the other hand have a rounder shape similar to those of the Norrlanda organ.
+- Around **1330**, theorist Jacobus of Liège noted that on certain instruments, including the organ, *"almost everywhere the tone is divided into two unequal semitones"* (in Pythagorean tuning).[^encyclopedia]
+- In the first half of the 14th century, **Johannes de Muris** explicitly mentioned semitone keys for **F♯** and **G♯**.[^grove]
+- Around **1360**, the [Robertsbridge Codex](https://en.wikipedia.org/wiki/Robertsbridge_Codex) preserved the earliest surviving music written specifically for a keyboard instrument (almost certainly the organ), calling for a compass of two octaves and a third, fully chromatic above F.[^grove] Listening to a performance today is a vivid reminder of just how different medieval keyboard music sounded from later Baroque or Classical repertoire:
 
+<div style="margin: 1.5rem 0;">
+  <iframe width="100%" style="aspect-ratio: 16 / 9; border: 0; border-radius: 6px;" src="https://www.youtube.com/embed/3QF4BCKYZxc" title="Robertsbridge Codex (c. 1360) performed on organ" loading="lazy" allowfullscreen></iframe>
+</div>
 
+### The Halberstadt organ (1361)
 
-[![](http://4.bp.blogspot.com/-GKkTICXpej0/UAJlyM-qUyI/AAAAAAAAAls/IMnH0vpYYQA/s640/ghent.jpg)](http://4.bp.blogspot.com/-GKkTICXpej0/UAJlyM-qUyI/AAAAAAAAAls/IMnH0vpYYQA/s1600/ghent.jpg)
+That brings us to **1361**, when organ builder Nicholas Faber completed a landmark permanent cathedral organ in **Halberstadt, Germany**—reported to have twenty-two keys per manual and wind supplied by twenty bellows worked by ten men.[^allen] [^watanabe] Remarkably, Michael Praetorius's famous 1619–1620 treatise *Syntagma Musicum* preserved detailed woodcuts of the old Halberstadt keyboards (left and top-right panels below), and there it is: **the unmistakable 7-and-5 chromatic grouping of a modern keyboard!**
 
-_Detail of the singing angels from the [Ghent Altarpiece](http://closertovaneyck.kikirpa.be/)_
+![Keyboards of the 1361 Halberstadt organ, from Michael Praetorius's Syntagma Musicum (1619–1620)](/assets/posts/origin-of-the-modern-musical-keyboard/syntagma-halberstadt.webp){:standalone width="85%"}
 
+Of course, playing Halberstadt was nothing like playing a modern Steinway. Its upper manual keys look like spade-shaped levers, spaced 5 to 8 cm apart—wide enough that players long had a reputation (perhaps exaggerated) as "organ beaters" pressing keys with the whole hand rather than agile modern fingerings.[^allen] [^cambridge] [^grove] Still, the two-row conceptual breakthrough had clearly arrived.
 
-This might seem a bit funny, until you know more. And we do: a scholar, Edwin M. Ripin, mentions in a 1974 article \[8\] that infrared pictures of that altarpiece reveals a more ancient keyboard layout! The main difference is in the black keys: gone are the block-shaped keys, and at least three black keys a la Norrlandia appear on top:
+### Physical proof in Sweden: the Norrlanda organ (c. 1400)
 
+Up to this point in the Middle Ages, we have been relying on treatises and later engravings. For the end of the 14th century, however, actual wood survives! Preserved in the Swedish History Museum in Stockholm are the fragments of the **Norrlanda organ** from Gotland, dated c. 1370–1400—the world's oldest surviving organ case, windchest, pedals, and manual.[^rumsey]
 
+![Surviving manual of the Norrlanda organ (c. 1370–1400) in Stockholm](/assets/posts/origin-of-the-modern-musical-keyboard/norrlanda-keyboard.webp){:standalone width="75%"}
 
-[![](http://2.bp.blogspot.com/-FajgnT6z3EE/UB77PzqszPI/AAAAAAAAApM/9P52dsx73p4/s640/Older+keyboard.jpg)](http://2.bp.blogspot.com/-FajgnT6z3EE/UB77PzqszPI/AAAAAAAAApM/9P52dsx73p4/s1600/Older+keyboard.jpg)
+Its 22-key chromatic manual clearly splits into two levels, with a revealing quirk: **B♭ still sits down on the lower row** alongside the seven diatonic naturals (reflecting its medieval status as an honorary natural note), leaving only C♯, D♯, F♯, and G♯ arranged in raised pairs above![^rumsey] Builders had invented the two-tier chromatic manual, even if they were still settling on whether B♭ belonged upstairs or downstairs.
 
-_More ancient keyboard revealed by infrared_
+## Block keys, a painted-over altarpiece, and Switzerland's oldest playable organ (1430s–1456)
 
-Even the performer's left hand was redrawn to be taller after the repaint. The reasoning is that the original keyboard depicted might have lacked "black" keys where the hand is positioned, allowing for a flatter hand, however the modern keyboard would not have allowed such a hand position. The right hand, taller, might indicate that there are black keys underneath.
+### The Ghent Altarpiece's infrared secret (1432)
 
-So, if the update to the painting indeed dates from 1432 (as the article and the infrared work date from the 70s, it would be interesting to know if newer information is now available), we have here a painting of a fairly modern-looking keyboard by that date. But the painting was hacked, and knowing that, the keyboard looks a bit weird. For example, the keys are very short, which might have been ok with a Norrlandia-style keyboard, but not for a block-style keyboard. Although "the natural heads remained quite short, about 3.5 cm, up to the 18th century" \[xxx Grove\] It might not have been possible to easily draw longer keys, or, who knows, maybe block-sized keyboards with keys that short existed? That's probably still speculation at this point.
+Just a generation later, Hubert and Jan van Eyck's **Ghent Altarpiece** (completed in 1432) brings us dramatically closer to a modern keyboard's appearance. On the *Music-Making Angels* panel, the raised accidentals now have rectangular **"block" shapes** right between the rounded natural key fronts:
 
-One can assume that this keyboard hacking was motivated because organs now sported such block-shaped keys.
+![Detail of the angel organist from the Ghent Altarpiece (completed 1432)](/assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-organ.webp){:standalone width="75%"}
 
-The same _Syntagma Musicum_ that showed us the Halberstadt keyboards features the following engraving of the keyboard of the organ at Aegidienkirche in Brunswick, supposed to be from 1456:
+Look closely, though, and the proportions look slightly odd—until you learn what lies underneath the paint! In a classic 1974 study, instrument historian Edwin M. Ripin showed that **infrared photography of the panel reveals an older keyboard painted underneath**.[^ripin] In the earlier layer (begun in the 1420s), the block-shaped sharps are gone, replaced by narrow, Norrlanda-style raised keys set back behind the naturals and starting on G without bass accidentals:
 
+![Infrared reflectogram of the Ghent Altarpiece organ manual revealing an earlier Norrlanda-style keyboard underneath](/assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-infrared.webp){:standalone width="75%"}
 
+Even the angel's left hand was repainted higher up! On the earlier keyboard, which lacked raised accidentals under that part of the hand, the fingers could rest flat; once modern block sharps were painted in—almost certainly by Jan van Eyck himself before finishing the polyptych in 1432, as subsequent high-resolution imaging from Belgium's [Closer to Van Eyck][van-eyck-link] conservation project has made easy to inspect online—the hand had to be arched above them. That mid-project "keyboard upgrade" explains why the visible natural key heads look stubby, since they had to share the shallow space originally allotted to naturals alone (though natural key heads on historic organs did remain comparatively short, around 3.5 cm, right up to the 18th century[^grove]). Either way, by **1432**, block-shaped black keys in the modern 2-and-3 grouping were real enough to prompt van Eyck to update his painting!
 
+### Brunswick (1456) and the Valère organ in Sion (c. 1430s)
 
-[![](http://4.bp.blogspot.com/-1Ks914o9sCA/UATsEEQhOgI/AAAAAAAAAmo/2AIv4G-eK50/s1600/Syntagma16+copy.png)](http://4.bp.blogspot.com/-1Ks914o9sCA/UATsEEQhOgI/AAAAAAAAAmo/2AIv4G-eK50/s1600/Syntagma16+copy.png)[![](http://4.bp.blogspot.com/-i2lVnuFUY24/UATsDnxUj3I/AAAAAAAAAmg/OTr7Mr_a6Jg/s1600/Syntagma15+copy.png)](http://4.bp.blogspot.com/-i2lVnuFUY24/UATsDnxUj3I/AAAAAAAAAmg/OTr7Mr_a6Jg/s1600/Syntagma15+copy.png)
+Praetorius's *Syntagma Musicum* gives us another milestone from **1456**: the keyboards of the Aegidienkirche organ in Brunswick (*Braunschweig*), Germany. Here the natural keys are longer and better proportioned than on the repainted Ghent panel, and although the block accidentals stand a bit taller than today's, the overall geometry is unmistakably modern:
 
+![Keyboards of the 1456 Aegidienkirche organ in Brunswick (Plates XXVII and XXVIII of Praetorius's Syntagma Musicum)](/assets/posts/origin-of-the-modern-musical-keyboard/syntagma-brunswick.webp){:standalone width="75%"}
 
+Finally, I cannot resist mentioning the **world's oldest playable organ**, built around **1430–1435** in the Basilica of Valère in **Sion, Switzerland**—not far from where I grew up![^valere] Looking at a photo of the Valère console today, my immediate hunch was that the keyboard itself looked far too clean and modern to be untouched from the 1430s:
 
+![Manual of the historic Valère Basilica organ in Sion, Switzerland](/assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-keyboard.webp){:standalone width="70%"}
 
-Now that's even closer from a modern keyboard construction: the keys are longer, not like on the hacked altarpiece. The black keys are a bit taller than today's. We notice that there appears to be a reasonable progression here.
+And indeed, archival records confirm that hunch: while the Gothic swallow's-nest case, the 1435 painted shutters, and several ranks of high-lead pipes are genuinely medieval, the visible 45-note manual dates from a major **1687** rebuild by Solothurn organ builder Christoph Aebi, who enlarged and repositioned the keyboard (notice the Baroque ["short octave"](https://en.wikipedia.org/wiki/Short_octave) at the far left end, which omits the lowest C♯, D♯, F♯, and G♯ to save expensive bass pipes).[^valere-aebi] Even so, given what we already see at Halberstadt (1361), Norrlanda (c. 1400), Ghent (1432), and Brunswick (1456), the original 1430s Sion organ almost certainly already had a two-row chromatic manual of its own.
 
-Finally, the oldest playable (and played) organ \[9\], estimated to have been built in the 1430s (almost 600 years ago!), happens to be located in Sion, Switzerland, not far from my home town The current keyboard of the Sion organ looks too new to be original (see picture).
+## Conclusion
 
-[![](http://4.bp.blogspot.com/-GS4DlK1vwYQ/UCiVrKhaKeI/AAAAAAAAAps/cxzueSO1fGA/s1600/valere+2.jpg)](http://4.bp.blogspot.com/-GS4DlK1vwYQ/UCiVrKhaKeI/AAAAAAAAAps/cxzueSO1fGA/s1600/valere+2.jpg)
+Stepping back across seventeen centuries of organ building, the evolution of our musical keyboard falls into a remarkably clear sequence:
 
-_Keyboard of the Valère (Sion) organ (built ca. 1430)_
+- **3rd century BCE – 6th century CE (Greco-Roman *hydraulis* & bellows organs):** Finger-played, spring-returned horizontal keys are invented right alongside the first organs—spaced 5–7 cm apart in a single row, already placing bass notes on the left and treble notes on the right.
+- **10th – 13th centuries (Medieval recovery):** After a period where many Western organs regressed to lettered push-pull sliders, fingered diatonic manuals (often including B♭) return—still in a single row without raised "black keys."
+- **First half of the 14th century:** Theorists (Jacobus of Liège, Johannes de Muris) and keyboard music (*Robertsbridge Codex*, c. 1360) document chromatic semitones splitting the diatonic scale.
+- **1361 (Halberstadt):** Praetorius's engravings record the earliest documented manual with the modern 7-and-5 two-row arrangement, still built with wide, spade-shaped levers.
+- **c. 1370–1400 (Norrlanda):** The oldest surviving medieval keyboard fragments confirm raised pairs of sharp keys in wood, with B♭ still sitting down on the lower row.
+- **1432 (Ghent Altarpiece):** Jan van Eyck paints rectangular, block-shaped accidentals directly over an earlier Norrlanda-style underpainting—giving us hard visual proof of modern-looking block keys by 1432.
+- **1456 (Brunswick):** Longer natural keys paired with 2-and-3 block accidentals bring the organ manual—and with it, the harpsichord, clavichord, and eventually the piano—essentially to the keyboard geometry we still play today.
 
-However, is it reasonable to imagine that the original organ had an identical layout? You would think that if the keyboard was not originally fully chromatic (12 notes), it would have been hard to retrofit it to add the missing pipes. On the other hand a lot could have happened in 600 years. Still, given the evidence from 1361, 1400, 1432, and 1456, it doesn't appear impossible that the Sion organ had a chromatic keyboard. There is one report that "the keyboard is medieval", which would mean from the 15th century. \[4\]. But which part is medieval? Surely not the actual covering of the keys? But the rest of the keyboard? Do we know for sure? There are still some open questions here.
+---
 
-Related, the [Robertsbridge Codex](http://en.wikipedia.org/wiki/Robertsbridge_Codex) (1360) from the 14th century "contains the earliest surviving music written specifically for keyboard", and "\[m\]ost likely the instrument used to play the pieces in the Codex was the organ". The music implies a range of "two octaves and a 3rd \[…\] (fully chromatic above f)" \[GROVE\]  The video below shows how different Middle Ages music sounded from Baroque and Classical era music (that, or we interpret the music really wrong!).
+[^perrot]: Jean Perrot, *The Organ, from its Invention in the Hellenistic Period to the End of the Thirteenth Century* (translated by Norma Deane), Oxford University Press, 1971.
 
-https://www.youtube.com/watch?v=3QF4BCKYZxc
+[^manual]: In organ terminology, a hand-played keyboard is called a *manual* (to distinguish it from a foot-played *pedalboard*).
 
-In conclusion, here are some take-aways based on that online research:
+[^cambridge]: Nicholas Thistlethwaite and Geoffrey Webber (eds.), *The Cambridge Companion to the Organ*, Cambridge University Press, 1998.
 
-*   Keyboards, at least primitive ones, are very old and likely go back all the way to the first organs (3rd century BC hydraulis).
-*   There is evidence in the first half of the 14th century (Jacobus of Liège) that some keyboards had more than the diatonic scale (i.e. had introduced "black  keys").
-*   There is evidence (engravings showing the keyboards of the Halberstadt organ) that around 1361 the modern layout had been invented, although there is not yet evidence of block-shaped keys.
-*   There is physical evidence (remnants of the Norrlandia organ) that around 1400, keyboards with something very close from the modern layout existed, but still without block-shaped keys.
-*   There is documentary evidence (Ghent Altarpiece painting) that in 1432, keyboards with block-shaped black keys existed.
-*   There is documentary evidence (engravings showing the Aegidienkirche in Brunswick organ) for long, block-shaped keys around 1456.
-*   The Sion organ might be additional evidence for a fully modern keyboard (long block-shaped keys) as early as the 1430s, but some more research would be needed to confirm this.
+[^encyclopedia]: Douglas Earl Bush and Richard Kassel (eds.), *The Organ: An Encyclopedia*, Routledge, 2006.
 
-\--
+[^grove]: *Grove Music Online* (Oxford Music Online), entries on "Keyboard" and "Organ."
 
+[^allen]: John S. Allen, ["The Traditional Music Keyboard"](https://bikexprt.com/music/traditio.htm), 1997.
 
+[^watanabe]: Ruth Watanabe, ["Michael Praetorius and his *Syntagma Musicum*"](https://rbscp.lib.rochester.edu/2470), *University of Rochester Library Bulletin*, Vol. X, No. 3 (Spring 1955).
 
-*   \[1\] John S. Allen, [The traditional music keyboard](http://www.bikexprt.com/music/traditio.htm), 1997
-*   \[2\] Ruth Watanabe, [Michael Praetorius and his _Syntagma Musicum_](http://www.lib.rochester.edu/index.cfm?page=2470), University of Rochester Library Bulletin, Volume X · Spring 1955 · Number 3
-*   \[3\] Nicholas Thistlethwaite, Geoffrey Webber, [The Cambridge Companion to the Organ](http://www.amazon.com/dp/0521575842/), 1999
-*   \[4\] V. Dubuis quoted in, [Sion, église de Valère (orgue historique)](http://www.orgues-et-vitraux.ch/default.asp/2-0-1942-11-6-1/)
-*   \[5\] Douglas Earl Bush, Richard Kassel, [The Organ: An Encyclopedia](http://books.google.com/books?id=cgDJaeFFUPoC)
-*   \[6\] David Rumsey, [Norrlanda Organ](http://www.davidrumsey.ch/Norrlanda.pdf) (PDF)
-*   \[7\] [HPSCHD-L thread](https://list.uiowa.edu/scripts/wa.exe?A2=ind0705&L=HPSCHD-L&F=&S=&P=282334)
-*   \[8\] Edwin M. Ripin, "Norrlanda Organ and the Ghent Altarpiece", Studia instrumentorum musicae popularis III, Stockholm, 1974
-*   \[9\] [List of pipe organs](http://en.wikipedia.org/wiki/List_of_pipe_organs), Wikipedia
-*   \[10\] [History and development of the pipe organ](http://en.wikipedia.org/wiki/Pipe_organ#History_and_development), Wikipedia
-*   \[11\] [The hydraulis of Dion](http://en.wikipedia.org/wiki/Hydraulis#The_hydraulis_of_Dion), Wikipedia
-*   \[12\] [The Ancient Hydraulis](http://www.musurgia.com/hydraulis.asp)
-*   \[13\] [Water organ](http://en.wikipedia.org/wiki/Hydraulis), Wikipdia
-*   \[14\] [The Piano Key Notes Were FirstApplied To These Instruments](http://www.get-piano-lessons.com/piano-key-notes.html)
+[^rumsey]: David Rumsey, *The Norrlanda Organ* (monograph on the c. 1370–1400 Gotland organ in the Statens Historiska Museum, Stockholm), and early-keyboard discussions on the HPSCHD-L archive regarding B♭ placement on 14th-century manuals.
+
+[^ripin]: Edwin M. Ripin, "The Norrlanda Organ and the Ghent Altarpiece," in *Studia instrumentorum musicae popularis III* (Festschrift to Ernst Emsheimer), Musikhistoriska museet, Stockholm, 1974.
+
+[^valere]: See [Valère Basilica — Organ](https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica#Organ).
+
+[^valere-aebi]: Solothurn organ builder Christoph Aebi signed his 1687 overhaul inside the wind supply (*"Christoph Aeby 1687"*), expanding the manual to its present 45-note compass (`C` to `c'''` with a bass short octave).
+
+[dion-link]: https://en.wikipedia.org/wiki/Water_organ#The_hydraulis_of_Dion
+[aquincum-link]: https://commons.wikimedia.org/wiki/File:Roman_pipe_organ_Aquincum.jpg
+[van-eyck-link]: https://closertovaneyck.kikirpa.be/
