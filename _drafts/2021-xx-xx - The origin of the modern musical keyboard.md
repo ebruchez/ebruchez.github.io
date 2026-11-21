@@ -8,6 +8,25 @@ tags:
 category: Technology
 main_image: /assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-organ.webp
 main_image_caption: "Detail of the angel organist's keyboard in the Ghent Altarpiece (1432)"
+carthage_lamp_slides:
+  - label: "Archival photos"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/carthage-lamp-photos.webp
+    width: 1380
+    height: 1200
+    alt: "Front and back archival photographs of the 2nd-century CE Carthage terracotta hydraulis lamp signed POSSESSORIS"
+    caption: "Père Delattre's archival photographs of the 2nd-century CE Carthage terracotta lamp (17.8 cm tall, published by F. W. Galpin in 1906) - front view on the left (inscribed POSSESSORIS below the pipes) and rear view on the right (showing the organist's legs, side pumps, and keyboard)."
+  - label: "Keyboard close-up"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/carthage-lamp-keyboard.webp
+    width: 1380
+    height: 1200
+    alt: "Enlarged photograph of the keyboard on the back of the Carthage terracotta hydraulis lamp"
+    caption: "Enlarged close-up of the rear manual (Galpin 1906, Fig. 87): vertical incised grooves divide the single row of ~18 oblong keys aligned beneath three staggered ranks of pipes (the round socket on the right held the clay organist's right hand)."
+  - label: "Line drawings"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/carthage-lamp-drawing.webp
+    width: 1380
+    height: 1200
+    alt: "Front and back line drawings of the Carthage terracotta hydraulis lamp from the 1911 Encyclopaedia Britannica"
+    caption: "Front (left) and rear (right) line drawings from the 1911 Encyclopaedia Britannica, making the hexagonal cistern, strapped side pumps, broken organist figure, and row of keys easy to trace."
 valere_sion_slides:
   - label: "Full manual"
     src: /assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-manual-full.webp
@@ -68,7 +87,9 @@ Because Greco-Roman artists almost always depicted the organ from the front - s
 
 - **Physical remains:** While the 1st-century BCE [Dion hydraulis][dion-link] (unearthed in Greece in 1992) lost its perishable keyboard parts - leaving only its copper pipes, windchest plates, and frame collar - the 3rd-century CE [Aquincum organ][aquincum-link] (buried in a c. 294 CE fire) preserved actual metal action components matching Hero's design, including bronze key casings (with traces of burned wood inside) and ~9 cm bronze return springs.
 - **Ancient descriptions:** In the 4th century, Porfyrius Optatianus wrote of *"a line of square-shaped keys whereby the musician's hand opens and shuts in time the openings for the air"* - keys *"which ever tremble to the slightest touch."* His contemporary, Emperor Julian ("the Apostate"), described a *"man with nimble fingers […] manipulating the keys which give voice to the pipes,"* and 6th-century Roman statesman Cassiodorus referred explicitly to *"wooden keys."*
-- **Rare rear views:** A terracotta lamp in the Carthage museum shows a keyboard of 18 oblong, relatively broad keys, and the late-antique "Rusticus" organ carving near Rome depicts *"15 keys longer than broad, lying close together as in the modern manual."*[^perrot]
+- **Rare rear views:** A 2nd-century CE terracotta lamp in the Carthage museum (signed *Possessoris*) shows a keyboard of 18 oblong, relatively broad keys, and the late-antique "Rusticus" organ carving near Rome depicts *"15 keys longer than broad, lying close together as in the modern manual."*[^perrot]
+
+{% include carousel.html id="carthage-lamp" label="2nd-century CE Carthage hydraulis terracotta lamp" slides=page.carthage_lamp_slides %}
 
 How close was this to a modern piano? Think of a single row of "white" keys with no raised "black" keys yet. Because each key sat directly in line with the slider feeding its pipe - without a rollerboard to fan the motion sideways - the keys had to match the spacing of the pipes, putting key centers roughly 5 to 7 cm (2 to 3 inches) apart, wider than on a modern piano. Even so, ancient writers consistently emphasized nimble two-handed finger dexterity rather than fist-pounding: sliders *"continuously in motion"* under *"masterly fingers."*
 
@@ -133,6 +154,8 @@ Look closely, though, and the proportions look slightly odd - until you learn w
 ![Edwin M. Ripin's reconstruction (drawn over an infrared photograph) of the Ghent Altarpiece's original underpainted keyboard](/assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-infrared.webp){:standalone width="75%"}
 
 Even the angel's left hand was repainted higher up! On the earlier keyboard, which lacked raised accidentals under that part of the hand, the fingers could rest flat; once modern block sharps were painted in - almost certainly by Jan van Eyck himself before finishing the polyptych in 1432, as subsequent high-resolution imaging from Belgium's [Closer to Van Eyck][van-eyck-link] conservation project has made easy to inspect online - the hand had to be arched above them. That mid-project "keyboard upgrade" explains why the visible natural key heads look stubby, since they had to share the shallow space originally allotted to naturals alone (though natural key heads on historic organs did remain comparatively short, around 3.5 cm, right up to the 18th century[^grove]). Either way, by **1432**, block-shaped black keys in the modern 2-and-3 grouping were real enough to prompt van Eyck to update his painting!
+
+![Infrared reflectography (left) alongside visible-light macro photography (right) of the Ghent Altarpiece organ keyboard and the angel's hands - source: Closer to Van Eyck (closertovaneyck.kikirpa.be)](/assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-infrared-comparison.webp){:standalone width="100%"}
 
 ### Brunswick (1456) and the Valère organ in Sion (c. 1430s)
 
