@@ -6,7 +6,9 @@ date: '2026-11-21T12:15:00-08:00'
 tags:
   - music
   - reading
-category: Technology
+categories:
+  - Music
+  - Technology
 main_image: /assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-organ.webp
 main_image_caption: "Detail of the angel organist's keyboard in the Ghent Altarpiece (1432)"
 carthage_lamp_slides:

@@ -9,7 +9,9 @@ translation_of: /posts/origin-of-the-modern-musical-keyboard/
 tags:
   - music
   - reading
-category: Technology
+categories:
+  - Music
+  - Technology
 main_image: /assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-organ.webp
 main_image_caption: "Détail du clavier de l'ange organiste dans L'Agneau mystique (1432)"
 carthage_lamp_slides:

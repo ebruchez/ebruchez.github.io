@@ -9,7 +9,9 @@ translation_of: /posts/early-history-of-the-organ/
 tags:
   - music
   - reading
-category: Technology
+categories:
+  - Music
+  - Technology
 mermaid: true
 main_image: /assets/posts/early-history-of-the-organ/nennig-mosaic.webp
 main_image_caption: "Hydraulis gréco-romain et joueur de cor sur la mosaïque de la villa romaine de Nennig"

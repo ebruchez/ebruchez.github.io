@@ -5,7 +5,9 @@ author: Erik Bruchez
 date: '2026-11-13T18:00:00-08:00'
 tags:
 - music
-category: Technology
+categories:
+  - Music
+  - Technology
 main_image: /assets/posts/mascagni-org/pensiero-autograph.webp
 main_image_caption: "Mascagni's 1903 autograph of Un pensiero a San Francisco"
 main_image_position: top

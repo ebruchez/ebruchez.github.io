@@ -6,7 +6,9 @@ date: '2026-11-21T12:00:00-08:00'
 tags:
   - music
   - reading
-category: Technology
+categories:
+  - Music
+  - Technology
 mermaid: true
 main_image: /assets/posts/early-history-of-the-organ/nennig-mosaic.webp
 main_image_caption: "Greco-Roman hydraulis and horn player in the Nennig Roman villa mosaic"

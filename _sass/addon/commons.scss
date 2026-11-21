@@ -879,9 +879,6 @@ img {
   a {
     @extend %link-color;
     @extend %link-underline;
-    &:not(:last-child) {
-      margin-right: 2px;
-    }
     &:hover {
       @extend %link-hover;
     }
