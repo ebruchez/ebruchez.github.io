@@ -62,7 +62,7 @@ valere_sion_slides:
     width: 1024
     height: 682
     alt: "Gros plan d'un doigt appuyant sur une touche naturelle du clavier de l'orgue de Valère"
-    caption: "Enfoncement d'une touche naturelle dans les graves : remarquez les palettes en bois compactes, les fronts creusés en retrait et les feintes sombres en forme de blocs."
+    caption: "Enfoncement d'une touche naturelle dans les graves : remarquez les palettes en bois compactes, les fronts creusés en retrait et les touches chromatiques sombres (ou *feintes*) en forme de blocs."
   - label: "Aigus et vergettes"
     src: /assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-treble-trackers.webp
     width: 1024
@@ -108,7 +108,7 @@ Comme les artistes gréco-romains représentaient presque toujours l'orgue de fa
 
 {% include carousel.html id="carthage-lamp" label="Lampe en terre cuite de Carthage du IIe siècle apr. J.-C. représentant un hydraulis" slides=page.carthage_lamp_slides %}
 
-À quel point cela ressemblait-il à un piano moderne ? Imaginez une unique rangée de touches « blanches », sans encore de touches « noires » surélevées. Comme chaque touche se trouvait directement dans l'axe de la tirette alimentant son tuyau — sans abrégé pour décaler latéralement le mouvement — l'espacement des touches devait suivre celui des tuyaux, plaçant les centres des touches à environ 5 à 7 cm les uns des autres, soit bien plus largement que sur un piano moderne. Malgré tout, les auteurs antiques insistent constamment sur la dextérité agile des doigts des deux mains plutôt que sur des coups de poing : des tirettes *« continuellement en mouvement »* sous des *« doigts savants »*.
+À quel point cela ressemblait-il à un piano moderne ? Imaginez une unique rangée de touches « blanches », sans encore de touches « noires » surélevées. Comme chaque touche se trouvait directement dans l'axe de la tirette alimentant son tuyau — sans abrégé pour décaler latéralement le mouvement — l'espacement des touches devait suivre celui des tuyaux, avec un entraxe d'environ 5 à 7 cm entre les touches, bien plus large que sur un piano moderne. Malgré tout, les auteurs antiques insistent constamment sur la dextérité agile des doigts des deux mains plutôt que sur des coups de poing : des tirettes *« continuellement en mouvement »* sous des *« doigts savants »*.
 
 ### Pourquoi les notes aiguës sont-elles à droite ?
 
@@ -128,15 +128,15 @@ Après la chute de l'Empire romain d'Occident, le savoir-faire de la facture d'o
 
 ![Orgue portatif sur une enluminure du milieu du XIIIe siècle tirée des Cantigas de Santa Maria](/assets/posts/origin-of-the-modern-musical-keyboard/cantigas-portative-organ.webp){:standalone width="45%"}
 
-Au XIIIe siècle, de véritables claviers en bois à rappel par ressort ou par levier (souvent renforcés de fer) étaient de nouveau largement répandus sur les orgues d'église, les positifs et les petits portatifs tenus à la main — visibles dans des manuscrits comme le Psautier de Rutland (v. 1260) et les [Cantigas de Santa Maria](https://fr.wikipedia.org/wiki/Cantigas_de_Santa_Mar%C3%ADa) ci-dessus. Pour autant que nous puissions en juger, cependant, les claviers du XIIIe siècle disposaient toujours une gamme diatonique (souvent enrichie d'un si♭) sur une **unique rangée de touches régulièrement espacées**. Il n'existe encore aucun signe clair d'une seconde rangée surélevée de « touches noires ».
+Au XIIIe siècle, de véritables claviers en bois à rappel par ressort ou par levier (souvent renforcés de fer) étaient de nouveau largement répandus sur les orgues d'église, les positifs et les petits portatifs tenus à la main — visibles dans des manuscrits comme le Psautier de Rutland (v. 1260) et les [Cantigas de Santa Maria](https://fr.wikipedia.org/wiki/Cantigas_de_Santa_Mar%C3%ADa) ci-dessus. Pour autant que nous puissions en juger, cependant, les claviers du XIIIe siècle disposaient toujours une gamme diatonique (souvent enrichie d'un *si*♭) sur une **unique rangée de touches régulièrement espacées**. Il n'existe encore aucun signe clair d'une seconde rangée surélevée de « touches noires ».
 
 ## Diviser le ton : Halberstadt et Norrlanda (1330–1400)
 
 C'est au XIVe siècle que le chromatisme — et un second niveau de touches — fait enfin son entrée dans les sources historiques :
 
 - Vers **1330**, le théoricien Jacques de Liège note que sur certains instruments, dont l'orgue, *« presque partout le ton est divisé en deux demi-tons inégaux »* (dans l'accord pythagoricien).[^encyclopedia]
-- Dans la première moitié du XIVe siècle, **Jean de Murs** (Johannes de Muris) mentionne explicitement des touches de demi-tons pour **fa♯** et **sol♯**.[^grove]
-- Vers **1360**, le [Codex de Robertsbridge](https://fr.wikipedia.org/wiki/Codex_Robertsbridge) conserve la plus ancienne musique connue écrite spécifiquement pour un instrument à clavier (presque certainement l'orgue), exigeant une étendue de deux octaves et une tierce, entièrement chromatique au-dessus du fa.[^grove] En écouter aujourd'hui une interprétation rappelle avec force combien la musique médiévale pour clavier sonnait différemment du répertoire baroque ou classique ultérieur :
+- Dans la première moitié du XIVe siècle, **Jean de Murs** (Johannes de Muris) mentionne explicitement des touches de demi-tons pour ***fa*♯** et ***sol*♯**.[^grove]
+- Vers **1360**, le [Codex de Robertsbridge](https://fr.wikipedia.org/wiki/Codex_Robertsbridge) conserve la plus ancienne musique connue écrite spécifiquement pour un instrument à clavier (presque certainement l'orgue), exigeant une étendue de deux octaves et une tierce, entièrement chromatique au-dessus du *fa*.[^grove] En écouter aujourd'hui une interprétation rappelle combien la musique médiévale pour clavier sonnait différemment du répertoire baroque ou classique ultérieur :
 
 <div style="margin: 1.5rem 0;">
   <iframe width="100%" style="aspect-ratio: 16 / 9; border: 0; border-radius: 6px;" src="https://www.youtube.com/embed/3QF4BCKYZxc" title="Codex de Robertsbridge (v. 1360) interprété à l'orgue" loading="lazy" allowfullscreen></iframe>
@@ -144,7 +144,7 @@ C'est au XIVe siècle que le chromatisme — et un second niveau de touches �
 
 ### L'orgue de Halberstadt (1361)
 
-Nous arrivons ainsi en **1361**, année où le facteur d'orgues Nicholas Faber acheva un orgue de cathédrale monumental à **Halberstadt, en Allemagne**, dont le vent était fourni par vingt soufflets actionnés par dix hommes.[^allen] [^watanabe] Profondément rénové en **1495** par Gregor Kluge, le vieil orgue de Halberstadt fut documenté en détail dans le célèbre traité *Syntagma Musicum* (1619–1620) de Michael Praetorius. Sur ses claviers supérieurs de *Diskant* (panneaux de gauche et en haut à droite ci-dessous, dessinés avec 14 touches de `B` à `c'`, tandis que le clavier inférieur et le pédalier comptent 12 longs leviers), la voilà enfin : **l'inconfondable disposition chromatique 7 et 5 d'un clavier moderne !**
+Nous arrivons ainsi en **1361**, année où le facteur d'orgues Nicholas Faber acheva un orgue de cathédrale monumental à **Halberstadt, en Allemagne**, dont le vent était fourni par vingt soufflets actionnés par dix hommes.[^allen] [^watanabe] Profondément rénové en **1495** par Gregor Kluge, le vieil orgue de Halberstadt fut documenté en détail dans le célèbre traité *Syntagma Musicum* (1619–1620) de Michael Praetorius. Sur ses claviers supérieurs de *Diskant* (panneaux de gauche et en haut à droite ci-dessous, dessinés avec 14 touches de `B` à `c'` — du *si* grave au *do* médium —, tandis que le clavier inférieur et le pédalier comptent 12 longs leviers), la voilà enfin : **l'inconfondable disposition chromatique 7 et 5 d'un clavier moderne !**
 
 ![Claviers de l'orgue de Halberstadt (1361, rénové en 1495), tirés du Syntagma Musicum de Michael Praetorius (1619–1620)](/assets/posts/origin-of-the-modern-musical-keyboard/syntagma-halberstadt.webp){:standalone width="85%"}
 
@@ -158,7 +158,7 @@ Heureusement, nous n'avons pas à nous fier aux seules gravures tardives : de l
 
 *Crédits photo : gros plan d'archives du clavier via [Wikimedia Commons / Riksantikvarieämbetet (Kulturmiljöbild)](https://commons.wikimedia.org/wiki/File:Norrlanda_kyrka_-_KMB_-_16000200025694.jpg) (domaine public) ; détail en couleur de la console recadré d'après [Statens historiska museer (SHM)](https://samlingar.shm.se/media/22F919ED-EA74-48A9-BB0B-546AEFB49C7F) ([objet `116311_HST`](https://samlingar.shm.se/object/1158466A-7686-4E18-88B9-B0D4BE39E7CF), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
-Son clavier chromatique de 22 notes (`c` à `a'`, soit de *do* à *la*) se divise nettement en deux niveaux principaux, avec une particularité révélatrice : **le si♭ reste en bas, sur la rangée inférieure**, aux côtés des touches naturelles diatoniques (soit 14 touches basses, avec `A`, `B♭`, `B♮` et `C` côte à côte), ce qui laisse les 8 touches diésées (`C♯`, `D♯`, `F♯` et `G♯` sur deux octaves) groupées par paires surélevées au-dessus ![^rumsey] (La minuscule touche isolée perchée encore plus haut vers le centre de la photo aurait rempli une fonction accessoire, comme un bourdon, plutôt qu'une note mélodique ordinaire.[^meeus]) Les facteurs avaient clairement inventé le clavier chromatique à deux étages, même si le si♭ n'était pas encore monté rejoindre fa♯ et sol♯.
+Son clavier chromatique de 22 notes (`c` à `a'`, soit de *do* à *la*) se divise nettement en deux niveaux principaux, avec une particularité révélatrice : **le *si*♭ reste en bas, sur la rangée inférieure**, aux côtés des touches naturelles diatoniques (soit 14 touches basses, avec *la*, *si*♭, *si*♮ et *do* côte à côte), ce qui laisse les 8 touches diésées (*do*♯, *ré*♯, *fa*♯ et *sol*♯ sur deux octaves) groupées par paires surélevées au-dessus ![^rumsey] (La minuscule touche isolée perchée encore plus haut vers le centre de la photo aurait rempli une fonction accessoire, comme un bourdon, plutôt qu'une note mélodique ordinaire.[^meeus]) Les facteurs avaient clairement inventé le clavier chromatique à deux étages, même si le *si*♭ n'était pas encore monté rejoindre *fa*♯ et *sol*♯.
 
 ### Un détour plein d'enseignements à Vérone : pourquoi l'art médiéval est un terrain miné
 
@@ -166,9 +166,9 @@ Parce que les instruments médiévaux conservés comme celui de Norrlanda sont r
 
 ![Orgue portatif sculpté tenu par la statue de Sainte Cécile au Museo di Castelvecchio à Vérone](/assets/posts/origin-of-the-modern-musical-keyboard/castelvecchio-saint-cecilia-organ.webp){:standalone width="75%"}
 
-Au premier coup d'œil, ce petit orgue portatif a tout d'une bombe : de jolies touches surélevées en forme de blocs, antérieures à la fois à Halberstadt (1361) et à Norrlanda (v. 1400) ! Mais la lecture attentive des petits caractères du cartel du musée ramène vite sur terre : la statue a subi d'importantes restaurations au XIXe siècle, et **la main, le bras et l'orgue portatif sont des ajouts ultérieurs taillés dans la pierre d'une autre carrière** — à tel point que les conservateurs ne sont même plus certains que la sculpture représentait à l'origine sainte Cécile. En observant les touches de plus près, un second piège saute aux yeux : la licence artistique. Au lieu d'une véritable disposition chromatique 2 et 3 (ou même des paires musicalement asymétriques de Norrlanda, où `C–D–E` compte trois naturelles et `F–G–A–B♭–B` en compte cinq), le sculpteur s'est contenté de répéter quatre paires identiques et symétriques de touches surélevées (`2–2–2–2`) comme simple raccourci décoratif signifiant « clavier ».
+Au premier coup d'œil, ce petit orgue portatif fait l'effet d'une bombe : de jolies touches surélevées en forme de blocs, antérieures à la fois à Halberstadt (1361) et à Norrlanda (v. 1400) ! Mais la lecture attentive des petits caractères du cartel du musée ramène vite sur terre : la statue a subi d'importantes restaurations au XIXe siècle, et **la main, le bras et l'orgue portatif sont des ajouts ultérieurs taillés dans la pierre d'une autre carrière** — à tel point que les conservateurs ne sont même plus certains que la sculpture représentait à l'origine sainte Cécile. En observant les touches de plus près, un second piège saute aux yeux : la licence artistique. Au lieu d'une véritable disposition chromatique 2 et 3 (ou même des paires musicalement asymétriques de Norrlanda, où *do–ré–mi* compte trois naturelles et *fa–sol–la–si♭–si* en compte cinq), le sculpteur s'est contenté de répéter quatre paires identiques et symétriques de touches surélevées (`2–2–2–2`) comme simple raccourci décoratif signifiant « clavier ».
 
-## Touches en blocs, retable repeint et plus vieil orgue jouable de Suisse (années 1430–1456)
+## Touches en blocs, retable repeint et plus ancien orgue jouable de Suisse (années 1430–1456)
 
 ### Le secret infrarouge de *L'Agneau mystique* (1432)
 
@@ -176,11 +176,11 @@ Une génération plus tard à peine, ***L'Agneau mystique*** (le polyptyque de G
 
 ![Détail de l'ange organiste dans L'Agneau mystique (achevé en 1432)](/assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-organ.webp){:standalone width="75%"}
 
-En y regardant de près, toutefois, les proportions semblent un peu étranges — jusqu'à ce qu'on découvre ce qui se cache sous la peinture ! Dans une étude devenue classique de 1974, l'organologue Edwin M. Ripin a montré que **la photographie infrarouge du panneau révèle un clavier plus ancien peint en dessous**.[^ripin] Sur la reconstitution dessinée par Ripin par-dessus le cliché infrarouge ci-dessous, les dièses en forme de blocs disparaissent, remplacés par des plaques de touches incurvées dans le style de Norrlanda, placées en retrait derrière les naturelles — en commençant par une octave grave purement diatonique sur `sol` (sans aucune altération sous la main gauche) avant que trois touches surélevées n'apparaissent ensemble plus haut :[^meeus]
+En y regardant de près, toutefois, les proportions semblent un peu étranges — jusqu'à ce qu'on découvre ce qui se cache sous la peinture ! Dans une étude devenue classique de 1974, l'organologue Edwin M. Ripin a montré que **la photographie infrarouge du panneau révèle un clavier plus ancien peint en dessous**.[^ripin] Sur la reconstitution dessinée par Ripin par-dessus le cliché infrarouge ci-dessous, les dièses en forme de blocs disparaissent, remplacés par des plaques de touches incurvées dans le style de Norrlanda, placées en retrait derrière les naturelles — en commençant par une octave grave purement diatonique sur *sol* (sans aucune altération sous la main gauche) avant que trois touches surélevées n'apparaissent ensemble plus haut :[^meeus]
 
 ![Reconstitution par Edwin M. Ripin (tracée sur une photographie infrarouge) du clavier originel sous-jacent de L'Agneau mystique](/assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-infrared.webp){:standalone width="75%"}
 
-Même la main gauche de l'ange a été repeinte plus haut ! Sur le clavier antérieur, dépourvu de touches surélevées sous cette partie de la main, les doigts pouvaient reposer à plat ; une fois peintes des feintes modernes en blocs — presque certainement par Jan van Eyck lui-même avant l'achèvement du polyptyque en 1432, comme l'imagerie haute résolution ultérieure du projet belge de conservation [Closer to Van Eyck][van-eyck-link] permet aisément de l'observer en ligne — la main dut être voûtée au-dessus d'elles. Cette « mise à jour de clavier » en cours d'exécution explique pourquoi les palettes visibles des touches naturelles paraissent trapues, puisqu'elles devaient se partager le faible espace initialement dévolu aux seules naturelles (même si les palettes des orgues historiques sont restées comparativement courtes, autour de 3,5 cm, jusqu'au XVIIIe siècle[^grove]). Quoi qu'il en soit, en **1432**, les touches noires en forme de blocs groupées selon le motif moderne 2 et 3 étaient déjà assez réelles pour inciter van Eyck à actualiser son tableau !
+Même la main gauche de l'ange a été repeinte plus haut ! Sur le clavier antérieur, dépourvu de touches surélevées sous cette partie de la main, les doigts pouvaient reposer à plat ; une fois peintes des touches surélevées (ou *feintes*) modernes en blocs — presque certainement par Jan van Eyck lui-même avant l'achèvement du polyptyque en 1432, comme l'imagerie haute résolution ultérieure du projet belge de conservation [Closer to Van Eyck][van-eyck-link] permet aisément de l'observer en ligne — la main dut être voûtée au-dessus d'elles. Cette « mise à jour de clavier » en cours d'exécution explique pourquoi les palettes visibles des touches naturelles paraissent trapues, puisqu'elles devaient se partager le faible espace initialement dévolu aux seules naturelles (même si les palettes des orgues historiques sont restées comparativement courtes, autour de 3,5 cm, jusqu'au XVIIIe siècle[^grove]). Quoi qu'il en soit, en **1432**, les touches noires en forme de blocs groupées selon le motif moderne 2 et 3 étaient déjà assez réelles pour inciter van Eyck à actualiser son tableau !
 
 ![Réflectographie infrarouge (à gauche) et macrophotographie en lumière visible (à droite) du clavier de l'orgue et des mains de l'ange dans L'Agneau mystique — source : Closer to Van Eyck (closertovaneyck.kikirpa.be)](/assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-infrared-comparison.webp){:standalone width="100%"}
 
@@ -190,7 +190,7 @@ Le *Syntagma Musicum* de Praetorius nous fournit un autre jalon daté de **1456*
 
 ![Claviers de l'orgue de 1456 de l'Aegidienkirche à Brunswick (planches XXVII et XXVIII du Syntagma Musicum de Praetorius)](/assets/posts/origin-of-the-modern-musical-keyboard/syntagma-brunswick.webp){:standalone width="75%"}
 
-Enfin, je ne peux résister à l'envie de mentionner le **plus vieil orgue jouable du monde**, construit vers **1430–1435** dans la basilique de Valère à **Sion, en Suisse** — non loin de l'endroit où j'ai grandi ![^valere] J'ai eu la chance de bénéficier d'une visite privée et d'une démonstration par Edmond Voeffray, organiste titulaire de l'orgue de Valère. En observant et en photographiant le clavier de Valère de tout près, mon intuition immédiate fut qu'il avait l'air beaucoup trop net et moderne pour être resté intact depuis les années 1430 :
+Enfin, je ne peux résister à l'envie de mentionner le **plus ancien orgue jouable du monde**, construit vers **1430–1435** dans la basilique de Valère à **Sion, en Suisse** — non loin de l'endroit où j'ai grandi ![^valere] J'ai eu la chance de bénéficier d'une visite privée et d'une démonstration par Edmond Voeffray, organiste titulaire de l'orgue de Valère. En observant et en photographiant le clavier de Valère de tout près, mon intuition immédiate fut qu'il avait l'air beaucoup trop net et moderne pour être resté intact depuis les années 1430 :
 
 {% include carousel.html id="valere-sion-manual" label="Clavier de l'orgue historique de la basilique de Valère à Sion" slides=page.valere_sion_slides %}
 
@@ -201,16 +201,16 @@ Et de fait, les archives confirment cette intuition : si le buffet gothique en 
 En embrassant d'un seul regard dix-sept siècles de facture d'orgues, l'évolution de notre clavier musical s'ordonne selon une séquence remarquablement claire :
 
 - **IIIe siècle av. J.-C. – VIe siècle apr. J.-C. (*hydraulis* et orgues à soufflets gréco-romains) :** des touches horizontales jouées aux doigts et munies de ressorts de rappel sont inventées en même temps que les premiers orgues — espacées de 5 à 7 cm sur une seule rangée, plaçant déjà les graves à gauche et les aigus à droite.
-- **Xe – XIIIe siècles (renouveau médiéval) :** après une période où de nombreux orgues occidentaux régressent vers des tirettes lettrées à tirer et pousser, les claviers diatoniques joués aux doigts (incluant souvent un si♭) reviennent — toujours sur une unique rangée, sans « touches noires » surélevées.
+- **Xe – XIIIe siècles (renouveau médiéval) :** après une période où de nombreux orgues occidentaux régressent vers des tirettes lettrées à tirer et pousser, les claviers diatoniques joués aux doigts (incluant souvent un *si*♭) reviennent — toujours sur une unique rangée, sans « touches noires » surélevées.
 - **Première moitié du XIVe siècle :** théoriciens (Jacques de Liège, Jean de Murs) et partitions pour clavier (*Codex de Robertsbridge*, v. 1360) attestent la division chromatique en demi-tons de la gamme diatonique.
 - **1361 / 1495 (Halberstadt) :** les gravures de Praetorius représentant l'orgue de Halberstadt (construit en 1361, rénové en 1495) consignent la disposition moderne en deux rangées de 7 et 5 touches sur ses claviers supérieurs, encore bâtis avec de larges leviers en forme de bêche.
-- **v. 1370–1400 (Norrlanda) :** les plus anciens fragments de clavier médiéval conservés confirment dans le bois d'origine l'existence de paires surélevées de dièses, le si♭ restant encore en bas sur la rangée inférieure.
+- **v. 1370–1400 (Norrlanda) :** les plus anciens fragments de clavier médiéval conservés confirment dans le bois d'origine l'existence de paires surélevées de dièses, le *si*♭ restant encore en bas sur la rangée inférieure.
 - **1432 (*L'Agneau mystique*) :** Jan van Eyck peint des altérations rectangulaires en forme de blocs directement par-dessus une couche picturale antérieure à basse diatonique — nous offrant une preuve visuelle irréfutable de touches en blocs d'aspect moderne dès 1432.
 - **1456 (Brunswick) :** des touches naturelles plus longues associées à des altérations en blocs groupées par 2 et 3 amènent le clavier d'orgue — et, dans son sillage, le clavecin, le clavicorde et finalement le piano — à peu près exactement à la géométrie que nous jouons encore aujourd'hui.
 
 ---
 
-[^perrot]: Jean Perrot, *L'Orgue de ses origines hellénistiques à la fin du XIIIe siècle : Étude historique et archéologique*, Paris, Picard, 1965 (traduction anglaise de Norma Deane, *The Organ, from its Invention in the Hellenistic Period to the End of the Thirteenth Century*, Oxford University Press, 1971).
+[^perrot]: Jean Perrot, *L'Orgue de ses origines hellénistiques à la fin du XIIIe siècle : Étude historique et archéologique*, Paris, Picard, 1965 (traduction anglaise de Norma Deane, *The Organ, from its Invention in the Hellenistic Period to the End of the Thirteenth Century*, Oxford University Press, 1971 ; les citations de Perrot ci-dessus sont retraduites depuis cette édition anglaise).
 
 [^manual]: Dans la terminologie de l'orgue, un clavier joué avec les mains est appelé *clavier manuel* (pour le distinguer du *pédalier* joué avec les pieds).
 
@@ -224,7 +224,7 @@ En embrassant d'un seul regard dix-sept siècles de facture d'orgues, l'évoluti
 
 [^watanabe]: Ruth Watanabe, [« Michael Praetorius and his *Syntagma Musicum* »](https://rbscp.lib.rochester.edu/2470), *University of Rochester Library Bulletin*, vol. X, n° 3 (printemps 1955).
 
-[^rumsey]: David Rumsey, *The Norrlanda Organ* (monographie sur l'orgue de Gotland, v. 1370–1400, conservé au Statens Historiska Museum de Stockholm), ainsi que les discussions sur les claviers anciens dans les archives HPSCHD-L concernant l'emplacement du si♭ sur les claviers du XIVe siècle.
+[^rumsey]: David Rumsey, *The Norrlanda Organ* (monographie sur l'orgue de Gotland, v. 1370–1400, conservé au Statens Historiska Museum de Stockholm), ainsi que les discussions sur les claviers anciens dans les archives HPSCHD-L concernant l'emplacement du *si*♭ sur les claviers du XIVe siècle.
 
 [^ripin]: Edwin M. Ripin, « The Norrlanda Organ and the Ghent Altarpiece », dans *Studia instrumentorum musicae popularis III* (Mélanges offerts à Ernst Emsheimer), Musikhistoriska museet, Stockholm, 1974, p. 193–196.
 

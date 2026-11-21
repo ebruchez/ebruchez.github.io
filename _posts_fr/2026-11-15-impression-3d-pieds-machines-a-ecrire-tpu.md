@@ -23,7 +23,7 @@ Les pieds d'une machine à écrire jouent un rôle bien plus important qu'on ne 
 - Ils amortissent les vibrations et le bruit, rendant la frappe plus silencieuse et plus agréable.
 - Ils protègent à la fois la surface du bureau et la machine elle-même contre les rayures et les chocs.
 
-Pour remplir ces trois fonctions, les pieds doivent être relativement souples et adhérents, raison pour laquelle ils étaient traditionnellement fabriqués en caoutchouc. Au fil des décennies, cependant, le caoutchouc vieillit mal : sur la plupart des machines anciennes, les pieds d'origine sont devenus durs comme de la pierre, aplatis, effrités ou ont tout simplement disparu. On peut raisonnablement considérer les pieds de machine à écrire comme des pièces d'usure — tout comme les cylindres d'impression ou les pneus de voiture.
+Pour remplir ces trois fonctions, les pieds doivent être relativement souples et adhérents, raison pour laquelle ils étaient traditionnellement fabriqués en caoutchouc. Au fil des décennies, cependant, le caoutchouc vieillit mal : sur la plupart des machines anciennes, les pieds d'origine sont devenus durs comme de la pierre, aplatis, effrités ou ont tout simplement disparu. On peut raisonnablement considérer les pieds de machine à écrire comme des pièces d'usure — tout comme les cylindres (ou rouleaux) ou les pneus de voiture.
 
 La plupart des fabricants de machines à écrire ont disparu depuis longtemps, et les pièces de rechange d'origine ne sont plus produites depuis des décennies. Jusqu'à récemment, les solutions habituelles consistaient à :
 
@@ -32,7 +32,7 @@ La plupart des fabricants de machines à écrire ont disparu depuis longtemps, e
 - sculpter des pièces de remplacement dans du caoutchouc modelable comme du Sugru ; ou
 - acheter des pieds neufs modernes auprès de vendeurs spécialisés en pièces de machines à écrire.
 
-Cette dernière option est tout à fait valable, et certains pieds en caoutchouc moulé vendus aujourd'hui sont remarquablement bien faits. Au fil des ans, j'ai moi-même dépensé des centaines de dollars pour en acheter. Le problème est double : à 20–40 USD le jeu, la facture grimpe vite, et l'offre se limite aux modèles les plus courants. À l'échelle d'une grande collection — qui comprend des machines rares du XIXe et du début du XXe siècle pour lesquelles aucun pied de remplacement n'existe, ainsi que des machines à restaurer ou servant de donneuses de pièces entreposées sur des étagères — acheter des jeux en caoutchouc moulé pour tout le monde n'est tout simplement pas envisageable.
+Cette dernière option est tout à fait valable, et certains pieds en caoutchouc coulé artisanalement vendus aujourd'hui sont remarquablement bien faits. Au fil des ans, j'ai moi-même dépensé des centaines de dollars pour en acheter. Le problème est double : à 20–40 USD le jeu, la facture grimpe vite, et l'offre se limite aux modèles les plus courants. À l'échelle d'une grande collection — qui comprend des machines rares du XIXe et du début du XXe siècle pour lesquelles aucun pied de remplacement n'existe, ainsi que des machines en attente de restauration ou gardées pour les pièces sur des étagères — acheter des jeux en caoutchouc coulé pour tout le monde n'est tout simplement pas envisageable.
 
 Une fois équipé d'une imprimante 3D, concevoir et imprimer mes propres pieds de remplacement s'est révélé une véritable révolution. Après un premier essai pour une Underwood 5 de 1920, j'ai rapidement conçu des pieds pour plus d'une vingtaine de machines couvrant huit décennies d'histoire de la machine à écrire.
 
@@ -44,7 +44,7 @@ Le filament flexible le plus répandu est le **TPU Shore 95A**. C'est celui que 
 
 ![Filament TPU Siraya Tech Flex Shore 85A](/assets/posts/3d-printing-typewriter-feet/2x/siraya85a.webp){:standalone width="50%"}
 
-En termes d'élasticité et d'amortissement, le TPU Shore 85A est excellent et offre un toucher très proche du caoutchouc. On peut également ajuster la fermeté réelle d'un pied en faisant varier le taux de remplissage dans le trancheur (*slicer*) — j'ai utilisé des valeurs allant de 100 % plein jusqu'à environ 25 % selon l'épaisseur et la géométrie du pied. Certes, le TPU reste légèrement moins collant que du caoutchouc naturel frais, mais le poids d'une machine à écrire compense largement cet écart en pratique, et le résultat est sans commune mesure avec des pieds manquants, pétrifiés ou effrités.
+Côté rebond et amortissement, le TPU Shore 85A est excellent et offre un toucher très proche du caoutchouc. On peut également ajuster la fermeté réelle d'un pied en faisant varier le taux de remplissage dans le trancheur (*slicer*) — j'ai utilisé des valeurs allant de 100 % plein jusqu'à environ 25 % selon l'épaisseur et la géométrie du pied. Certes, le TPU reste légèrement moins « accrocheur » au toucher que du caoutchouc naturel frais, mais le poids d'une machine à écrire compense largement cet écart en pratique, et le résultat est sans commune mesure avec des pieds manquants, pétrifiés ou effrités.
 
 Le choix de couleurs est beaucoup plus limité en TPU souple qu'en PLA ou en PETG : le noir domine largement, accompagné du blanc, du transparent et de quelques teintes vives comme l'orange. Heureusement, le noir convient parfaitement à presque toutes les machines à écrire.
 
@@ -83,7 +83,7 @@ Au début, j'ai rencontré quelques bourrages d'extrudeur, probablement provoqu�
 
 ## Du caoutchouc pétrifié à la CAO
 
-Avant de poser un nouveau pied, il faut retirer les restes de l'ancien. Lorsque le caoutchouc d'origine était moulé dans une coupelle métallique, son extraction peut se révéler étonnamment délicate : ces coupelles sont souvent embouties dans un acier ou un laiton très tendre qui se tord facilement si l'on force trop avec un levier. Sur deux ou trois machines, le vieux caoutchouc était si dur que j'ai dû l'évider à la perceuse, ne laissant que quelques rayures mineures à l'intérieur des coupelles.
+Avant de poser un nouveau pied, il faut retirer les restes de l'ancien. Lorsque le caoutchouc d'origine était moulé dans une coupelle métallique, son extraction peut se révéler étonnamment délicate : ces coupelles sont souvent embouties dans un acier ou un laiton très tendre qui se tord facilement si l'on force trop avec un levier. Sur deux machines, le vieux caoutchouc était si dur que j'ai même dû l'évider à la perceuse, en m'en tirant avec seulement quelques légères rayures à l'intérieur des coupelles.
 
 Une fois la quincaillerie de fixation nettoyée, le cycle de conception est rapide et gratifiant :
 
@@ -118,7 +118,7 @@ Comme la CAO rend l'expérimentation pratiquement gratuite, j'ai essayé deux va
 
 ![Pieds coniques de la Densmore 4](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1465.webp){:standalone}
 
-Les hauts pieds emboîtés de ma **Remington 7 à tabulateur Gorin** de 1907 se ressemblent de l'extérieur, mais cachent un détail structurel astucieux : une tige d'acier d'environ un pouce se glisse au centre du pied pour le rigidifier et le stabiliser. Conserver cet alésage interne dans la version imprimée en TPU (avec une variante conique) a été un jeu d'enfant.
+Les hauts pieds emboîtés de ma **Remington 7 à tabulateur Gorin** de 1907 ont un aspect extérieur similaire, mais cachent un détail structurel astucieux : une tige d'acier d'environ 2,5 cm (un pouce) se glisse au centre du pied pour le rigidifier et le stabiliser. Conserver cet alésage interne dans la version imprimée en TPU (avec une variante conique) a été un jeu d'enfant.
 
 ![Pieds de la Remington 7 avec leurs tiges métalliques de renfort internes](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1432.webp){:standalone}
 
@@ -184,7 +184,7 @@ Enfin, deux machines de bureau standard des années 1950 de ma collection logent
 
 ![Pieds avant et arrière de l'Olivetti Lexicon 80](/assets/posts/3d-printing-typewriter-feet/2x/IMG_4771.webp){:standalone}
 
-Et tout en haut de l'échelle, les patins de mon **Adler Standard** mesurent plus de cinq centimètres de large — les plus grands pieds que j'aie imprimés jusqu'ici. Les pieds avant comportent un trou central plus large pour dégager un écrou en plus des vis de fixation, tandis que les pieds arrière présentent une ouverture vers l'arrière. Pour de futures révisions, j'ajouterai peut-être des sculptures sous la semelle afin que cette grande surface plane reste aussi adhérente que possible :
+Et tout en haut de l'échelle, les patins de mon **Adler Standard** mesurent plus de 5 cm (deux pouces) de large — les plus grands pieds que j'aie imprimés jusqu'ici. Les pieds avant comportent un trou central plus large pour dégager un écrou en plus des vis de fixation, tandis que les pieds arrière présentent une ouverture vers l'arrière. Pour de futures révisions, j'ajouterai peut-être des sculptures sous la semelle afin que cette grande surface plane reste aussi adhérente que possible :
 
 ![Pieds avant et arrière de l'Adler Standard](/assets/posts/3d-printing-typewriter-feet/2x/IMG_4742.webp){:standalone}
 
@@ -221,13 +221,13 @@ Tous les modèles ci-dessous sont disponibles sur [mon profil Printables](https:
 
 Ce que j'apprécie le plus dans cette méthode, c'est la vitesse d'itération : passer d'un reste de caoutchouc effrité et d'un pied à coulisse à un pied en TPU monté sur la machine prend au plus quelques heures, souvent bien moins. Mieux encore, comme le filament ne coûte que quelques centimes par pied, j'ai pu équiper des machines en attente de restauration avant de les remettre sur leurs étagères de rangement — protégeant ainsi à la fois les étagères et les machines jusqu'à ce que vienne leur tour sur l'établi.
 
-Il existe bien sûr deux compromis par rapport au caoutchouc moulé :
+Il existe bien sûr deux compromis par rapport au caoutchouc coulé :
 
-- **Adhérence :** le TPU Shore 85A est légèrement moins collant que du caoutchouc neuf, même si sous le poids d'une machine à écrire je n'ai rencontré aucun problème de glissement en pratique.
-- **Esthétique :** le TPU imprimé présente un léger brillant et des lignes de couches visibles. Sous le châssis d'une machine à écrire, les pieds attirent rarement le regard, cela ne me dérange donc pas du tout. Pour les perfectionnistes, quelqu'un m'a récemment suggéré de polir légèrement le TPU sur un disque de polissage afin d'atténuer les lignes de couches et d'obtenir un fini mat proche du caoutchouc ; les résines SLA souples — ou l'utilisation de positifs imprimés en 3D pour couler des moules en silicone destinés au caoutchouc moulé — sont aussi des pistes possibles, même si pour mes besoins l'impression directe en TPU est déjà largement suffisante.
+- **Adhérence :** le TPU Shore 85A accroche légèrement moins au toucher que du caoutchouc neuf, même si sous le poids d'une machine à écrire je n'ai rencontré aucun problème de glissement en pratique.
+- **Esthétique :** le TPU imprimé présente un léger brillant et des lignes de couches visibles. Sous le châssis d'une machine à écrire, les pieds attirent rarement le regard, cela ne me dérange donc pas du tout. Pour les perfectionnistes, quelqu'un m'a récemment suggéré de polir légèrement le TPU sur un disque de polissage afin d'atténuer les lignes de couches et d'obtenir un fini mat proche du caoutchouc ; les résines SLA souples — ou l'utilisation de positifs imprimés en 3D pour couler des moules en silicone destinés au caoutchouc coulé — sont aussi des pistes possibles, même si pour mes besoins l'impression directe en TPU est déjà largement suffisante.
 
 Une fois l'imprimante bien réglée pour le TPU Shore 85A, d'autres pièces en caoutchouc dégradées commencent aussitôt à sauter aux yeux. Par exemple, je n'avais pas réalisé à quel point les tampons amortisseurs des leviers de retour chariot se fendaient ou s'aplatissaient avant d'inspecter mon Underwood « S » de 1942 et mon Underwood « SS » de 1948 — chacune utilise deux minuscules anneaux amortisseurs qui prennent quelques minutes à modéliser et à imprimer ([également sur Printables](https://www.printables.com/model/1562263-underwood-typewriter-carriage-return-lever-bumper)) :
 
 ![Tampon amortisseur de levier de retour chariot d'Underwood installé (capot retiré)](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1726.webp){:standalone}
 
-Sur ma liste des prochaines expériences figurent les galets de presse-papier et d'entraînement (même si le tube en caoutchouc constitue une alternative simple), d'autres modèles de pieds au fil des nouvelles machines qui passeront sur l'établi, ainsi que des essais avec des TPU encore plus souples ou des TPU moussants à dureté variable.
+Sur ma liste des prochaines expériences figurent les rouleaux du presse-papier et les rouleaux presseurs (galets d'entraînement), même si le tube en caoutchouc constitue une alternative simple, d'autres modèles de pieds au fil des nouvelles machines qui passeront sur l'établi, ainsi que des essais avec des TPU encore plus souples ou des TPU moussants à dureté variable.
