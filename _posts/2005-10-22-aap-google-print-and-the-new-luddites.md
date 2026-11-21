@@ -11,8 +11,6 @@ redirect_from:
 
 <figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/luddites.webp" alt="Machine-Breakers" width="250" height="232" loading="lazy"></figure>
 
-**NOTE:** Cet article est également disponible [en français](/posts/aap-google-print-et-les-nouveaux-luddites/).
-
 After the music industry and the movie industry, it is the turn of the publishing industry to be scared of the internet. The reason? Google's monumental scanning project announced last year, Google Print. The first two industries were, and still are, scared of illegal filesharers. So-called piracy is not really what the publishing industry is afraid of right now, but this industry shares with the others a fundamental trait: a complete, utter misunderstanding of technology, high-tech companies, and what those can actually bring to their own business - possibly at the price of a change in business model.
 
 Case in point, music. For years now, the Recording Industry Association of America (RIAA), previously better known for an equalization curve for long play records, has been quite unsuccessfully fighting music filesharing on the internet. The truth of course is that it is extremely easy to exchange music files over the internet, and therefore hard to stop the trend, even if a few lawsuits may temporarily slow down the rate of filesharing. In addition, many doubt that fighting your customers or potential customers is a good business proposition.

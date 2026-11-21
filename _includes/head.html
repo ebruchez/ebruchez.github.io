@@ -20,6 +20,20 @@
 
   {% seo title=false %}
 
+  {% if page.translations or page.translation_source %}
+    {% assign current_lang = page.lang | default: 'en' %}
+    <link rel="alternate" hreflang="{{ current_lang }}" href="{{ page.url | absolute_url }}">
+    {% if page.translations %}
+      {% for pair in page.translations %}
+        {% assign tr = pair[1] %}
+        <link rel="alternate" hreflang="{{ tr.lang | default: pair[0] }}" href="{{ tr.url | absolute_url }}">
+      {% endfor %}
+    {% endif %}
+    {% if page.translation_source %}
+      <link rel="alternate" hreflang="{{ page.translation_source.lang | default: 'en' }}" href="{{ page.translation_source.url | absolute_url }}">
+    {% endif %}
+  {% endif %}
+
   <title>
   {%- unless page.layout == "home" -%}
     {{ page.title | append: " | "}}

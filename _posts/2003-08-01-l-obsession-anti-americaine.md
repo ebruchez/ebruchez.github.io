@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Bonne intention de départ, faible argumentation - L'obsession anti-américaine,
   par Jean-François Revel
 date: '2003-08-01 04:47:12'

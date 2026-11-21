@@ -89,6 +89,25 @@ module BruchezSearchIndex
       }
     end
 
+    # 1b. French translated posts (newest first)
+    if site.collections['posts_fr']
+      site.collections['posts_fr'].docs.sort_by { |d| d.date || Time.at(0) }.reverse_each do |post|
+        next if post.data['published'] == false
+
+        text = plain_text_from_doc(post, converter)
+        entries << {
+          'title' => "#{post.data['title']} (FR)",
+          'url' => build_url(baseurl, post.url),
+          'type' => 'post',
+          'date' => post.date ? post.date.strftime('%b %Y') : '',
+          'categories' => Array(post.data['categories']).join(', '),
+          'tags' => (Array(post.data['tags']) | ['français']).join(', '),
+          'snippet' => FilterHost.truncate(text, SNIPPET_CHARS),
+          'body' => text[0, MAX_POST_BODY_CHARS].to_s
+        }
+      end
+    end
+
     # 2. Standalone content pages & tabs (collections, comic books, about)
     page_docs = site.pages + (site.collections['tabs'] ? site.collections['tabs'].docs : [])
     seen_urls = {}

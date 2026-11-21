@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Personne Pour Défendre la Science?
 date: '2006-10-31 16:01:04'
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Quand Google défie l'Europe, par Jean-Noël Jeanneney
 date: '2005-07-17 13:38:06'
 categories:

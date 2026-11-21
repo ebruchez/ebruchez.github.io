@@ -96,6 +96,11 @@ layout: default
           <li>
             <i class="far fa-file-alt mr-2 text-muted" aria-hidden="true"></i>
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            {% if post.translations.fr %}
+              <a href="{{ post.translations.fr.url | relative_url }}" class="post-lang-badge" hreflang="fr" title="Lire en français">FR</a>
+            {% elsif post.lang == 'fr' %}
+              <span class="post-lang-badge post-lang-badge--muted" title="Article en français">FR</span>
+            {% endif %}
             <span class="tile-post-date text-muted">{{ post.date | date: "%b %Y" }}</span>
           </li>
           {% endfor %}

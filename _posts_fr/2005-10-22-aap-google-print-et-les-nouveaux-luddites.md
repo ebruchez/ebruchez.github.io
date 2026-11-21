@@ -1,19 +1,21 @@
 ---
 layout: post
+lang: fr
+slug: aap-google-print-et-les-nouveaux-luddites
 title: AAP, Google Print, et les nouveaux Luddites
 date: '2005-10-22 08:43:55'
+translation_of: /posts/aap-google-print-and-the-new-luddites/
 categories:
 - Technology
 tags:
 - french
 redirect_from:
+- "/posts/aap-google-print-et-les-nouveaux-luddites/"
 - "/blog/2005/10/22/aap_google_print_and_new"
 - "/roller/page/ebruchez/aap_google_print_and_new"
 ---
 
 <figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/luddites.webp" alt="Machine-Breakers" width="250" height="232" loading="lazy"></figure>
-
-**NOTE:** This blog entry is also available [in English](/posts/aap-google-print-and-the-new-luddites/).
 
 Apres les industries de la musique et du cinéma, c'est le tour de l'industrie du livre d'avoir peur d'Internet. La raison ? Le projet monumental de numérisation annoncé l'année passée par Google sous le nom de Google Print. Les deux premières industries avaient, et ont encore, peur du partage de fichiers sur internet. Ce piratage, comme on l'appelle à tort, n'est pas vraiment ce dont l'industrie du livre a peur en ce moment, mais elle partage avec les autres un trait fondamental: une complète et totale incompréhension de la technologie, des compagnies dans le domaine de la technologie, et de ce que celles-ci peuvent effectivement apporter à leur commerce - peut-être, il est vrai, au prix d'un changement de business model.
 

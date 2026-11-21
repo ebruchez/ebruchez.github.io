@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Un plaisant voyage - Mystérieux Mozart, par Philippe Sollers
 date: '2002-01-01 04:05:59'
 categories:

@@ -4,6 +4,10 @@ layout: page
 ---
 
 
+<p class="mb-4 pl-xl-2 text-muted small">
+  <i class="fas fa-globe fa-fw mr-1" aria-hidden="true"></i>
+  <a href="{{ '/fr/' | relative_url }}" hreflang="fr">Articles en français ({{ site.data.french_posts.size }})</a>
+</p>
 <div id="archives" class="pl-xl-2">
 {% for post in site.posts %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
@@ -21,6 +25,11 @@ layout: page
         <span class="date day">{{ this_day }}</span>
         <span class="date month small text-muted">{{ this_month }}</span>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {% if post.translations.fr %}
+          <a href="{{ post.translations.fr.url | relative_url }}" class="post-lang-badge" hreflang="fr" title="Lire en français">FR</a>
+        {% elsif post.lang == 'fr' %}
+          <span class="post-lang-badge post-lang-badge--muted" title="Article en français">FR</span>
+        {% endif %}
       </div>
     </li>
   {% if forloop.last %}

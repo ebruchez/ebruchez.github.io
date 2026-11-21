@@ -1,12 +1,16 @@
 ---
 layout: post
+lang: fr
+slug: gastrosuisse-le-mauvais-combat
 title: 'GastroSuisse: le mauvais combat'
 date: '2005-10-09 15:25:58'
+translation_of: /posts/gastrosuisse-has-picked-the-wrong-fight/
 categories:
 - Other
 tags:
 - french
 redirect_from:
+- "/posts/gastrosuisse-le-mauvais-combat/"
 - "/blog/2005/10/9/gastrosuisse_le_mauvais_combat"
 - "/roller/page/ebruchez/gastrosuisse_le_mauvais_combat"
 archived_comments:

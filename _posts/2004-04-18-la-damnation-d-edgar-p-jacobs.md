@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Une bonne et attendue biographie - La Damnation d'Edgar P. Jacobs, par Benoît
   Mouchart and François Rivière
 date: '2004-04-18 04:52:26'

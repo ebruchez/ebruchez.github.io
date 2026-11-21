@@ -89,6 +89,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  posts_fr:
+    output: true
+    permalink: /fr/posts/:slug/
 
 defaults:
   -
@@ -103,6 +106,22 @@ defaults:
         -
           label: Home
           url: /
+  -
+    scope:
+      path: ''
+      type: posts_fr
+    values:
+      layout: post
+      lang: fr
+      comments: true
+      toc: true
+      breadcrumb:
+        -
+          label: Home
+          url: /
+        -
+          label: Français
+          url: /fr/
   -
     scope:
       path: _drafts

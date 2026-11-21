@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Décevant - La religion dans la démocratie, par Marcel Gauchet
 date: '2003-09-01 04:49:09'
 categories:

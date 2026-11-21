@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: N'allez pas à l'Hotel Alpenblick à Leukerbad
 date: '2005-03-08 03:26:53'
 categories:

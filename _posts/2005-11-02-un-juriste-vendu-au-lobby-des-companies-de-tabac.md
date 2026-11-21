@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Un juriste vendu au lobby des companies de tabac
 date: '2005-11-02 04:06:32'
 categories:
