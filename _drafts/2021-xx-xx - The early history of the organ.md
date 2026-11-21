@@ -28,7 +28,7 @@ hero_pneumatics_slides:
 
 Back in October 2013, as part of a quest to understand the origins of the modern piano keyboard, I [set a goal](/posts/october-reading-resolution/) to read a 300-page book recommended by the curator of the [Musée Suisse de l'Orgue](https://www.orgue.ch/), Jean-Jacques Gramm:[^passed-away] Jean Perrot's scholarly classic on the early history of the *pipe organ*.[^perrot]
 
-![Jean Perrot's book on the early history of the organ](/assets/posts/early-history-of-the-organ/perrot.webp){:standalone width="45%"}
+![Jean Perrot's book on the early history of the organ](/assets/posts/early-history-of-the-organ/perrot.webp){:standalone width="45%" .img-shadow}
 
 You might think that this is an obscure topic! Yet the book turned out to be packed with fascinating engineering and cultural history. It took me about four months of steady reading and note-taking[^perrot-notes] to finish it, after which I started drafting an article - and promptly left it unfinished for years.[^meanwhile] Here, at last, are some takeaways, paired with a companion post on [the origin of the modern musical keyboard](/posts/2021-xx-xx-The-origin-of-the-modern-musical-keyboard/).
 
@@ -51,7 +51,7 @@ As far as we know, the organ was single-handedly invented by one person: [Ktesib
 
 The ancient Greeks already had wind instruments such as the *aulos* (a double-reed pipe), powered by a human player's lungs. Using a machine to blow air into a row of pipes was a genuine breakthrough. To make it musical, Ktesibios had to devise a system capable not only of pumping air, but of maintaining a reasonably constant air pressure so that the sound would remain steady and pleasant across sequences of notes.
 
-His solution pushed air from a cylinder pump into a cistern where the weight of water regulated the pressure feeding the windchest (the chamber distributing air to the pipes). Because of the role of water, the instrument was called the *hydraulis* (from the Greek words for "water" and *aulos*), or *hydraulic organ*.
+His solution pushed air from a cylinder pump into a cistern where the weight of water regulated the pressure feeding the windchest (the chamber distributing air to the pipes - in organ parlance, pressurized air is called *wind*, hence terms like *windchest* and *wind supply*). Because of the role of water, the instrument was called the *hydraulis* (from the Greek words for "water" and *aulos*), or *hydraulic organ*.
 
 Ktesibios described his invention in a treatise that is unfortunately lost, and because centuries separate him from our earliest surviving accounts, we cannot be 100% certain how much he built on earlier experiments. Still, a surprising range of ancient evidence has survived:
 
@@ -75,7 +75,7 @@ Between the 16th and 19th centuries in particular, scholars produced some wonder
 - **Misconception 2: Water flowed through the pipes to make sound.** False: like every pipe organ since, the *hydraulis* sounded by blowing *air* through its pipes.
 - **Misconception 3: A continuous supply of running water was required.** False: the *volume* of water stayed fixed. You simply filled the cistern once and topped it up occasionally to compensate for evaporation or leaks. Because only the static *weight* of that water regulated air pressure, the *hydraulis* remained a relatively portable instrument.
 
-![Modern reconstruction drawing showing how two youths operated the pump levers of a hydraulis](/assets/posts/early-history-of-the-organ/children.webp){:standalone width="55%"}
+![Modern reconstruction drawing showing how two youths operated the pump levers of a hydraulis](/assets/posts/early-history-of-the-organ/children.webp){:standalone width="55%" .img-shadow}
 
 ![Fanciful 1556 reconstruction of a hydraulic organ by Daniele Barbaro](/assets/posts/early-history-of-the-organ/barbaro-hydraulic-organ.webp){:standalone width="50%"}
 
@@ -85,17 +85,21 @@ Imagine connecting a manual bicycle tire pump directly to a flute: because the p
 
 In the *hydraulis*, water acts as a pressure buffer - essentially a gravity-loaded accumulator - allowing the organist to play continuous lines or hold notes without the pitch and volume wavering. Air from the pumps feeds both the windchest above and an inverted funnel or dome, called the *pnigeus*, submerged near the bottom of the water cistern.
 
-![How air displaces water inside the submerged pnigeus](/assets/posts/early-history-of-the-organ/pnigeus.webp){:standalone width="50%"}
+![How air displaces water inside the submerged pnigeus](/assets/posts/early-history-of-the-organ/pnigeus.webp){:standalone width="50%" .img-shadow}
 
 When the pump forces air in, excess air pushes water out from under the *pnigeus*, raising the surrounding water level. During the brief pause when the pump piston reverses direction, the weight of that displaced water presses back into the *pnigeus*, driving stored air steadily up into the windchest and pipes. In the modern cutaway of Vitruvius's organ below, you can trace how the water (11) and *pnigeus* (12) stabilize the airflow on its way to the pipes.
 
 ![Modern cutaway diagram of Vitruvius's hydraulic organ](/assets/posts/early-history-of-the-organ/vitruvius-organ-diagram.webp){:standalone width="65%"}
 
+During my visit to the [Musée Suisse de l'Orgue](https://www.orgue.ch/) in Roche, Switzerland, I got to see a full-scale working reconstruction of Hero's *hydraulis* in person - complete with its large copper water cistern underneath, the cylindrical piston pump and long iron lever on the left, and the graded brass pipes and wooden key levers above (with Hero's manuscript diagram framed on the stone wall to the left!):
+
+![Full-scale working reconstruction of a Greco-Roman hydraulis at the Musée Suisse de l'Orgue in Roche, Switzerland](/assets/posts/early-history-of-the-organ/roche-hydraulis.webp){:standalone width="50%"}
+
 ### From water to bellows
 
 We do not know precisely when *bellows organs* - which needed no water at all - first appeared. Blacksmiths' bellows were already thousands of years old, but adapting them to an organ still required solving pressure regulation and windchest air leaks. By the 2nd century CE, bellows organs were definitely in use, and by the fall of the Western Roman Empire, the water-regulated *hydraulis* had largely vanished.[^bellows-hydraulic]
 
-Bellows organs were lighter, easier to move, and spared builders the corrosion and maintenance headaches of a water tank. Initially, however, they could not match the high wind pressures and sheer volume of the *hydraulis*, so early bellows instruments favored indoor settings before growing larger in late antiquity - as seen on the base of the Obelisk of Theodosius in Constantinople (c. 390 CE), where attendants stand directly on top of the bellows to weight them with their bodies.
+Bellows organs were lighter, easier to move, and spared builders the corrosion and maintenance headaches of a water tank. Initially, however, they could not match the high air pressures and sheer volume of the *hydraulis*, so early bellows instruments favored indoor settings before growing larger in late antiquity - as seen on the base of the Obelisk of Theodosius in Constantinople (c. 390 CE), where attendants stand directly on top of the bellows to weight them with their bodies.
 
 ![Late-antique bellows organ on the Obelisk of Theodosius in Constantinople (c. 390 CE), with two youths standing on the bellows](/assets/posts/early-history-of-the-organ/obelisk-of-theodosius-organ.webp){:standalone width="75%"}
 
@@ -105,7 +109,7 @@ Soon after Ktesibios's prototype, the organ matured and spread throughout the Me
 
 One striking contrast with later centuries is that in antiquity, **the organ was never used in early Christian worship, and only very rarely in pagan temple ritual**.[^rhodes] Instead, it led a mostly secular double life:
 
-- **In the arena:** Driven by high wind pressure - and, as Perrot and some historians suspect, possibly loud reed pipes alongside open flue ranks[^reeds] - the *hydraulis* cut right through the roar of amphitheaters, accompanying circus spectacles and gladiatorial combats alongside brass horns.
+- **In the arena:** Driven by high air pressure - and, as Perrot and some historians suspect, possibly loud reed pipes alongside open flue ranks[^reeds] - the *hydraulis* cut through the roar of amphitheaters, accompanying circus spectacles and gladiatorial combats alongside brass horns.
 - **In palaces and banquets:** Voiced with gentler flue pipes, it was equally prized for sweet, expressive music indoors, making it a favorite of Roman emperors - most famously Nero, who was fascinated by new organ mechanisms.
 
 ![Hydraulis and brass players accompanying gladiators in the Zliten mosaic (2nd century CE)](/assets/posts/early-history-of-the-organ/zliten.webp){:standalone width="85%"}
@@ -162,7 +166,7 @@ By the 13th century, proper lever keyboards with wooden keys reinforced in iron 
 
 ## Conclusion
 
-Stepping back, the early history of the pipe organ reads almost like improbable fiction. Conceived in 3rd-century BCE Alexandria by an engineer obsessed with air pumps, it arrived in the world already equipped with graded pipes, stabilized wind pressure, and a finger-played keyboard. It thundered behind Roman gladiators, entertained emperors in Rome and Constantinople, traveled as far east as Baghdad and Kublai Khan's court, returned to Western Europe as a diplomatic marvel, survived a medieval bout of technological amnesia, and ultimately reinvented itself inside monasteries and cathedrals as the quintessential church instrument.
+Stepping back, the early history of the pipe organ reads almost like improbable fiction. Conceived in 3rd-century BCE Alexandria by an engineer obsessed with air pumps, it arrived in the world already equipped with graded pipes, stabilized air pressure, and a finger-played keyboard. It thundered behind Roman gladiators, entertained emperors in Rome and Constantinople, traveled as far east as Baghdad and Kublai Khan's court, returned to Western Europe as a diplomatic marvel, survived a medieval bout of technological amnesia, and ultimately reinvented itself inside monasteries and cathedrals as the quintessential church instrument.
 
 Yet for my original question - *where did the modern piano keyboard come from?* - Perrot's story stops right at a cliffhanger. By the end of the 13th century, after more than 1,500 years of organ building, keyboards were still essentially a single row of wide levers, without the raised groups of two and three "black keys" we recognize instantly today. How that familiar chromatic layout took shape over the next century and a half is the detective story I pick up in [The Origin of the Modern Musical Keyboard](/posts/2021-xx-xx-The-origin-of-the-modern-musical-keyboard/).
 
@@ -184,7 +188,7 @@ Yet for my original question - *where did the modern piano keyboard come from?*
 
 [^rhodes]: Perrot notes one rare liturgical exception from the 3rd century CE: a Greek inscription from Rhodes naming a water-organ player (*hydraulēs*) *"charged with awakening the god,"* alongside festival competitions at sanctuaries such as Apollo's temple at Delphi (90 BCE).
 
-[^reeds]: Whether Greco-Roman organs actually used reed pipes remains an open debate among organologists: every ancient organ pipe unearthed so far (at Pompeii, Aquincum, and Dion) is a flue pipe, though high hydraulic wind pressures could also have supported reeds.
+[^reeds]: Whether Greco-Roman organs actually used reed pipes remains an open debate among organologists: every ancient organ pipe unearthed so far (at Pompeii, Aquincum, and Dion) is a flue pipe, though high hydraulic air pressures could also have supported reeds.
 
 [^manual]: In organ parlance, a hand-played keyboard is called a *manual* (as opposed to a foot-played *pedalboard*).
 

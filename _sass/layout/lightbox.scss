@@ -34,6 +34,14 @@ a.lightbox-trigger {
   }
 }
 
+.post-content {
+  figure.img-shadow img,
+  img.img-shadow {
+    box-shadow: var(--img-shadow);
+    border-radius: 3px;
+  }
+}
+
 .lightbox3-overlay {
   --lb-image-border-radius: 12px;
 

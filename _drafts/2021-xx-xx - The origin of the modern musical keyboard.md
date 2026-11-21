@@ -8,6 +8,31 @@ tags:
 category: Technology
 main_image: /assets/posts/origin-of-the-modern-musical-keyboard/ghent-altarpiece-organ.webp
 main_image_caption: "Detail of the angel organist's keyboard in the Ghent Altarpiece (1432)"
+valere_sion_slides:
+  - label: "Full manual"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-manual-full.webp
+    width: 1024
+    height: 682
+    alt: "Full 45-note manual of the Basilica of Valère organ in Sion, Switzerland"
+    caption: "The complete 45-note manual (from Christoph Aebi's 1687 rebuild) beneath the painted casework of the Valère Basilica organ in Sion."
+  - label: "Short octave & stops"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-short-octave.webp
+    width: 1024
+    height: 682
+    alt: "Bass short octave and iron stop levers on the left side of the Valère organ console"
+    caption: "Left side of the console: three iron stop levers with old paper labels and the Baroque bass \"short octave\" - notice the lowest group of three raised keys."
+  - label: "Key scale & dip"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-key-dip.webp
+    width: 1024
+    height: 682
+    alt: "Close-up of a finger pressing a natural key on the Valère organ manual"
+    caption: "Pressing a bass natural key: notice the compact wooden natural key heads, hollow undercut fronts, and dark block-shaped accidentals."
+  - label: "Treble & trackers"
+    src: /assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-treble-trackers.webp
+    width: 1024
+    height: 682
+    alt: "Treble end of the Valère organ manual showing brass tracker wire loops behind the keys"
+    caption: "Treble end of the manual, with the row of brass tracker wire loops visible behind the keys under the nameboard."
 ---
 
 ## Introduction
@@ -31,9 +56,11 @@ Thanks to a 1st-century CE treatise by Hero of Alexandria, we know the exact mec
 - pivoting **cranks** (bell-cranks) linking each depressed key to its slider so air could enter the pipe, and
 - flexible **horn spatulas** acting as return springs, tied with gut to pull the slider shut and return the key as soon as the finger lifted.
 
-![Cross-section of Hero of Alexandria's key, crank, slider, and horn-spring mechanism](/assets/posts/origin-of-the-modern-musical-keyboard/key-and-wind-chest.webp){:standalone width="65%"}
+![Cross-section of Hero of Alexandria's key, crank, slider, and horn-spring mechanism](/assets/posts/origin-of-the-modern-musical-keyboard/key-and-wind-chest.webp){:standalone width="65%" .img-shadow}
 
-Modern reconstructions of the *hydraulis* have confirmed how responsive this action is. Just like a modern organ or piano (though pianos use gravity and balance weights rather than springs), the keys sat roughly horizontal, went down under finger pressure, and sprang back automatically on release.
+Modern reconstructions of the *hydraulis* have confirmed how responsive this action is. Just like a modern organ or piano (though pianos use gravity and balance weights rather than springs), the keys sat roughly horizontal, went down under finger pressure, and sprang back automatically on release. On the working *hydraulis* reconstruction I photographed at the [Musée Suisse de l'Orgue](https://www.orgue.ch/) in Roche, Switzerland, you can see Hero's diagram come to life in wood, brass, and horn - eight L-shaped wooden bell-crank levers pivoting on a horizontal rod directly beneath their pipes, with dark curved horn return springs tucked underneath:
+
+![Close-up of the wooden L-shaped key levers and curved horn return springs on the hydraulis reconstruction at the Musée Suisse de l'Orgue in Roche](/assets/posts/origin-of-the-modern-musical-keyboard/roche-hydraulis-keyboard.webp){:standalone width="75%"}
 
 ### Clues from archaeology, texts, and mosaics
 
@@ -113,11 +140,11 @@ Praetorius's *Syntagma Musicum* gives us another milestone from **1456**: the ke
 
 ![Keyboards of the 1456 Aegidienkirche organ in Brunswick (Plates XXVII and XXVIII of Praetorius's Syntagma Musicum)](/assets/posts/origin-of-the-modern-musical-keyboard/syntagma-brunswick.webp){:standalone width="75%"}
 
-Finally, I cannot resist mentioning the **world's oldest playable organ**, built around **1430–1435** in the Basilica of Valère in **Sion, Switzerland** - not far from where I grew up![^valere] Looking at a photo of the Valère console today, my immediate hunch was that the keyboard itself looked far too clean and modern to be untouched from the 1430s:
+Finally, I cannot resist mentioning the **world's oldest playable organ**, built around **1430–1435** in the Basilica of Valère in **Sion, Switzerland** - not far from where I grew up![^valere] I was lucky enough to have a private visit and demonstration by Edmond Voeffray, titular or the Valère organ. Seeing and photographing the Valère manual up close, my immediate hunch was that the keyboard itself looked far too clean and modern to be untouched from the 1430s:
 
-![Manual of the historic Valère Basilica organ in Sion, Switzerland](/assets/posts/origin-of-the-modern-musical-keyboard/valere-sion-keyboard.webp){:standalone width="70%"}
+{% include carousel.html id="valere-sion-manual" label="Manual of the historic Valère Basilica organ in Sion" slides=page.valere_sion_slides %}
 
-And indeed, archival records confirm that hunch: while the Gothic swallow's-nest case, the 1435 painted shutters, and several ranks of high-lead pipes are genuinely medieval, the visible 45-note manual dates from a major **1687** rebuild by Solothurn organ builder Christoph Aebi, who enlarged and repositioned the keyboard (notice the Baroque ["short octave"](https://en.wikipedia.org/wiki/Short_octave) at the far left end, which omits the lowest C♯, D♯, F♯, and G♯ to save expensive bass pipes).[^valere-aebi] Even so, given what we already see at Halberstadt (1361), Norrlanda (c. 1400), Ghent (1432), and Brunswick (1456), the original 1430s Sion organ almost certainly already had a two-row chromatic manual of its own.
+And indeed, archival records confirm that hunch: while the Gothic swallow's-nest case, the 1435 painted shutters, and several ranks of high-lead pipes are genuinely medieval, the visible 45-note manual dates from a major **1687** rebuild by Solothurn organ builder Christoph Aebi, who enlarged and repositioned the keyboard (notice the Baroque ["short octave"](https://en.wikipedia.org/wiki/Short_octave) at the far left end.[^valere-aebi] Even so, given what we already see at Halberstadt (1361), Norrlanda (c. 1400), Ghent (1432), and Brunswick (1456), the original 1430s Sion organ almost certainly already had a two-row chromatic manual of its own.
 
 ## Conclusion
 
