@@ -4,7 +4,9 @@ title: Restoring an IBM Electronic Selectric Composer - Part 1
 author: Erik Bruchez
 date: '2024-03-28T17:30:00-07:00'
 tags:
-category: Typewriters
+categories:
+- Typewriters
+- Technology
 ---
 
 ## Introduction

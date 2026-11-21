@@ -4,7 +4,9 @@ title: Yamaha Clavinova CLP-280 felt and rubber contacts replacement
 author: Erik Bruchez
 date: '2023-01-19T20:52:00-07:00'
 tags:
-category: Technology
+categories:
+- Music
+- Technology
 ---
 
 ## The symptoms

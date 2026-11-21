@@ -3,7 +3,9 @@ layout: post
 title: Restoring an IBM Memory Typewriter - Part 1
 author: Erik Bruchez
 date: '2021-10-03T09:45:00.000-07:00'
-category: Typewriters
+categories:
+- Typewriters
+- Technology
 ---
 
 ## Introduction

@@ -3,7 +3,9 @@ layout: post
 title: The IBM Memory Typewriter
 author: Erik Bruchez
 tags:
-category: Typewriters
+categories:
+- Typewriters
+- Technology
 ---
 
 See also the following related posts:

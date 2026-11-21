@@ -4,7 +4,9 @@ title: "Building an Apple-1 Reproduction in 2024/2025 - Part 6: C Programming"
 author: Erik Bruchez
 date: '2025-01-25T15:00:00-07:00'
 tags:
-category: Technology
+categories:
+- Technology
+- Programming
 ---
 
 This is part of a series of posts about building an Apple-1 reproduction in 2024 (and 2025). See also:

@@ -7,7 +7,9 @@ tags:
 - typewriters
 - 3d-printing
 - restoration
-category: Typewriters
+categories:
+- Typewriters
+- Technology
 ---
 
 ![Some of my 3D-printed typewriter feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_3860.webp){:standalone}

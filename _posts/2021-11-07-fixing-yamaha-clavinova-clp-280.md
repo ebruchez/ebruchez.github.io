@@ -4,7 +4,9 @@ title: Fixing a Yamaha Clavinova CLP-280
 author: Erik Bruchez
 date: '2021-11-07T06:15:00.000-07:00'
 tags:
-category: Technology
+categories:
+- Music
+- Technology
 ---
 
 ## The problem

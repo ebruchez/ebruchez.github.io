@@ -4,7 +4,9 @@ title: Fixing a Yamaha Clavinova CLP-280 pedal
 author: Erik Bruchez
 date: '2022-11-14T23:15:00.000-08:00'
 tags:
-category: Technology
+categories:
+- Music
+- Technology
 ---
 
 ## The problem
