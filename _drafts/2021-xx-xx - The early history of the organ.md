@@ -9,6 +9,19 @@ category: Technology
 mermaid: true
 main_image: /assets/posts/early-history-of-the-organ/nennig-mosaic.webp
 main_image_caption: "Greco-Roman hydraulis and horn player in the Nennig Roman villa mosaic"
+hero_pneumatics_slides:
+  - label: "16th-c. color copy"
+    src: /assets/posts/early-history-of-the-organ/hero-pneumatics-burney-108.webp
+    width: 1220
+    height: 835
+    alt: "Three-color Greek diagram of Hero's hydraulis in British Library Burney MS 108, fol. 60v (16th century)"
+    caption: "British Library, Burney MS 108, fol. 60v (16th century) - A faithful Renaissance Greek copy preserving the diagram's three-color scheme in ochre, blue, and brown ink."
+  - label: "c. 1300 Venice MS"
+    src: /assets/posts/early-history-of-the-organ/hero-pneumatics-manuscript.webp
+    width: 2000
+    height: 1369
+    alt: "Diagram of Hero's hydraulis in Venice, Biblioteca Nazionale Marciana, Gr. Z. 516, fol. 184v (black-and-white plate from Perrot)"
+    caption: "Venice, Biblioteca Nazionale Marciana, Gr. Z. 516, fol. 184v (late 13th / early 14th century) - The earliest surviving Greek manuscript witness, reproduced in black and white in Jean Perrot's book."
 ---
 
 ## Introduction
@@ -46,9 +59,9 @@ Ktesibios described his invention in a treatise that is unfortunately lost, and 
 - **Iconography:** Dozens of mosaics, bas-reliefs, lamps, and terracotta figurines depict the instrument in action.
 - **Archaeology:** Actual physical remains have been unearthed, notably the 1st-century BCE [Dion hydraulis][dion-hydraulis-link] (discovered in Greece in 1992) and the small 3rd-century CE [Aquincum organ][aquincum-organ-link] from Roman Hungary (whose dedicatory plaque calls it a *hydra*, though its wind supply burned in a fire and scholars still debate whether it was water- or bellows-driven).
 
-One of the most striking pieces of documentary evidence is a three-color Greek diagram from a c. 1250 Venice manuscript of Hero's *Pneumatica*, faithfully copied from antiquity.[^hero-drawing] It shows the entire machine at a glance: the air pump on the right, the water cistern with its inverted dome on the left, the windchest, the pipes, and the keyboard mechanism with its return springs and sliders.
+One of the most striking pieces of documentary evidence is a three-color Greek diagram of Hero's *Pneumatica*, preserved in a Venice manuscript from around 1300 (*Marcianus gr. Z. 516*) and faithfully reproduced in later Greek copies such as the British Library's 16th-century *Burney MS 108* - all ultimately descending from antiquity.[^hero-drawing] It shows the entire machine at a glance: the water cistern with its inverted dome on the left, the piston air pump in the center, the windchest and pipes above, and the keyboard mechanism with its horn return springs and sliders on the right.
 
-![Diagram of Hero's hydraulis from a c. 1250 Venice manuscript of the Pneumatica](/assets/posts/early-history-of-the-organ/hero-pneumatics-manuscript.webp){:standalone width="80%"}
+{% include carousel.html id="hero-pneumatics" label="Manuscript diagrams of Hero's hydraulis" slides=page.hero_pneumatics_slides %}
 
 ### Misconceptions about the role of water
 
@@ -90,7 +103,7 @@ Bellows organs were lighter, easier to move, and spared builders the corrosion a
 
 Soon after Ktesibios's prototype, the organ matured and spread throughout the Mediterranean world. A typical Greco-Roman organ had two pumps and between 7 and 18 pipes per rank, with up to four ranks of pipes and intervals ranging from roughly a semitone to a whole tone.
 
-One striking contrast with later centuries is that in antiquity, **the organ was never used in early Christian worship, and only very rarely in pagan temple ritual**.[^rhodes] Instead, it led an overwhelmingly secular double life:
+One striking contrast with later centuries is that in antiquity, **the organ was never used in early Christian worship, and only very rarely in pagan temple ritual**.[^rhodes] Instead, it led a mostly secular double life:
 
 - **In the arena:** Driven by high wind pressure - and, as Perrot and some historians suspect, possibly loud reed pipes alongside open flue ranks[^reeds] - the *hydraulis* cut right through the roar of amphitheaters, accompanying circus spectacles and gladiatorial combats alongside brass horns.
 - **In palaces and banquets:** Voiced with gentler flue pipes, it was equally prized for sweet, expressive music indoors, making it a favorite of Roman emperors - most famously Nero, who was fascinated by new organ mechanisms.
