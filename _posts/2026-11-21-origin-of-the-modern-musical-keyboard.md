@@ -2,6 +2,7 @@
 layout: post
 title: "The Origin of the Modern Musical Keyboard"
 author: Erik Bruchez
+date: '2026-11-21T12:15:00-08:00'
 tags:
   - music
   - reading
@@ -73,7 +74,7 @@ Have you ever wondered when the familiar layout of the modern piano keyboard cam
 
 ![A modern digital piano keyboard, fittingly set to "Pipe Organ Principal"](/assets/posts/origin-of-the-modern-musical-keyboard/modern-digital-piano-keyboard.webp){:standalone width="75%"}
 
-Why pipe organs? Because the earliest musical keyboards were *organ* keyboards.[^manual] Unlike a flute or a harp, a multi-pipe organ fed by mechanical pumps or bellows needs a valve mechanism so the player can choose which pipe speaks and when. In a companion post, [The Early History of the Organ](/posts/2021-xx-xx-The-early-history-of-the-organ/), I trace how that remarkable machine traveled from Hellenistic Egypt to medieval cathedrals. Here, I want to follow the interface itself: how a row of ancient organ levers evolved into the chromatic keyboard we play today.
+Why pipe organs? Because the earliest musical keyboards were *organ* keyboards.[^manual] Unlike a flute or a harp, a multi-pipe organ fed by mechanical pumps or bellows needs a valve mechanism so the player can choose which pipe speaks and when. In a companion post, [The Early History of the Organ](/posts/early-history-of-the-organ/), I trace how that remarkable machine traveled from Hellenistic Egypt to medieval cathedrals. Here, I want to follow the interface itself: how a row of ancient organ levers evolved into the chromatic keyboard we play today.
 
 ## A spring-loaded keyboard 2,300 years ago
 
@@ -120,7 +121,7 @@ Summing up the classical evidence, Perrot concludes:
 
 ## Medieval amnesia and diatonic recovery
 
-After the fall of the Western Roman Empire, organ-building knowledge in Western Europe frayed (as I recount in [The Early History of the Organ](/posts/2021-xx-xx-The-early-history-of-the-organ/)). When monastic treatises resume in the 10th through early 12th centuries, many Western organs had lost the Greco-Roman spring-return key action altogether, falling back on slow wooden **sliders** that had to be pulled out by hand and pushed back in to stop the note. At the same time, medieval builders introduced a helpful visual aid: both the 10th-century Winchester poem and Theophilus's treatise (*Schedula diversarum artium*) describe inscribing **letters of the alphabet** directly onto sliders or keys so the organist knew which pitch each controlled.[^cambridge]
+After the fall of the Western Roman Empire, organ-building knowledge in Western Europe frayed (as I recount in [The Early History of the Organ](/posts/early-history-of-the-organ/)). When monastic treatises resume in the 10th through early 12th centuries, many Western organs had lost the Greco-Roman spring-return key action altogether, falling back on slow wooden **sliders** that had to be pulled out by hand and pushed back in to stop the note. At the same time, medieval builders introduced a helpful visual aid: both the 10th-century Winchester poem and Theophilus's treatise (*Schedula diversarum artium*) describe inscribing **letters of the alphabet** directly onto sliders or keys so the organist knew which pitch each controlled.[^cambridge]
 
 ![Portative organ in a mid-13th-century illumination from the Cantigas de Santa Maria](/assets/posts/origin-of-the-modern-musical-keyboard/cantigas-portative-organ.webp){:standalone width="45%"}
 

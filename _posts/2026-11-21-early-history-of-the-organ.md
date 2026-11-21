@@ -2,6 +2,7 @@
 layout: post
 title: "The Early History of the Organ"
 author: Erik Bruchez
+date: '2026-11-21T12:00:00-08:00'
 tags:
   - music
   - reading
@@ -30,7 +31,7 @@ Back in October 2013, as part of a quest to understand the origins of the modern
 
 ![Jean Perrot's book on the early history of the organ](/assets/posts/early-history-of-the-organ/perrot.webp){:standalone width="45%" .img-shadow}
 
-You might think that this is an obscure topic! Yet the book turned out to be packed with fascinating engineering and cultural history. It took me about four months of steady reading and note-taking[^perrot-notes] to finish it, after which I started drafting an article - and promptly left it unfinished for years.[^meanwhile] Here, at last, are some takeaways, paired with a companion post on [the origin of the modern musical keyboard](/posts/2021-xx-xx-The-origin-of-the-modern-musical-keyboard/).
+You might think that this is an obscure topic! Yet the book turned out to be packed with fascinating engineering and cultural history. It took me about four months of steady reading and note-taking[^perrot-notes] to finish it, after which I started drafting an article - and promptly left it unfinished for years.[^meanwhile] Here, at last, are some takeaways, paired with a companion post on [the origin of the modern musical keyboard](/posts/origin-of-the-modern-musical-keyboard/).
 
 The biggest surprise right away is just how *ancient* the pipe organ[^organon] is: it dates back to the 3rd century BCE, about 2,300 years ago. Even more remarkably, most of the core building blocks of a modern pipe organ were already in place from the very beginning:
 
@@ -114,7 +115,7 @@ One striking contrast with later centuries is that in antiquity, **the organ was
 
 ![Hydraulis and brass players accompanying gladiators in the Zliten mosaic (2nd century CE)](/assets/posts/early-history-of-the-organ/zliten.webp){:standalone width="85%"}
 
-Who played these instruments? According to ancient tradition, Ktesibios's wife, Thaïs, was the very first organist - and surviving inscriptions, terracottas, and mosaics (including the Zliten mosaic above) confirm that women organists were a real feature of Greco-Roman musical life. Performers stood or sat behind the pipes facing the audience, playing with both hands and nimble individual fingers on a spring-return keyboard[^manual] - a mechanism I explore in detail in [my companion article](/posts/2021-xx-xx-The-origin-of-the-modern-musical-keyboard/).
+Who played these instruments? According to ancient tradition, Ktesibios's wife, Thaïs, was the very first organist - and surviving inscriptions, terracottas, and mosaics (including the Zliten mosaic above) confirm that women organists were a real feature of Greco-Roman musical life. Performers stood or sat behind the pipes facing the audience, playing with both hands and nimble individual fingers on a spring-return keyboard[^manual] - a mechanism I explore in detail in [my companion article](/posts/origin-of-the-modern-musical-keyboard/).
 
 ## Lost in the West, preserved in the East
 
@@ -168,7 +169,7 @@ By the 13th century, proper lever keyboards with wooden keys reinforced in iron 
 
 Stepping back, the early history of the pipe organ reads almost like improbable fiction. Conceived in 3rd-century BCE Alexandria by an engineer obsessed with air pumps, it arrived in the world already equipped with graded pipes, stabilized air pressure, and a finger-played keyboard. It thundered behind Roman gladiators, entertained emperors in Rome and Constantinople, traveled as far east as Baghdad and Kublai Khan's court, returned to Western Europe as a diplomatic marvel, survived a medieval bout of technological amnesia, and ultimately reinvented itself inside monasteries and cathedrals as the quintessential church instrument.
 
-Yet for my original question - *where did the modern piano keyboard come from?* - Perrot's story stops right at a cliffhanger. By the end of the 13th century, after more than 1,500 years of organ building, keyboards were still essentially a single row of wide levers, without the raised groups of two and three "black keys" we recognize instantly today. How that familiar chromatic layout took shape over the next century and a half is the detective story I pick up in [The Origin of the Modern Musical Keyboard](/posts/2021-xx-xx-The-origin-of-the-modern-musical-keyboard/).
+Yet for my original question - *where did the modern piano keyboard come from?* - Perrot's story stops right at a cliffhanger. By the end of the 13th century, after more than 1,500 years of organ building, keyboards were still essentially a single row of wide levers, without the raised groups of two and three "black keys" we recognize instantly today. How that familiar chromatic layout took shape over the next century and a half is the detective story I pick up in [The Origin of the Modern Musical Keyboard](/posts/origin-of-the-modern-musical-keyboard/).
 
 ---
 
