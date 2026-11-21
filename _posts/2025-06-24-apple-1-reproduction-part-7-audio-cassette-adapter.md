@@ -26,7 +26,7 @@ This is part of a series of posts about building an Apple-1 reproduction in 2024
 
 ## Introduction
 
-The Apple-1 was very short-lived and made in small quantities (less than 200 units). Unlike other computers of the days, it never got to have many peripherals. However, Steve Wozniak did design an audio cassette adapter (known simply as the "ACI"), which allowed the Apple-1 to save and load programs and data to and from standard audio cassettes. This was the Apple-1's "storage" in modern parlance — that is, some kind of persistent memory.
+The Apple-1 was very short-lived and made in small quantities (less than 200 units). Unlike other computers of the days, it never got to have many peripherals. However, Steve Wozniak did design an audio cassette adapter (known simply as the "ACI"), which allowed the Apple-1 to save and load programs and data to and from standard audio cassettes. This was the Apple-1's "storage" in modern parlance — that is, some kind of persistent memory.
 
 The idea of using an audio recorder to keep computer data is simple: you encode each bit of data as a short sound. Specifically, in this case, according to the ACI manual:
 

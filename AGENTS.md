@@ -141,3 +141,7 @@ ruby tools/manage-comic-covers.rb --fetch-online --year 2026 --limit 20
 ## Testing in a browser
 
 Use playwright-cli to access the local deployed site, as a human would. The main instance is usually at http://localhost:4000/.
+
+## Styling, Typography
+
+- **Em-Dashes (`—`)**: Format inline em-dashes with a **non-breaking space before** and a **regular breakable space after**

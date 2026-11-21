@@ -20,7 +20,7 @@ Typewriter feet do more work than they usually get credit for:
 - They dampen vibrations and noise, making typing quieter and more comfortable.
 - They protect both the desk surface underneath and the typewriter itself from scratches and dents.
 
-To do all three jobs, feet need to be relatively soft and grippy, which is why they were traditionally made of rubber. Over the decades, however, rubber ages poorly: on most vintage machines, the original feet have turned rock-hard, flattened, crumbled away, or gone missing altogether. You could reasonably view typewriter feet as consumable parts - much like platens, or car tires.
+To do all three jobs, feet need to be relatively soft and grippy, which is why they were traditionally made of rubber. Over the decades, however, rubber ages poorly: on most vintage machines, the original feet have turned rock-hard, flattened, crumbled away, or gone missing altogether. You could reasonably view typewriter feet as consumable parts — much like platens, or car tires.
 
 Most typewriter manufacturers are long gone, and original replacement parts haven't been made in decades. Until recently, the usual workarounds were:
 
@@ -29,7 +29,7 @@ Most typewriter manufacturers are long gone, and original replacement parts have
 - sculpting replacements out of moldable rubber like Sugru; or
 - buying modern replacement feet from specialty typewriter-parts sellers.
 
-That last option is very real, and some of the custom-poured rubber feet sold today are wonderfully made. Over the years, I have personally spent hundreds of dollars on them. The catch is twofold: at USD 20–40 per set, they get expensive fast, and you are limited to the relatively common models on offer. Across a large collection - including rare 19th- and early-20th-century machines for which no aftermarket feet exist, as well as unrestored project or parts machines sitting in storage - buying poured rubber sets for everything simply isn't practical.
+That last option is very real, and some of the custom-poured rubber feet sold today are wonderfully made. Over the years, I have personally spent hundreds of dollars on them. The catch is twofold: at USD 20–40 per set, they get expensive fast, and you are limited to the relatively common models on offer. Across a large collection — including rare 19th- and early-20th-century machines for which no aftermarket feet exist, as well as unrestored project or parts machines sitting in storage — buying poured rubber sets for everything simply isn't practical.
 
 Once I got a 3D printer, designing and printing my own replacement feet turned out to be a game changer. Starting with a single test for a 1920 Underwood 5, I quickly ended up designing feet for over twenty machines spanning eight decades of typewriter history.
 
@@ -37,17 +37,17 @@ Once I got a 3D printer, designing and printing my own replacement feet turned o
 
 PLA and PETG, the workhorse filaments of hobbyist 3D printing, are poorly suited for actual typewriter feet: they are far too hard and slippery. **TPU** (*thermoplastic polyurethane*), on the other hand, is a flexible elastomer filament sold in varying hardness grades on the Shore A scale.
 
-The most widely available flexible filament is **Shore 95A TPU**. I tried it first, and while it works fine for static display, I found it too stiff and not grippy enough for real use. Switching to a softer **Shore 85A TPU** - specifically Siraya Tech Flex 85A - made all the difference.
+The most widely available flexible filament is **Shore 95A TPU**. I tried it first, and while it works fine for static display, I found it too stiff and not grippy enough for real use. Switching to a softer **Shore 85A TPU** — specifically Siraya Tech Flex 85A — made all the difference.
 
 ![Siraya Tech Flex Shore 85A TPU filament](/assets/posts/3d-printing-typewriter-feet/2x/siraya85a.webp){:standalone width="50%"}
 
-In terms of bounce and cushioning, Shore 85A TPU is excellent and feels very close to rubber. You can also tune the effective firmness of a foot by varying the slicer infill - I have used anywhere from 100% solid down to about 25% depending on the thickness and geometry of the foot. While TPU is still slightly less tacky than fresh natural rubber, the weight of a typewriter makes up for it in practice, and it is worlds better than missing, petrified, or crumbled feet.
+In terms of bounce and cushioning, Shore 85A TPU is excellent and feels very close to rubber. You can also tune the effective firmness of a foot by varying the slicer infill — I have used anywhere from 100% solid down to about 25% depending on the thickness and geometry of the foot. While TPU is still slightly less tacky than fresh natural rubber, the weight of a typewriter makes up for it in practice, and it is worlds better than missing, petrified, or crumbled feet.
 
 Color choices are much narrower in soft TPU than in PLA or PETG: black is by far the most common, alongside white, clear, and the occasional bright color like orange. Fortunately, black is perfect for almost any typewriter.
 
 ## Printer setup for soft TPU
 
-Soft TPU has a reputation for being finicky, though modern printers handle it much better than older machines did. Still, Shore 85A is floppy enough that I couldn't push it reliably through my printer's PTFE guide tube. Instead, I feed the filament straight into the top of the extruder - a setup made easy by an earlier modification allowing me to lift off my printer's top cover.
+Soft TPU has a reputation for being finicky, though modern printers handle it much better than older machines did. Still, Shore 85A is floppy enough that I couldn't push it reliably through my printer's PTFE guide tube. Instead, I feed the filament straight into the top of the extruder — a setup made easy by an earlier modification allowing me to lift off my printer's top cover.
 
 [//]: # (![Feeding TPU filament directly into the extruder](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1439.webp){:standalone})
 
@@ -85,7 +85,7 @@ Before a new foot goes on, the remnants of the old one have to come off. When th
 Once the mounting hardware is clean, the design loop itself is fast and satisfying:
 
 1. **Inspect what remains** of the original foot, mentally (or on paper) reconstructing its un-flattened profile.
-2. **Measure key dimensions** - cup inner diameters, stem holes, screw clearances, and frame offsets - with digital calipers.
+2. **Measure key dimensions** — cup inner diameters, stem holes, screw clearances, and frame offsets — with digital calipers.
 3. **Model the part in CAD** (I use Autodesk Fusion).
 4. **Print a quick test piece in PLA** to verify the fit against the hardware and frame, adjusting dimensions as needed.
 5. **Refine and print in Shore 85A TPU**, adding fillets and chamfers for appearance and printability.
@@ -109,7 +109,7 @@ The earliest feet in my collection were also the simplest to model: stepped cyli
 
 ![Smith Premier 5 press-fit feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1466.webp){:standalone}
 
-Because CAD makes experimentation nearly free, I tried two variations for my 1899 **Densmore 4** (whose feet are secured with screws): a straightforward cylindrical profile - likely closer to what left the factory - and a tapered conical version just to look a little more snazzy.
+Because CAD makes experimentation nearly free, I tried two variations for my 1899 **Densmore 4** (whose feet are secured with screws): a straightforward cylindrical profile — likely closer to what left the factory — and a tapered conical version just to look a little more snazzy.
 
 ![Cylindrical Densmore 4 feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1395.webp){:standalone}
 
@@ -119,11 +119,11 @@ The tall push-in feet on my 1907 **Remington 7 with Gorin tabulator** look simil
 
 ![Remington 7 feet with internal metal reinforcing rods](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1432.webp){:standalone}
 
-Custom CAD also shines when a machine needs an asymmetric tweak. My 1909 aluminum **Blickensderfer 5** arrived with only two deformed, fossilized feet remaining; years ago I had sculpted makeshift rear feet out of Sugru, with mediocre results. While modeling proper rounded TPU replacements (with top holes for slotted wood screws), I noticed a screw head on the underside of the frame encroaching on the left rear foot - and added a clean clearance notch in minutes:
+Custom CAD also shines when a machine needs an asymmetric tweak. My 1909 aluminum **Blickensderfer 5** arrived with only two deformed, fossilized feet remaining; years ago I had sculpted makeshift rear feet out of Sugru, with mediocre results. While modeling proper rounded TPU replacements (with top holes for slotted wood screws), I noticed a screw head on the underside of the frame encroaching on the left rear foot — and added a clean clearance notch in minutes:
 
 ![Blickensderfer 5 feet, including the notched rear foot](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1523.webp){:standalone}
 
-I took a similar approach on my 1917 **Courier** - essentially an Austrian-built **Oliver 3** (so the part may fit an Oliver 3 as well). Here the feet press directly into the frame without hardware, and adding a stepped side notch let me make the base slightly oversized, reaching just beyond the cast-iron body for a wider, more stable footprint:
+I took a similar approach on my 1917 **Courier** — essentially an Austrian-built **Oliver 3** (so the part may fit an Oliver 3 as well). Here the feet press directly into the frame without hardware, and adding a stepped side notch let me make the base slightly oversized, reaching just beyond the cast-iron body for a wider, more stable footprint:
 
 ![Courier foot with side clearance notch](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1867.webp){:standalone}
 
@@ -157,13 +157,13 @@ Portable typewriters often attach compact circular feet directly to the bottom o
 
 ![Princess 100 feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_2071.webp){:standalone}
 
-Not every portable leaves clear clues behind, though. Reconstructing the feet on my 1927 **Varityper Folding** (closely related to the Hammond Folding) required some guesswork. Inside the case bottom were aged, slightly cupped felt pads, and the surviving rubber remnants had deformed into that cup - yet if the machine was ever meant to sit directly on a table outside its case, the bottom of the feet had to be flat. Online photos of surviving Varityper and Hammond Folding machines weren't much help either, as nearly all of them have badly deteriorated feet. I settled on a flat-bottomed design that wraps neatly around and inside the metal frame legs:
+Not every portable leaves clear clues behind, though. Reconstructing the feet on my 1927 **Varityper Folding** (closely related to the Hammond Folding) required some guesswork. Inside the case bottom were aged, slightly cupped felt pads, and the surviving rubber remnants had deformed into that cup — yet if the machine was ever meant to sit directly on a table outside its case, the bottom of the feet had to be flat. Online photos of surviving Varityper and Hammond Folding machines weren't much help either, as nearly all of them have badly deteriorated feet. I settled on a flat-bottomed design that wraps neatly around and inside the metal frame legs:
 
 ![Varityper Folding feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1713.webp){:standalone}
 
 ### 4. Beyond round feet: lofts, splines, and oversized blocks (1950s–1960s)
 
-Mid-century European machines pushed me past simple revolved cylinders in Fusion. The 1951 **Hermes Ambassador** uses long, substantial rectangular feet sandwiched between stamped metal brackets. Modeling them was my excuse to learn Fusion's **Loft** feature, combined with chamfers and fillets - and seeing the crumbling grey original next to the fresh black TPU part speaks for itself:
+Mid-century European machines pushed me past simple revolved cylinders in Fusion. The 1951 **Hermes Ambassador** uses long, substantial rectangular feet sandwiched between stamped metal brackets. Modeling them was my excuse to learn Fusion's **Loft** feature, combined with chamfers and fillets — and seeing the crumbling grey original next to the fresh black TPU part speaks for itself:
 
 ![Hermes Ambassador foot alongside its metal bracket and crumbling original](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1369.webp){:standalone}
 
@@ -173,7 +173,7 @@ The 1960s **Facit TP2** uses a very similar rectangular, metal-plate-retained co
 
 ![Facit TP2 feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_2059.webp){:standalone}
 
-More challenging still was the 1960 **Erika 10**, whose elongated, boat-like feet are neither circular nor rectangular. Here I combined a loft with a flatbed scan of the original foot's outline, tracing splines over the scan to approximate the curve. It isn't mathematically exact - then again, neither were the factory originals!
+More challenging still was the 1960 **Erika 10**, whose elongated, boat-like feet are neither circular nor rectangular. Here I combined a loft with a flatbed scan of the original foot's outline, tracing splines over the scan to approximate the curve. It isn't mathematically exact — then again, neither were the factory originals!
 
 ![Erika 10 feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1690.webp){:standalone}
 
@@ -181,7 +181,7 @@ Finally, two 1950s office standards in my collection seat distinct front and rea
 
 ![Olivetti Lexicon 80 front and rear feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_4771.webp){:standalone}
 
-And at the largest end of the scale, my **Adler Standard** pads are over two inches across - the widest feet I have printed so far. Here the front feet include a larger central hole to clear a mounting nut in addition to the mounting screws, while the rear feet feature an opening at the back. On future revisions I might add a tread profile underneath so that broad flat contact area stays as grippy as possible:
+And at the largest end of the scale, my **Adler Standard** pads are over two inches across — the widest feet I have printed so far. Here the front feet include a larger central hole to clear a mounting nut in addition to the mounting screws, while the rear feet feature an opening at the back. On future revisions I might add a tread profile underneath so that broad flat contact area stays as grippy as possible:
 
 ![Adler Standard front and rear feet](/assets/posts/3d-printing-typewriter-feet/2x/IMG_4742.webp){:standalone}
 
@@ -216,14 +216,14 @@ All of the models below are available on [my Printables profile](https://www.pri
 
 ## Trade-offs and beyond feet
 
-What I love most about this workflow is the speed of iteration: going from a crumbled remnant and a pair of calipers to a fitted TPU foot installed on a machine takes at most a few hours, often much less. Even better, because filament costs pennies per foot, I have been able to outfit unrestored project machines before putting them back on storage shelves - protecting both the shelves and the typewriters until their turn on the workbench comes.
+What I love most about this workflow is the speed of iteration: going from a crumbled remnant and a pair of calipers to a fitted TPU foot installed on a machine takes at most a few hours, often much less. Even better, because filament costs pennies per foot, I have been able to outfit unrestored project machines before putting them back on storage shelves — protecting both the shelves and the typewriters until their turn on the workbench comes.
 
 There are, of course, a couple of trade-offs compared with poured rubber:
 
 - **Grip:** Shore 85A TPU is slightly less tacky than fresh rubber, though under the weight of a typewriter I haven't found sliding to be an issue in practice.
-- **Cosmetics:** Printed TPU has a slight sheen and visible layer lines. Underneath a typewriter frame, feet rarely draw the eye, so this doesn't bother me at all. For perfectionists, someone recently suggested lightly buffing TPU on a polishing wheel to knock down layer lines and leave a matte, rubbery finish; flexible SLA resins - or using 3D-printed positives to cast silicone molds for poured rubber - are also possibilities, though for my needs direct TPU prints are already more than good enough.
+- **Cosmetics:** Printed TPU has a slight sheen and visible layer lines. Underneath a typewriter frame, feet rarely draw the eye, so this doesn't bother me at all. For perfectionists, someone recently suggested lightly buffing TPU on a polishing wheel to knock down layer lines and leave a matte, rubbery finish; flexible SLA resins — or using 3D-printed positives to cast silicone molds for poured rubber — are also possibilities, though for my needs direct TPU prints are already more than good enough.
 
-Once your printer is dialed in for Shore 85A TPU, other degraded rubber parts start jumping out at you too. For instance, I hadn't realized how often carriage return lever bumpers split or flatten until I inspected my 1942 Underwood "S" and 1948 Underwood "SS" - each uses two tiny ring bumpers that take minutes to model and print ([also on Printables](https://www.printables.com/model/1562263-underwood-typewriter-carriage-return-lever-bumper)):
+Once your printer is dialed in for Shore 85A TPU, other degraded rubber parts start jumping out at you too. For instance, I hadn't realized how often carriage return lever bumpers split or flatten until I inspected my 1942 Underwood "S" and 1948 Underwood "SS" — each uses two tiny ring bumpers that take minutes to model and print ([also on Printables](https://www.printables.com/model/1562263-underwood-typewriter-carriage-return-lever-bumper)):
 
 ![Underwood carriage return lever bumper installed (cover removed)](/assets/posts/3d-printing-typewriter-feet/2x/IMG_1726.webp){:standalone}
 

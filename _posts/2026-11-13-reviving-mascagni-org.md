@@ -15,25 +15,25 @@ history_slides:
     width: 2048
     height: 1536
     alt: "Mascagni.org homepage in November 1999 showing an orange top bar, left-hand site map, and the Iris Project feature"
-    caption: "November 1999 — The original Mascagni.org homepage, with a simple table layout, site map, and the \"Iris Project\" feature."
+    caption: "November 1999 — The original Mascagni.org homepage, with a simple table layout, site map, and the \"Iris Project\" feature."
   - year: "2002"
     src: /assets/posts/mascagni-org/mascagni-org-2002-11.webp
     width: 2048
     height: 1536
     alt: "Mascagni.org version 2.5 homepage in November 2002 with a maroon sidebar, painted logo artwork, and latest news"
-    caption: "November 2002 — Version 2.5 introduced the maroon sidebar, painted header artwork, and sections for news, articles, and recordings."
+    caption: "November 2002 — Version 2.5 introduced the maroon sidebar, painted header artwork, and sections for news, articles, and recordings."
   - year: "2006"
     src: /assets/posts/mascagni-org/mascagni-org-2006-11.webp
     width: 2048
     height: 1536
     alt: "Mascagni.org homepage in November 2006 with a two-column layout, search bar, inline MP3 and Ogg players, and featured 1902 photograph"
-    caption: "November 2006 — A richer two-column layout adding site search, inline MP3/Ogg audio excerpts, and a featured archival photo."
+    caption: "November 2006 — A richer two-column layout adding site search, inline MP3/Ogg audio excerpts, and a featured archival photo."
   - year: "2011"
     src: /assets/posts/mascagni-org/mascagni-org-2011-11.webp
     width: 2048
     height: 1536
     alt: "Mascagni.org homepage in November 2011 featuring Teatro Grattacielo's North American premiere of Il Piccolo Marat at Lincoln Center"
-    caption: "November 2011 — Later iteration of the Orbeon-powered site, featuring Teatro Grattacielo's U.S. première of Il Piccolo Marat at Lincoln Center."
+    caption: "November 2011 — Later iteration of the Orbeon-powered site, featuring Teatro Grattacielo's U.S. première of Il Piccolo Marat at Lincoln Center."
 ---
 
 ![Pietro Mascagni writing at his office desk at the Teatro Costanzi in Rome in 1909](/assets/posts/mascagni-org/mascagni-desk-1909.webp){:standalone width="75%"}
@@ -63,7 +63,7 @@ For this revival, Mascagni.org is generated ahead of time as a completely static
 
 Alongside migrating the archive, I took the opportunity to restore and complete several pieces of content:
 
-- Completed the [**Mascagni in San Francisco (1903)**](https://mascagni.org/features/san-francisco) special feature — a fun connection for me here in the Bay Area — including six February 1903 *San Francisco Examiner* and *San Francisco Chronicle* articles with original newspaper sketches, as well as Mascagni's signed autograph score of [*Un pensiero a San Francisco*](https://mascagni.org/features/pensiero).
+- Completed the [**Mascagni in San Francisco (1903)**](https://mascagni.org/features/san-francisco) special feature — a fun connection for me here in the Bay Area — including six February 1903 *San Francisco Examiner* and *San Francisco Chronicle* articles with original newspaper sketches, as well as Mascagni's signed autograph score of [*Un pensiero a San Francisco*](https://mascagni.org/features/pensiero).
 - Published a complete English translation of Mascagni's January 1914 *La Lettura* essay, [*How Parisina was Born*](https://mascagni.org/articles/), paired with the Italian text and magazine scans, and Giovanni Targioni-Tozzetti's March 1932 memoir *Mascagni prima della « Cavalleria »*.
 - Expanded the [biography](https://mascagni.org/biography) and individual work pages, and restored all 2007–2009 posts from *The Mascagni.org Blog* into the [News Archive](https://mascagni.org/news/).
 
