@@ -27,11 +27,15 @@ hero_pneumatics_slides:
 
 ## Introduction
 
+![The Greco-Roman hydraulis and horn player in the Nennig mosaic (3rd century CE)](/assets/posts/early-history-of-the-organ/nennig-mosaic.webp){:standalone width="75%"}
+
+*Note: Curiously, the Nennig mosaicist reversed the usual pipe order, placing the tallest bass pipes to the organist's right - likely a slip from memory, as nearly all other ancient depictions place the shortest treble pipes on the player's right.*
+
 Back in October 2013, as part of a quest to understand the origins of the modern piano keyboard, I [set a goal](/posts/october-reading-resolution/) to read a 300-page book recommended by the curator of the [Musée Suisse de l'Orgue](https://www.orgue.ch/), Jean-Jacques Gramm:[^passed-away] Jean Perrot's scholarly classic on the early history of the *pipe organ*.[^perrot]
 
-![Jean Perrot's book on the early history of the organ](/assets/posts/early-history-of-the-organ/perrot.webp){:standalone width="45%" .img-shadow}
-
 You might think that this is an obscure topic! Yet the book turned out to be packed with fascinating engineering and cultural history. It took me about four months of steady reading and note-taking[^perrot-notes] to finish it, after which I started drafting an article - and promptly left it unfinished for years.[^meanwhile] Here, at last, are some takeaways, paired with a companion post on [the origin of the modern musical keyboard](/posts/origin-of-the-modern-musical-keyboard/).
+
+![Jean Perrot's book on the early history of the organ](/assets/posts/early-history-of-the-organ/perrot.webp){:standalone width="35%" .img-shadow}
 
 The biggest surprise right away is just how *ancient* the pipe organ[^organon] is: it dates back to the 3rd century BCE, about 2,300 years ago. Even more remarkably, most of the core building blocks of a modern pipe organ were already in place from the very beginning:
 
@@ -39,10 +43,6 @@ The biggest surprise right away is just how *ancient* the pipe organ[^organon] i
 - mechanical air *pumps*,
 - an air pressure *regulator*,
 - and a spring-loaded *keyboard* played with the fingers.
-
-![The Greco-Roman hydraulis and horn player in the Nennig mosaic (3rd century CE)](/assets/posts/early-history-of-the-organ/nennig-mosaic.webp){:standalone width="75%"}
-
-*Note: Curiously, the Nennig mosaicist reversed the usual pipe order, placing the tallest bass pipes to the organist's right - likely a slip from memory, as nearly all other ancient depictions place the shortest treble pipes on the player's right.*
 
 ## Engineering the *hydraulis* (and beyond)
 
