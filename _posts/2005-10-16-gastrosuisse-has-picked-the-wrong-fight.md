@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/gastrosuisse_has_picked_the_wrong"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/tobaccohands.jpg" alt="Hands" width="140" height="180" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/tobaccohands.webp" alt="Hands" width="140" height="180" loading="lazy"></figure>
 
 **NOTE:** This is an English translation of an [article in French](/posts/gastrosuisse-le-mauvais-combat/) posted in this blog on October 10, 2005.
 

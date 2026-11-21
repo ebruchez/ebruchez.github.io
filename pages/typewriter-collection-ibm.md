@@ -24,67 +24,67 @@ This page presents my collection of 33 IBM typewriters as of August 2026 (exclud
 <div class="tw-table">
 
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_7991.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_7991.webp"/>
     <figcaption>1940 - IBM Electromatic, also known as IBM Model 01. This instance is still branded "Electromatic", and features a rounded view of the type basket. This machine is cosmetically in good shape, but needs refurbishing. I love the red accent colors, including the space bar.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4536.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_4536.webp"/>
     <figcaption>1941 - IBM Electromatic, also known as IBM Model 01. This instance is now branded "IBM", and note the reduced view of the type basket compared with the 1940 instance. This machine needs refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_0310.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_0310.webp"/>
     <figcaption>1949 - This beige IBM Model A Executive needs refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_8859.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_8859.webp"/>
     <figcaption>1950 - This is a very late IBM Model 04 Executive, possibly made concurrently with the first Model A Executive. This machine needs refurbishing. In particular, the motor capacitor melted and needs replacing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4188.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_4188.webp"/>
     <figcaption>1951 - This gray IBM Model A Executive is refurbished and in great condition. It even has a new platen. It features the Modern typeface.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_0311.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_0311.webp"/>
     <figcaption>1958 - This IBM Model B Executive needs refurbishing. It will look great once the green paint is cleaned.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_0292.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_0292.webp"/>
     <figcaption>1964 - This IBM Model C has a 12-inch carriage and is likely to be a parts machine as it is missing a type. Its attractive green color case could be exchanged with the 1965 C Executive's beige cover.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_0295.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_0295.webp"/>
     <figcaption>1965 - This IBM Model C Executive has a 12-inch carriage and needs refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_0294.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_0294.webp"/>
     <figcaption>1966 - This IBM Model C has a wide 16-inch carriage and needs refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_0296.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_0296.webp"/>
     <figcaption>1966 - This IBM Model C Executive has a wide 16-inch carriage and needs refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_1156.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_1156.webp"/>
     <figcaption>1966 - This wide-carriage IBM Selectric I works, with some minor issues.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_8455.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_8455.webp"/>
     <figcaption>1967 - This IBM Selectric I is in working order.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4067.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_4067.webp"/>
     <figcaption>1967 - This IBM Model D Executive is in beautiful refurbished condition. It features the Mid-Century typeface.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_0265.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_0265.webp"/>
     <figcaption>1969 - This IBM Model D Executive has a 12-inch carriage. It needs refurbishing. It features the Testimonial typeface.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_0263.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_0263.webp"/>
     <figcaption>1969 - This IBM Model D Executive has a 12-inch carriage. It needs refurbishing. It features the Doric typeface.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_3005.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_3005.webp"/>
     <figcaption>1969 - This IBM MT/SR, also known as the MT/ST Model V, is part of the MT/SC system. It is a rare machine, which includes a tape recorder. Restoration has started.
     <br>
     <a href="/posts/ibm-mt-sc-1/">Blog</a>
@@ -101,7 +101,7 @@ This page presents my collection of 33 IBM typewriters as of August 2026 (exclud
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_3004.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_3004.webp"/>
     <figcaption>1969 - This IBM Composer and output station is part of the MT/SC system. It is a rare machine, which includes a tape reader, as well as a desk with a custom processor with core memory. Restoration is planned
     <br>
     <a href="/posts/ibm-mt-sc-1/">Blog</a>
@@ -122,7 +122,7 @@ This page presents my collection of 33 IBM typewriters as of August 2026 (exclud
     <figcaption>196x/197x - Three IBM Selectric Composers obtained at the same time. They all need refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_5408.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_5408.webp"/>
     <figcaption>196x/197x - This IBM Selectric I/O Model 73 is a fairly rare machine, equipped with solenoids and contacts to connect to a computer. Unlike the MT/SR above, which only has the "input" part, this one has both input and output and can be used as a printer. It features a neat set of blue keytops and platen knobs.
     <br>
     <a href="https://photos.app.goo.gl/DNCnJzSRXYbQGtCp9">Pics</a>
@@ -131,18 +131,18 @@ This page presents my collection of 33 IBM typewriters as of August 2026 (exclud
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4725.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_4725.webp"/>
     <figcaption>1973 - This IBM Selectric II (model 875, 13-inch writing line) doesn't have the correction feature.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_8159.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_8159.webp"/>
     <figcaption>1974 - This IBM Memory Typewriter still has some life in it, but refurbishing is in progress.
     <br>
     <a href="/posts/ibm-memory-typewriter/">Blog</a>
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_5521.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_5521.webp"/>
     <figcaption>1976 - This IBM Electronic Selectric Composer definitely has life in it. I obtained it after the 1978 Electronic Composer shown below.
     <br>
     <a href="https://photos.app.goo.gl/DD1g4fhVBmCzhY7D9">Pics</a>
@@ -151,15 +151,15 @@ This page presents my collection of 33 IBM typewriters as of August 2026 (exclud
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_9693.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_9693.webp"/>
     <figcaption>1977 - This beautiful blue IBM Correcting Selectric II has been refurbished, including a metal hub.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_9197.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_9197.webp"/>
     <figcaption>1978 - This rare IBM Mag Card/A is part of the Mag Card II family, and comes with a console with a magnetic card drive. It needs refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_1267.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_1267.webp"/>
     <figcaption>1978 - This IBM Electronic Selectric Composer still has some life in it, but refurbishing is in progress.</figcaption>
 </figure>
 <figure>
@@ -167,23 +167,23 @@ This page presents my collection of 33 IBM typewriters as of August 2026 (exclud
     <figcaption>1978 - This IBM Electronic Typewriter 50 needs refurbishing. This is similar to its successor, the IBM Electronic Typewriter 75, shown below.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_8476.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_8476.webp"/>
     <figcaption>197x - This black IBM Correcting Selectric II works to some degree, but needs further refurbishing.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_8240.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_8240.webp"/>
     <figcaption>1980 - This IBM Electronic Typewriter 75 needs refurbishing. These machines were not liked by IBM Customer Engineers and were short-lived due to a host of problems. They had an actual microprocessor inside. However, there is no doubt in my mind that this machine has a stunning look!</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_7043.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_7043.webp"/>
     <figcaption>1981 - This IBM Memory Typewriter 100 needs refurbishing. It barely escaped destruction. The 100 has double the tape capacity as the earlier Memory Typewriter.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4254.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_4254.webp"/>
     <figcaption>1982 - This late IBM Correcting Selectric II is in excellent condition and has been refurbished. It belonged to an IBM employee and had very little usage.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-ibm/IMG_4182.jpg"/>
+    <img src="/assets/pages/typewriter-ibm/IMG_4182.webp"/>
     <figcaption>1983 - This beautiful late IBM Selectric III has been refurbished. It is one of the first IBM Selectrics that I got.</figcaption>
 </figure>
 

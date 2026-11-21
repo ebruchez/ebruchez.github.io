@@ -12,7 +12,7 @@ redirect_from:
 - "/roller/page/ebruchez/the_hammer_of_god_by"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/thehammerofgod01a.jpg" alt="The Hammer of God" width="156" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/thehammerofgod01a.webp" alt="The Hammer of God" width="156" height="250" loading="lazy"></figure>
 
 This is a good execution of a theme which has by now become a classic: that of an asteroid menacing the existence of planet Earth. Clarke is as usual a precursor and treats the subject with his typical style and insight, but the book is not without weaknesses. The character of captain Singh, for example, while developed at length during the first part of the book, seems to lose its definition at the end of the story.
 

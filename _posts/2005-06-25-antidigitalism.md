@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/antidigitalism"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/bookburning01a.jpg" alt="Book Burning" width="250" height="222" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/bookburning01a.webp" alt="Book Burning" width="250" height="222" loading="lazy"></figure>
 
 A [Slashdot](http://slashdot.org/) news ([*ALA President Not Fond of Bloggers*](http://slashdot.org/article.pl?sid=05/02/25/0441239&from=rss)) directed me to two recent articles written by Michael Gorman, president-elect of the American Library Association. They relate to the question of the digitization of printed content, which is a favorite subject of mine. I am not familiar with ALA, but I am sure it is valuable and means good. I also would have assumed that Mr. Gorman, given his position, is an insightful person. It turns out not to be the case.
 

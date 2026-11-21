@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/the_battle_over_books"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/nypldebate01.jpg" alt="NYPL Books Debate" width="250" height="182" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/nypldebate01.webp" alt="NYPL Books Debate" width="250" height="182" loading="lazy"></figure>
 
 I just stumbled upon a [video of a debate](http://www.nypl.org/research/chss/pep/pepdesc.cfm?id=1661) that took place on November 17, 2005 at the New York Public Library on the subject of [Google Book Search](http://books.google.com/) (formerly known as Google Print) and the lawsuits the project has triggered from the Association of American Publishers. Google plans to scan 15 million books from various libraries, including works under copyright, of which only snippets will be displayed as the result of searches. The AAP contends that to get there, Google has to make digital copies of the books and alleges massive copyright infringement, while Google invokes fair use.
 

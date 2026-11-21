@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/remember_the_earth_is_round"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/blogerdate01a.png" alt="Bad Time" width="250" height="126" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/blogerdate01a.webp" alt="Bad Time" width="250" height="126" loading="lazy"></figure>
 
 And the Earth also happens to rotate on itself.
 

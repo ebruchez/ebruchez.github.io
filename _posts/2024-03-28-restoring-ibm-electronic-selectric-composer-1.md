@@ -17,7 +17,7 @@ In 2021, I wrote about my IBM Memory Typewriter project. See the following posts
 
 As of March 2024, I haven't yet completed the Memory Typewriter project. However, in 2023 I bought an IBM Electronic Selectric Composer! And just because it was new-to-me and exciting, and because I am more comfortable dealing with these machines compared to when I first got the Memory Typewriter, I decided to start working on it.
 
-![The IBM Electronic Selectric Composer as I got it](/assets/posts/ibm-electronic-composer/2x/IMG_1205.jpg){:standalone}
+![The IBM Electronic Selectric Composer as I got it](/assets/posts/ibm-electronic-composer/2x/IMG_1205.webp){:standalone}
 
 The Electronic Selectric Composer is very similar to the Memory Typewriter. The following table illustrates how the machine fits into the lineup of IBM machines of the era:
 
@@ -47,12 +47,12 @@ The main differences with the IBM Memory Typewriter are:
 
 The last two features are, in fact, the whole point of the machine: the IBM Electronic Selectric Composer is, from the user's point of view, an upgraded version of the IBM Selectric Composer from 1966, recognizable to its dials and justification indicator:[^composer-1966]
 
-[//]: # (![The 1966 Selectric Composer]&#40;/assets/posts/ibm-electronic-composer/2x/ibm-composer-bw.jpg&#41;{:standalone})
-![The original 1966 Selectric Composer](/assets/posts/ibm-electronic-composer/2x/composer-cover.jpg){:standalone width="50%"}
+[//]: # (![The 1966 Selectric Composer]&#40;/assets/posts/ibm-electronic-composer/2x/ibm-composer-bw.webp&#41;{:standalone})
+![The original 1966 Selectric Composer](/assets/posts/ibm-electronic-composer/2x/composer-cover.webp){:standalone width="50%"}
 
 Compare with the 1975 Electronic Composer, which looks more like a regular, although particularly wide, electric typewriter:
 
-![The 1975 Electronic Composer](/assets/posts/ibm-electronic-composer/2x/electronic-composer-cover.jpg){:standalone width="50%"}
+![The 1975 Electronic Composer](/assets/posts/ibm-electronic-composer/2x/electronic-composer-cover.webp){:standalone width="50%"}
 
 The earlier Composer was entirely electromechanical, and required the user to write each line twice to obtain justification. The newer machine, having an electronic memory, allows the user to write each line only once, and then to simply replay the page to justify text. Both machines feature proportional spacing.[^mtsc]
 
@@ -62,13 +62,13 @@ The market for the Composer (older and newer model) was that of *cold typesettin
 
 I am grateful that the seller spent time packing the machine into a huge wooden box. The final package weighed 97 lbs, while the Electronic Composer itself weighs 59.2 lbs (26.8 kg)! However, the machine arrived with some damage: the three push switches on the left, as well as two toggle switches broke.
 
-![Machine afer arrival](/assets/posts/ibm-electronic-composer/2x/IMG_1192.jpg){:standalone}
+![Machine afer arrival](/assets/posts/ibm-electronic-composer/2x/IMG_1192.webp){:standalone}
 
-![Broken switches](/assets/posts/ibm-electronic-composer/2x/IMG_1193.jpg){:standalone}
+![Broken switches](/assets/posts/ibm-electronic-composer/2x/IMG_1193.webp){:standalone}
 
 Seeing this worried me, of course. The machine was delivered to me upside down, and while that, in itself, doesn't fully explain the problem, I suppose that these switches are fairly fragile. Indeed, they were broken also on my Memory Typewriter 100 (which I haven't worked on at all yet). Another Electronic Composer I saw on Reddit had two broken switches as well.
 
-![Broken switches on the Memory Typewriter 100](/assets/posts/ibm-electronic-composer/2x/IMG_7054.jpg){:standalone}
+![Broken switches on the Memory Typewriter 100](/assets/posts/ibm-electronic-composer/2x/IMG_7054.webp){:standalone}
 
 The good news is that I took some detailed pictures and did a first round of evaluation of the machine, and I didn't find any other obvious damage. Another good news is that insurance paid for some of the damage!
 
@@ -76,7 +76,7 @@ The good news is that I took some detailed pictures and did a first round of eva
 
 The first Electronic Selectric Composer came to the market in 1975. Although this machine has a couple of cable labels with the date 1975, the date on the power supply (PSU) states clearly "May 24 1978". Unless that part was replaced, that probably sets the date of manufacturing of the machine to 1978. I also found a date of 1974 on the internal metal frame of the machine, but that is part of the metal casting. This part might be identical to the 1974 Memory Typewriter's, and it could make sense that it was designed that year, but it doesn't indicate a production date. So at this point I am going with 1978 as production date.
 
-![The date on the PSU](/assets/posts/ibm-electronic-composer/2x/IMG_1244.jpg){:standalone}
+![The date on the PSU](/assets/posts/ibm-electronic-composer/2x/IMG_1244.webp){:standalone}
 
 ## Type element
 
@@ -84,7 +84,7 @@ Unfortunately, this machine came only with one type element ("golf ball"). Those
 
 The element I have states "PR-11-M".
 
-![The type element](/assets/posts/ibm-electronic-composer/2x/IMG_1508.jpg){:standalone}
+![The type element](/assets/posts/ibm-electronic-composer/2x/IMG_1508.webp){:standalone}
 
 This is what it means:
 
@@ -106,7 +106,7 @@ The second thing to do is a general evaluation: is anything missing or broken? H
 
 1. IBM put in sound deadening material that, in absolutely every single case, disintegrates in ways that are not very pleasant. It's the lucky case if it disintegrates and remains dry, but in many cases, it's a gooey stuff. So all of that needs to be removed first, so you can avoid dealing with it when you actually work on other aspects of the machine.
 
-    ![Crumbling foam](/assets/posts/ibm-electronic-composer/2x/IMG_1238.jpg){:standalone}
+    ![Crumbling foam](/assets/posts/ibm-electronic-composer/2x/IMG_1238.webp){:standalone}
 
 2. Many typewriters don't need much oil or grease, but Selectrics were lubricated with both. The problem with grease is that it can harden over time, and it will cause the machine to stop working. For this reason, many regular Selectrics don't work when you find them.
 
@@ -114,15 +114,15 @@ You don't want to just turn on an old dirty machine without thinking. It is wise
 
 In this case, after removing the top cover, I noticed that, as was the case for my Memory Typewriter, the two screws that hold the machine to its hinge on the left were missing. In this case, though, they were at the bottom of the case, and I was able to just screw them back. This is important so that the machine can be lifted on its stand.
 
-![The hinge screws](/assets/posts/ibm-electronic-composer/2x/IMG_1487.jpg){:standalone}
+![The hinge screws](/assets/posts/ibm-electronic-composer/2x/IMG_1487.webp){:standalone}
 
 Then I scraped the sound-deadening material, and I cleaned the machine with a vacuum cleaner and compressed air (making sure not to vacuum or blow away small parts).
 
-![Scraping](/assets/posts/ibm-electronic-composer/2x/IMG_1489.jpg){:standalone}
+![Scraping](/assets/posts/ibm-electronic-composer/2x/IMG_1489.webp){:standalone}
 
 This is not the end of it, however, with a lot of dirt remaining in the machine, a lot of it some of that disintegrated material.
 
-![Foam debris on everything](/assets/posts/ibm-electronic-composer/2x/IMG_1242.jpg){:standalone}
+![Foam debris on everything](/assets/posts/ibm-electronic-composer/2x/IMG_1242.webp){:standalone}
 
 While cleaning, I found a few loose parts:
 
@@ -131,13 +131,13 @@ While cleaning, I found a few loose parts:
 - a spring, whose original location I think I determined later
 - a wire, which is the "No Print" lever wire (thanks experts online!)
 
-![The "No Print" lever wire](/assets/posts/ibm-electronic-composer/2x/IMG_1511.jpg){:standalone}
+![The "No Print" lever wire](/assets/posts/ibm-electronic-composer/2x/IMG_1511.webp){:standalone}
 
 After that, I disconnected the capacitor and the planar (electronics board).
 
-![The disconnected capacitor](/assets/posts/ibm-electronic-composer/2x/IMG_1496.jpg){:standalone}
+![The disconnected capacitor](/assets/posts/ibm-electronic-composer/2x/IMG_1496.webp){:standalone}
 
-![Beautiful shift register memory on the planar](/assets/posts/ibm-electronic-composer/2x/IMG_1522.jpg){:standalone}
+![Beautiful shift register memory on the planar](/assets/posts/ibm-electronic-composer/2x/IMG_1522.webp){:standalone}
 
 I tried to quickly power on the machine. There are two power switches on this machine: one (broken) on the top left, and a toggle power switch, like on regular Selectrics, on the right.
 
@@ -147,7 +147,7 @@ Turning on both, the power supply fan started running, and the motor also ran! G
 
 It's very obvious, opening the machine's cover, that there is a huge capacitor on the right!
 
-![The capacitor](/assets/posts/ibm-electronic-composer/2x/IMG_1245.jpg){:standalone}
+![The capacitor](/assets/posts/ibm-electronic-composer/2x/IMG_1245.webp){:standalone}
 
 In fact, it is marked as follows:
 
@@ -167,13 +167,13 @@ Sleeping on it, I finally managed to open it, as follows:
 
 Finally, I was able to get the capacitor out of the housing.
 
-![The capacitor out of its housing](/assets/posts/ibm-electronic-composer/2x/IMG_1538.jpg){:standalone}
+![The capacitor out of its housing](/assets/posts/ibm-electronic-composer/2x/IMG_1538.webp){:standalone}
 
 It is a Mallory 5200 µF polarized capacitor, and it is rated at 200 volts. It is beautiful in its silver casing, but those things do not tend to last forever. If the machine ends up working, I will probably plug in a new capacitor.
 
 I measured the voltage from the power supply going to the capacitor (with the capacitor disconnected), and it was 167 V. I also measured the resistor, also disconnected, and normally installed in parallel with the capacitor, at 161 KΩ.
 
-![The resistor mounted on the capacitor](/assets/posts/ibm-electronic-composer/2x/IMG_1542.jpg){:standalone}
+![The resistor mounted on the capacitor](/assets/posts/ibm-electronic-composer/2x/IMG_1542.webp){:standalone}
 
 ## Power supply
 
@@ -183,11 +183,11 @@ This PSU appears to be almost the same as if not identical to the one in the IBM
 
 I measured all the voltages of the power supply against the service manual, as I did for the Memory Typewriter. I found that the voltages were all in range!
 
-![Voltages as specified and measured](/assets/posts/ibm-electronic-composer/2x/dc-power-connector.jpg){:standalone}
+![Voltages as specified and measured](/assets/posts/ibm-electronic-composer/2x/dc-power-connector.webp){:standalone}
 
 I also opened the PSU to clean it.
 
-![The PSU board](/assets/posts/ibm-electronic-composer/2x/IMG_1554.jpg){:standalone}
+![The PSU board](/assets/posts/ibm-electronic-composer/2x/IMG_1554.webp){:standalone}
 
 ## Initial mechanical work
 
@@ -195,7 +195,7 @@ The carrier was stuck to the left. I managed to move it by running the motor, an
 
 However, I noticed that the tilt tape fell off its wheel.
 
-![The tilt tape](/assets/posts/ibm-electronic-composer/2x/IMG_1718.jpg){:standalone}
+![The tilt tape](/assets/posts/ibm-electronic-composer/2x/IMG_1718.webp){:standalone}
 
 I asked advice about how to fix that as I don't want to break the tape. I started by cleaning up a very dirty Selectric II that I had, so I could play with its tilt tape a little. I managed to go through the procedure, which consists in:
 
@@ -212,31 +212,31 @@ I have a parts Selectric II which I figured I might be able to use to steal the 
 
 I took out the switches from the parts machine and cleaned them up.
 
-![Cleaning the replacement switches](/assets/posts/ibm-electronic-composer/2x/IMG_1952.jpg){:standalone}
+![Cleaning the replacement switches](/assets/posts/ibm-electronic-composer/2x/IMG_1952.webp){:standalone}
 
 Removing the broken part was easy: remove two C-clips, and wiggle the bottom part out. I checked that the button was fiting.
 
-![Fitting the part](/assets/posts/ibm-electronic-composer/2x/IMG_1953.jpg){:standalone}
+![Fitting the part](/assets/posts/ibm-electronic-composer/2x/IMG_1953.webp){:standalone}
 
 Putting the parts back was a little harder and I had to unscrew the metal plate holding all the switches to gain some clearance.
 
-![Getting clearance](/assets/posts/ibm-electronic-composer/2x/IMG_1956.jpg){:standalone}
+![Getting clearance](/assets/posts/ibm-electronic-composer/2x/IMG_1956.webp){:standalone}
 
 The switch is now in place.
 
-![The switch in place](/assets/posts/ibm-electronic-composer/2x/IMG_1957.jpg){:standalone}
+![The switch in place](/assets/posts/ibm-electronic-composer/2x/IMG_1957.webp){:standalone}
 
 You can see how the tab CLR/SET toggle works: there is a permanent magnet on the metal arm, and when pressing the toggle causes it to swing past one of the two reed switches, which can then detect the action. Unlike with most typewriters, here even the tab positions are set electronically. I find this very neat! I put a drop of grease on the sliding area.
 
-![The tab CLR/SET toggle of the Composer](/assets/posts/ibm-electronic-composer/2x/IMG_1960.jpg){:standalone}
+![The tab CLR/SET toggle of the Composer](/assets/posts/ibm-electronic-composer/2x/IMG_1960.webp){:standalone}
 
 Here is what's left of the tab CLR/SET switch assembly in the donor Selectric II.
 
-![The same area of the parts machine](/assets/posts/ibm-electronic-composer/2x/IMG_1961.jpg){:standalone}
+![The same area of the parts machine](/assets/posts/ibm-electronic-composer/2x/IMG_1961.webp){:standalone}
 
 The power switch was even easier to change, as there was no clearance issue and just one C-clip. Here the toggle is mechanically connected to the actual power switch in the machine, like on regular Selectrics.
 
-![The new power switch in the Composer](/assets/posts/ibm-electronic-composer/2x/IMG_1963.jpg){:standalone}
+![The new power switch in the Composer](/assets/posts/ibm-electronic-composer/2x/IMG_1963.webp){:standalone}
 
 I haven't attempted to fix the other switches yet.
 
@@ -249,23 +249,23 @@ Out of curiosity, I removed the transmit block, which is made of two parts:
 
 As I suspected, both parts needed cleaning.
 
-![Transmit block PCB](/assets/posts/ibm-electronic-composer/2x/IMG_1976.jpg){:standalone}
+![Transmit block PCB](/assets/posts/ibm-electronic-composer/2x/IMG_1976.webp){:standalone}
 
-![Dirty transmit block magnets assembly](/assets/posts/ibm-electronic-composer/2x/IMG_1978.jpg){:standalone}
+![Dirty transmit block magnets assembly](/assets/posts/ibm-electronic-composer/2x/IMG_1978.webp){:standalone}
 
 The bottom of the keyboard is full of grease with dirt. That will need serious cleaning.
 
-![Grease and dirt under the keyboard](/assets/posts/ibm-electronic-composer/2x/IMG_1979.jpg){:standalone}
+![Grease and dirt under the keyboard](/assets/posts/ibm-electronic-composer/2x/IMG_1979.webp){:standalone}
 
 Here are the clean parts:
 
-![Clean transmit block bottom](/assets/posts/ibm-electronic-composer/2x/IMG_1981.jpg){:standalone}
+![Clean transmit block bottom](/assets/posts/ibm-electronic-composer/2x/IMG_1981.webp){:standalone}
 
-![Clean transmit block top](/assets/posts/ibm-electronic-composer/2x/IMG_1982.jpg){:standalone}
+![Clean transmit block top](/assets/posts/ibm-electronic-composer/2x/IMG_1982.webp){:standalone}
 
 The sliders move easily.
 
-![Sliding the magnets](/assets/posts/ibm-electronic-composer/2x/IMG_1983.jpg){:standalone}
+![Sliding the magnets](/assets/posts/ibm-electronic-composer/2x/IMG_1983.webp){:standalone}
 
 I put this back in place, but I might have to remove it again when cleaning the keyboard. I noticed small cracks in the plastic so I'll have to be careful. It might be a good idea to reinforce the plastic with some glue or epoxy.
 
@@ -273,7 +273,7 @@ I put this back in place, but I might have to remove it again when cleaning the 
 
 I managed to peel off the front adhesive, which was annoyingly sticky to the touch. It took a little while. The bottom is now clean enough I think.
 
-![The bottom case](/assets/posts/ibm-electronic-composer/2x/IMG_3206.jpg){:standalone}
+![The bottom case](/assets/posts/ibm-electronic-composer/2x/IMG_3206.webp){:standalone}
 
 ## Cleaning under the keyboard
 
@@ -285,7 +285,7 @@ I removed again the transmit block, and I also removed the block with the soleno
 - disconnected 1 wire on the connection block
 - finally, remove the 2 screws
 
-![Disconnecting the power cable](/assets/posts/ibm-electronic-composer/2x/IMG_2029.jpg){:standalone}
+![Disconnecting the power cable](/assets/posts/ibm-electronic-composer/2x/IMG_2029.webp){:standalone}
 
 The block remains connected, but can be moved a little to the side so that cleaning is possible.
 
@@ -297,11 +297,11 @@ There is where I should mention a dumb mistake: I put a gloved finger near the o
 
 I decide to have a look at the left switch assembly, which is the one with the broken push switches. I removed the assembly, which is held by two screws. The assembly is connected to the machine by 4 wires.
 
-![The left switch assembly](/assets/posts/ibm-electronic-composer/2x/IMG_2047.jpg){:standalone}
+![The left switch assembly](/assets/posts/ibm-electronic-composer/2x/IMG_2047.webp){:standalone}
 
 Figured out that the switches could be opened by bending metal. Here is the neat result of the full disassembly:
 
-![The left switch assembly disassembled](/assets/posts/ibm-electronic-composer/2x/IMG_2056.jpg){:standalone}
+![The left switch assembly disassembled](/assets/posts/ibm-electronic-composer/2x/IMG_2056.webp){:standalone}
 
 Switches:
 
@@ -322,7 +322,7 @@ As mentioned above, I managed to activate the leadscrew, however it was a little
 
 I reconnected the planar, with the hope that the electronics would show some sign of life!
 
-![The planar reinstalled](/assets/posts/ibm-electronic-composer/2x/IMG_2612.jpg){:standalone}
+![The planar reinstalled](/assets/posts/ibm-electronic-composer/2x/IMG_2612.webp){:standalone}
 
 When I manually triggered the shift magnet, I could space, hit carriage return, and use the tab function. The tab stopped the leadscrew when hitting the rightmost position! I managed to type some characters, and the escapement moved, although not always reliably. Eventually, though, it stopped working entirely, and I couldn't get the shift cam up anymore.
 
@@ -330,7 +330,7 @@ However, I discovered that if I turned the motor off and then on again, I could 
 
 Then, I found out what was causing the problem! I noticed that the Shift Feedback Switch board was askew, and the shift arm was pushing or touching it when in uppercase mode. Straightening it out didn't help, but then I noticed that the Shift Feedback Switch reed switch glass was actually broken!
 
-![The broken reed switch](/assets/posts/ibm-electronic-composer/2x/IMG_2744.jpg){:standalone}
+![The broken reed switch](/assets/posts/ibm-electronic-composer/2x/IMG_2744.webp){:standalone}
 
 Luckily, the Memory Typewriter contains the exact same part, intact, so I borrowed it. After replacing it, I found that I could shift more reliably. However, there are still some issues lingering. Spacing still rotates the ball, and some letters continue to print incorrectly.
 
@@ -355,7 +355,7 @@ I took note of most misprinting letters:
 
 I analyzed the issue using the “Selectric composer font chart”.
 
-![The chart](/assets/posts/ibm-electronic-composer/2x/selectric-composer-font-chart.jpg){:standalone}
+![The chart](/assets/posts/ibm-electronic-composer/2x/selectric-composer-font-chart.webp){:standalone}
 
 The issue seemed to be with rotation only. I concluded that the issue was with R5. “The negative 5 rotate latch rotates the typehead five units in the clockwise or negative direction”. So R5 was activated in cases it shouldn’t be!
 
@@ -395,7 +395,7 @@ The first one of these issues is, of course, major, but there is hope.
 
 Here is the belly of the machine as of March 2024:
 
-![The machine as of March 2024](/assets/posts/ibm-electronic-composer/2x/IMG_3207.jpg){:standalone}
+![The machine as of March 2024](/assets/posts/ibm-electronic-composer/2x/IMG_3207.webp){:standalone}
 
 ## See also
 

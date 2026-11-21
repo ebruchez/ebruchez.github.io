@@ -16,7 +16,7 @@ archived_comments:
     I think people should be more familiar with these concepts. I don't know if talking about brain implants and artificial organs is the right way to educate them, but something should be done. :-) Maybe in philosophy classes.
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/futurist01.jpg" alt="The Futurist - Ray Kurzweil" width="191" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/futurist01.webp" alt="The Futurist - Ray Kurzweil" width="191" height="250" loading="lazy"></figure>
 
 While still progressing in my reading of Ray Kurzweil's *[The Singularity is Near](http://www.amazon.com/gp/product/0670033847/)*, I found an article from [The Futurist](http://www.wfs.org/futcontma06.htm) (get the [PDF](http://www.singularity.com/KurzweilFuturist.pdf)), where Kurzweil summarizes what the Singularity is about. The article is followed by reactions to his perspective, among them one by [Richard Eckersley](http://www.kurzweilai.net/meme/frame.html?main=memelist.html?m=17%23641), fellow at the National Centre for Epidemiology and Population Health at the Australian National University, Canberra, Australia. Eckersley begins: "I have sometimes asked audiences if they are inspired or excited by the sort of techno-utopian vision represented by the Singularity; almost no one is." He follows with a fairly strong criticism of Kurzweil's vision of the future, arguing that not only does that future not bear much resemblance with what we today call "human", but also that we have not actually made a choice of that future yet.
 

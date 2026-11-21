@@ -11,7 +11,7 @@ redirect_from:
 - "/roller/page/ebruchez/un_juriste_vendu_au_lobby"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/smoking.jpg" alt="Smoke" width="160" height="115" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/smoking.webp" alt="Smoke" width="160" height="115" loading="lazy"></figure>
 
 Après l'association GastroSuisse, c'est au tour d'un juriste, Andreas Auer, de se vendre sans scrupules aux compagnies de tabac. En effet, d'après un [article du *Temps*](http://www.letemps.ch/template/suisse.asp?page=5&article=166831) d'aujourd'hui, M. Auer, payé par Camel, Mild Seven, et Winston, aboutit à la conclusion qu'interdire la fumée dans les établissements publics serait anticonstitutionnel en Suisse. Quelle surprise de découvrir que le lobby de la cigarette puisse acheter... n'importe qui, à ce qu'il parait. Malgré les protestations d'honnêteté de M. Auer, on a honte pour lui et pour sa profession d'avoir accepté ce mandat. C'est permettre aux lobbys d'acheter de tels rapports qui devrait être anticonstitutionnel !
 

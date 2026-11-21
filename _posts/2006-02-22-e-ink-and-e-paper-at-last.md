@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/e_ink_and_e_paper"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/ebook02.jpg" alt="Ebook" width="244" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/ebook02.webp" alt="Ebook" width="244" height="250" loading="lazy"></figure>
 
 An article at [BusinessWeek](http://www.businessweek.com/magazine/content/06_09/b3973111.htm) suggests that good electronic book readers are real close now<sup>TM</sup>. Prototypes of e-ink and e-paper have shown that the technology is a reality. [E-Ink's technology](http://www.e-ink.com/technology/howitworks.html), for example, relies on small capsules containing black and white particles. By appropriately applying an electric field, you can make the particles move to the top or the bottom of the capsule, making the surface of it appear black or white. The promise: low-power, high-contrasts display that provide the experience of reading on paper. They may not even erase when you shut down the power, and be flexible, although I am not sure wether E-Ink's technology provides these features yet.
 

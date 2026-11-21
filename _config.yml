@@ -181,6 +181,8 @@ exclude:
   - jline-2.14.6.jar
   - project
   - _covers_inbox
+  - '*.pxm'
+  - '*.pxd'
 
 jekyll-archives:
   enabled: [categories]

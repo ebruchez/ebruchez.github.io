@@ -16,11 +16,11 @@ This is part of a series of posts about building an Apple-1 reproduction in 2024
 - [Building an Apple-1 Reproduction in 2024 - Part 5: Monitor, Keyboard, Power-Up](../apple-1-reproduction-part-5-monitor-keyboard-power-up/)
 - [Building an Apple-1 Reproduction in 2024/2025 - Part 6: C Programming](../apple-1-reproduction-part-6-c-programming/)
 
-[//]: # (![The Apple-1 setup with its ACI and tape recorder]&#40;/assets/posts/apple1/2x/IMG_6381.jpg&#41;{:standalone width="75%"})
+[//]: # (![The Apple-1 setup with its ACI and tape recorder]&#40;/assets/posts/apple1/2x/IMG_6381.webp&#41;{:standalone width="75%"})
 
-[//]: # (![The Apple-1 setup with its ACI and tape recorder]&#40;/assets/posts/apple1/2x/IMG_6479.jpg&#41;{:standalone width="75%"})
+[//]: # (![The Apple-1 setup with its ACI and tape recorder]&#40;/assets/posts/apple1/2x/IMG_6479.webp&#41;{:standalone width="75%"})
 
-[//]: # (![The Apple-1 setup with its ACI and tape recorder]&#40;/assets/posts/apple1/2x/IMG_6482.jpg&#41;{:standalone width="75%"})
+[//]: # (![The Apple-1 setup with its ACI and tape recorder]&#40;/assets/posts/apple1/2x/IMG_6482.webp&#41;{:standalone width="75%"})
 
 ![Bird's-eye view of the Apple-1 with its ACI and tape recorder](/assets/posts/apple1/2x/IMG_6480.webp){:standalone width="75%"}
 
@@ -40,11 +40,11 @@ The ACI fits into the single expansion slot of the Apple-1. This still leaves th
 
 I ordered the PCB from Mike Newton (AKA Mike Ng). It wasn't as cheap as if I had one made directly from a PCB manufacturer, but it looks closer to the original. In fact, it is a beautiful PCB.
 
-![The ACI reproduction PCB](/assets/posts/apple1/2x/IMG_3454.jpg){:standalone}
+![The ACI reproduction PCB](/assets/posts/apple1/2x/IMG_3454.webp){:standalone}
 
 The PCB came not only with programmed PROMs, but also with a few spare components.
 
-![The extra components](/assets/posts/apple1/2x/IMG_3456.jpg){:standalone}
+![The extra components](/assets/posts/apple1/2x/IMG_3456.webp){:standalone}
 
 I happened to already have most of the components, but I appreciated them anyway.
 
@@ -90,7 +90,7 @@ Everybody agrees that a specific change needs to be made compared with the origi
 
 This might be minor, but I decided to add two decoupling capacitors for the PROMs. This is not strictly necessary, but it won't hurt, and I am now confident about mounting capacitors into IC sockets.
 
-![The decoupling capacitors for the PROMs](/assets/posts/apple1/2x/IMG_5826.jpg){:standalone}
+![The decoupling capacitors for the PROMs](/assets/posts/apple1/2x/IMG_5826.webp){:standalone}
 
 ### 10 kΩ resistors
 
@@ -104,7 +104,7 @@ And:
 
 So I just used my large batch of Allen Bradley 10 kΩ resistors. I measured a few and picked four that were close, understanding that this was probably not necessary, but there was no real drawback going through this just in case.
 
-![Partial assembly](/assets/posts/apple1/2x/IMG_5827.jpg){:standalone}
+![Partial assembly](/assets/posts/apple1/2x/IMG_5827.webp){:standalone}
 
 ### Gen1 or Gen2?
 
@@ -119,7 +119,7 @@ I decided to implement the first one, but not the second one, as I don't have th
 
 The audio volume fix requires cutting two traces on the ACI board, and adding some wires as well as a capacitor. Uncle Bernie suggested mounting that capacitor within an IC socket, but since the wire needs to go out, it is a little tricky. I decided to leave the IC socket unmodified, and to place the capacitor on the bottom of the board. I carefully bent the legs of the capacitor, and used heat shrink tubing to protect the legs and wires. This is more visible than Uncle Bernie's solution, but a little less tricky to implement. However, I am pretty happy with how the small wires to the jacks came up!
 
-![The volume indicator fix on the ACI](/assets/posts/apple1/2x/IMG_5844.jpg){:standalone}
+![The volume indicator fix on the ACI](/assets/posts/apple1/2x/IMG_5844.webp){:standalone}
 
 In summary, compared to the original ACI, the list of changes is as follows:
 
@@ -135,37 +135,37 @@ I didn't have Allen Bradley resistors except for the 10 kΩ ones, so I used regu
 
 Here is the fully assembled ACI board without the ICs.
 
-![The fully assembled ACI board](/assets/posts/apple1/2x/IMG_5836.jpg){:standalone}
+![The fully assembled ACI board](/assets/posts/apple1/2x/IMG_5836.webp){:standalone}
 
 Note that I mounted the 3 mm LED bent, as I think most ACIs were made.
 
-![100 Ω resistor and LED](/assets/posts/apple1/2x/IMG_6360.jpg){:standalone}
+![100 Ω resistor and LED](/assets/posts/apple1/2x/IMG_6360.webp){:standalone}
 
 And here is the fully assembled board with the ICs mounted in their sockets.
 
-![The ACI board with the 100 Ω resistors](/assets/posts/apple1/2x/IMG_6359.jpg){:standalone}
+![The ACI board with the 100 Ω resistors](/assets/posts/apple1/2x/IMG_6359.webp){:standalone}
 
 ## Installing the ACI
 
 The first thing to be careful about here is the orientation, facing outward.
 
-![The ACI installed in the Apple-1](/assets/posts/apple1/2x/IMG_5882.jpg){:standalone}
+![The ACI installed in the Apple-1](/assets/posts/apple1/2x/IMG_5882.webp){:standalone}
 
 Here is the view from the other side. The mods are definitely visible, and there is surely a way to make them a little less conspicuous, but I don't think that it's a big deal. Remember that the Apple-1 was a hobbyist's computer, designed to be modded and tinkered with.
 
-![The ACI installed in the Apple-1, from the other side](/assets/posts/apple1/2x/IMG_5887.jpg){:standalone}
+![The ACI installed in the Apple-1, from the other side](/assets/posts/apple1/2x/IMG_5887.webp){:standalone}
 
 I had to update my memory map: I had set `E000` to map to the EPROM, in order to have contiguous RAM in `0000`-`1FFF` for my [C code](../apple-1-reproduction-part-6-c-programming/). So installed individual machined IC socket pins in the memory map section, so I could easily jumper them. It worked, although I am slightly concerned about the reliability of the jumper wires. 
 
-[//]: # (![The memory map with jumper wires]&#40;/assets/posts/apple1/2x/IMG_5857.jpg&#41;{:standalone})
+[//]: # (![The memory map with jumper wires]&#40;/assets/posts/apple1/2x/IMG_5857.webp&#41;{:standalone})
 
-![The memory map with jumper wires](/assets/posts/apple1/2x/IMG_5873.jpg){:standalone}
+![The memory map with jumper wires](/assets/posts/apple1/2x/IMG_5873.webp){:standalone}
 
 ## Testing the ACI
 
 The ACI had its own software implemented into two PROMs on the board itself.
 
-![The ACI PROMs](/assets/posts/apple1/2x/IMG_5841.jpg){:standalone}
+![The ACI PROMs](/assets/posts/apple1/2x/IMG_5841.webp){:standalone}
 
 Those are simply mounted in the Apple-1's address space at address `C100`. You run the ACI program from that address from Wozmon with:
 
@@ -183,7 +183,7 @@ Since I didn't have a tape recorder at first, I connected the input audio cable 
 
 The volume indicator didn't light up at first, so I checked the connections and found that I had forgotten to solder a pin of the 74LS74! I fixed that, and the indicator worked!
 
-![The ACI volume indicator working](/assets/posts/apple1/2x/IMG_6468.jpg){:standalone}
+![The ACI volume indicator working](/assets/posts/apple1/2x/IMG_6468.webp){:standalone}
 
 I played back the BASIC source from my computer, from [archive.org](https://archive.org/details/Apple1Cassettes/DealOrNoDeal.wav). I used the following command:
 
@@ -196,25 +196,25 @@ This reads 4KB form the audio and writes it at address `E000`. The trailing `R` 
 
 At first, it didn't quite work and running the resulting code at `E000R` crashed. I reset the computer, started again, but increased the computer's audio volume a little, and then it worked! This also translated into the indicator LED being brighter and flickering less. I was in BASIC!
 
-![BASIC loaded from the computer via the ACI](/assets/posts/apple1/2x/IMG_6356.jpg){:standalone}
+![BASIC loaded from the computer via the ACI](/assets/posts/apple1/2x/IMG_6356.webp){:standalone}
 
-[//]: # (![BASIC loaded from the computer via the ACI]&#40;/assets/posts/apple1/2x/IMG_5856.jpg&#41;{:standalone})
+[//]: # (![BASIC loaded from the computer via the ACI]&#40;/assets/posts/apple1/2x/IMG_5856.webp&#41;{:standalone})
 
 ## The tape recorder
 
 It's nice and all to be able to use a computer as an audio recorder, but not quite period-correct. So I decided to use a real tape recorder. Apple recommended a Panasonic recorder. Mike Willegal [says](https://www.willegal.net/appleii/aci.htm) it was a Panasonic RQ2102 and, "believe it or not, they are still available from Panasonic." I am not sure they are actually still made in 2025, but I bought a used one on ShopGoodwill, for just over $20 shipped.
 
-[//]: # (![The Panasonic RQ-2102 tape recorder]&#40;/assets/posts/apple1/2x/IMG_6351.jpg&#41;{:standalone})
+[//]: # (![The Panasonic RQ-2102 tape recorder]&#40;/assets/posts/apple1/2x/IMG_6351.webp&#41;{:standalone})
 
-![The Panasonic RQ-2102 tape recorder](/assets/posts/apple1/2x/IMG_6459.jpg){:standalone}
+![The Panasonic RQ-2102 tape recorder](/assets/posts/apple1/2x/IMG_6459.webp){:standalone}
 
 It turned out to be in clean and almost pristine condition.
 
-![The inside of the Panasonic RQ-2102 tape recorder](/assets/posts/apple1/2x/IMG_6352.jpg){:standalone}
+![The inside of the Panasonic RQ-2102 tape recorder](/assets/posts/apple1/2x/IMG_6352.webp){:standalone}
 
 It was manufactured in 2012.
 
-![The Panasonic RQ-2102 tape recorder's manufacturing date](/assets/posts/apple1/2x/IMG_6353.jpg){:standalone}
+![The Panasonic RQ-2102 tape recorder's manufacturing date](/assets/posts/apple1/2x/IMG_6353.webp){:standalone}
 
 I plugged both the input and the output of the ACI into the tape recorder, as intended. The ACI has a 3.5mm female audio jack for input, and a 3.5mm female audio jack for output, and the tape recorder has corresponding female jacks as well.
 
@@ -232,7 +232,7 @@ E000.EFFFW
 
 As simple as that! The trailing `W` means "write," and the `E000.EFFF` means "read from memory from `E000` to `EFFF`." I now had a tape with BASIC on it!
 
-![BASIC saved to tape](/assets/posts/apple1/2x/IMG_6463.jpg){:standalone}
+![BASIC saved to tape](/assets/posts/apple1/2x/IMG_6463.webp){:standalone}
 
 The next step was to write a simple BASIC program, save it to tape, and then reload it. I used a separate tape, to avoid mistakenly overwriting my BASIC tape. In the BASIC manual, Apple documented how to do this:
 
@@ -243,7 +243,7 @@ The next step was to write a simple BASIC program, save it to tape, and then rel
 - set the tape recorder to "record"
 - press "RETURN" to start writing to the tape
 
-![Saving a program to tape](/assets/posts/apple1/2x/IMG_6376.jpg){:standalone}
+![Saving a program to tape](/assets/posts/apple1/2x/IMG_6376.webp){:standalone}
 
 To read the program back, you run the ACI program again, type `4A.00FFR800.FFFR`, set the tape recorder to "play," and press return on the computer. Then you reenter BASIC not with `E000R` as usual, but with `E2B3R`. This enters BASIC without clearing the program memory. From there, it is as if you had just typed in the program read from tape.
 
@@ -254,7 +254,7 @@ It would be fun to do the same for my C program. You would need to do something 
 
 It's probably an obvious thing to say, but the ACI does not remote-control the tape recorder, so you need to press the "play" or "record" buttons at appropriate times, as well as rewind the tape yourself. This is unlike big iron tape drives for the mainframes and minicomputers of the time, which were controlled by the computer.
 
-![IBM 2401 System/360 tape drives](/assets/posts/apple1/2x/ibm-2401.jpg){:standalone}
+![IBM 2401 System/360 tape drives](/assets/posts/apple1/2x/ibm-2401.webp){:standalone}
 
 *Photo credit: [Erik Pitti, San Diego, CA, USA](https://commons.wikimedia.org/w/index.php?curid=8725007)*
 
@@ -262,7 +262,7 @@ It's probably an obvious thing to say, but the ACI does not remote-control the t
 
 Apple made a separate small manual for the ACI. It is available in PDF online, but I had obtained a nice reproduction of the Apple Cassette Interface (ACI) manual alongside the regular Apple-1 manual and the BASIC manual.
 
-![The ACI manual](/assets/posts/apple1/2x/IMG_6485.jpg){:standalone}
+![The ACI manual](/assets/posts/apple1/2x/IMG_6485.webp){:standalone}
 
 ## Other work
 
@@ -270,19 +270,19 @@ Apple made a separate small manual for the ACI. It is available in PDF online, b
 
 Uncle Bernie designed a tiny Apple II to Apple-1 keyboard adapter. I assembled one without difficulty. You have to solder independent pins, as well as an SMD transistor, but I now have decent experience soldering small components.
 
-![The mini keyboard adapter's bottom](/assets/posts/apple1/2x/IMG_5657.jpg){:standalone}
+![The mini keyboard adapter's bottom](/assets/posts/apple1/2x/IMG_5657.webp){:standalone}
 
 From the top:
 
-![The mini keyboard adapter's top](/assets/posts/apple1/2x/IMG_5654.jpg){:standalone}
+![The mini keyboard adapter's top](/assets/posts/apple1/2x/IMG_5654.webp){:standalone}
 
 And in use:
 
-![The mini keyboard adapter in use](/assets/posts/apple1/2x/IMG_5765.jpg){:standalone}
+![The mini keyboard adapter in use](/assets/posts/apple1/2x/IMG_5765.webp){:standalone}
 
 I also implemented Uncle Bernie's Apple II keyboard mod, to make the rarely used REPT key act as a Clear Screen key.
 
-![The REPT key](/assets/posts/apple1/2x/IMG_5767.jpg){:standalone}
+![The REPT key](/assets/posts/apple1/2x/IMG_5767.webp){:standalone}
 
 For this, you have to:
 
@@ -290,7 +290,7 @@ For this, you have to:
 - add a resistor
 - add a couple of wires
 
-![Part of the mod](/assets/posts/apple1/2x/IMG_5764.jpg){:standalone}
+![Part of the mod](/assets/posts/apple1/2x/IMG_5764.webp){:standalone}
 
 This still allows the keyboard to work with an Apple II.
 
@@ -298,7 +298,7 @@ This still allows the keyboard to work with an Apple II.
 
 Incidentally, as I got back to the Apple-1 after few months without turning it on, I found that it didn't work anymore. The display was not showing what it was supposed to show, as if it didn't synchronize. I tried a couple of monitors, cables, and eventually zeroed in on the 74175, a quad D-type flip-flop, made in 1973: swapping it for another chip, the issue was resolved. I tested the 74175 in my chip tester, and it showed as failed there too, unsurprisingly. Curiously, the chip must somehow have gone bad between the last time I had the Apple-1 on, a few months ago, and now.
 
-![The failed 74175](/assets/posts/apple1/2x/IMG_5720.jpg){:standalone}
+![The failed 74175](/assets/posts/apple1/2x/IMG_5720.webp){:standalone}
 
 ## Conclusion
 

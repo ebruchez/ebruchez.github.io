@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/objectwebcon05"
 ---
 
-<figure class="roller-figure"><img src="/assets/posts/roller/lyon01.jpg" alt="Passerelle du Palais de Justice, Lyon, France" width="250" height="188" loading="lazy"></figure>
+<figure class="roller-figure"><img src="/assets/posts/roller/lyon01.webp" alt="Passerelle du Palais de Justice, Lyon, France" width="250" height="188" loading="lazy"></figure>
 
 I am just back from [ObjectWebCon05](http://wiki.objectweb.org/ObjectWebCon05/), the Fourth Annual ObjectWeb Conference. For the non-initiated, ObjectWeb is "an international consortium fostering the development of open-source middleware". The consortium has picked a lot of steam over the last year or so, and [my company](http://www.orbeon.com/) is currently in the process of joining. I did a presentation in the context of the [ESBi initiative](http://wiki.objectweb.org/ESBi/), and of course I attended a few of the talks there.
 

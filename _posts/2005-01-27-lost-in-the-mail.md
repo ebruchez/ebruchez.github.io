@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/lost_in_the_mail"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/78rpm01a.jpg" alt="78 rpm Victor record" width="200" height="198" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/78rpm01a.webp" alt="78 rpm Victor record" width="200" height="198" loading="lazy"></figure>
 
 I had ordered a set of 78 rpm records from a seller in Urugay last year. I had ordered from that person once or twice before, and the packages arrived to the US safe and sound. This time since I was in the process of moving, I gave my Swiss address as shipping address.
 

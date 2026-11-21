@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/why_digitization_projects_are_necessary"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/hamburgerbrand.jpg" alt="Hamburger Brand" width="250" height="178" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/hamburgerbrand.webp" alt="Hamburger Brand" width="250" height="178" loading="lazy"></figure>
 
 The Ernest Hemingway museum and bar on a Bahamas island has just been completely [destroyed by fire](http://www.cnn.com/2006/WORLD/americas/01/13/bahamas.hemingway.reut/index.html), including "hundreds of photographs and artifacts of the author".
 

@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/google_gets_real_competition"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/msnsearch01a.jpg" alt="The new MSN Search page" width="250" height="135" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/msnsearch01a.webp" alt="The new MSN Search page" width="250" height="135" loading="lazy"></figure>
 
 In internet time, [Google](http://www.google.com/) has been the best search engine out there for ages now. I can remember when it was just a promising hack. At the time I was using [AltaVista](http://www.altavista.com/), the first really cool search engine. After AltaVista got out of DEC's hands, it became unfortunately bloated, slow, out of date, and simply didn't produce that good a set of results anymore. So when Google became mature enough, like many, I switched and never looked back.
 

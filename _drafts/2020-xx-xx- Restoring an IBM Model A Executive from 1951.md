@@ -10,7 +10,7 @@ category: Typewriters
 
 In November 2019, I acquired an IBM Model A Executive from 1951. I had a choice between two machines [^othera]. I chose this one, with gray tones, which I found more appealing. The seller was kind enough to provide an IBM Model A Standard to go along with it for parts, including a better power roller (which I haven't used so far).
 
-![The machine soon after I bought it](/assets/posts/ibm-a-executive/2x/IMG_1602.jpg){:standalone}
+![The machine soon after I bought it](/assets/posts/ibm-a-executive/2x/IMG_1602.webp){:standalone}
 
 ## Background
 
@@ -42,20 +42,20 @@ I used PB Blaster to make the escapement move reliably.
 
 I cleaned the left and right ribbon assemblies and, in fact took them out entirely. It's a beautiful part, if you ask me.
 
-![Clean left-side ribbon assembly](/assets/posts/ibm-a-executive/2x/IMG_1852.jpg){:standalone}
+![Clean left-side ribbon assembly](/assets/posts/ibm-a-executive/2x/IMG_1852.webp){:standalone}
 
 I also put new grommets for the left side assembly as the old ones were very hard.
 
-![New grommets](/assets/posts/ibm-a-executive/2x/IMG_1865.jpg){:standalone}
+![New grommets](/assets/posts/ibm-a-executive/2x/IMG_1865.webp){:standalone}
 
 
 I removed the old soundproofing material, which was deteriorating. I scraped and used some Goo Gone as well.
 
-![Old soundproofing material](/assets/posts/ibm-a-executive/2x/IMG_1873.jpg){:standalone}
+![Old soundproofing material](/assets/posts/ibm-a-executive/2x/IMG_1873.webp){:standalone}
 
 I cleaned the body panels with Simple Green and a toothbrush, finishing the job with WD-40 which gives the crinkle paint a nice shine. The IBM logo looks really nice!
 
-![IBM logo](/assets/posts/ibm-a-executive/2x/IMG_1864.jpg){:standalone}
+![IBM logo](/assets/posts/ibm-a-executive/2x/IMG_1864.webp){:standalone}
 
 
 I removed the platen, which is very easy, to clean the carriage. I also remove the carriage's end covers for cleaning.
@@ -78,9 +78,9 @@ I am only 80% happy with my rewiring. I used cable ties and wire nuts. I wish I 
 
 The keyboard plate also comes off easily. I cleaned the keys. Some of the key legends were partially gone, and I used Laquer-Stick to fix that. It's not perfect but if you don't know you probably won't notice it.
 
-![Before Laquer-Stick](/assets/posts/ibm-a-executive/2x/IMG_1817.jpg){:standalone}
+![Before Laquer-Stick](/assets/posts/ibm-a-executive/2x/IMG_1817.webp){:standalone}
 
-![After Laquer-Stick](/assets/posts/ibm-a-executive/2x/IMG_1819.jpg){:standalone}
+![After Laquer-Stick](/assets/posts/ibm-a-executive/2x/IMG_1819.webp){:standalone}
 
 I then reassembled the machine. It worked fairly well.
 
@@ -93,15 +93,15 @@ In January, I removed the body panels again.
 
 First, I replaced the tab Clear/Set buttons. The Set button was broken originally, and I finally got to removing those from the Model B. The color is different, intersetingly: it was brown on the Executive, but blue on the Standard. Yet the Expalnd/Color buttons on the Executive have the same blue, so thew "new" buttons mach really well. The transfer was very easy. I polished the buttons with polishing compound and they look fairly nice.
 
-![Replacement tab "Clear"/"Set" buttons](/assets/posts/ibm-a-executive/2x/IMG_2929.jpg){:standalone}
+![Replacement tab "Clear"/"Set" buttons](/assets/posts/ibm-a-executive/2x/IMG_2929.webp){:standalone}
 
 I also ordered some Noico car soundproofing material.
 
-![New Noico soundproofing material](/assets/posts/ibm-a-executive/2x/IMG_2931.jpg){:standalone}
+![New Noico soundproofing material](/assets/posts/ibm-a-executive/2x/IMG_2931.webp){:standalone}
 
 Those are made of butyl rubber, I believe. They have a metallic side, I assume so that the rubber doesn't touch anything as it's quite soft; and an adhesive side. I cut the parts and placed them on the body panels.
 
-![Cut soundproofing material](/assets/posts/ibm-a-executive/2x/IMG_2947.jpg){:standalone}
+![Cut soundproofing material](/assets/posts/ibm-a-executive/2x/IMG_2947.webp){:standalone}
 
 
 So far I did NOT apply to the top cover or the ribbon covers.
@@ -113,7 +113,7 @@ I *think* it makes a difference? Compared to a manual machine, the electric mach
 
 This machine has the "Modern" typeface, one of the most common ones. But I think that it looks quite neat.
 
-![The typeslugs](/assets/posts/ibm-a-executive/2x/IMG_1769.jpg){:standalone}
+![The typeslugs](/assets/posts/ibm-a-executive/2x/IMG_1769.webp){:standalone}
 
 xxx typeface sample
 
@@ -169,7 +169,7 @@ https://photos.google.com/share/AF1QipNHsPMnbVPSGy80UI8H8i8cmzvIPDwpQ8sKFM0rCqbN
 
 Surprisingly, the power roller still works reliably!
 
-![The power roller](/assets/posts/ibm-a-executive/2x/IMG_1745.jpg){:standalone}
+![The power roller](/assets/posts/ibm-a-executive/2x/IMG_1745.webp){:standalone}
 
 
 

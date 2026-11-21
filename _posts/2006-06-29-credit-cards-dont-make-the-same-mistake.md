@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/credit_cards_don_t_make"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/credit-card.jpg" alt="Credit Cards" width="250" height="142" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/credit-card.webp" alt="Credit Cards" width="250" height="142" loading="lazy"></figure>
 
 Yesterday I used my credit card instead of my debit card to get cash at an ATM (incorrect brain processing). From my credit card's web site:
 

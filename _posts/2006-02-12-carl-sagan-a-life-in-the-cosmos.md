@@ -12,7 +12,7 @@ redirect_from:
 - "/roller/page/ebruchez/carl_sagan_a_life_in"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/william-poundstone-carl-sagan-01a.jpg" alt="William Poundstone - Carl Sagan" width="166" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/william-poundstone-carl-sagan-01a.webp" alt="William Poundstone - Carl Sagan" width="166" height="250" loading="lazy"></figure>
 
 I knew Carl Sagan from *Pale Blue Dot*, *Billions and Billions*, and especially his wonderful *Cosmos* (truly, if there is one book everybody should read, *Cosmos* is it). The man that transpires from these books appeared to me as an wonderful example of what human beings should strive for, and I naturally picked up Poundstone's biography out of curiosity.
 

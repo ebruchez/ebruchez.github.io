@@ -14,7 +14,7 @@ I previously [wrote about my IBM Memory Typewriter](../ibm-memory-typewriter/). 
 
 The machine has a "top" and "center" cover, per the manual, which I'll just call the cover. This has to be removed to access the inside of the machine, of course. The cover was not fully closed when I got the machine. I don't know if it's missing screws or latches. But in any case the machine was filthy! Disgusting, in fact!
 
-![Not really pretty inside](/assets/posts/ibm-memory-typewriter/2x/IMG_8288.jpg){:standalone}
+![Not really pretty inside](/assets/posts/ibm-memory-typewriter/2x/IMG_8288.webp){:standalone}
 
 ## The tilt support
 
@@ -22,7 +22,7 @@ Unlike the regular Selectric, you don't take the machine fully out of the case t
 
 I wasn't sure how hard I should push up the body of the machine, or where to hold it while doing so. The machine weighs 57.8 lbs (26.2 kg) and the main body is a good part of that weight. I pushed slightly, then figured I needed to unscrew a metal part underneath (called the "retainer" in the manual) before putting the stand up and then screw again to secure the kickstand - so you don't get your head or fingers crushed if it fails!
 
-![The "kickstand"](/assets/posts/ibm-memory-typewriter/2x/IMG_8292.jpg){:standalone}
+![The "kickstand"](/assets/posts/ibm-memory-typewriter/2x/IMG_8292.webp){:standalone}
 
 The process was harder than it should have been, because hinge was missing 2 screws on the left. The 2 screws were at the bottom of the machine. I put a temporary fix in place so that the body would rest on the hinge.
 
@@ -30,21 +30,21 @@ The process was harder than it should have been, because hinge was missing 2 scr
 
 I scraped, brushed and vacuumed the disintegrated foam. I also moved the power supply for easier cleaning. It is held in place with a single screw. Then I also used an air compressor to blow out dust and dust.
 
-![Cleaning in progress](/assets/posts/ibm-memory-typewriter/2x/IMG_8293.jpg){:standalone}
+![Cleaning in progress](/assets/posts/ibm-memory-typewriter/2x/IMG_8293.webp){:standalone}
 
 The machine is in much better shape now!
 
-![Much cleaner underneath](/assets/posts/ibm-memory-typewriter/2x/IMG_8315.jpg){:standalone}
+![Much cleaner underneath](/assets/posts/ibm-memory-typewriter/2x/IMG_8315.webp){:standalone}
 
 ## The power supply
 
 Before anything else, I wanted to test the power supply.
 
-![AC and DC connectors and fuses](/assets/posts/ibm-memory-typewriter/2x/IMG_8298.jpg){:standalone}
+![AC and DC connectors and fuses](/assets/posts/ibm-memory-typewriter/2x/IMG_8298.webp){:standalone}
 
 Thanks to the service manual, all the expected voltages are known.
 
-![DC connector voltages](/assets/posts/ibm-memory-typewriter/2x/dc-power-connector.jpg){:standalone}
+![DC connector voltages](/assets/posts/ibm-memory-typewriter/2x/dc-power-connector.webp){:standalone}
 
 I disconnected the AC and DC connectors, then opened it to clean inside and blow air. It was a little dirty but otherwise good.
 
@@ -76,18 +76,18 @@ This meant that:
 
 While this might not be very complex logic, it means the planar is working to some degree, which is fantastic news!
 
-![The selection magnets](/assets/posts/ibm-memory-typewriter/2x/IMG_8371.jpg){:standalone}
+![The selection magnets](/assets/posts/ibm-memory-typewriter/2x/IMG_8371.webp){:standalone}
 
 However, after that, nothing would happen. The magnets would remain selected and that was it.
 
 What is supposed to happen is that the cycle clutch magnet is supposed to activate, which is supposed to get the machine to "cycle": that's the mechanical process whereby the cycle shaft turns and cause the type element to position itself to the right character, etc.
 
-![The clutch magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_8370.jpg){:standalone}
+![The clutch magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_8370.webp){:standalone}
 
 
 xxx
 
-![The LED resistor](/assets/posts/ibm-memory-typewriter/2x/IMG_8351.jpg){:standalone}
+![The LED resistor](/assets/posts/ibm-memory-typewriter/2x/IMG_8351.webp){:standalone}
 
 The machine records and replays!
 
@@ -95,25 +95,25 @@ The machine records and replays!
 
 The ribbon mechanism was very dirty and stuck.
 
-![Filth](/assets/posts/ibm-memory-typewriter/2x/IMG_8378.jpg){:standalone}
+![Filth](/assets/posts/ibm-memory-typewriter/2x/IMG_8378.webp){:standalone}
 
 In fact, I couldn't take the cartridge (xxx?) out. Luckily the service manual has detailed instruction on how to remove that part. I still had to pull the cartridge out in an unorthodox way.
 
-![Ribbon mechanism removal instructions](/assets/posts/ibm-memory-typewriter/2x/ribbon-mechanism-removal.jpg){:standalone}
+![Ribbon mechanism removal instructions](/assets/posts/ibm-memory-typewriter/2x/ribbon-mechanism-removal.webp){:standalone}
 
 It turned out that the swing arm on the ribbon mechanism was stuck. xxx
 
-![The ribbon mechanism after cleaning](/assets/posts/ibm-memory-typewriter/2x/IMG_8416.jpg){:standalone}
+![The ribbon mechanism after cleaning](/assets/posts/ibm-memory-typewriter/2x/IMG_8416.webp){:standalone}
 
 
 
 xxx reed ,etc.
 
-![The "ribbon end" reed switch and magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_8417.jpg){:standalone}
+![The "ribbon end" reed switch and magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_8417.webp){:standalone}
 
 The type element had a broken tab, but I got it out following instructions [in this video](https://www.youtube.com/watch?v=-FiFpZFgcV4).
 
-![Bookface Acad 72 10 CPI type element](/assets/posts/ibm-memory-typewriter/2x/IMG_8419.jpg){:standalone}
+![Bookface Acad 72 10 CPI type element](/assets/posts/ibm-memory-typewriter/2x/IMG_8419.webp){:standalone}
 
 I found the broken tab inside the carrier!
 
@@ -123,19 +123,19 @@ xxxx
 
 There is a plastic accordion “print shaft cover” which I detached. That will have to be cleaned.
 
-![Accordion](/assets/posts/ibm-memory-typewriter/2x/IMG_8428.jpg){:standalone}
+![Accordion](/assets/posts/ibm-memory-typewriter/2x/IMG_8428.webp){:standalone}
 
 Underneath, there are actual print shaft covers. Those are metal, unlike the plastic ones of some Selectrics! I removed those easily and cleaned them.
 
-![Print shaft covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8438.jpg){:standalone}
+![Print shaft covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8438.webp){:standalone}
 
 The paper pan and feed rollers also got the same treatment.
 
-![Paper pan and rollers](/assets/posts/ibm-memory-typewriter/2x/IMG_8441.jpg){:standalone}
+![Paper pan and rollers](/assets/posts/ibm-memory-typewriter/2x/IMG_8441.webp){:standalone}
 
 Two more covers, including for the fuses.
 
-![More covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8444.jpg){:standalone}
+![More covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8444.webp){:standalone}
 
 ## Cleaning the mechanical parts
 

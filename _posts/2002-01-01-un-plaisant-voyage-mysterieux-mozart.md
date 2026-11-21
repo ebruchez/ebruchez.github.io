@@ -13,7 +13,7 @@ redirect_from:
 - "/roller/page/ebruchez/un_plaisant_voyage"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/mysterieux-mozart-01a.jpg" alt="Mystérieux Mozart" width="160" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/mysterieux-mozart-01a.webp" alt="Mystérieux Mozart" width="160" height="250" loading="lazy"></figure>
 
 Plutôt qu'une œuvre de référence, *Mystérieux Mozart* est un plaisant voyage, sur les lieux Mozartiens d'abord, puis dans le temps, plus précisement dans la seconde moitié du XVIIIe siècle. Sollers traverse la vie du compositeur librement au gré de son enthousiasme tout en commentant les œuvres les plus marquantes, levant ici ou là quelques arguments pertinents, pointant du doigt l'anecdote révélatrice. L'éclairage des relations avec le père, la cousine ainsi que Constance sont particulièrement intéressant.
 

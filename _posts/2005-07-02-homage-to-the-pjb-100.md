@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/homage_to_the_pjb_100"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/pjb-01a.jpg" alt="PJB 100" width="250" height="143" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/pjb-01a.webp" alt="PJB 100" width="250" height="143" loading="lazy"></figure>
 
 The [PJB-100](http://en.wikipedia.org/wiki/PJB) was the first ever hard disk mp3 player. I bought my 6 GB version back in July 2000, for a price of USD 783.71, shipping included. At the time, this was simply incredible: you could store the equivalent of about 100 CDs in your pocket. Besides the sheer capacity of the device, it also had a rechargeable battery with a life of over 10 hours, and a simple but very slick user interface.
 

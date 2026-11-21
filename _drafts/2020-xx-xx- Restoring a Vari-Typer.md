@@ -8,9 +8,11 @@ category: Typewriters
 
 ## Background
 
+For a nice introduction, see [Richard Polt's Varityper page](https://site.xavier.edu/polt/typewriters/varityper.html).
+
 Amongst the Jim Dax collection in Sacramento was a rusty Vari-Typer.[^1] I barely glanced at it the first couple of times I saw it. But I was told that if I didn't take it, it would probably end up as scrap. So, of course, I did take it!
 
-![The machine as I got it](/assets/posts/vari-typer-1940/2x/IMG_2882.jpg){:standalone}
+![The machine as I got it](/assets/posts/vari-typer-1940/2x/IMG_2882.webp){:standalone}
 
 ## So what is a Vari-Typer?
 
@@ -67,17 +69,17 @@ This model of Vari-Typer is not particularly rare or collectible, although it's 
 
 I recently saw two Vari-Typers in the History San Jose collections. They are both in better condition than mine.
 
-![Vari-Typer from the San Jose museum](/assets/posts/vari-typer-1940/2x/IMG_3196.jpg){:standalone}{:standalone}
+![Vari-Typer from the San Jose museum](/assets/posts/vari-typer-1940/2x/IMG_3196.webp){:standalone}{:standalone}
 
-![Another Vari-Typer from the San Jose museum](/assets/posts/vari-typer-1940/2x/IMG_3197.jpg){:standalone}{:standalone}
+![Another Vari-Typer from the San Jose museum](/assets/posts/vari-typer-1940/2x/IMG_3197.webp){:standalone}{:standalone}
 
 I also saw one back in 2017 at a garage sale, although that machine was not officially for sale, and I was not ready to make an offer anyway. I now notice that it doesn't have the carbon ribbon system in the right-hand spool area.
 
-![Vari-Typer at a garage sale](/assets/posts/vari-typer-1940/2x/IMG_7030.jpg){:standalone}{:standalone}
+![Vari-Typer at a garage sale](/assets/posts/vari-typer-1940/2x/IMG_7030.webp){:standalone}{:standalone}
 
 Finally, here is one in superb condition in the collections of the National Museum of American History. It even has the wooden rod which you could use to insert paper and clean the paper basket (and is documented in the manual).
 
-![Vari-Typer at the National Museum of American History](/assets/posts/vari-typer-1940/2x/national-museum-of-american-history.jpg){:standalone}{:standalone}
+![Vari-Typer at the National Museum of American History](/assets/posts/vari-typer-1940/2x/national-museum-of-american-history.webp){:standalone}{:standalone}
 
 On the Facebook group, a few collectors have machines in various conditions.
 
@@ -99,7 +101,7 @@ In July 2020, I acquired an original manual, which also describes this machine, 
 
 I also got an issue of a newsletter called "The Anvil", from January 1947, with tips for Vari-Typer owners (or rather, "Vari-Typists" as they all them).
 
-!["The Anvil" from January 1947](/assets/posts/vari-typer-1940/2x/anvil.jpg){:standalone}{:standalone width="75%"}
+!["The Anvil" from January 1947](/assets/posts/vari-typer-1940/2x/anvil.webp){:standalone}{:standalone width="75%"}
 
 ## This machine
 
@@ -107,7 +109,7 @@ This Vari-Typer is the second generation of electric Varitypers, distinctive wit
 
 This machine is able to justify columns automatically, or rather semi-automatically: you have to type every line twice. My understanding is that the first time you type it, you might go over the margin. The second time, the line is automatically compressed. How? I don't know yet!
 
-![The dial](/assets/posts/vari-typer-1940/2x/IMG_2886.jpg){:standalone}{:standalone}
+![The dial](/assets/posts/vari-typer-1940/2x/IMG_2886.webp){:standalone}{:standalone}
 
 The motor features prominently in the back of the machine, and is connected via a shaft and spring connector to a spring box. The idea is that the motor rewinds the spring at the opportune time (every 13 or 17 or 19 characters, I heard and read, but I'll need to verify this empirically!).
 
@@ -122,7 +124,7 @@ The Vari-Typer I got is in apparent poor condition:
 
 Now there is some beauty to this machine, in its dust, rust, and general abandonment. But the fact is that I wouldn't put it in my living room! So either it will stay in my garage, maybe for parts, or it will be restored.
 
-![Beauty in neglect and corrosion?](/assets/posts/vari-typer-1940/2x/IMG_3413.jpg){:standalone}{:standalone}
+![Beauty in neglect and corrosion?](/assets/posts/vari-typer-1940/2x/IMG_3413.webp){:standalone}{:standalone}
 
 ## First steps
 
@@ -130,7 +132,7 @@ The first question that comes to my mind is whether the machine has any potentia
 
 The motor in the back looks really bad and needs to be inspected to see if the damage is superficial and looks worse than it is.
 
-![The condition of the motor appeared worrying](/assets/posts/vari-typer-1940/2x/IMG_3231.jpg){:standalone}{:standalone}
+![The condition of the motor appeared worrying](/assets/posts/vari-typer-1940/2x/IMG_3231.webp){:standalone}{:standalone}
 
 Further, the machine needs to be checked, including the carriage and the main mechanical parts. The damage in the back could indicate that the machine might have been dropped, and that might have broken other parts beyond reasonable repair.
 
@@ -148,7 +150,7 @@ The right thing to do is therefore to remove the motor, open it up, clean it, ch
 
 Removing the motor turned out to be fairly easy: I removed machine’s big feet bar underneath so I could unscrew the little box with the electrical connections. From there, other screws allowed for removing the motor's two electrical connections.
 
-![The wiring](/assets/posts/vari-typer-1940/2x/IMG_3242.jpg){:standalone}{:standalone}
+![The wiring](/assets/posts/vari-typer-1940/2x/IMG_3242.webp){:standalone}{:standalone}
 
 The wiring is simple:
 
@@ -166,7 +168,7 @@ The spring box contains a switch which opens and closes depending on the status 
 
 I also managed to remove the spring which connects the two axles on one side. A couple more screws and the motor was cleanly out.
 
-![The extracted motor](/assets/posts/vari-typer-1940/2x/IMG_3245.jpg){:standalone}{:standalone}
+![The extracted motor](/assets/posts/vari-typer-1940/2x/IMG_3245.webp){:standalone}{:standalone}
 
 I then opened the motor. I had already opened my IBM Model A Executive motor.[^6] The process is similar here: the motor's enclosure is made of two parts, and two long screws hold them together. One end came out easily. But the other didn't. I tried tapping with a punch and small hammer, fearing that I had missed something. Eentually I managed to get the stator out, but the rotor was still stuck on one side. It also didn't rotate freely. More PB Blaster, tapping, and eventually it came out without damage!
 
@@ -176,11 +178,11 @@ The bearings might be porous bronze (AKA oilite). I know this was the case on th
 
 I used Simple Green on the enclosure. I put some slightly corroded screws into Evapo-Rust.
 
-![The motor parts](/assets/posts/vari-typer-1940/2x/IMG_3250.jpg){:standalone}{:standalone}
+![The motor parts](/assets/posts/vari-typer-1940/2x/IMG_3250.webp){:standalone}{:standalone}
 
 I reassembled the motor and carefully connected it. I was advised to use an incandescent light bulb in series with the motor, in case there is a short in the motor, to act like a fuse. The good news is that the motor runs! But it is louder than I expected. For now, I will consider this a success. It would be good to measure the motor's rpm, which is supposed to be 4500. That's pretty fast, compared with the IBM Model A Executive motor I handled recently, which was very quiet (brushless) and speced at about 1600 rpm.
 
-![The reassembled motor](/assets/posts/vari-typer-1940/2x/IMG_3273.jpg){:standalone}{:standalone}
+![The reassembled motor](/assets/posts/vari-typer-1940/2x/IMG_3273.webp){:standalone}{:standalone}
 
 I removed all the wiring from the machine so I wouldn't have wires in the way.
 
@@ -190,17 +192,17 @@ I also found online a picture of the back of a similar machine, and it shows tha
 
 This later got confirmed by other pictures, including some from the 1940s manuals. So this means that the machine was not dropped badly as I thought might have happened.
 
-![That's by design!](/assets/posts/vari-typer-1940/2x/manual-back.jpg){:standalone}{:standalone}
+![That's by design!](/assets/posts/vari-typer-1940/2x/manual-back.webp){:standalone}{:standalone}
 
 Finally, even the patent show the motor in this configuration. By now, there is absolutely no doubt this is all as it should be.
 
-![That's by *patented* design!](/assets/posts/vari-typer-1940/2x/US2263642-1.jpg){:standalone}{:standalone}
+![That's by *patented* design!](/assets/posts/vari-typer-1940/2x/US2263642-1.webp){:standalone}{:standalone}
 
 ## More evaluation
 
 I removed the front panel to check the condition under the keys. There is some rust and it's not a pretty sight. One or two key levers are bent. The good news is that it's not *all* rust or *all* bent! Keys don't move smoothly.
 
-![Surface rust](/assets/posts/vari-typer-1940/2x/IMG_3286.jpg){:standalone}{:standalone}
+![Surface rust](/assets/posts/vari-typer-1940/2x/IMG_3286.webp){:standalone}{:standalone}
 
 I can move the (20" wide) carriage to the right, and it locks on the escapement, which is a good thing. I can also release the carriage to the left. It's not smooth, but it's encouraging.
 
@@ -210,23 +212,23 @@ I removed all the wiring and then took out the spring assembly (labelled as "mot
 
 It's easy to remove this part from the machine. It can be open, carefully in case the spring is wound, and the parts taken out for cleaning and oiling.
 
-![The parts before cleaning](/assets/posts/vari-typer-1940/2x/IMG_3310.jpg){:standalone}{:standalone}
+![The parts before cleaning](/assets/posts/vari-typer-1940/2x/IMG_3310.webp){:standalone}{:standalone}
 
 I cleaned the parts with Simple Green, brushing and drying. It's interesting to see color show from underneath the grime. For example part of the switch and one of the cogwheels appear to be made of bakelite.
 
-![The switch after cleaning](/assets/posts/vari-typer-1940/2x/IMG_3311.jpg){:standalone}{:standalone}
+![The switch after cleaning](/assets/posts/vari-typer-1940/2x/IMG_3311.webp){:standalone}{:standalone}
 
 It turns out that the spring box is easy to open, although not as easy to close back. The spring inside was luckily not broken.
 
-![The spring](/assets/posts/vari-typer-1940/2x/IMG_3327.jpg){:standalone}{:standalone}
+![The spring](/assets/posts/vari-typer-1940/2x/IMG_3327.webp){:standalone}{:standalone}
 
 I cleaned the parts more as they were greasy. You can see the middle, two-part triangular assembly, which connects to the other two rotating parts and pushes down a lever which actuates the switch.
 
-![Cleaned parts](/assets/posts/vari-typer-1940/2x/IMG_3329.jpg){:standalone}{:standalone}
+![Cleaned parts](/assets/posts/vari-typer-1940/2x/IMG_3329.webp){:standalone}{:standalone}
 
 I reassembled the parts and connected the motor to see what would happen. It's making things turn, but in normal operation the main gear is locked due to the escapement. So we'll have to try it out in place once the rest of the machine starts moving.
 
-![Putting things back together](/assets/posts/vari-typer-1940/2x/IMG_3330.jpg){:standalone}{:standalone}
+![Putting things back together](/assets/posts/vari-typer-1940/2x/IMG_3330.webp){:standalone}{:standalone}
 
 I don't know if the machine will ever work properly again, but at least now I have a good idea of how these things fit together, which again can be useful for my other, nicer Varityper.
 
@@ -234,25 +236,25 @@ I don't know if the machine will ever work properly again, but at least now I ha
 
 I had a quick look at the keyboard. The keys are easy to remove for cleaning. Three keys: ",", ".", and the funny key to their right, have springs, interestingly. Removing the keys will make it easier to clean them and remove the superficial rust on them and their brackets, as well as cleaning them. It will also make it easier to clean the rest of the machine.
 
-![Key levers and the lamp holder](/assets/posts/vari-typer-1940/2x/IMG_3402.jpg){:standalone}
+![Key levers and the lamp holder](/assets/posts/vari-typer-1940/2x/IMG_3402.webp){:standalone}
 
 ## Scales
 
 This machine has several scales, as the manufacturer called them. One of them in the back, called the "column selector scale", is fixed and has nice embossed (if that's the correct term) markings. I tried to clean the paint a little. Some small parts flaked away. It's not too bad even though it doesn't look perfect.
 
-![The column selector scale, cleaned a little](/assets/posts/vari-typer-1940/2x/IMG_3397.jpg){:standalone}
+![The column selector scale, cleaned a little](/assets/posts/vari-typer-1940/2x/IMG_3397.webp){:standalone}
 
 The other is the spectacular, or at least iconic, triangular dial to the right of the machine.
 
-![The dial before cleaning](/assets/posts/vari-typer-1940/2x/IMG_3412.jpg){:standalone}
+![The dial before cleaning](/assets/posts/vari-typer-1940/2x/IMG_3412.webp){:standalone}
 
 Similarly, it has embossed marking. It is activated by linkages that go all the way to the back of the machine. I don't know yet exactly what it shows. I disassembled the indicator and the nearby bell for cleaning.
 
-![Dial parts and the bell](/assets/posts/vari-typer-1940/2x/IMG_3436.jpg){:standalone}
+![Dial parts and the bell](/assets/posts/vari-typer-1940/2x/IMG_3436.webp){:standalone}
 
 The paint on the front panel, after cleaning, doesn't look too good. The paint in the back of that part, which we can't see normally, looks much better as it was not exposed!
 
-![The paint suffered a little](/assets/posts/vari-typer-1940/2x/IMG_3439.jpg){:standalone}
+![The paint suffered a little](/assets/posts/vari-typer-1940/2x/IMG_3439.webp){:standalone}
 
 TODO: pics
 
@@ -266,21 +268,21 @@ The alternative might be to use regular, non-crinkle paint. It would change the 
 
 But nothing prevents us from being a little creative. Let's face it, the Vari-Typer has never struck anybody to be pretty. So I would consider the possibility of spicing it up a little. For example, the front covers could be painted glossy red, or a combination of red and black, or some other colors that would attract the eye and distract from the boring, business machine look.[^remington] This might make the machine special and maybe even more likely to survive, at the price of not exactly matching the period paint. It would have to be done well, however. But this would be reversible: it's just paint after all, which can be stripped and redone. Here is a virtual simulation of what some red could look like.
 
-![Would this be reasonable?](/assets/posts/vari-typer-1940/2x/national-museum-of-american-history-red.jpg){:standalone}
+![Would this be reasonable?](/assets/posts/vari-typer-1940/2x/national-museum-of-american-history-red.webp){:standalone}
 
 But then, I also found this picture, which definitely doesn't look good:
 
-![This is NOT reasonable!](/assets/posts/vari-typer-1940/2x/repaint-green.jpg){:standalone}
+![This is NOT reasonable!](/assets/posts/vari-typer-1940/2x/repaint-green.webp){:standalone}
 
 To be fair, that one appears to be a poor quality repaint, but it's not recent from what I can tell. In addition, they shouldn't have painted the frame and paper guides. And of course, the color is… something.
 
 On the other hand gloss black would look good too! And what about satin or matte black for the frame? I have also toyed in my mind with a cabernet or burgundy color to try to keep it classy. I like how the cabernet shows on the computer, but it might look very different in real life. So I will think about it and practice on a piece of sheet metal first. It is hard to visualize what the machine would look like with colors. And also xxx colors on the web.
 
-![Some possible red colors](/assets/posts/vari-typer-1940/2x/color-red-montage.jpg){:standalone}
+![Some possible red colors](/assets/posts/vari-typer-1940/2x/color-red-montage.webp){:standalone}
 
 Or might some blue work as well?
 
-![Some possible blue colors](/assets/posts/vari-typer-1940/2x/color-blue-montage.jpg){:standalone}
+![Some possible blue colors](/assets/posts/vari-typer-1940/2x/color-blue-montage.webp){:standalone}
 
 Asking for input on a collector's group, I got some fairly positive feedback about using color. I also got some suggestions to keep some parts polished metal, shiny or satin. Or maybe even plated? Clearly there are possibilities.
 
@@ -288,7 +290,7 @@ Asking for input on a collector's group, I got some fairly positive feedback abo
 
 At some point I realized that if this machine was to get cleaned and fixed properly, the carriage would have to get out. The question was how! I tried to figure out how to get it out for hours and at some point thought I wouldn't succeed. There was always one part that seemed like it would get in the way, in particular the hammer, or something to the left or the right.
 
-![Just before removing the carriage](/assets/posts/vari-typer-1940/2x/IMG_3517.jpg){:standalone}
+![Just before removing the carriage](/assets/posts/vari-typer-1940/2x/IMG_3517.webp){:standalone}
 
 Finally, I managed to do it by sliding the the left, after removing enough parts to the back and right of it! This is good news.
 
@@ -296,11 +298,11 @@ The carriage is pulled to the left like on most typewriters: using a spring box 
 
 I got the machine almost entirely "naked", which is good because it allows checking for almost everything.
 
-![Not much  is left on the frame of the machine](/assets/posts/vari-typer-1940/2x/IMG_3525.jpg){:standalone}
+![Not much  is left on the frame of the machine](/assets/posts/vari-typer-1940/2x/IMG_3525.webp){:standalone}
 
 I put a bunch of corroded parts in Evapo-Rust, my go-to for removing rust. I bought 4.5 gallons of it back in 2017 (almost 3 years ago), and I am still using some of that, as it is reusable. It's slowly reaching its end of life, though.
 
-![Evapo-Rust bath](/assets/posts/vari-typer-1940/2x/IMG_3477.jpg){:standalone}
+![Evapo-Rust bath](/assets/posts/vari-typer-1940/2x/IMG_3477.webp){:standalone}
 
 ## The turret
 
@@ -310,7 +312,7 @@ The problem with this machine was that there was a lot of rust, and some of the 
 
 So I proceeded to disassemble the whole thing, then taking out the rods and springs. 8 of them turn out to be broken in the middle (I had 4 broken ones on my "parts" Hammond Multiplex). This might not prevent the machine from working, though.
 
-![Rods and springs](/assets/posts/vari-typer-1940/2x/IMG_3471.jpg){:standalone}
+![Rods and springs](/assets/posts/vari-typer-1940/2x/IMG_3471.webp){:standalone}
 
 In order to take out the top of the turret, I had to remove the ribbon cups. And to do that, I had to pull them out entirely, shafts included, after removing the cogwheels that sit under the machine.
 
@@ -318,7 +320,7 @@ There is an automatic ribbon-reverse system, which doesn't make sense when using
 
 It turns out that one part of the system is badly bent underneath the machine. I will attempt to fix that.
 
-![Bent ribbon-reverse part](/assets/posts/vari-typer-1940/2x/IMG_3463.jpg){:standalone}
+![Bent ribbon-reverse part](/assets/posts/vari-typer-1940/2x/IMG_3463.webp){:standalone}
 
 ## Cleaning inside
 
@@ -331,7 +333,7 @@ xxxx
 
 The machine has an interesting system whereby you can, with a lever, change the pitch from 10, 12, 14 and 16. The shaft positions one of 4 cogwheels connected to the main escapement.
 
-![One wheel for each pitch (before cleaning)](/assets/posts/vari-typer-1940/2x/IMG_3527.jpg){:standalone}
+![One wheel for each pitch (before cleaning)](/assets/posts/vari-typer-1940/2x/IMG_3527.webp){:standalone}
 
 ## Stuck stuff
 
@@ -349,11 +351,11 @@ With some PB Blaster it eventually started moving freely.
 
 One part in the back, which is connected to the  pitch selector, is completely stuck. Even with PB Blaster and tapping it doesn't budge. I managed to take it out and put it in Evapo-Rust. Even after that it didn't move. I put it in a vise, tried to tap the part out, nothing moved. I then did a PB Blaster round, put it again in the vise, this time also tapped from the other side. I eventually saw some movement. Using punches I managed to get the rod out! Luckily, I didn't break these parts. They looked solid, and I was fairly cautious, but you never know.
 
-![Punches can be of great help](/assets/posts/vari-typer-1940/2x/IMG_3555.jpg){:standalone}
+![Punches can be of great help](/assets/posts/vari-typer-1940/2x/IMG_3555.webp){:standalone}
 
 Then I put it into Evapo-Rust again to remove possible corrosion on the rod and inside the tube. Some steel wool and oil, and it moves like a charm!
 
-![This was badly stuck!](/assets/posts/vari-typer-1940/2x/IMG_3557.jpg){:standalone}
+![This was badly stuck!](/assets/posts/vari-typer-1940/2x/IMG_3557.webp){:standalone}
 
 ### Escapement
 
@@ -363,31 +365,31 @@ As the escapement wasn't moving properly, I resolved to dunk the back of the mac
 
 As a next step, I tried to see if I could remove more of the escapement. It turns out I could! And that was a good thing as I was then able to clean those parts much better with Simple Green.
 
-![Clean escapement parts](/assets/posts/vari-typer-1940/2x/IMG_3570.jpg){:standalone}
+![Clean escapement parts](/assets/posts/vari-typer-1940/2x/IMG_3570.webp){:standalone}
 
 However, the stuck part is still stuck. Using a 1/4 inch wrench, I managed to remove the nut that was holding it in place from inside the frame. Then I had to remove another part that was blocking it, and I managed to take out the whole thing for cleaning!
 
-![More escapement parts](/assets/posts/vari-typer-1940/2x/IMG_3619.jpg){:standalone}
+![More escapement parts](/assets/posts/vari-typer-1940/2x/IMG_3619.webp){:standalone}
 
 ## The impression control lever
 
 This lever is to the left of the machine. It's rusty. It's on a shaft which holds it as well as the repetition key. Removing one screw and it's possible to take out the shaft.
 
-![Rust on the impression control lever](/assets/posts/vari-typer-1940/2x/IMG_3692.jpg){:standalone}
+![Rust on the impression control lever](/assets/posts/vari-typer-1940/2x/IMG_3692.webp){:standalone}
 
 I also removed the repetition key and its linkages so I could clean those parts.
 
-![Impression control and repetition key](/assets/posts/vari-typer-1940/2x/IMG_3744.jpg){:standalone}
+![Impression control and repetition key](/assets/posts/vari-typer-1940/2x/IMG_3744.webp){:standalone}
 
 ## The ribbon shaft
 
 I wanted to remove the machine's left wing for cleaning and eventual repainting. However, the ribbon shaft has a knob which is too large for the whole through the left wing. I tried to see if I could unscrew the knob, but to no avail. So I considered removing the entire shaft, but it has 8 things attached to it! I will have to reposition them and adjust them correctly, which might be tricky. The good news is that some of those relate to the regular ribbon, and when using a carbon ribbon, for which this machine is configured, we don't care about the reverse mechanism. So I went for it and removed the shaft.
 
-![Ribbon advance shaft and parts](/assets/posts/vari-typer-1940/2x/IMG_3752.jpg){:standalone}
+![Ribbon advance shaft and parts](/assets/posts/vari-typer-1940/2x/IMG_3752.webp){:standalone}
 
 There is even a tiny ball bearing and spring! This keeps the shaft stable in the left or right position when the ribbon reverse feature is in use.
 
-![Ball bearing and spring](/assets/posts/vari-typer-1940/2x/IMG_3736.jpg){:standalone}
+![Ball bearing and spring](/assets/posts/vari-typer-1940/2x/IMG_3736.webp){:standalone}
 
 With this done, I was able to unscrew the main rail and take out the two wings which are still attached to it!
 
@@ -395,11 +397,11 @@ TODO: PIC
 
 I also pulled out the main spring and its shaft.
 
-![Main spring](/assets/posts/vari-typer-1940/2x/IMG_3749.jpg){:standalone}
+![Main spring](/assets/posts/vari-typer-1940/2x/IMG_3749.webp){:standalone}
 
 After a basic cleaning:
 
-![Main spring, cleaned](/assets/posts/vari-typer-1940/2x/IMG_3757.jpg){:standalone}
+![Main spring, cleaned](/assets/posts/vari-typer-1940/2x/IMG_3757.webp){:standalone}
 
 This is the spring which helps pulls the carriage. Unlike with non-electric Varitypers and the Hammond, this Vari-Typer has another spring wound by the motor, as described above.
 
@@ -411,7 +413,7 @@ Further, I am not sure that everything moves as expected. When I press the space
 
 So I decided to remove the rest of the turret. For this, I needed to remove two axles on which the pyramid-like thingies (how are those things called anyway?) move. One of them unscrewed easily. The other one was stuck. Some PB Blaster helped and with that out of the way, I was able to remove the entire base of the turret, once a spring was removed.
 
-![The rest of the turret](/assets/posts/vari-typer-1940/2x/IMG_3768.jpg){:standalone}
+![The rest of the turret](/assets/posts/vari-typer-1940/2x/IMG_3768.webp){:standalone}
 
 xxx
 
@@ -421,55 +423,55 @@ UPDATE: Later I ended up also with another extra screw and nut!
 
 I cleaned the parts with Simple Green.
 
-![Cleaning with Simple Green and brushing](/assets/posts/vari-typer-1940/2x/IMG_3769.jpg){:standalone}
+![Cleaning with Simple Green and brushing](/assets/posts/vari-typer-1940/2x/IMG_3769.webp){:standalone}
 
 The base of the turret still has what are probably corrosion marks. In fact, it's not entirely clear to me what it is as the part is pretty clean at this point.
 
-![Corrosion and/or dirt?](/assets/posts/vari-typer-1940/2x/IMG_3777.jpg){:standalone}
+![Corrosion and/or dirt?](/assets/posts/vari-typer-1940/2x/IMG_3777.webp){:standalone}
 
 The moving parts are in pretty good shape now.
 
-![Shiny moving parts](/assets/posts/vari-typer-1940/2x/IMG_3775.jpg){:standalone}
+![Shiny moving parts](/assets/posts/vari-typer-1940/2x/IMG_3775.webp){:standalone}
 
 Three keys were still on the machine because, unlike the others, they are held in place with springs. I removed those and cleaned the springs.
 
-![Springs](/assets/posts/vari-typer-1940/2x/IMG_3783.jpg){:standalone}
+![Springs](/assets/posts/vari-typer-1940/2x/IMG_3783.webp){:standalone}
 
 The frame is now almost naked.
 
-![Almost naked frame](/assets/posts/vari-typer-1940/2x/IMG_3786.jpg){:standalone}
+![Almost naked frame](/assets/posts/vari-typer-1940/2x/IMG_3786.webp){:standalone}
 
 I also cleaned a few keys and key rings: steel wool and Mothers polish.
 
-![Key ring before](/assets/posts/vari-typer-1940/2x/IMG_3813.jpg){:standalone}
+![Key ring before](/assets/posts/vari-typer-1940/2x/IMG_3813.webp){:standalone}
 
-![Key ring after](/assets/posts/vari-typer-1940/2x/IMG_3812.jpg){:standalone}
+![Key ring after](/assets/posts/vari-typer-1940/2x/IMG_3812.webp){:standalone}
 
 I also cleaned the springs that were holding the 3 keys.
 
-![Clean springs!](/assets/posts/vari-typer-1940/2x/IMG_4003.jpg){:standalone}
+![Clean springs!](/assets/posts/vari-typer-1940/2x/IMG_4003.webp){:standalone}
 
 As a little nice surprise, cleaning the escapement bearing reveals a nice bronze bearing (probably, as I know there are bronze bearing in motors).
 
-![Escapement bearing](/assets/posts/vari-typer-1940/2x/IMG_3885.jpg){:standalone}
+![Escapement bearing](/assets/posts/vari-typer-1940/2x/IMG_3885.webp){:standalone}
 
 <!--
 I also cleaned and polished a little the hammer, which looked rough.
 
-![The hammer looks a little better](/assets/posts/vari-typer-1940/2x/IMG_3886.jpg){:standalone}
+![The hammer looks a little better](/assets/posts/vari-typer-1940/2x/IMG_3886.webp){:standalone}
 -->
 
 Finally, I took out the last part of the ribbon feed and reverse system for cleaning and in order to properly straighten the one that was bent.
 
-![Cleaned and straightened](/assets/posts/vari-typer-1940/2x/IMG_4004.jpg){:standalone}
+![Cleaned and straightened](/assets/posts/vari-typer-1940/2x/IMG_4004.webp){:standalone}
 
 I removed the remaining keys, including the space bar. I disassembled the components of the space bar for derusting and cleaning.
 
-![The space bar parts](/assets/posts/vari-typer-1940/2x/IMG_4057.jpg){:standalone}
+![The space bar parts](/assets/posts/vari-typer-1940/2x/IMG_4057.webp){:standalone}
 
 I also removed the strong metal part onto which the key levers pivot. Interestingly, on Hammonds, this is part of the cast frame. Here, it is a separate part, attached with 3 screws.
 
-![The key levers pivot](/assets/posts/vari-typer-1940/2x/IMG_4086.jpg){:standalone}
+![The key levers pivot](/assets/posts/vari-typer-1940/2x/IMG_4086.webp){:standalone}
 
 ## Paint stripping
 
@@ -478,48 +480,48 @@ repaint the front and sides of the frame, as well as the parts visible when the 
 
 Now, to do a proper job, you don't just paint over the existing paint: you have to strip the existing paint down to the bare metal. I am using the Citri-Strip paint stripper. It's a paint stripper that's not too nasty. You can use it inside (well, in your garage or workshop) and it even smells good! I've had good results in the past on small parts, although I also had a couple of paints that resisted it. Here, good news: Citri-Strip works like a charm on the frame!
 
-![Stripping paint is never a very clean task](/assets/posts/vari-typer-1940/2x/IMG_4094.jpg){:standalone}
+![Stripping paint is never a very clean task](/assets/posts/vari-typer-1940/2x/IMG_4094.webp){:standalone}
 
 The metal of the frame has obvious irregularities and will need good prep before painting. A filler will be required.
 
-![The metal frame is not perfect](/assets/posts/vari-typer-1940/2x/IMG_4102.jpg){:standalone}
+![The metal frame is not perfect](/assets/posts/vari-typer-1940/2x/IMG_4102.webp){:standalone}
 
-![The frame front and sides stripped](/assets/posts/vari-typer-1940/2x/IMG_4662.jpg){:standalone}
+![The frame front and sides stripped](/assets/posts/vari-typer-1940/2x/IMG_4662.webp){:standalone}
 
 With the frame stripped, I did some more cleaning and used a wire brush. I had already cleaned the hammer a little, and I did some more. It originally looked quite rough. This is not like the Hammond's hammer which looked much better. I guess in the Vari-Typer the hammer is less visible and the machine is more utilitarian so they didn't care as much. But it already looks better than before.
 
-![The hammer](/assets/posts/vari-typer-1940/2x/hammers.jpg){:standalone}
+![The hammer](/assets/posts/vari-typer-1940/2x/hammers.webp){:standalone}
 <!--
-![The hammer](/assets/posts/vari-typer-1940/2x/IMG_4672.jpg){:standalone}
+![The hammer](/assets/posts/vari-typer-1940/2x/IMG_4672.webp){:standalone}
 -->
 
 I also stripped the "paper table", which turns out to be a fairly strong piece of metal - which makes sense, given the 22 inch carriage width.
 
-![Paper table stripping](/assets/posts/vari-typer-1940/2x/IMG_4545.jpg){:standalone}
+![Paper table stripping](/assets/posts/vari-typer-1940/2x/IMG_4545.webp){:standalone}
 
 ## The sine bar
 
 I learned, from reading from [US patent 2,263,642](), that this part is called the "sine-bar".
 
-![The sine-bar: a shiny aluminium part](/assets/posts/vari-typer-1940/2x/IMG_4530.jpg){:standalone}
+![The sine-bar: a shiny aluminium part](/assets/posts/vari-typer-1940/2x/IMG_4530.webp){:standalone}
 
 It's key to the whole justification mechanism. This bar is initially inclined down. It rises as the user types over the bell margin of the rough copy. Then it stays in position. When typing the justified copy (second column), a roller comes down the sine-bar. The bigger the inclination, the bigger the compensation at each step of the escapement. If it is horizontal, there is no compensation: the line if full. But if it is missing, say, 10 characters, the bar will be quite inclined, and each escapement step will add some compensation movement. So the characters will be spaced more.
 
 On the following patent drawing, the sine-bar is number 35.
 
-![The sine-bar in a patent drawing](/assets/posts/vari-typer-1940/2x/US2263642-3.jpg){:standalone}
+![The sine-bar in a patent drawing](/assets/posts/vari-typer-1940/2x/US2263642-3.webp){:standalone}
 
 ## The back feet
 
 I thought the back support for the feet was "clearly" bent, and even had a rationale for that.
 
-![This is bent, right?](/assets/posts/vari-typer-1940/2x/IMG_4681.jpg){:standalone}
+![This is bent, right?](/assets/posts/vari-typer-1940/2x/IMG_4681.webp){:standalone}
 
 Well, I thought that of the motor too. And well, well, well: just found [US patent 1,918,302](https://patents.google.com/patent/US1918302A/en) from July 18, 1933, by Frank H. Trego, which describes a "Frame extension for typewriting machines". Guess what: it shows a "bent" design:
 
 > The cross-bar, as illustrated herein, is channel-shape in cross-section and is pressed up from sheet metal so that it is light and yet strong. It comprises an intermediate, horizontal section 23, which extends under the main-frame from one post 15 to the other, 70 and __inclined__ sections 24 extending upwardly from the central section 23 to the feet 19 so that said feet may be attached to the bottom side of said bar 20, which bottom side is at the same horizontal level as the bottom of the rear posts 15 in order that the same feet may be secured directly to the posts 15 (for short carriage machines) or may be secured to the ends of the frame extension 20 without affecting or altering the height of the machine.
 
-![Patent figure](/assets/posts/vari-typer-1940/2x/US1918302-1-1.jpg){:standalone}
+![Patent figure](/assets/posts/vari-typer-1940/2x/US1918302-1-1.webp){:standalone}
 
 ## Painting the frame
 
@@ -545,11 +547,11 @@ I watched more videos, in particular about car paint jobs. This can be very invo
 
 In the meanwhile, I also stripped the ribbon holder assembly at the top of the tower.
 
-![The ribbon holder](/assets/posts/vari-typer-1940/2x/IMG_4412.jpg){:standalone}
+![The ribbon holder](/assets/posts/vari-typer-1940/2x/IMG_4412.webp){:standalone}
 
 I think that it might be a good idea to start with that part, as it's smaller, hopefully easier, and if I mess up, it will be easier to strip it again and start over. This needs to be repainted anyway, since the paint has clearly degraded on it.
 
-![Stripped and sanded part](/assets/posts/vari-typer-1940/2x/IMG_4503.jpg){:standalone}
+![Stripped and sanded part](/assets/posts/vari-typer-1940/2x/IMG_4503.webp){:standalone}
 
 I think that a simple filler primer *should* work on this, as it's not rough like the machine's frame. For the frame, I will probably have to use some metal filler.
 
@@ -568,7 +570,7 @@ TODO: figure out how it's meant to work. See the manual xxx
 
 I found this part inside the machine:
 
-![Surprise part](/assets/posts/vari-typer-1940/2x/IMG_3295.jpg){:standalone}
+![Surprise part](/assets/posts/vari-typer-1940/2x/IMG_3295.webp){:standalone}
 
 I was sure this was not part of this machine as it looked too clean. But in fact this is a margin stop! It must have fallen into the machine a long time ago, and it was protected from the elements since.
 
@@ -653,7 +655,7 @@ But since I want to repaint the wings, probably, it would be good to remove them
 
 xxx measure rod!
 
-![Punching out the wings](/assets/posts/vari-typer-1940/2x/IMG_4820.jpg){:standalone}
+![Punching out the wings](/assets/posts/vari-typer-1940/2x/IMG_4820.webp){:standalone}
 
 The paint at that spot on the wings doesn't look too bad, but in other spots some paint is gone, and the inside of the wings got corrosion. Ideally, I would love those to keep their wrinkle paint, but I am not sure I will.
 
@@ -661,7 +663,7 @@ The paint at that spot on the wings doesn't look too bad, but in other spots som
 
 Once the wings removed, I figured it was time for knolling. Here is the result.
 
-![Knolled parts](/assets/posts/vari-typer-1940/2x/IMG_4831.jpg){:standalone}
+![Knolled parts](/assets/posts/vari-typer-1940/2x/IMG_4831.webp){:standalone}
 
 ## Spare parts
 

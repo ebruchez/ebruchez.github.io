@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/gotta_love_hard_drives"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/raid01.png" alt="RAID Synchronization" width="250" height="204" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/raid01.webp" alt="RAID Synchronization" width="250" height="204" loading="lazy"></figure>
 
 It's summer again, so hard drives start failing. This time, it's just a hard drive in my backup PC, which is part of a RAID 1 array, so that's not too serious. Restoring the array almost failed though. This is one of those built-in VIA RAID chips, and you just never know if things will happen the way they are supposed to.
 

@@ -24,11 +24,11 @@ In June 2020, I had a chance to buy this Caligraph 2 which was sold on eBay for 
 
 There is no doubt that the machine is in fairly rough condition (bad paint, rust and corrosion). But I don't see why it wouldn't be restorable. I have now also, in a few years of collecting, gained some level of confidence about restoring such machines, even though this one presents some interesting challenges.
 
-![The beauty as I got it](/assets/posts/caligraph-2/2x/IMG_5423.jpg){:standalone}
+![The beauty as I got it](/assets/posts/caligraph-2/2x/IMG_5423.webp){:standalone}
 
 This machine screams for complete disassembly, cleaning, repainting, new decals and pinstripes, and replating of several parts. Three keys are replacements. The main spring (which is under the machine) is broken, as is common with this machine.
 
-![Bottom with the broken main spring](/assets/posts/caligraph-2/2x/IMG_5540.jpg){:standalone}
+![Bottom with the broken main spring](/assets/posts/caligraph-2/2x/IMG_5540.webp){:standalone}
 
 On the plus side, none of the wooden key levers are broken (although one has some damage where the spring hooks into it).
 
@@ -60,7 +60,7 @@ Properly repainting and replating will make it very shiny. I am not sure there i
 
 On my Remington 6 from 1902, I had two parts replated: the curved shift bar, and the ribbon guide. I think that they look fantastic on that machine, with most of the rest original.
 
-![1902 Remington 6 with replated ribbon guide](/assets/posts/caligraph-2/2x/IMG_7284.jpg){:standalone}
+![1902 Remington 6 with replated ribbon guide](/assets/posts/caligraph-2/2x/IMG_7284.webp){:standalone}
 
 ### Overview of the restoration process
 
@@ -84,7 +84,7 @@ The Caligraph is a simple machine, and I have some experience with the Restorati
 - How to reproduce the pinstripes.
 - How to fix or replace the main spring. I have seen online that some have installed a replacement spring.
 
-![Small portion of reasonably-preserved pinstriping](/assets/posts/caligraph-2/2x/IMG_5538.jpg){:standalone}
+![Small portion of reasonably-preserved pinstriping](/assets/posts/caligraph-2/2x/IMG_5538.webp){:standalone}
 
 In addition, the following parts, at least, will have to be redone or found:
 
@@ -104,7 +104,7 @@ I put many parts in Evapo-Rust to do a first rust removal pass. This also helps 
 
 The result is that, well, some parts are in fact quite corroded. This one is probably the worst.
 
-![The worst of corrosion](/assets/posts/caligraph-2/2x/IMG_5529.jpg){:standalone}
+![The worst of corrosion](/assets/posts/caligraph-2/2x/IMG_5529.webp){:standalone}
 
 xxx
 
@@ -112,7 +112,7 @@ xxx
 
 This is a tough one. Obviously, the type basket is a major part of the Caligraph. But in order to repaint the frame properly, it probably needs to be torn down. I can't see how it's possible to keep it in place while stripping, sanding, priming, and painting the frame. There are 72 typebars held in place by 72 very tight screws. Those must be removed without breaking them. When the frame is ready, they will have to be put back, and realigned.
 
-![The type basket with 72 of everything](/assets/posts/caligraph-2/2x/IMG_5713.jpg){:standalone}
+![The type basket with 72 of everything](/assets/posts/caligraph-2/2x/IMG_5713.webp){:standalone}
 
 Now the question is whether to proceed with the disassembly. I have received rather negative advice, even from one person that has done it. Besides the amount of work, one issue is, as expected, alignment. You can't just realign the types with your eyes and hands only. You need an alignment device ("jig"). We have pictures of such jigs for Remington machines. In principle, it's not too hard: you "just" need something that can ensure all the types end up in the center. In practice, of course that's another story. You can build something made of metal, or wood, or maybe even 3D printed. How well the alignment will end up is anyone's guess.
 
@@ -120,7 +120,7 @@ Now the question is whether to proceed with the disassembly. I have received rat
 
 I also found a 1994 ETCetera by Bob Aubert about restoring a Caligraph 1 completely. Of course, the Caligraph 1 is rarer and therefore more worth restoring compared to the 2. But Bob did it, including repainting, pinstriping, replating, etc. He wrote back then that he spent 160 hours doing it. The Caligraph 2 has even more parts. Maybe some of the process can be streamlined.
 
-![Bob Aubert's 1994 article](/assets/posts/caligraph-2/2x/aubert.jpg){:standalone width="75%"}
+![Bob Aubert's 1994 article](/assets/posts/caligraph-2/2x/aubert.webp){:standalone width="75%"}
 
 In any case, I wanted to see whether it is even *possible* for me to remove the typebars. So I started with applying PB Blaster liberally on one area, over and under, to see if I can loosen them. And it turns out I can: I managed to unscrew two of the screws. I removed one to see if it can be polished. Interestingly, it polished rather dark. It would look better than it does now. I think it the only issue was corrosion on the metal, I would not tear down the basket. But I need to repaint the frame. That's the key issue.
 
@@ -148,7 +148,7 @@ Once this is done, the frame will be essentially naked. It can then be safely st
 
 The Caligraph 2 has 72 keys organized in 6 rows, or "banks", of 12 keys. Each bank, in addition to its 12 keys, consists of a so-called "bridge". The 6 bridges are different, since the holes guide the keys to match the position of the wooden key levers underneath.
 
-![The 6 bridges](/assets/posts/caligraph-2/2x/bridges.jpg){:standalone}
+![The 6 bridges](/assets/posts/caligraph-2/2x/bridges.webp){:standalone}
 
 The Caligraph keyboard is QWERTY-inspired, but it's not QWERTY. Here is the layout (just approximating the staggering of the keys):
 
@@ -163,17 +163,17 @@ B C j x v b n l m p M P
 
 The keyboard of the Caligraph 2 is so-called *full*, or *double*, or also *complete* (seen in a Smith Premier ad), because there is no *shift* key and, instead, there is a separate key for each character, including lowercase and uppercase. But note that even though this is a full keyboard, the keys are *staggered*.
 
-![The Caligraph 2's full, but staggered, keyboard](/assets/posts/caligraph-2/2x/IMG_5427.jpg){:standalone}
+![The Caligraph 2's full, but staggered, keyboard](/assets/posts/caligraph-2/2x/IMG_5427.webp){:standalone}
 
 The staggered design is because each key is aligned with its corresponding wooden key lever, and those have to be next to each other. This is exactly like the Remington 2, but with almost double the number of keys. However, on the Caligraph, the keys are attached around the middle of the wooden slats, and the slats pivot in the front of the machine instead of the back.
 
 This, by the way, is very different from another full keyboard design, that of the later Smith Premier, where all keys were in perfect columns. Smith Premier managed to do this thanks to a very smart system of rotating rods instead of key levers. Today, we call keyboards where keys are aligned in columns *ortholinear* ("ortho" = straight, "linear" = in a line).
 
-![1902 Smith Premier 2 with full ortholinear keyboard](/assets/posts/caligraph-2/2x/IMG_7288.jpg){:standalone}
+![1902 Smith Premier 2 with full ortholinear keyboard](/assets/posts/caligraph-2/2x/IMG_7288.webp){:standalone}
 
 Some fancy computer keyboards are built that way.
 
-![Example of a modern ortholinear computer keyboard](/assets/posts/caligraph-2/2x/ortholinear.jpg){:standalone}
+![Example of a modern ortholinear computer keyboard](/assets/posts/caligraph-2/2x/ortholinear.webp){:standalone}
 
 Here is a summary of similarities and differences between the keyboards:
 
@@ -185,17 +185,17 @@ Here is a summary of similarities and differences between the keyboards:
 
 I had no big difficulty removing the keys. Each key is attached to its corresponding key lever with a stem that fits in an attachment. Each key needs to be pulled out without breaking anything. I used pliers with a piece of plastic to protect the stem, and was careful not to pull too hard on the keys so as not to damage the wooden slats or linkages.
 
-![Removing a key](/assets/posts/caligraph-2/2x/IMG_5569.jpg){:standalone}
+![Removing a key](/assets/posts/caligraph-2/2x/IMG_5569.webp){:standalone}
 
 The keys need to be removed in order to remove the wooden key levers. Once the 72 keys are removed, the 6 bridges can be removed. It is necessary to remove the bridges for cleaning and painting, but not strictly to remove the wooden key levers.
 
-![All the keys removed and organized](/assets/posts/caligraph-2/2x/IMG_5710.jpg){:standalone}
+![All the keys removed and organized](/assets/posts/caligraph-2/2x/IMG_5710.webp){:standalone}
 
 ### The basket screws
 
 Over the span of a few days, I loosened all 72 basket screws. I started with PB Blaster, but was then advised to try Kroil, which worked fine. It was definitely necessary to use a penetrating oil. I don't have a tool to measure the torque I had to apply to unlock the screws, but without PB Blaster or Kroil I had to stop applying torque at some point. After applying the oil, I didn't reach that uncomfortable point, and if I did, I reapplied oil, waited a while, and then tried again.
 
-![Basket screws soaked with Kroil](/assets/posts/caligraph-2/2x/IMG_5701.jpg){:standalone}
+![Basket screws soaked with Kroil](/assets/posts/caligraph-2/2x/IMG_5701.webp){:standalone}
 
 So now I have a machine with all the keys removed and all the basket screws loosened.
 
@@ -203,11 +203,11 @@ So now I have a machine with all the keys removed and all the basket screws loos
 
 The "front reed bar" must be moved so that the key levers can be removed in turn. You remove 3 screws, and then the bar can be moved forward to free the springs associated with the key levers.
 
-![The front reed bar](/assets/posts/caligraph-2/2x/IMG_5556.jpg){:standalone}
+![The front reed bar](/assets/posts/caligraph-2/2x/IMG_5556.webp){:standalone}
 
 Just remove the matching basket screw and you can take out the entire assembly.
 
-![The first slat is removed](/assets/posts/caligraph-2/2x/IMG_5715.jpg){:standalone}
+![The first slat is removed](/assets/posts/caligraph-2/2x/IMG_5715.webp){:standalone}
 
 This is a significant part of the restoration work: there is 72 of everything, which means that it's time-consuming and repetitive.
 
@@ -215,43 +215,43 @@ It's important to keep track of the order the key levers are and their position 
 
 There is a mix of gunk and rust. Luckily, it's not all rust! Each type bar and linkage must be cleaned and derusted. I start with a brass brush, then dunk in Evapo-Rust, like I did for the Remington 6.
 
-![A lot of gunk and rust](/assets/posts/caligraph-2/2x/IMG_5769.jpg){:standalone}
+![A lot of gunk and rust](/assets/posts/caligraph-2/2x/IMG_5769.webp){:standalone}
 
 After that, I use a Dremel with different types of wire brushes, and a polishing wheel. I am also cleaning the slats with water, as they are very dirty. Finally, I will try to coat the metal with something - Boeshield T-9, probably. I don't think replating the links is necessary.
 
 These pictures show the first assemblies dunking in Evapo-Rust. The product is initially very transparent, but it quickly becomes dark as rust is taken away. The more rust (and dirt!) on parts, the sooner the product will become dark. But it's still quite effective for a long time.
 
-![Typebar and link in Evapo-Rust](/assets/posts/caligraph-2/2x/IMG_5724.jpg){:standalone}
+![Typebar and link in Evapo-Rust](/assets/posts/caligraph-2/2x/IMG_5724.webp){:standalone}
 
-![Typebar and link in Evapo-Rust](/assets/posts/caligraph-2/2x/IMG_5725.jpg){:standalone}
+![Typebar and link in Evapo-Rust](/assets/posts/caligraph-2/2x/IMG_5725.webp){:standalone}
 
 Here are the first cleaned metal parts. That's after Evapo-Rust, a wire brush, and a small polishing wheel. The wood hasn't really been cleaned yet. That's much better, but patina will still show, which is of course fine.
 
-![Partially-cleaned key levers, links, and type bars](/assets/posts/caligraph-2/2x/IMG_5735.jpg){:standalone}
+![Partially-cleaned key levers, links, and type bars](/assets/posts/caligraph-2/2x/IMG_5735.webp){:standalone}
 
 There are 72 keys. If I process 4 a day, that will take me 18 days, or about 3 weeks! The reason I am going so slow is that I do this part-time. Also, it is just time-consuming to remove, catalog, brush, Evapo-Rust, rinse, wipe, Dremel, polish, apply wood oil, and check each assembly. But I am not in a hurry, and I can listen to podcasts while doing this. I estimate that it takes more than an hour of work to process a batch of 4, so 18 hours of work for the 72 assemblies. But it's probably a little more than that.
 
 The hanger washers (that sit between the screws and the hangers) clean up nicely too. I put them in Evapo-Rust, brushed them, then polished them a little. They each hold 5 screws, except for one part which holds 2.
 
-![Washer before](/assets/posts/caligraph-2/2x/IMG_5779.jpg){:standalone}
+![Washer before](/assets/posts/caligraph-2/2x/IMG_5779.webp){:standalone}
 
-![Washer after](/assets/posts/caligraph-2/2x/IMG_5795.jpg){:standalone}
+![Washer after](/assets/posts/caligraph-2/2x/IMG_5795.webp){:standalone}
 
 I am putting back the screws and washers temporarily, so I don't misplace them. They shine, but for how long?
 
-![Cleanded and polished screws and washers](/assets/posts/caligraph-2/2x/IMG_5800.jpg){:standalone}
+![Cleanded and polished screws and washers](/assets/posts/caligraph-2/2x/IMG_5800.webp){:standalone}
 
 I cleaned the wood (I am told it's balsa) with a damp cloth, as there is a lot of dirt on it. After drying, I am applying some English Oil on it. I am not sure whether this is the best thing to do. I am told that it's better if the wood is not left dry. But I guess it had some kind of finish or protection originally, although I am not sure what. The effect of English Oil is temporary. I am not sure if I should apply some other finish.
 
 This picture shows the typebars about halfway through the process. You can see how bad they look.
 
-![Unappetizing typebars](/assets/posts/caligraph-2/2x/IMG_5829.jpg){:standalone}
+![Unappetizing typebars](/assets/posts/caligraph-2/2x/IMG_5829.webp){:standalone}
 
 ## The typebar rest
 
 The typebar rest padding is in bad shape. The original material is not restorable. I need to scrape it, clean the metal parts, and then put some new material, like felt, or leather.
 
-![The typebar rest](/assets/posts/caligraph-2/2x/IMG_5774.jpg){:standalone}
+![The typebar rest](/assets/posts/caligraph-2/2x/IMG_5774.webp){:standalone}
 
 xxx
 
@@ -259,13 +259,13 @@ xxx
 
 The top plate is attached to the bottom of the frame by four screws. I was not planning to remove it, but just in doubt I put some Kroil on a screw, and eventually managed to loosen it. Eventually, the other three came off too. But I made mistakes and damaged the slots of three of the screws. One reason is that there was still paint at the bottom of the slot. But I wish I could learn to be even more careful with slots! The good news is that this is only cosmetic. I might be able to hide the damage a little, or even find new screws if needed. In addition, the original screws were painted black.
 
-![Damaged screw due to my carelessness](/assets/posts/caligraph-2/2x/IMG_5825.jpg){:standalone}
+![Damaged screw due to my carelessness](/assets/posts/caligraph-2/2x/IMG_5825.webp){:standalone}
 
 I managed to get the 72 basket screws without any damage (but some slots have marks of previous clumsy servicing).
 
 With this, the top plate can be removed once the basket is empty. This is good because it means it can be separately painted and pinstriped.
 
-![After removing a screw](/assets/posts/caligraph-2/2x/IMG_5826.jpg){:standalone}
+![After removing a screw](/assets/posts/caligraph-2/2x/IMG_5826.webp){:standalone}
 
 Here is the removed top plate.
 

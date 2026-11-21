@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/do_you_speak_swiss"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/speakswiss01.jpg" alt="Do You Speak Swiss?" width="230" height="165" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/speakswiss01.webp" alt="Do You Speak Swiss?" width="230" height="165" loading="lazy"></figure>
 
 Il y a deux semaines, [Infrarouge](http://infrarouge.tsr.ch/forum-152-speak-swiss.html) discutait de la question de l'enseignement du français en Suisse allemande, a l'occasion des débats récents dans certains cantons de cette région sur le remplacement de l'enseignement du français par celui de l'anglais. La question inverse (enseignement de l'allemand ou de l'anglais en Suisse romande) était également à l'ordre du jour. Quelques points intéressants ont été soulevés dans la confrontation entre Beat Kappeler (l'anglais en premier, le français / l'allemand en second, et rapidement optionnels) et Isabelle Chassot (l'anglais oui, mais le français / l'allemand d'abord).
 

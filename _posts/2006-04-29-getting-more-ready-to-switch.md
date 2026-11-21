@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/macbook_pro_17_worth_it"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/macbookpro01a.png" alt="17-inch MacBook Pro" width="250" height="156" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/macbookpro01a.webp" alt="17-inch MacBook Pro" width="250" height="156" loading="lazy"></figure>
 
 Like many, I have been thinking about switching to MacOS X from Windows for a long time. Why? As much as I dislike Windows, it does the job and I have got used to most of its quirks. Most of all, it runs all the applications I need, for development and for fun. So really the major reason is a sort of disgust for the whole Windows user experience after all these years, and the fact that significant OS updates only occur every five years or so due to Microsoft's broken development methodologies and release strategies. Finally, I can't forgive Microsoft for what they did with IE, namely dropping the development of a broken browser for 5 years, causing headaches that we will still have to deal with for years. Switching to MacOS X would provide a novel user experience, more frequent software updates, and possibly a less evil company to deal with (something I have yet to be convinced of).
 

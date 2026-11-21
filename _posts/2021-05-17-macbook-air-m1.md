@@ -16,7 +16,7 @@ For travel this summer I will need a laptop. One of my kids has been using my "o
 
 So I ordered a MacBook Air M1 with 16 GB of RAM and 512 GB of storage. I would never have bought a MacBook Air in the past for tasks that include software development, due to the abysmal performance compared to other Apple machines. But the [M1-powered](https://en.wikipedia.org/wiki/Apple_M1) machines are different.
 
-![Rendering of the Apple M1](/assets/posts/macbook-air-m1/apple-m1-render.jpg){:standalone width="50%"}
+![Rendering of the Apple M1](/assets/posts/macbook-air-m1/apple-m1-render.webp){:standalone width="50%"}
 
 ## A first benchmark
 

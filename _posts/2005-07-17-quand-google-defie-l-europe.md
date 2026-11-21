@@ -13,7 +13,7 @@ redirect_from:
 - "/roller/page/ebruchez/quand_google_defie_l_europe"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/jeanneney-01a.jpg" alt="Quand Google défie l&#39;Europe" width="160" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/jeanneney-01a.webp" alt="Quand Google défie l&#39;Europe" width="160" height="250" loading="lazy"></figure>
 
 J'avais récemment commenté les faibles articles de Michael Gorman, président de l'Association des Bibliothécaires Américains, et à cette l'occasion fait une courte mention de Jean-Noël Jeanneney qui s'exprimait sur le projet de numérisation de Google. Pour en savoir plus sur l'opinion de M. Jeanneney, j'ai acquis son petit opuscule d'environ 110 pages, *Quand Google défie l'Europe*.
 

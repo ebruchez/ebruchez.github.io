@@ -20,7 +20,7 @@ archived_comments:
     et révoltant.'
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/astrology.jpg" alt="Astrology" width="250" height="195" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/astrology.webp" alt="Astrology" width="250" height="195" loading="lazy"></figure>
 
 On ne sait par où commencer pour décrire ce qui a mal tourné dans [l'émission Infrarouge de ce soir](http://infrarouge.tsr.ch/forum-197_4-astrologie-science-recreation.html), qui proposait un "débat" entre Jacques Neirynck (physicien et écrivain) et Elizabeth Teissier (astrologue):
 

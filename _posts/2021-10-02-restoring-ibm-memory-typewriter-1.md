@@ -10,13 +10,13 @@ category: Typewriters
 
 I previously [wrote about my IBM Memory Typewriter](../ibm-memory-typewriter/). In this post, I describe the initial troubleshooting and cleaning of the machine. I am also publishing the [second installment](../restoring-ibm-memory-typewriter-2/) at the same time. This is still a work in progress as of October 2021.
 
-![The machine before restoration](/assets/posts/ibm-memory-typewriter/2x/IMG_8113.jpg){:standalone}
+![The machine before restoration](/assets/posts/ibm-memory-typewriter/2x/IMG_8113.webp){:standalone}
 
 ## The covers
 
 The machine has "top" and "center" covers, as the service manual calls them. They have to be removed to access the inside of the machine. The covers were not fully closed when I got the machine. I don't know yet if they are missing screws or latches. But in any case the inside was filthy!
 
-![Not really pretty inside](/assets/posts/ibm-memory-typewriter/2x/IMG_8288.jpg){:standalone}
+![Not really pretty inside](/assets/posts/ibm-memory-typewriter/2x/IMG_8288.webp){:standalone}
 
 ## The tilt support
 
@@ -24,27 +24,27 @@ Unlike the regular Selectric, you don't take the machine fully out of the case t
 
 I wasn't sure how hard I should push up the body of the machine, or where to hold it while doing so. The machine weighs 57.8 lbs (26.2 kg) and the main body is a good part of that weight. I pushed slightly, then figured I needed to unscrew a metal part underneath (called the "retainer" in the manual) before putting the stand up and then screw again to secure the kickstand. This way you won't get your head or fingers crushed if it fails!
 
-![The "kickstand"](/assets/posts/ibm-memory-typewriter/2x/IMG_8292.jpg){:standalone}
+![The "kickstand"](/assets/posts/ibm-memory-typewriter/2x/IMG_8292.webp){:standalone}
 
 The process was harder than it should have been, because the left hinge was missing 2 screws. I found them at the bottom of the machine, but they didn't hold properly. I put a temporary fix in place so that the body would rest on the hinge.
 
-![The temporary screws to hold the hinge](/assets/posts/ibm-memory-typewriter/2x/IMG_9143.jpg){:standalone}
+![The temporary screws to hold the hinge](/assets/posts/ibm-memory-typewriter/2x/IMG_9143.webp){:standalone}
 
 ## Initial cleaning
 
 I scraped, brushed and vacuumed the disintegrated foam. I also moved the power supply to the side for easier cleaning. It was held in place with a single screw. Then I also used an air compressor to blow out dust.
 
-![Cleaning in progress](/assets/posts/ibm-memory-typewriter/2x/IMG_8293.jpg){:standalone}
+![Cleaning in progress](/assets/posts/ibm-memory-typewriter/2x/IMG_8293.webp){:standalone}
 
 The machine was in much better shape after these initial steps!
 
-![Much cleaner underneath](/assets/posts/ibm-memory-typewriter/2x/IMG_8315.jpg){:standalone}
+![Much cleaner underneath](/assets/posts/ibm-memory-typewriter/2x/IMG_8315.webp){:standalone}
 
 ## The power supply
 
 Before anything else, I wanted to test the power supply separately.
 
-![AC and DC connectors and fuses](/assets/posts/ibm-memory-typewriter/2x/IMG_8298.jpg){:standalone}
+![AC and DC connectors and fuses](/assets/posts/ibm-memory-typewriter/2x/IMG_8298.webp){:standalone}
 
 Thanks to the service manual, all the expected voltages are known. They are:
 
@@ -55,29 +55,29 @@ Thanks to the service manual, all the expected voltages are known. They are:
 - -5V for the tape loop
 - +8.5V
 
-![DC connector voltages](/assets/posts/ibm-memory-typewriter/2x/dc-power-connector.jpg){:standalone}
+![DC connector voltages](/assets/posts/ibm-memory-typewriter/2x/dc-power-connector.webp){:standalone}
 
 I disconnected the AC and DC connectors, then opened the power supply to clean it a little and blow compressed air. It was a little dirty but otherwise looking good. When I tested it, all the voltages checked!
 
 I also checked the AC connector on the AC motor, and it was good.
 
-![The AC voltage on the motor](/assets/posts/ibm-memory-typewriter/2x/IMG_8348.jpg){:standalone}
+![The AC voltage on the motor](/assets/posts/ibm-memory-typewriter/2x/IMG_8348.webp){:standalone}
 
 I later took better pictures of the power supply. The enclosure is made of some sort of plastic covered with a sort of gray (conductive?) crinkle paint.
 
-![The power supply](/assets/posts/ibm-memory-typewriter/2x/IMG_4571.jpg){:standalone}
+![The power supply](/assets/posts/ibm-memory-typewriter/2x/IMG_4571.webp){:standalone}
 
 This is the bottom of the PCB, with a clearly indicated separation between the high-voltage and low-voltage areas.
 
-![The power supply PCB](/assets/posts/ibm-memory-typewriter/2x/IMG_4578.jpg){:standalone}
+![The power supply PCB](/assets/posts/ibm-memory-typewriter/2x/IMG_4578.webp){:standalone}
 
 This power supply appears to be complex, and I suspect it contains some pretty custom IBM chips as well. This is probably due to the large number of different voltages required.
 
-![A complicated thing!](/assets/posts/ibm-memory-typewriter/2x/IMG_4589.jpg){:standalone}
+![A complicated thing!](/assets/posts/ibm-memory-typewriter/2x/IMG_4589.webp){:standalone}
 
 While taking pictures, I grabbed the power supply in the wrong way, and bent one of the transistors. I bent it back a little, and I hope this is not permanent damage, but I will check the voltages again before connecting power. Luckily, if it's just a transistor, there should be an available replacement in case there is a problem with it.
 
-![Transistor](/assets/posts/ibm-memory-typewriter/2x/IMG_4583.jpg){:standalone}
+![Transistor](/assets/posts/ibm-memory-typewriter/2x/IMG_4583.webp){:standalone}
 
 ## The AC motor
 
@@ -87,7 +87,7 @@ I acquired a hand cycle tool from Clark Hinson via eBay. These are newly-made ve
 
 The IBM Memory Typewriter has a built-in *extension* shaft to account for the wider size of the machine. This part was at the bottom of the machine when I found it, and someone online correctly pointed out its likely use.
 
-![The hand cycle tool and its extension](/assets/posts/ibm-memory-typewriter/2x/IMG_4591.jpg){:standalone}
+![The hand cycle tool and its extension](/assets/posts/ibm-memory-typewriter/2x/IMG_4591.webp){:standalone}
 
 You can't turn too hard or the tool will break, so I had to be careful. Rotating by hand didn't work at first. I applied mineral spirits on some parts that looked like they could be stuck. Still no progress. I also tried to help by trying to move other parts while using the hand cycle tool. Then I decided to power the machine on to get some help from the motor, while I used the hand cycle tool. And it worked! Things started to run reasonably smoothly!
 
@@ -103,23 +103,23 @@ As things started moving and turning, I pressed a key. And to my delight, I saw 
 
 While this might not be very complex logic, it meant that the planar was working to some degree, which was fantastic news!
 
-![The selection magnets](/assets/posts/ibm-memory-typewriter/2x/IMG_8371.jpg){:standalone}
+![The selection magnets](/assets/posts/ibm-memory-typewriter/2x/IMG_8371.webp){:standalone}
 
 However, after that, nothing would happen. The magnets would remain selected and that was it.
 
 What is supposed to happen is that the cycle clutch magnet is supposed to activate, which is supposed to get the machine to "cycle": that's the mechanical process whereby the cycle shaft turns and cause the type element to position itself to the right character, etc.
 
-![The clutch magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_8370.jpg){:standalone}
+![The clutch magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_8370.webp){:standalone}
 
 I took what was essentially a shot in the dark, and put two additional washers to adjust the distance of the plate that holds the cycle clutch magnet. And it worked! The cycle clutch started working fairly consistently!
 
-![Additional washer](/assets/posts/ibm-memory-typewriter/2x/IMG_4517.jpg){:standalone}
+![Additional washer](/assets/posts/ibm-memory-typewriter/2x/IMG_4517.webp){:standalone}
 
-![Additional washer and the cycle clutch magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_4518.jpg){:standalone}
+![Additional washer and the cycle clutch magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_4518.webp){:standalone}
 
 I thought at some point that this big orange resistor was dead, but apparently not. I suspect that it should eventually be replaced as it looks in bad shape. I established that it should probably be same as the tape loop resistor (which is marked 430 Ohms). I took it out, measured it, and it was 450 Ohms. Good guess! I suspect that it's a 5W part.
 
-![The LED resistor](/assets/posts/ibm-memory-typewriter/2x/IMG_8351.jpg){:standalone}
+![The LED resistor](/assets/posts/ibm-memory-typewriter/2x/IMG_8351.webp){:standalone}
 
 ## Some stuff works!
 
@@ -152,7 +152,7 @@ Once this was fixed, I was able to show that quite a bit of the machine was work
 
 Even the bell worked at the end of the line. And that bell, mind you, is entirely controlled by electronics!
 
-![The magnet-activated bell](/assets/posts/ibm-memory-typewriter/2x/IMG_8304.jpg){:standalone}
+![The magnet-activated bell](/assets/posts/ibm-memory-typewriter/2x/IMG_8304.webp){:standalone}
 
 ## Conclusion so far
 

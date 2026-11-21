@@ -13,7 +13,7 @@ redirect_from:
 - "/roller/page/ebruchez/surprising_but_not_as_good"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/the-man-in-the-high-castle-01a.jpg" alt="The Man in the High Castle" width="154" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/the-man-in-the-high-castle-01a.webp" alt="The Man in the High Castle" width="154" height="250" loading="lazy"></figure>
 
 This is a surprising opus. The action takes place in San Francisco in the 1960s. Japan and Germany won World War II twenty years earlier, and split the world between them. The two countries occupy each half of the United States. Germany has brought the final solution to an extreme in Africa. The few remaining Jews are prosecuted and have to hide even in the Japan-controlled Pacific States of America, where the *I Ching* (or *Book of Changes*) is used daily and referred to as *the oracle*. The Germans have the technological advantage: Lufthansa rockets connect the continents, and the conquest of space is well underway. This is the only aspect of *The Man in the High Castle* that could place it in the category of science-fiction.
 

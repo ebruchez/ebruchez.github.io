@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/finally_apple_releases_the_core"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/core2duo.png" alt="Intel Core 2 Duo" width="126" height="126" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/core2duo.webp" alt="Intel Core 2 Duo" width="126" height="126" loading="lazy"></figure>
 
 It certainly took Apple some time to upgrade its MacBook Pro, especially when you think that the CPU is a drop-in replacement for the original Core Duo. Dell and other manufacturers have been shipping Core 2 Duo machines for weeks. So what do we get for waiting besides the CPU? The answer seems to be "not that much, as expected, but it's not too bad":
 

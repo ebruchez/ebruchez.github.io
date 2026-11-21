@@ -20,7 +20,7 @@ This is part 1 of a series of posts about building an Apple-1 reproduction in 20
 
 The [Apple-1](https://en.wikipedia.org/wiki/Apple_I) doesn't need much of an introduction anymore: it is an iconic computer, the first made and sold by Apple (then the Apple Computer Company) for a short period of time of about a year beginning in 1976, until the extraordinarily successful Apple II was released. This first Apple-branded product, designed by Steve Wozniak and marketed (and partially assembled) by Steve Jobs, sold only about 175 units of 200 made. Although it was a very simple computer, one of its novelties was that it included electronics for the keyboard and video terminal on the same board.[^altair]
 
-![Restored Apple-1 "Schlumberger #2" (not mine!)](/assets/posts/apple1/2x/schlumberger-2-apple-1.jpg){:standalone}
+![Restored Apple-1 "Schlumberger #2" (not mine!)](/assets/posts/apple1/2x/schlumberger-2-apple-1.webp){:standalone}
 
 > "The  Apple-1 wasn't designed as a Wozniak computer: it was a Wozniak terminal for the Arpanet - modified into a computer a little, but not really designed as a computer." -Woz, 2023, on Steve-O's Wild Ride!
 
@@ -49,7 +49,7 @@ Lately, Apple-1 replica PCBs (printed circuit boards) have become more commoditi
 
 I learned after the fact that the PCB layout is based on public Gerber files, but carefully modified by Logan Greer to match the original Apple-1 PCB closely.
 
-![My Apple-1 Replica PCB](/assets/posts/apple1/2x/IMG_7095.jpg){:standalone}
+![My Apple-1 Replica PCB](/assets/posts/apple1/2x/IMG_7095.webp){:standalone}
 
 Indeed, as of 2024, it is both easier and harder than before to build a reproduction:
 
@@ -107,7 +107,7 @@ I have yet to add up the exact total cost, but I paid between $800 and $1,000 fo
 
 The Signetics 2519 is part of the terminal section of the Apple-1. Specifically, it buffers all the characters in the current line to be displayed. This is known as "row" or "line" memory. In fact, the data sheet for the 2519 lists this as the main application for the chip.
 
-![Signetics 2519 data sheet application](/assets/posts/apple1/2x/signetics2519-applications.jpg){:standalone}
+![Signetics 2519 data sheet application](/assets/posts/apple1/2x/signetics2519-applications.webp){:standalone}
 
 By modern standards, this is an extraordinarily simple chip. However, it has only a single source right now (and I think that this has been the case for a very long time). With shipping, that single chip would cost me $80. I decided that this was "too much". Luckily, smart people (Natas and Claudio AKA P-LAB) designed a replacement daughter board for the 2519. This won't be original, but it will work, and it doesn't stop me, should I ever get an original chip, to replace the daughter board with it:
 
@@ -117,11 +117,11 @@ By modern standards, this is an extraordinarily simple chip. However, it has onl
 
 I ordered 5 SMD and 5 through-hole PCBs for a grand total of $6 shipped!
 
-![Through-hole and SMT PCBs](/assets/posts/apple1/2x/IMG_0457.jpg){:standalone}
+![Through-hole and SMT PCBs](/assets/posts/apple1/2x/IMG_0457.webp){:standalone}
 
 But then I found that the more modern HEF4557 shift-register chips were not available in either package: the DIP format is obsolete, and the SOIC-16 is replaced with a SOIC-16 Wide package! Luckily, I found a batch of 10 Philips HEF4557BT chips on eBay. If for some reason that doesn't work I will have to order an updated version of the PCB for the SOIC-16 Wide footprint.[^HEF4557BT]
 
-![Philips HEF4557BT chips](/assets/posts/apple1/2x/IMG_0914.jpg){:standalone}
+![Philips HEF4557BT chips](/assets/posts/apple1/2x/IMG_0914.webp){:standalone}
 
 The reason I had also ordered through-hole boards is that I thought that would be much easier to solder, and I could have switched to the SMD version later.
 
@@ -133,7 +133,7 @@ Now why do we need 6 "modern" chips, while there was only on original? The 2519 
 - clock
 - recirculate
 
-![Signetics 2519 pinout](/assets/posts/apple1/2x/signetics2519-package.jpg){:standalone width="50%"}
+![Signetics 2519 pinout](/assets/posts/apple1/2x/signetics2519-package.webp){:standalone width="50%"}
 
 The replacement HEF4557BT is a slightly different beast, because its buffer size is configurable from 1 to 64 bits. This means that 6 of its pins are dedicated to this configuration. So we have:
 
@@ -148,33 +148,33 @@ The replacement HEF4557BT is a slightly different beast, because its buffer size
 
 Because this needs to replace a "hex" chip, six of those HEF4557BT are needed.
 
-![HEF4557BT pinout](/assets/posts/apple1/2x/HEF4557B-package.jpg){:standalone width="50%"}
+![HEF4557BT pinout](/assets/posts/apple1/2x/HEF4557B-package.webp){:standalone width="50%"}
 
 I had never soldered SMD components before, and I was a bit worried about it. I watched a few videos, and it turns out that it's not as impossible as it sounded initially. Of course, on YouTube, you will find people doing the craziest things. But I started by assembling [The Three Fives Kit from Evil Mad Scientist](https://shop.evilmadscientist.com/productsmenu/652): here you get to solder SMD resistors and transistors, and that was good practice, even though I am still a beginner at this.
 
 This said, I wasn't as successful with the SOIC-16 ICs, in my estimation: observing the result under a magnifying glass, I could see that the soldering was not perfect. I tried to improve it, but my confidence in the quality of the contacts remained low. It seemed that the joints were sometimes dry, often uneven, and that the ICs were a little too high, one is clearly not perfectly aligned, etc. I will have to test the board to see if it works properly. The good part is that since there are 6 bits in parallel, if I messed up one of the ICs (and therefore bits), and if I don't have bridges, others should work. Crossing fingers.
 
-[//]: # (![The soldered SOIC-16 chips]&#40;/assets/posts/apple1/2x/IMG_1277.jpg&#41;{:standalone})
+[//]: # (![The soldered SOIC-16 chips]&#40;/assets/posts/apple1/2x/IMG_1277.webp&#41;{:standalone})
 
-![2519 replacement board assembled, top](/assets/posts/apple1/2x/IMG_1352.jpg){:standalone}
+![2519 replacement board assembled, top](/assets/posts/apple1/2x/IMG_1352.webp){:standalone}
 
 This is the bottom of the board, which plugs into the IC sockets:
 
-![2519 replacement board assembled, bottom](/assets/posts/apple1/2x/IMG_1355.jpg){:standalone}
+![2519 replacement board assembled, bottom](/assets/posts/apple1/2x/IMG_1355.webp){:standalone}
 
 ### DRAM chips, shift-register chips and character ROM
 
 The Apple-1 features 8 KB of DRAM. I bought on eBay a set of 16 (but received 17, thank you!) Mostek MK4027N-4 chips, sold as tested.[^tested] These are 4096x1 chips.
 
-![DRAM chips](/assets/posts/apple1/2x/IMG_1008.jpg){:standalone}
+![DRAM chips](/assets/posts/apple1/2x/IMG_1008.webp){:standalone}
 
 From the same seller, I got a set of 7 Signetics 2504 chips and the 2513 character ROM, again sold as tested.[^tested]
 
-![Shift-register, character ROM, and clock chips](/assets/posts/apple1/2x/IMG_1001.jpg){:standalone}
+![Shift-register, character ROM, and clock chips](/assets/posts/apple1/2x/IMG_1001.webp){:standalone}
 
 Note that the character ROM must specifically have the CGR0001 code, which describes the content needed for the Apple-1.
 
-![The character ROM](/assets/posts/apple1/2x/IMG_1003.jpg){:standalone}
+![The character ROM](/assets/posts/apple1/2x/IMG_1003.webp){:standalone}
 
 All in all, the chips I got from that seller cost me about $200. This is as close as it gets to being an Apple-1 "IC kit": although it's a small subset of the total number of chips of the computer, it is also some of the hardest and most expensive to find.
 
@@ -182,7 +182,7 @@ All in all, the chips I got from that seller cost me about $200. This is as clos
 
 This two-phase clock chip I also bought on eBay, in a lot of 2, untested.[^tested]
 
-![DS0025CN](/assets/posts/apple1/2x/IMG_1006.jpg){:standalone}
+![DS0025CN](/assets/posts/apple1/2x/IMG_1006.webp){:standalone}
 
 ### 6820 (PIA) and 6502
 
@@ -198,7 +198,7 @@ Oh, and of course someone is selling on eBay a "Lot of 7 Rare MOS MPS 6520 PIA c
 
 I decided, for looks and fun, to order a CM602 from Bulgaria. I don't know if it works yet, as it was sold untested.[^tested]
 
-![CM602 chip from Bulgaria](/assets/posts/apple1/2x/IMG_1380.jpg){:standalone}
+![CM602 chip from Bulgaria](/assets/posts/apple1/2x/IMG_1380.webp){:standalone}
 
 I have since learned a little about the rise and fall of  Bulgaria's semiconductor during the communist era. See [The Unlikely Rise and Collapse of the Bulgarian Computer](https://www.youtube.com/watch?v=t-UVPw1c_So), in particular. According to the description of an eBay seller, this chip was "Made by DSO "Priborosroene Pravetz, Bulgaria", the same factory that produced the famous Pravetz Personal Computer (Bulgarian clones of Apple-II and IBM PC/XT) during the communist era."
 
@@ -208,7 +208,7 @@ You can easily find 6502 chips on eBay. This said, I also found a Synertek-brand
 
 I read that those 6520A and 6502A chips came from old Atari stock, witness the "CO" markings on the chips!
 
-![6502A and 6520A](/assets/posts/apple1/2x/IMG_1283.jpg){:standalone}
+![6502A and 6520A](/assets/posts/apple1/2x/IMG_1283.webp){:standalone}
 
 These two chips are very recognizable on the original Apple-1s, as they are the only 40-pin DIL chips, and sometimes they are in a ceramic package.
 
@@ -216,21 +216,21 @@ These two chips are very recognizable on the original Apple-1s, as they are the 
 
 PROM blanks, as well as Apple-1-programmed PROMs, are now unobtainium, although I recently (August 2024) heard about a provider. But we can use a small daughter board made by P-LAB to use a more "modern" EPROM. However, I found that UV EPROMs are no longer current tech. They are not sold online at Mouser or DigiKey, for example. But I bought a 27C64 at Anchor (AMD-branded),[^eproms] and I will have to program it. In the future, something using an EEPROM or modern Flash could be designed.
 
-![27C64 EPROM](/assets/posts/apple1/2x/IMG_1285.jpg){:standalone}
+![27C64 EPROM](/assets/posts/apple1/2x/IMG_1285.webp){:standalone}
 
 I decided to make that daughter board black, for a change:
 
-![EPROM daughter board](/assets/posts/apple1/2x/IMG_1288.jpg){:standalone}
+![EPROM daughter board](/assets/posts/apple1/2x/IMG_1288.webp){:standalone}
 
 Could I do the two daughter boards, as well as the possible riser card, black? That might look cool. There is "logic" too: the chips they replace are black, so it would be a nod to that.
 
 Here is the assembled board:
 
-![EPROM daughter board assembled](/assets/posts/apple1/2x/IMG_1375.jpg){:standalone}
+![EPROM daughter board assembled](/assets/posts/apple1/2x/IMG_1375.webp){:standalone}
 
 I also assembled a riser card, just in case:
 
-![Riser card assembled](/assets/posts/apple1/2x/IMG_1390.jpg){:standalone}
+![Riser card assembled](/assets/posts/apple1/2x/IMG_1390.webp){:standalone}
 
 It is still missing the termination resistors, which I may or may not have to install.
 
@@ -238,7 +238,7 @@ It is still missing the termination resistors, which I may or may not have to in
 
 I bought the large LM323K power supply transistor on eBay.
 
-![Power supply transistor](/assets/posts/apple1/2x/IMG_0998.jpg){:standalone}
+![Power supply transistor](/assets/posts/apple1/2x/IMG_0998.webp){:standalone}
 
 ### 7400-series chips
 
@@ -272,7 +272,7 @@ I found out about Unicorn Electronics in the Apple Fritter forums and one of the
 | 50V 1A Silicon Rectifier                    | 1N4001    | 5   | $0.50      |
 | **Total**                                   |           |     | **$62.90** |
 
-![Chips from the Unicorn Electronics order](/assets/posts/apple1/2x/IMG_1088.jpg){:standalone}
+![Chips from the Unicorn Electronics order](/assets/posts/apple1/2x/IMG_1088.webp){:standalone}
 
 I found out that locally for me, Anchor Electronics in Santa Clara still has some of those chips as well.[^74series]
 
@@ -280,23 +280,23 @@ I found out that locally for me, Anchor Electronics in Santa Clara still has som
 
 The transformers are also iconic parts of the Apple-1. The original ones were of the Triad or Stancor brand as recommended by Apple. The Stancor ones are harder to find, but the Triad ones are still available. I bought them on Mouser, alongside the Sprague capacitors, extension connector, power transistor radiator, and other smaller items. All in all, each of the large parts cost about $20 a piece, for a total of about $100 just there.
 
-![Transformers, capacitors, and more](/assets/posts/apple1/2x/IMG_1230.jpg){:standalone}
+![Transformers, capacitors, and more](/assets/posts/apple1/2x/IMG_1230.webp){:standalone}
 
 ### IC sockets
 
 By almost universal agreement, the old-style 1970s sockets were not great. In fact, I saw this first hand when fixing my [TVI-912 terminal](../televideo-912-terminal-3/). New machined sockets are better but look definitely different from the original ones. From what I see online, many Apple-1 reproductions use machined sockets and I will be in good company. But they are not cheap: I spent between $60 and $80 for the set. That's right, just the sockets!
 
-![IC sockets](/assets/posts/apple1/2x/IMG_8590.jpg){:standalone}
+![IC sockets](/assets/posts/apple1/2x/IMG_8590.webp){:standalone}
 
 ### Resistors, capacitors, and diodes
 
 It doesn't make a difference for functionality, but passive components are also part of the look of the Apple-1. I bought some disc capacitors (Unicorn), some carbon composition resistors of the Allen Bradley brand, and the A14F sinterglass diodes (eBay).
 
-![Allen Bradley resistors](/assets/posts/apple1/2x/IMG_0996.jpg){:standalone}
+![Allen Bradley resistors](/assets/posts/apple1/2x/IMG_0996.webp){:standalone}
 
 The diodes came in a pack of 50, so I will have plenty of spares. I will probably sell back most of them. I hope that they work.
 
-![Sinterglass diodes](/assets/posts/apple1/2x/IMG_1305.jpg){:standalone}
+![Sinterglass diodes](/assets/posts/apple1/2x/IMG_1305.webp){:standalone}
 
 ## EPROM programming
 
@@ -304,7 +304,7 @@ When I was 19, I dreamt of having an EPROM programmer to complete a custom Z80 b
 
 But the Apple-1 either needs a PROM programmer if you can find PROM Blanks or, as is my case with the EPROM daughter board, a good old UV EPROM programmer. I did some research, got some advice, and ordered a cheap UV EPROM eraser and an "XGecu T48" programmer.
 
-![EPROM eraser and programmer](/assets/posts/apple1/2x/IMG_1591.jpg){:standalone}
+![EPROM eraser and programmer](/assets/posts/apple1/2x/IMG_1591.webp){:standalone}
 
 Open source software available for this programmer has just recently been made available using the `minipro` command. I had to compile the source code locally, as follows:
 
@@ -321,13 +321,13 @@ I programmed the EPROM with the following command-line:
 minipro -p AM27C64@DIP28 -w wozmon-for-27c64-28c64-250-ns-or-better.bin
 ```
 
-![Wozmon programmed and installed](/assets/posts/apple1/2x/IMG_1593.jpg){:standalone}
+![Wozmon programmed and installed](/assets/posts/apple1/2x/IMG_1593.webp){:standalone}
 
 ## Monitor
 
 In April 2024, I found something that should work: an Hitachi monitor. There is a crack in the front plastic, but it's not too bad. I hope that it will work: although I haven't tested it yet, the tube appears ok and the beam briefly travels through the screen when turning it off.
 
-![Hitachi monitor](/assets/posts/apple1/2x/IMG_3792.jpg){:standalone}
+![Hitachi monitor](/assets/posts/apple1/2x/IMG_3792.webp){:standalone}
 
 ## Conclusion of part 1
 

@@ -11,7 +11,7 @@ redirect_from:
 - "/roller/page/ebruchez/aap_google_print_and_new"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/luddites.png" alt="Machine-Breakers" width="250" height="232" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/luddites.webp" alt="Machine-Breakers" width="250" height="232" loading="lazy"></figure>
 
 **NOTE:** This blog entry is also available [in English](/posts/aap-google-print-and-the-new-luddites/).
 

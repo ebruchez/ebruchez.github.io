@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/the_swiss_military_tax"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/army01a.jpg" alt="William Tell" width="186" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/army01a.webp" alt="William Tell" width="186" height="250" loading="lazy"></figure>
 
 The [Swiss army](http://en.wikipedia.org/wiki/Swiss_army) is a funny thing. Well, that's a way of speaking, of course. Switzerland, in spite of being a small country (about 7.5 million people at the time of writing), and neutral since the 17th century, has a long military tradition. Swiss children learn in school of the legendary [William Tell](http://en.wikipedia.org/wiki/Wilhelm_Tell), and of how young kids were trained to fight since an early age. The Swiss kicked the Habsburg out in 1315 and became an independent country, fought off the French and the Italians as well, until they got our own ass kicked by the French in Marignan in 1515. They have a long tradition of working as mercenaries as well. And finally, everybody knows about the [Swiss Guards of the Vatican](http://en.wikipedia.org/wiki/Swiss_Guard), who have been in this role from 1506 to the current days.
 

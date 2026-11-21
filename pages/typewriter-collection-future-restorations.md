@@ -6,7 +6,7 @@ comments: true
 
 # Typewriter Collection: Future Restorations
 
-![Disassembled Caligraph 2 from 1893](/assets/pages/typewriter-future-restorations/caligraph-2-knolling.jpg){:standalone width="50%"}
+![Disassembled Caligraph 2 from 1893](/assets/pages/typewriter-future-restorations/caligraph-2-knolling.webp){:standalone width="50%"}
 
 ## Introduction
 
@@ -21,11 +21,11 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 <div class="tw-table">
 
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_5309.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_5309.webp"/>
     <figcaption>1885 - This early Remington 2 with serial 9497 is my oldest typewriter. It will need a solid restoration. I already have most of the missing parts.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_5423.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_5423.webp"/>
     <figcaption>Ca. 1893 - This Caligraph requires a full restoration, including repainting, replating, an pinstripes. I have a parts machine as well.
     <br>
     <a href="https://photos.app.goo.gl/Yu1Sm1firevxqwoE7">Before</a>
@@ -38,19 +38,19 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_2872.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_2872.webp"/>
     <figcaption>1890s - This Smith Premier 1 should look beautiful once restored, however, its paint is in challenging condition. I have some replacement parts.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4342.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4342.webp"/>
     <figcaption>1894-1896 - This Densmore 1 requires a full restoration, including repainting and replating. The only good news: this machine doesn't need pinstripes.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_9110.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_9110.webp"/>
     <figcaption>1896 - This is a very early Remington 7 with tabulator (presumably Gorin) with serial 3397. It has a broken key and a missing tabulator plaque in the back, but otherwise is in great condition.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4435.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4435.webp"/>
     <figcaption>1899 - This Densmore 4 is in quite good condition and only needs some conservative cleaning and restoration. It is the most expensive typewriter I have ever bought.</figcaption>
 </figure>
 
@@ -61,63 +61,63 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 <div class="tw-table">
 
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_3052.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_3052.webp"/>
     <figcaption>1910 - This Royal Standard is in good shape and only needs some cleaning and minor restoration.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_3019.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_3019.webp"/>
     <figcaption>1913 - This Royal 6 is in good shape and only needs some cleaning and minor restoration.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_9076.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_9076.webp"/>
     <figcaption>1914 - This rare Royal 8 is in good shape and only needs some cleaning and minor restoration. Very few Royal 8s are known to exist.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4492.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4492.webp"/>
     <figcaption>1907 - This Smith Premier 5 features a Gorin tabulator. It has broken parts, missing carriage bearings, and needs serious restoration, but otherwise looks quite good.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_1510.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_1510.webp"/>
     <figcaption>1907 - This second Remington 7 with Gorin tabulator is in great condition.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_9152.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_9152.webp"/>
     <figcaption>1910 - This Remington 10 with serial 99001 should look great once cleaned.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4898.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4898.webp"/>
     <figcaption>1910s - This Hammond 12 is in good shape but has some broken parts. I have replacement parts for the bell and front bar, but not yet for the spools.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_5625.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_5625.webp"/>
     <figcaption>1916 - This beautiful Royal 10 has double windows, pinstripes, and apothecary keys. It should look amazing once done.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_2049.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_2049.webp"/>
     <figcaption>1917 - This rare Courier was made in Europe, based on the Oliver 3.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_7931.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_7931.webp"/>
     <figcaption>1917 - This other Remington 10 has potential. I had some parts replated to fix it.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4480.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4480.webp"/>
     <figcaption>1919 - This Oliver 9 is in excellent condition, missing spool covers, but with the pencil holder. It probably only needs minor work.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4440.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4440.webp"/>
     <figcaption>1921 - This Oliver 9 is in very good condition, including spool covers, but missing the pencil holder. It probably only needs minor work.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_5592.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_5592.webp"/>
     <figcaption>1920s - This Remington Vertical Adder Model-21 needs moderate restoration. It includes two totalizers.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_7771.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_7771.webp"/>
     <figcaption>1920s - This massive Remington Bookkeeping Machine Model-23 is one of the heaviest machines I own.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_9971.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_9971.webp"/>
     <figcaption>1930s - This beautiful electric Varityper shouldn't need much work. It has smooth paint. It needs fixing its return lever.</figcaption>
 </figure>
 
@@ -128,27 +128,27 @@ Among them are a couple of rare machines, as well as several uncommon ones. Ther
 <div class="tw-table">
 
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_8964.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_8964.webp"/>
     <figcaption>1902 - This Blickensderfer 7 needs serious restoration. I have a parts machine to help.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4297.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4297.webp"/>
     <figcaption>1928 - This black Underwood 4-bank portable has beautiful black paint.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_8523.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_8523.webp"/>
     <figcaption>1929 - This duotone blue Royal P should look wonderful after cleaning and fixing the back decal.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4851.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4851.webp"/>
     <figcaption>1930 - This green Underwood 4-bank portable will look good given its color.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4317.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4317.webp"/>
     <figcaption>1930 - This Remington 3 already looks great. Only minor cleaning should be needed.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4563.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4563.webp"/>
     <figcaption>1930s - This Torpedo 12 will be a stunner.</figcaption>
 </figure>
 

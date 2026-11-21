@@ -13,7 +13,7 @@ redirect_from:
 - "/books/review/500064"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/immortal01a.jpg" alt="The Immortal Cell" width="161" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/immortal01a.webp" alt="The Immortal Cell" width="161" height="250" loading="lazy"></figure>
 
 In *The Immortal Cell*, Michael D. West tells about his lifelong search for solutions to aging and age-related illnesses.
 

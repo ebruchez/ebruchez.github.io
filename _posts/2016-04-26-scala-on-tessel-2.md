@@ -15,7 +15,7 @@ redirect_from:
   - /2016/04/scala-on-tessel-2.html
 disqus_identifier: eriks_ponderings_scala_on_tessel_2
 ---
-![Tessel 2 and its relay module](/assets/posts/scala-on-tessel-2/2x/tessel2.jpg){:standalone}
+![Tessel 2 and its relay module](/assets/posts/scala-on-tessel-2/2x/tessel2.webp){:standalone}
 
 ## What is Tessel 2?
 
@@ -85,7 +85,7 @@ Notice how I can call Tessel APIs from Scala without much ado.[^ado] When used t
 
 But a major reason to use Scala instead of JavaScript is to get help from *types*. So after that initial attempt I wrote some minimal [facades](https://www.scala-js.org/doc/interoperability/facade-types.html)[^typescript] for the Tessel and Node APIs I needed. Facades expose typed APIs to Scala, which allows the compiler to check that you are calling the APIs properly, and also gives your text editor a chance to provide autocompletion and suggestions. You can see this in action in [IntelliJ](https://www.jetbrains.com/idea/):
 
-![Code completion in IntelliJ](/assets/posts/scala-on-tessel-2/2x/suggestion.png){:standalone}
+![Code completion in IntelliJ](/assets/posts/scala-on-tessel-2/2x/suggestion.webp){:standalone}
 
 Here are the minimal facades I have so far:
 

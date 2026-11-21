@@ -11,7 +11,7 @@ category: Technology
 
 Recently, I started feeling that the touch of our 15-year-old Yamaha Clavinova CLP-280 in the mid-range was different: the responsiveness of the keys was not good anymore, and different from the lower and higher ranges. In addition, a couple of keys occasionally made a clacking sound.
 
-![The Yamaha Clavinova CLP-280](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0273.jpg){:standalone}
+![The Yamaha Clavinova CLP-280](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0273.webp){:standalone}
 
 Given what I know about the CLP-280, I figured that there might be two different things at play:
 
@@ -28,36 +28,36 @@ I got a full set of membranes, as there are three different lengths:
 - 6 × 12-key membranes in the middle (VCZ74300/VCZ7430)
 - 1 × 11-key membrane to the right side of the keyboard (VCZ74500/VCZ7450)
 
-![5-key membrane](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0251.jpg){:standalone}
+![5-key membrane](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0251.webp){:standalone}
 
-![12-key membranes](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0259.jpg){:standalone}
+![12-key membranes](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0259.webp){:standalone}
 
-![11-key membrane](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0254.jpg){:standalone}
+![11-key membrane](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0254.webp){:standalone}
 
 The felt is called "stopper" or "upstop felt" (V8468201).
 
-![Label of the felt package](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0271.jpg){:standalone}
+![Label of the felt package](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0271.webp){:standalone}
 
 ## The repair
 
 Like last time, I started by opening the top of the piano by removing the 3 screws in the back and removing the top cover. I could see the problem immediately: the felt had detached in the middle portion of the keyboard! Well, in retrospect, I should have done that step first!
 
-![Inside of the piano](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0218.jpg){:standalone}
+![Inside of the piano](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0218.webp){:standalone}
 
 The next step was to remove the keyboard from the piano, as I did last year. This is neither hard nor risky, although it is a little time-consuming.
 
-![The piano without its keyboard](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0234.jpg){:standalone}
+![The piano without its keyboard](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0234.webp){:standalone}
 
 In this picture you can see where the felt detached from the rest of the keyboard.
 
-![Wavy felt](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0243.jpg){:standalone}
+![Wavy felt](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0243.webp){:standalone}
 
 The first task was to remove the old felt entirely. I didn't think it was reasonable to try to glue it back, as one layer clearly had outlasted its life. The film with the glue was a little hard to remove from the plastic of the keyboard in places, but I used:
 
 - a plastic razor blade scraper to remove the parts that stuck
 - a hair dryer to soften the glue in the rest of the felt
 
-![Plastic scraper](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0245.jpg){:standalone}
+![Plastic scraper](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0245.webp){:standalone}
 
 This went very smoothly.
 
@@ -65,7 +65,7 @@ I then proceeded to remove the 3 PCBs (printed circuit boards) that are attached
 
 Putting them back is a little tricky, as you want them to fit perfectly in the slots in the keyboard before placing the PCBs on top of them and screwing them back, perfectly aligned. For this, I used the same method I did last time: I put the keyboard quasi vertically on its side, which let me position the membranes in place so they don't fall, and then putting the PCBs back.
 
-![Membranes installation](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0262.jpg){:standalone}
+![Membranes installation](/assets/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/2x/IMG_0262.webp){:standalone}
 
 I installed the felt without any problem. The glue was quite strong, to the point that if touches the plastic it might be almost impossible to get it out without damage. So proceed carefully!
 

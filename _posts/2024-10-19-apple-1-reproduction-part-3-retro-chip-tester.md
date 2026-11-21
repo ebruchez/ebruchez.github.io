@@ -16,7 +16,7 @@ This is part 3 of a series of posts about building an Apple-1 reproduction in 20
 - [Building an Apple-1 Reproduction in 2024/2025 - Part 6: C Programming](../apple-1-reproduction-part-6-c-programming/)
 - [Building an Apple-1 Reproduction in 2024/2025 - Part 7: The Audio Cassette Adapter](../apple-1-reproduction-part-7-audio-cassette-adapter/)
 
-![Assembled and working Retro Chip Tester Pro](/assets/posts/retro-chip-tester/2x/IMG_8289b.jpg){:standalone width="75%"}
+![Assembled and working Retro Chip Tester Pro](/assets/posts/retro-chip-tester/2x/IMG_8289b.webp){:standalone width="75%"}
 
 ## Introduction
 
@@ -72,15 +72,15 @@ As you can see, there is quite good coverage.
 
 I got in touch with Stephan about ordering. I paid EUR 108 (about USD 118) total for the main PCB and the DC-DC module (EUR 68), the soldered and programmed microcontroller (EUR 12), and shipping (EUR 28). Transit of the package to the US took weeks, but I was not in a hurry. The items arrived safely. They came in a nice box. 
 
-![RTC box](/assets/posts/retro-chip-tester/2x/IMG_1681.jpg){:standalone}
+![RTC box](/assets/posts/retro-chip-tester/2x/IMG_1681.webp){:standalone}
 
 The PCBs are nicely packed inside:
 
-![RTC box inside](/assets/posts/retro-chip-tester/2x/IMG_1682.jpg){:standalone}
+![RTC box inside](/assets/posts/retro-chip-tester/2x/IMG_1682.webp){:standalone}
 
 Here is why I bought the soldered and programmed microcontroller: I am not confident that I could solder something that small.
 
-![The microcontroller](/assets/posts/retro-chip-tester/2x/IMG_1685.jpg){:standalone}
+![The microcontroller](/assets/posts/retro-chip-tester/2x/IMG_1685.webp){:standalone}
 
 In the meanwhile, I looked at procuring the rest of the components for the board. There are PDF files detailing the BOM, options for some of the parts, what to watch for, etc. I started with a pre-configured DigiKey cart, and double-checked it and added to it.
 
@@ -91,7 +91,7 @@ In addition to items that you can get from online electronics stores like DigiKe
 
 I got these from AliExpress. You have a choice for the LCD, as it is a standard two-line display, and you could even get an OLED version, but for a large premium. I went with a yellow LCD, which, I thought, looked cool.
 
-![Standoffs and LCD](/assets/posts/retro-chip-tester/2x/IMG_1720.jpg){:standalone}
+![Standoffs and LCD](/assets/posts/retro-chip-tester/2x/IMG_1720.webp){:standalone}
 
 I had ordered the extra power module board, which I might not really need immediately. It provides regulated 5 V, -5 V, and 12 V (but no -12 V).
 
@@ -114,17 +114,17 @@ Here is my total cost for the RTC:
 
 One thing that Stephan recommends is to test the Zener diodes. I made a simple test setup using my regulated power supply (not shown here, and neither is the multimeter).
 
-![Zener diode test setup](/assets/posts/retro-chip-tester/2x/IMG_8027.jpg){:standalone}
+![Zener diode test setup](/assets/posts/retro-chip-tester/2x/IMG_8027.webp){:standalone}
 
 Unfortunately, the values were all a little off compared to what the instructions recommend. I asked Stephan about it and he said it should be fine, but still pointed to a set of Zeners that work for him. I ordered those from Amazon, and they were spot on. So I used the new Zeners.
 
 I followed the build instructions and I soldered the low-profile components first, including the Zeners and resistors.
 
-![First low-profile components soldered](/assets/posts/retro-chip-tester/2x/IMG_8226.jpg){:standalone}
+![First low-profile components soldered](/assets/posts/retro-chip-tester/2x/IMG_8226.webp){:standalone}
 
 You then solder the IC socket, transistors, relays, and the rest of the components. Soldering by height is just a matter of convenience: it just makes it easier to solder. 
 
-![More components soldered](/assets/posts/retro-chip-tester/2x/IMG_8266.jpg){:standalone}
+![More components soldered](/assets/posts/retro-chip-tester/2x/IMG_8266.webp){:standalone}
 
 I then soldered the power module, put the LCD headers in place, the spacers, and I was done!
 
@@ -134,7 +134,7 @@ I built a somewhat maximalist build, with the power module, and all the ways to 
 
 I plugged the RTC for the first time, plugged a chip in, and it worked right away! Here I am testing a 7400 chip.
 
-![Assembled and working Retro Chip Tester Pro](/assets/posts/retro-chip-tester/2x/IMG_8288.jpg){:standalone}
+![Assembled and working Retro Chip Tester Pro](/assets/posts/retro-chip-tester/2x/IMG_8288.webp){:standalone}
 
 The UI is pretty easy to use. You have to use the switches to navigate the menu. The only issue is navigating in large series of chips, like the 74xx series. You can hold the button and it will start jumping by 10s, which helps. It's not a big problem, and you get used to it.
 
@@ -142,13 +142,13 @@ I like that there is a buzzer indicating success or failure. It's a nice touch. 
 
 I was able to test the chips, listed above, that I had bought for the Apple-1, and they all passed, including the Mostek MK4027N-4 DRAMs.
 
-![Testing a DRAM chip](/assets/posts/retro-chip-tester/2x/IMG_9466.jpg){:standalone}
+![Testing a DRAM chip](/assets/posts/retro-chip-tester/2x/IMG_9466.webp){:standalone}
 
 Since my original orders of components for the Apple-1, I stumbled onto two fairly large sets of 74xx series chips.
 
-![Set of 74xx series chips](/assets/posts/retro-chip-tester/2x/IMG_3807.jpg){:standalone}
+![Set of 74xx series chips](/assets/posts/retro-chip-tester/2x/IMG_3807.webp){:standalone}
 
-![Another set of 74xx series chips](/assets/posts/retro-chip-tester/2x/IMG_3810.jpg){:standalone}
+![Another set of 74xx series chips](/assets/posts/retro-chip-tester/2x/IMG_3810.webp){:standalone}
 
 So of course I started testing those chips. As of October 2024, I am not entirely done, but only a small subset so far showed as failing. I only encountered an issue so far with two types of chips:
 

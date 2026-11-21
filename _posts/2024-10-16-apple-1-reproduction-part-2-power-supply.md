@@ -16,7 +16,7 @@ This is part 2 of a series of posts about building an Apple-1 reproduction in 20
 - [Building an Apple-1 Reproduction in 2024/2025 - Part 6: C Programming](../apple-1-reproduction-part-6-c-programming/)
 - [Building an Apple-1 Reproduction in 2024/2025 - Part 7: The Audio Cassette Adapter](../apple-1-reproduction-part-7-audio-cassette-adapter/)
 
-![The completed Apple-1 power supply](/assets/posts/apple1/2x/IMG_0119.jpg){:standalone width="75%"}
+![The completed Apple-1 power supply](/assets/posts/apple1/2x/IMG_0119.webp){:standalone width="75%"}
 
 ## Introduction
 
@@ -27,7 +27,7 @@ Every computer needs a power supply. On the Apple-1, it is split into two parts:
 
 You can see these two parts represented in the following schematics:
 
-![Apple-1 power supply schematics](/assets/posts/apple1/2x/apple-1-power-supply-schematics.jpg){:standalone}
+![Apple-1 power supply schematics](/assets/posts/apple1/2x/apple-1-power-supply-schematics.webp){:standalone}
 
 *Credit: Apple-1 schematics redrawn by Armin Hierstetter, colorized by myself.*
 
@@ -35,7 +35,7 @@ The main board features a 6-pin Molex connector, identified by `J1`, to which th
 
 On many original Apple-1s, you can see the two transformers in the open, simply mounted on a separate wooden base. There are even some iconic photos of Steve Wozniak and Steve Jobs with the Apple-1, where you can see the transformers on such a base.
 
-![Woz and Steve Jobs with the Apple-1](/assets/posts/apple1/2x/woz-jobs-apple1.jpg){:standalone width="75%"}
+![Woz and Steve Jobs with the Apple-1](/assets/posts/apple1/2x/woz-jobs-apple1.webp){:standalone width="75%"}
 
 ## Modern approaches
 
@@ -53,7 +53,7 @@ I have to recognize that the transformers on a wooden board have some appeal! Bu
 
 I came across those inexpensive but fairly pretty blue metal (with white plastic parts) cases. The case has front and back panels, a removable top panel, vents on the left and right side, and rubber feet. This one was $12.44 shipped from AliExpress. Note that while it comes with the screws to attach the top panel, it doesn't come with screws to attach the front and back panel and you have to provide those yourself.
 
-![The blue case from marketing material](/assets/posts/apple1/2x/blue-box.jpg){:standalone}
+![The blue case from marketing material](/assets/posts/apple1/2x/blue-box.webp){:standalone}
 
 My plan was to mount my transformers inside, but also to use the opportunity to include some enhancements sometimes recommended by the Apple-1 community:
 
@@ -73,21 +73,21 @@ As mentioned in [Part 1](../apple-1-reproduction-part-1-components/), I obtained
 
 These are brand new, made in Philadelphia (the stickers say "Made in PHL").
 
-![Transformers and other items from Mouser](/assets/posts/apple1/2x/IMG_1230.jpg){:standalone}
+![Transformers and other items from Mouser](/assets/posts/apple1/2x/IMG_1230.webp){:standalone}
 
  The original Apple-1 manual actually recommends Stancor or Triad transformers, so this is as good as it gets.
 
-![Transformer requirements from the Apple-1 manual](/assets/posts/apple1/2x/power-supplies-requirements.jpg){:standalone}
+![Transformer requirements from the Apple-1 manual](/assets/posts/apple1/2x/power-supplies-requirements.webp){:standalone}
 
 ## Design and prototyping
 
 I started with a very crud wiring diagram, which I barely dare show here.
 
-![Wiring diagram](/assets/posts/apple1/2x/psu-wiring-diagram.jpg){:standalone width="75%"}
+![Wiring diagram](/assets/posts/apple1/2x/psu-wiring-diagram.webp){:standalone width="75%"}
 
 Then I prototyped the panels in cardboard, to make sure each component would have enough clearance. Here is a view of the back with the power entry, fuse holders, and power output connector.
 
-![Cardboard prototype](/assets/posts/apple1/2x/IMG_8011.jpg){:standalone}
+![Cardboard prototype](/assets/posts/apple1/2x/IMG_8011.webp){:standalone}
 
 I planned to use DIN connectors for the output:
 
@@ -98,7 +98,7 @@ The pinout would be entirely custom. Even though the Apple-1 schematics show a 6
 
 I made sure the transformers and other parts would fit without problems. I placed the transformers sideways to optimize the space.
 
-![Fitting the transformers](/assets/posts/apple1/2x/IMG_8016.jpg){:standalone}
+![Fitting the transformers](/assets/posts/apple1/2x/IMG_8016.webp){:standalone}
 
 ## Front panel
 
@@ -112,23 +112,23 @@ I wanted to have LED indicators for the transformer secondaries. For this, you n
 
 *The LED is connected to AC so there is a reverse voltage half of the time up to about __10 V__ or __13 V__. The datasheet for standard LEDs mention a max reverse voltage supported of __5 V__, so without doing anything more we would be exceeding that spec. Using a signal diode, we protect the LED against such excessive reverse voltage. A 1N4148 for example support around 100 V reverse voltage, so it will block in the reverse direction without any problem. I imagine that in practice, an LED might support a higher reverse voltage than 5 V, and things might still work without an extra diode, but based on the datasheet values, extra protection for the LED is warranted.*
 
-![LED indicator prototype](/assets/posts/apple1/2x/IMG_8037.jpg){:standalone}
+![LED indicator prototype](/assets/posts/apple1/2x/IMG_8037.webp){:standalone}
 
 After drilling holes for the LEDs, I mounted them on the front panel with holders. I soldered the resistors and diodes directly on the LED pins.
 
-![LED indicators](/assets/posts/apple1/2x/IMG_8053.jpg){:standalone}
+![LED indicators](/assets/posts/apple1/2x/IMG_8053.webp){:standalone}
 
 I used heat shrink tubing to protect the connections.
 
-![Heat shrink tubing](/assets/posts/apple1/2x/IMG_8060.jpg){:standalone}
+![Heat shrink tubing](/assets/posts/apple1/2x/IMG_8060.webp){:standalone}
 
 Here I am testing that the LEDs work.
 
-![Testing the LEDs](/assets/posts/apple1/2x/IMG_8072.jpg){:standalone}
+![Testing the LEDs](/assets/posts/apple1/2x/IMG_8072.webp){:standalone}
 
 Here is the result from the front after screwing the front panel.
 
-![Front panel](/assets/posts/apple1/2x/IMG_8185.jpg){:standalone}
+![Front panel](/assets/posts/apple1/2x/IMG_8185.webp){:standalone}
 
 ## Back panel
 
@@ -141,43 +141,43 @@ For space reasons I had to use the small and common 20 mm × 5 mm fuses, as well
 
 I drilled/cut/filed the metal for the back panel. This was a pain as I don't have a drill press or a good metal saw. So I used a hand drill, Dremel, and a file. But it worked out.
 
-![Back panel with components](/assets/posts/apple1/2x/IMG_8073.jpg){:standalone}
+![Back panel with components](/assets/posts/apple1/2x/IMG_8073.webp){:standalone}
 
 I then worked on the female DIN connector, but I had trouble with the specific one I had bought. It was too cheaply made and I didn't trust the connections. Still, I tried soldering wires to it. 
 
-![DIN connector](/assets/posts/apple1/2x/IMG_8085.jpg){:standalone}
+![DIN connector](/assets/posts/apple1/2x/IMG_8085.webp){:standalone}
 
 However, I decided to abandon this specific connector and to have the cable go out of the case without a connector, just through a grommet, as a temporary solution.
 
 I assembled the Molex connector easily. The metal parts (["SPOX Crimp Terminal, 18-24 AWG, Brass, Reel"](https://www.mouser.com/ProductDetail/538-08-70-1031-CT)) need to be cut from a roll.
 
-![Molex connector parts](/assets/posts/apple1/2x/IMG_8087.jpg){:standalone}
+![Molex connector parts](/assets/posts/apple1/2x/IMG_8087.webp){:standalone}
 
 Here are the cut parts.
 
-![Molex connector parts cut](/assets/posts/apple1/2x/IMG_8092.jpg){:standalone}
+![Molex connector parts cut](/assets/posts/apple1/2x/IMG_8092.webp){:standalone}
 
 While I crimped them with small pliers, I also soldered the wires (I realize that there is possible debate about that).
 
-![Molex connector crimped and soldered](/assets/posts/apple1/2x/IMG_8095.jpg){:standalone}
+![Molex connector crimped and soldered](/assets/posts/apple1/2x/IMG_8095.webp){:standalone}
 
 Here is the female connector (["3.96mm Pitch SPOX Crimp Housing, Female, with Friction Ramp, 6 Circuits, Natural"](https://www.mouser.com/ProductDetail/538-09-50-1061)) with its six wires installed.
 
 _NOTE: I later removed wire #5, see further below._
 
-![Molex connector with wires](/assets/posts/apple1/2x/IMG_8097.jpg){:standalone}
+![Molex connector with wires](/assets/posts/apple1/2x/IMG_8097.webp){:standalone}
 
 I then used a sleeve and heat shrink tubing over the end:
 
-![Finished connector](/assets/posts/apple1/2x/IMG_8196.jpg){:standalone}
+![Finished connector](/assets/posts/apple1/2x/IMG_8196.webp){:standalone}
 
 Here is the result after screwing the back panel in place. You can see that the output cable just goes through the hole meant for the DIN connector.
 
-![Back panel](/assets/posts/apple1/2x/IMG_8192.jpg){:standalone}
+![Back panel](/assets/posts/apple1/2x/IMG_8192.webp){:standalone}
 
 Here is the inside view from the top after both panels were installed.
 
-![Inside top](/assets/posts/apple1/2x/IMG_8206.jpg){:standalone}
+![Inside top](/assets/posts/apple1/2x/IMG_8206.webp){:standalone}
 
 ## Reworking the cable
 
@@ -185,7 +185,7 @@ I could have stopped there, but I was not satisfied with my initial cable and co
 
 I started by updating my original cable. I removed the sleeve and the heat shrink tubing, and then I followed Uncle Bernie's advice, and decided that I would keep only five out of the six wires. You can see the updated Molex side here.
 
-![Molex connector updated](/assets/posts/apple1/2x/IMG_0138.jpg){:standalone}
+![Molex connector updated](/assets/posts/apple1/2x/IMG_0138.webp){:standalone}
 
 Indeed, wires 5 and 6 are both "ground" and connected together on the PCB, so only one of those is needed on the cable. It seems that removing wire 5 (instead of wire 6) has the benefit that if you also remove pin 5 of the connector on the Apple-1 board, reversing the connector by mistake should not cause a short or blow up anything. However, I still have pin 5 on my board, so I better not reverse the connector in any case.[^reversing]
 
@@ -193,29 +193,29 @@ I forgot to take pictures of the process, but I carefully placed heat shrink tub
 
 Then I soldered wires to the female connector. This was much easier and more secure than with my previous cheap connector. You can see how the metal pins nicely open outward, making it easy to solder larger wires to them.
 
-![Soldering wires](/assets/posts/apple1/2x/IMG_0099.jpg){:standalone}
+![Soldering wires](/assets/posts/apple1/2x/IMG_0099.webp){:standalone}
 
 Again, I added heat shrink tubing to protect all connections. I also soldered a wire to the chassis of the DIN connector to connect to the case's ground.
 
-![Heat shrink tubing](/assets/posts/apple1/2x/IMG_0100.jpg){:standalone}
+![Heat shrink tubing](/assets/posts/apple1/2x/IMG_0100.webp){:standalone}
 
 _NOTE: The Apple-1 "ground" does NOT connect to the metal case or to the mains's ground wire. It is advised not to ground the Apple-1 this way, so it remains "floating" relative to the ground._ 
 
 I reconnected the wires inside the case, and screwed the connector to the case.
 
-![The female DIN connector installed](/assets/posts/apple1/2x/IMG_0102.jpg){:standalone}
+![The female DIN connector installed](/assets/posts/apple1/2x/IMG_0102.webp){:standalone}
 
 Here is the entire back panel, without cables connected.
 
-![The back panel with the DIN connector](/assets/posts/apple1/2x/IMG_0126.jpg){:standalone}
+![The back panel with the DIN connector](/assets/posts/apple1/2x/IMG_0126.webp){:standalone}
 
 You can see here how the output cable connects to the power supply. It's much neater than the previous version.
 
-![The cable connected to the power supply](/assets/posts/apple1/2x/IMG_0134.jpg){:standalone}
+![The cable connected to the power supply](/assets/posts/apple1/2x/IMG_0134.webp){:standalone}
 
 Time will tell if this DIN connector idea is robust enough. I think that using a PCIe 6-pin connector would be more robust, but I don't think there are panel-mounted connectors, so this solution would require cutting a rectangular opening in the back panel and a supporting PCB that is secured to the back or bottom panel. In the end, this would be significantly more work. The pinout would still be non-standard, as this PCIe connector is normally meant to have 3 ground pins and 3 +12 V pins.
 
-![PCIe 6-pin connector](/assets/posts/apple1/2x/pcie-6-pin-connector.jpg){:standalone width="50%"}
+![PCIe 6-pin connector](/assets/posts/apple1/2x/pcie-6-pin-connector.webp){:standalone width="50%"}
 
 *Credit: [D-Kuru/Wikipedia](https://en.wikipedia.org/wiki/PCI_Express#/media/File:PCI_Express_Power_Supply_Connector-female_PNr%C2%B00438.jpg)*
 
@@ -223,11 +223,11 @@ Time will tell if this DIN connector idea is robust enough. I think that using a
 
 The specific power entry module I chose is meant to clip on a case panel. However, my panels are thin, and there was some clearance between the clips and the panel, making the module wobble. I considered using a spacer, but couldn't find something of the right thickness. So I decided to use JB Weld epoxy instead: this sets really hard, with the drawback that ever removing the module will be difficult.
 
-![Power entry module being epoxied](/assets/posts/apple1/2x/IMG_0092.jpg){:standalone}
+![Power entry module being epoxied](/assets/posts/apple1/2x/IMG_0092.webp){:standalone}
 
 I also added some labels made with a label maker. This is not fancy, but it's better than nothing. I might improve on this later.
 
-![The power supply's front panels with labels](/assets/posts/apple1/2x/IMG_0119.jpg){:standalone}
+![The power supply's front panels with labels](/assets/posts/apple1/2x/IMG_0119.webp){:standalone}
 
 ## Remaining work
 
@@ -239,7 +239,7 @@ Here are a few tasks that I'd like to complete:
 
 - _Logo or badge:_ I'd like to eventually put a copy of the vintage Apple logo[^apple-1-logo] on the front panel, maybe etched or engraved. Alternatively, I could use a simpler "Apple-1" badge and reserve the fancy logo for the main board.
 
-  ![The original Apple Computer Co. logo](/assets/posts/apple1/2x/apple-computer-co.jpg){:standalone width="30%"}
+  ![The original Apple Computer Co. logo](/assets/posts/apple1/2x/apple-computer-co.webp){:standalone width="30%"}
 
 ## Conclusion of part 2
 

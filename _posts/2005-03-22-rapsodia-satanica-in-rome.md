@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/rapsodia_satanica_in_rome"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/rapsodia01a.jpg" alt="Rapsodia Satanica Billboard" width="178" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/rapsodia01a.webp" alt="Rapsodia Satanica Billboard" width="178" height="250" loading="lazy"></figure>
 
 I attended on Sunday a performance at the Rome opera of Mascagni's *Rapsodia Satanica*, followed by *Cavalleria Rusticana*.
 
@@ -31,7 +31,7 @@ The poem is akin to the script of the movie. Whether audiences were supposed to 
 
 The poem was published in a [booklet](http://www.mascagni.org/book-reader/image/504842/1/0) in 1915.
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/rapsodia04a.jpg" alt="Rapsodia Satanica Hand-Colored Frames" width="166" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/rapsodia04a.webp" alt="Rapsodia Satanica Hand-Colored Frames" width="166" height="250" loading="lazy"></figure>
 
 The Movie
 
@@ -51,7 +51,7 @@ Also, the "slides" providing indications about the action, typical of silent mov
 
 Somehow, I expected the film to be "fully" restored, and by that I meant cleaned of dust and scratches, the image stabilized, etc. None of this appears to have been done here. This would probably require digital treatment, and I understand that this would be very expensive. It would be a good thing to do however, because the pleasure of watching could only be increased. Then a DVD release would be absolutely fantastic.
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/rapsodia03a.jpg" alt="Rapsodia Satanica Score" width="179" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/rapsodia03a.webp" alt="Rapsodia Satanica Score" width="179" height="250" loading="lazy"></figure>
 
 The Music
 
@@ -75,7 +75,7 @@ The interview also mentions that Panni revised the orchestral score, which alleg
 
 An interesting trick is that Alba sits at the piano twice in the movie (one of them at least is a Chopin piece). In both cases the music is played by an actual piano in the orchestra, solo first, then joined by other instruments.
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/rapsodia02a.jpg" alt="Cavalleria Rusticana Cast" width="250" height="167" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/rapsodia02a.webp" alt="Cavalleria Rusticana Cast" width="250" height="167" loading="lazy"></figure>
 
 Cavalleria Rusticana
 

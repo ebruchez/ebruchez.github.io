@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/aap_google_print_and_the"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/luddites.png" alt="Machine-Breakers" width="250" height="232" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/luddites.webp" alt="Machine-Breakers" width="250" height="232" loading="lazy"></figure>
 
 **NOTE:** Cet article est également disponible [en français](/posts/aap-google-print-et-les-nouveaux-luddites/).
 

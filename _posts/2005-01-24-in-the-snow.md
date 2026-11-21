@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/in_the_snow"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/snow01a.jpg" alt="Sports car under a lot of snow" width="250" height="167" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/snow01a.webp" alt="Sports car under a lot of snow" width="250" height="167" loading="lazy"></figure>
 
 It's not only the [US North East](http://www.cnn.com/2005/WEATHER/01/24/winter.storm.ap/index.html) which is under the snow. Switzerland has just seen some pretty good snowfalls as well, without storms really, but to the point where the the Geneva airport had to be closed for nine hours on Sunday.
 

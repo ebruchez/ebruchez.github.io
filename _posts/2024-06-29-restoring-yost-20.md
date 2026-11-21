@@ -7,7 +7,7 @@ tags:
 category: Typewriters
 ---
 
-![Spoiler: The restored Yost 20](/assets/posts/yost20/IMG_6297.jpg){:standalone width="75%"}
+![Spoiler: The restored Yost 20](/assets/posts/yost20/IMG_6297.webp){:standalone width="75%"}
 
 ## Introduction
 
@@ -32,7 +32,7 @@ The later Yost models (number 15 and 20) differ from the earlier machines: they 
 
 On the 15 and 20, the typebars still rest on an ink pad. The modified "grasshopper" movement takes the types out towards the user, then forward again towards the platen through the centering guide. The guide is no longer a simple square as it was on the upstrike models, but rectangular to accommodate the types that contain two characters. 
 
-![The Yost 20 grasshopper mechanism mid-course](/assets/posts/yost20/IMG_1208.jpg){:standalone}
+![The Yost 20 grasshopper mechanism mid-course](/assets/posts/yost20/IMG_1208.webp){:standalone}
 
 The Yost Model 20 is the last Yost typewriter model. I don't know if it is particularly rare, but it is certainly uncommon. When I added it to TWDB, it was the first entry of this model (soon after, someone added another entry).
 
@@ -42,15 +42,15 @@ The Yost Model 20 is the last Yost typewriter model. I don't know if it is parti
 
 The Yost 20 I bought was in great condition. It came with a beautiful base with slots for the four (now hardened) rubber feet. Here is one of the first pictures of it I took.
 
-![The Yost 20 as I got it](/assets/posts/yost20/IMG_1199.jpg){:standalone}
+![The Yost 20 as I got it](/assets/posts/yost20/IMG_1199.webp){:standalone}
 
 Some parts were almost attractively dusty.
 
-![Decades of dust](/assets/posts/yost20/IMG_2850.jpg){:standalone}
+![Decades of dust](/assets/posts/yost20/IMG_2850.webp){:standalone}
 
 I shipped the machine to myself from Switzerland in two parts: first the machine and its separated carriage (the base travelled in a suitcase), and its cover in a separate shipment (see [A tale of typewriter shipping](../typewriter-shipping/) and [A typewriter shipping update](../typewriter-shipping-update/)).
 
-![The Yost 20 cover](/assets/posts/yost20/IMG_4577.jpg){:standalone}
+![The Yost 20 cover](/assets/posts/yost20/IMG_4577.webp){:standalone}
 
 As I covered in one of my posts about [shipping typewriters](../typewriter-shipping/), one of the top panels suffered from scratches in transit (which was entirely my fault). You can see the damage on this picture, as well as the small paint loss and corrosion and generally dull original aspect of the panel.
 
@@ -58,7 +58,7 @@ As I covered in one of my posts about [shipping typewriters](../typewriter-shipp
 
 This machine was made in Bridgeport, Connecticut, USA, as the decals at the back of the machine proudly state.
 
-![The back decals](/assets/posts/yost20/IMG_6322.jpg){:standalone}
+![The back decals](/assets/posts/yost20/IMG_6322.webp){:standalone}
 
 ## Cleaning and restoration
 
@@ -76,19 +76,19 @@ I then polished the outside body of the machine, cleaned and polished the keyboa
 
 I really don't mind. They keyboard turned out beautiful.
 
-![Close-up on cleaned keys](/assets/posts/yost20/IMG_6310.jpg){:standalone}
+![Close-up on cleaned keys](/assets/posts/yost20/IMG_6310.webp){:standalone}
 
 I also removed the tab keys for cleaning. I tried to remove the underlying panel, but it seemed like other parts were attached to it and that it would be trouble to go further. So I cleaned it in place, which is not exactly ideal but got me most of the way.
 
-![The tab keys holes and underlying panel](/assets/posts/yost20/IMG_4549.jpg){:standalone}
+![The tab keys holes and underlying panel](/assets/posts/yost20/IMG_4549.webp){:standalone}
 
 I considered repainting the scratched top panels, but then decided to postpone that to a later time. I used a punch to flatten the deep dent a little, then polished the paint a little, did a few minor touch-ups, and then applied wax. It's not new-looking, but I think it is acceptable and it makes the statement that it had history.
 
-![The restored top right panel](/assets/posts/yost20/IMG_4510.jpg){:standalone}
+![The restored top right panel](/assets/posts/yost20/IMG_4510.webp){:standalone}
 
 I applied the same process to the top left panel and the back panel. While the picture doesn't show this well, there are still scratches and imperfections but all in all they look quite good.
 
-![The top panels](/assets/posts/yost20/IMG_4537.jpg){:standalone}
+![The top panels](/assets/posts/yost20/IMG_4537.webp){:standalone}
 
 ## Shellacking the front decal
 
@@ -100,49 +100,49 @@ But I had heard that that yellow stuff, on some machines at least, was shellac: 
 
 In any case, I started cleaning delicately the front panel, and then tried to apply some wax on one of the areas without the decal. But the result was bad: the wax only highlighted that non-uniform, grainy, yellow stuff. The following picture doesn't quite show how bad it was.
 
-![Yellowed, uneven front panel finish](/assets/posts/yost20/IMG_4535.jpg){:standalone}
+![Yellowed, uneven front panel finish](/assets/posts/yost20/IMG_4535.webp){:standalone}
 
 I had heard that one way to deal with the problem was to apply new shellac over and around the decals. In fact, I had had in mind to try this for a long time, on a Royal 5 as well as on an Underwood. So this was a great opportunity to finally try this, and I ordered shellac flakes and alcohol after reading and watching a bunch of videos on the topic.
 
-![Shellac flakes and alcohol](/assets/posts/yost20/IMG_4942.jpg){:standalone}
+![Shellac flakes and alcohol](/assets/posts/yost20/IMG_4942.webp){:standalone}
 
 I dissolved the flakes to make my own "2 lb cut" shellac solution.
 
-![Dissolved shellac flakes](/assets/posts/yost20/IMG_4944.jpg){:standalone}
+![Dissolved shellac flakes](/assets/posts/yost20/IMG_4944.webp){:standalone}
 
 I tried applying mineral spirits to remove the wax I had partially applied. I don't know if it had much effect, but it is supposed to dissolve it.
 
 I tried shellac first on a sanded 2x4 piece of wood, to get a feel for the product. In articles and videos, shellac is always applied to fairly large and flat wooden objects.
 
-![Practicing on wood](/assets/posts/yost20/IMG_4947.jpg){:standalone}
+![Practicing on wood](/assets/posts/yost20/IMG_4947.webp){:standalone}
 
 Then I went over the front panel. I started on the black part, then just went for it. After a couple coats, however, I noticed that the appearance was very uneven.
 
-![First, scary coats of shellac](/assets/posts/yost20/IMG_4948.jpg){:standalone}
+![First, scary coats of shellac](/assets/posts/yost20/IMG_4948.webp){:standalone}
 
 I decided to keep adding coats, over several days, and then to wet sand down with 600 grit sandpaper. I wanted to have some degree of certainty that I wouldn't start sanding the decals. I encountered only one issue, which was as I rubbed shellac with my applicator a little too hard over the raw decal at some point, and I removed a tiny bit of the golden color in a couple of spots. This is visible on the picture above. So later, I went even more carefully over the decal. As coats add up, this is quickly not a concern.
 
 After sanding, further shellac applications become smoother, as we can see here.
 
-![A smoother surface](/assets/posts/yost20/IMG_5491.jpg){:standalone}
+![A smoother surface](/assets/posts/yost20/IMG_5491.webp){:standalone}
 
 I kept doing this over a couple of weeks, with a few rounds of sanding, to try to get the surface smooth, without holes. The following shows the result after a round of sanding. We can still see some low spots.
 
-![Just after a round of sanding](/assets/posts/yost20/IMG_5489.jpg){:standalone}
+![Just after a round of sanding](/assets/posts/yost20/IMG_5489.webp){:standalone}
 
 At some point, I established that this was good enough. I just did a last coat of shellac, and let things settle and dry for a few days. The finish evened out pretty well.
 
-![After one of the last coats](/assets/posts/yost20/IMG_5841.jpg){:standalone}
+![After one of the last coats](/assets/posts/yost20/IMG_5841.webp){:standalone}
 
 I remain worried about the toughness of the finish: at some point, after I thought the shellac was dry and hard, I pressed a little firmly on the front, and my fingers left imprints that wouldn't go away. After that, I resanded and recoated. I am letting the shellac cure for a long time now before touching it, to increase the chances that this won't happen again. But in any case, there is no real need to touch the front panel in regular dealing with the machine. I was careful not to touch the front when reinstalling the panel.
 
-![The front panel after shellac](/assets/posts/yost20/IMG_5894.jpg){:standalone}
+![The front panel after shellac](/assets/posts/yost20/IMG_5894.webp){:standalone}
 
 The result is quite shiny. There is no visible yellow grain. The slightly silvery spots that I damaged are almost not visible anymore, thanks to the added yellow color of the shellac. There are a couple dust spots visible, if you look: perfection is not of this world. But the good thing about shellac is that you could sand the top again a little, and apply more shellac - or just do that without sanding. The alcohol dissolves the shellac, so you can always add new coats.
 
 I consider myself satisfied with the result.
 
-![The front panel after shellac](/assets/posts/yost20/IMG_6313.jpg){:standalone}
+![The front panel after shellac](/assets/posts/yost20/IMG_6313.webp){:standalone}
 
 I haven't applied the same process to the paper table, which looks matte but ok. I suppose it could be done, and look awesome, or not. There is some slight risk, so for now I am leaving the paper table as is.
 
@@ -150,35 +150,35 @@ I haven't applied the same process to the paper table, which looks matte but ok.
 
 I had removed and disassembled the carriage for shipping. There is a carriage base, which slides on the carriage rails, with intermediary carriers with bearings.
  
-![Carriage parts](/assets/posts/yost20/IMG_2844.jpg){:standalone}
+![Carriage parts](/assets/posts/yost20/IMG_2844.webp){:standalone}
 
 On top, there is a removable carriage top, which just slides upward and out.
 
 I removed the platen and I cleaned everything (air, mineral spirits, wire brush). I polished the shiny parts.
 
-![Shiny parts](/assets/posts/yost20/IMG_4623.jpg){:standalone}
+![Shiny parts](/assets/posts/yost20/IMG_4623.webp){:standalone}
 
 Then I reassembled the carriage. But I found an issue: it was very hard to rotate the platen, and paper wouldn't feed. I then realized that two arms that hold the front feed rollers were not clearing properly. I tried to bend those arms a little, and that addressed the problem.
 
-![The rollers arms need to clear](/assets/posts/yost20/IMG_6293.jpg){:standalone}
+![The rollers arms need to clear](/assets/posts/yost20/IMG_6293.webp){:standalone}
 
 This is the reassembled top carriage.
 
-![The reassembled top carriage](/assets/posts/yost20/IMG_4624.jpg){:standalone}
+![The reassembled top carriage](/assets/posts/yost20/IMG_4624.webp){:standalone}
 
 ## Cleaning the inside
 
 The inside of the machine was black with dirt and oxydation. I cleaned with mineral spirits, but also used a wire brush. Interestingly, the metal showed or took a little yellow tint after that. I don't know if that will stay or just oxidize again. I don't think these parts were originally blued.
 
-![The mostly cleaned inside](/assets/posts/yost20/IMG_4632.jpg){:standalone}
+![The mostly cleaned inside](/assets/posts/yost20/IMG_4632.webp){:standalone}
 
 As of now, this looks pretty cool.
 
-![Cleaned metal parts](/assets/posts/yost20/IMG_4819.jpg){:standalone}
+![Cleaned metal parts](/assets/posts/yost20/IMG_4819.webp){:standalone}
 
 The bell is not very visible, unlike with some other machines like the Underwood, but it looks better now.
 
-![The cleaned bell](/assets/posts/yost20/IMG_4638.jpg){:standalone}
+![The cleaned bell](/assets/posts/yost20/IMG_4638.webp){:standalone}
 
 ## The ink pad
 
@@ -186,25 +186,25 @@ In all Yost machines, the types, when not on their way to strike the paper and b
 
 I took out the ink pad and support in the process of cleaning. The pad is made of three separate layers.
 
-![The ink pad and support](/assets/posts/yost20/IMG_6027.jpg){:standalone}
+![The ink pad and support](/assets/posts/yost20/IMG_6027.webp){:standalone}
 
 I put everything back, and used, well, ink pad ink to re-ink the existing felt-like material. It took a while for absorption to work. It does seem to work to some extent, but there is no doubt that the material is old.
 
 Someone, in a forum, had pointed out that there is a lever to raise all typebars. At first I didn't find it, as the lever was recessed, on the right-side of the machine, but eventually I did! Using this lever is necessary to properly re-ink the pad without making a total mess.
 
-![The raised typebars](/assets/posts/yost20/IMG_6288.jpg){:standalone}
+![The raised typebars](/assets/posts/yost20/IMG_6288.webp){:standalone}
 
 ## The spring drum handle
 
 The spring drum handle was loose. I am lucky I didn't lose the part, as it was missing some kind of pin to attach it to the drum. I temporarily installed a part made of a paperclip. It seems to do the job but a larger diameter would be better and provide tighter clearance.
 
-![The paperclip fix](/assets/posts/yost20/IMG_6324.jpg){:standalone}
+![The paperclip fix](/assets/posts/yost20/IMG_6324.webp){:standalone}
 
 ## The keyboard of the Yost 20
 
 The keyboard is a Swiss-French QWERTZ keyboard: it allows you to write French, but could also work for German. It is quite beautiful:
 
-![The Yost 20 keyboard](/assets/posts/yost20/IMG_6308.jpg){:standalone}
+![The Yost 20 keyboard](/assets/posts/yost20/IMG_6308.webp){:standalone}
 
 The labels on the keys are in French
 
@@ -214,7 +214,7 @@ The labels on the keys are in French
 
 One exception is the "Back Space" key that keeps it original English label.
 
-![The left side of the Yost 20 keyboard](/assets/posts/yost20/IMG_6312.jpg){:standalone}
+![The left side of the Yost 20 keyboard](/assets/posts/yost20/IMG_6312.webp){:standalone}
 
 The following accented characters are available:
 
@@ -237,13 +237,13 @@ These two accents are also used in French (see "être", "Noël", etc.). Interest
 
 This has been a little more work than I had initially expected, due to the whole shellacking process. But I learned a lot. I think the machine looks quite good now. Please check the photo album linked below for more pictures.
 
-![The restored Yost 20](/assets/posts/yost20/IMG_6297.jpg){:standalone}
+![The restored Yost 20](/assets/posts/yost20/IMG_6297.webp){:standalone}
 
-![The restored Yost 20 front decal](/assets/posts/yost20/IMG_6307.jpg){:standalone}
+![The restored Yost 20 front decal](/assets/posts/yost20/IMG_6307.webp){:standalone}
 
-![The restored Yost 20 keyboard](/assets/posts/yost20/IMG_6309.jpg){:standalone}
+![The restored Yost 20 keyboard](/assets/posts/yost20/IMG_6309.webp){:standalone}
 
-![The restored Yost 20 from the top](/assets/posts/yost20/IMG_6314.jpg){:standalone}
+![The restored Yost 20 from the top](/assets/posts/yost20/IMG_6314.webp){:standalone}
 
 There are a few remaining tasks:
 

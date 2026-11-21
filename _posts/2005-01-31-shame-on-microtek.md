@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/shame_on_microtek"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/microtek9800xl01a.jpg" alt="Microtek ScanMaker 9800XL" width="250" height="156" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/microtek9800xl01a.webp" alt="Microtek ScanMaker 9800XL" width="250" height="156" loading="lazy"></figure>
 
 It is known that hardware manufacturers have always sucked at providing decent software on the Windows platform (my impression is that Mac users have been in a better position, that is for the hardware supported on Mac). For as long as I can remember, sound card and scanner utilities in particular have looked like they came from a galaxy far, far away. And I am not saying that in a good way.
 

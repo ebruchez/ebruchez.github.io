@@ -18,15 +18,15 @@ See also the following related posts:
 
 I recently picked up an IBM Memory Typewriter that otherwise would have been scrapped. [^sequence] Many thanks go to the kind soul who tipped the Golfballtypewritershop group and allowed me to pick it up locally!
 
-![The IBM Memory Typewriter](/assets/posts/ibm-memory-typewriter/2x/IMG_8159.jpg){:standalone}
+![The IBM Memory Typewriter](/assets/posts/ibm-memory-typewriter/2x/IMG_8159.webp){:standalone}
 
 I already own several IBM typewriters in various conditions, and even an IBM Electronic Typewriter 75 (see below), but I was not familiar with the Memory Typewriter. However, it appears to be a very interesting machine, as we will see. First, just look at how it looks like under the hood!
 
-![The IBM Memory Typewriter with covers off](/assets/posts/ibm-memory-typewriter/2x/IMG_8113.jpg){:standalone}
+![The IBM Memory Typewriter with covers off](/assets/posts/ibm-memory-typewriter/2x/IMG_8113.webp){:standalone}
 
 Maybe the most impressive part is the electronic board (called the "planar package" in the IBM service manuals) in the back, with lots of IBM chips. [^schematics]
 
-![The "planar package"](/assets/posts/ibm-memory-typewriter/2x/IMG_8134.jpg){:standalone}
+![The "planar package"](/assets/posts/ibm-memory-typewriter/2x/IMG_8134.webp){:standalone}
 
 ## Condition of the machine
 
@@ -48,7 +48,7 @@ The Golfballtypewritershop group was very helpful to get started. Through this g
 
 So what's special about it? Well, the IBM Memory Typewriter is essentially an [IBM Selectric](https://en.wikipedia.org/wiki/IBM_Selectric_typewriter) typewriter with an important addition: the ability to record text both in *solid-state memory* and on a built-in *magnetic tape*, and to play it back. In short, this was one of the first word-processing machines. This makes it all the more tempting to get this machine to work! Here is an excerpt from the service manual.
 
-![Introduction](/assets/posts/ibm-memory-typewriter/2x/memory-introduction.jpg){:standalone width="60%"}
+![Introduction](/assets/posts/ibm-memory-typewriter/2x/memory-introduction.webp){:standalone width="60%"}
 
 ### IBM's sites
 
@@ -73,7 +73,7 @@ It's unclear, based on this only, which machine first had an "electronic memory"
 
 Checking the "Adjustment Parts Manual", which covers all Mag Card and Memory typewriters, it appears that the Mag Card also had a "planar package". This suggests that there is a line of machines that share a similar electronic system with the planar package in the back. It would make sense, of course, for IBM to not redesign everything from scratch.
 
-![Adjustment Parts Manual](/assets/posts/ibm-memory-typewriter/2x/magcard-apm.jpg){:standalone}
+![Adjustment Parts Manual](/assets/posts/ibm-memory-typewriter/2x/magcard-apm.webp){:standalone}
 
 ### YouTube
 
@@ -110,11 +110,11 @@ The Memory Typewriter contains the following notable functional blocks:
 - planar package
 - tape loop
 
-![Layout of the IBM Memory Typewriter](/assets/posts/ibm-memory-typewriter/2x/memory-74-layout.jpg){:standalone}
+![Layout of the IBM Memory Typewriter](/assets/posts/ibm-memory-typewriter/2x/memory-74-layout.webp){:standalone}
 
 The tape loop is built-in. It is a wide (almost 2 inch-wide) tape, which can hold 50 tracks each containing 4000 characters. You select a track with a rotating dial.
 
-![The tape loop](/assets/posts/ibm-memory-typewriter/2x/IMG_8126.jpg){:standalone}
+![The tape loop](/assets/posts/ibm-memory-typewriter/2x/IMG_8126.webp){:standalone}
 
 The planar package contains a 4000-character memory.
 
@@ -122,13 +122,13 @@ The planar package contains a 4000-character memory.
 
 In 2020, I bought a 1980 IBM Electronic Typewriter 75 locally, out of curiosity and again to save the machine from possible destruction. That machine doesn't work either.
 
-![IBM Electronic Typewriter 75](/assets/posts/ibm-memory-typewriter/2x/IMG_8244.jpg){:standalone}
+![IBM Electronic Typewriter 75](/assets/posts/ibm-memory-typewriter/2x/IMG_8244.webp){:standalone}
 
 But how is the Electronic Typewriter related to the Memory Typewriter? If the 1978 "Electronic Typewriter" is "the first electronic typewriter", how come there is so much "electronics" in the Mag Card Typewriter and Memory Typewriter?
 
 Part of it is marketing and branding. Another aspect is that the Electronic Typewriter appears to have less mechanical parts and more modern electronics, including a processor board. The keyboard too, while still mechanical (but with 6 selection switches), is not quite like the Memory Typewriter's. As a start, you can compare the following layout with the layout of the IBM Memory Typewriter above.
 
-![Layout of the IBM Electronic Typewriter 75](/assets/posts/ibm-memory-typewriter/2x/electronic-75-layout.jpg){:standalone}
+![Layout of the IBM Electronic Typewriter 75](/assets/posts/ibm-memory-typewriter/2x/electronic-75-layout.webp){:standalone}
 
 ## A hybrid machine
 
@@ -136,7 +136,7 @@ The IBM Memory Typewriter is a hybrid machine: it contains a *lot* of mechanical
 
 For example, the keyboard appears almost unmodified compared with a regular Selectric. It remains truly *mechanical*, with moving keylevers and interposers. It interfaces with the electronics using reed relays. [^mechanical-keyboard]
 
-![The mechanical keyboard](/assets/posts/ibm-memory-typewriter/2x/memory-keyboard.jpg){:standalone}
+![The mechanical keyboard](/assets/posts/ibm-memory-typewriter/2x/memory-keyboard.webp){:standalone}
 
 Conversely, the *printer* part is of course a mechanical unit, but activated from the electronics using solenoids and electromagnets.
 

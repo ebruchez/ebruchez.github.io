@@ -23,7 +23,7 @@ archived_comments:
     Cheap >= 100 GB optical discs would still be useful to backup hard drives.
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/drive01a.jpg" alt="Hard Drive" width="250" height="212" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/drive01a.webp" alt="Hard Drive" width="250" height="212" loading="lazy"></figure>
 
 I don't know if it's just me (well, in fact, I have evidence that it's not the case), but I seem to collect problems with hard drives. While I have been lucky not to have had a serious problem with laptop hard drives (crossing my fingers), my desktop machines and servers keep causing me trouble.
 

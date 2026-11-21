@@ -17,7 +17,7 @@ See also:
 - [The TeleVideo TVI-912 terminal - Part 3](../televideo-912-terminal-3/), where I complete the restoration of the terminal
 
 [//]: # (![The terminal as I got it]&#40;/assets/posts/televideo-912/2x/IMG_2764.jpg&#41;)
-![The terminal as I got it](/assets/posts/televideo-912/2x/IMG_3026.jpg){:standalone}
+![The terminal as I got it](/assets/posts/televideo-912/2x/IMG_3026.webp){:standalone}
 
 Esthetically, I find the terminal good-looking with its curved body. It's very different from the iconic DEC VT100, which is of the same era, but there is nothing wrong with liking different styles.[^vt100]
 
@@ -35,7 +35,7 @@ The TeleVideo TVI-912 was one of the first models made by the company. It came o
 
 - [This terminals wiki page](http://terminals-wiki.org/wiki/index.php/TeleVideo_912) mentions 1978 and supports this by referencing a Computerworld article announcing the device from September 4, 1978, which I cropped below:
 
-    ![1978 Computerworld article](/assets/posts/televideo-912/2x/1978-09-04-computerworld.jpg){:standalone width="40%"}
+    ![1978 Computerworld article](/assets/posts/televideo-912/2x/1978-09-04-computerworld.webp){:standalone width="40%"}
 - [This vt100.net page](https://vt100.net/televideo/) mentions 1979.
 - [This page](https://www.cs.grinnell.edu/old/drupal6/TeleVideo%20TVI-912%20ASCII%20terminal.html) also mentions 1979:
 
@@ -63,7 +63,7 @@ This manual has 36 pages including covers, and a copyright date of 1979. You can
 
 There are a couple of versions, if not more, of this manual.
 
-![Operators Reference Handbook](/assets/posts/televideo-912/2x/televideo-operators-reference-handbook-1.jpg){:standalone width="50%"}
+![Operators Reference Handbook](/assets/posts/televideo-912/2x/televideo-operators-reference-handbook-1.webp){:standalone width="50%"}
 
 ### Operating instructions (1979)
 
@@ -74,17 +74,17 @@ This is for the following models:
 
 This has exactly the same table of contents as the previous manual, and is also dated 1979, but it has only 19 pages. I haven't compared the content with the other manual in detail.
 
-![Operating Instructions](/assets/posts/televideo-912/2x/televideo-operating-instructions-912-920.jpg){:standalone width="50%"}
+![Operating Instructions](/assets/posts/televideo-912/2x/televideo-operating-instructions-912-920.webp){:standalone width="50%"}
 
 ### TeleVideo Terminal Maintenance Training Manual (March 1983)
 
 This manual has 558 pages! To be fair, 98 of those pages are manufacturer spec sheets for components. This appears to cover all the terminal models up to the March 1983 date of publication: 910, 912, 920, 925, 950, and 970. It includes full schematics of the terminals!
 
-![TeleVideo Terminal Maintenance Training Manual](/assets/posts/televideo-912/2x/televideo-terminal-maintenance-training-manual.jpg){:standalone width="50%"}
+![TeleVideo Terminal Maintenance Training Manual](/assets/posts/televideo-912/2x/televideo-terminal-maintenance-training-manual.webp){:standalone width="50%"}
 
 Here is one of the pages of the schematics for the 912, showing the microcontroller:
 
-![First page of the schematics](/assets/posts/televideo-912/2x/schematics-1.jpg){:standalone}
+![First page of the schematics](/assets/posts/televideo-912/2x/schematics-1.webp){:standalone}
 
 ### "The Value Leaders" marketing brochure
 
@@ -95,15 +95,15 @@ This is an 8-page marketing brochure, where we learn about some features of the 
 
 Now this makes me want to find a 925 or 950 terminal! Look at these beauties!
 
-![The Value Leaders](/assets/posts/televideo-912/2x/televideo-value-leaders-cover.jpg){:standalone width="50%"}
+![The Value Leaders](/assets/posts/televideo-912/2x/televideo-value-leaders-cover.webp){:standalone width="50%"}
 
-![Model 912/920 in the brochure](/assets/posts/televideo-912/2x/televideo-value-leaders-912-920.jpg){:standalone width="50%"}
+![Model 912/920 in the brochure](/assets/posts/televideo-912/2x/televideo-value-leaders-912-920.webp){:standalone width="50%"}
 
 ### "Compare Smarts. Compare Prices." marketing brochure
 
 This is a 6-page marketing brochure specifically about the 912 and 920 models. It is dated 1980. It has a lot of information about the terminals, including a comparison between the 912 and the 920 (variants B and C).
 
-![Compare Smarts. Compare Prices.](/assets/posts/televideo-912/2x/televideo-compare-smarts-912-920.jpg){:standalone width="50%"}
+![Compare Smarts. Compare Prices.](/assets/posts/televideo-912/2x/televideo-compare-smarts-912-920.webp){:standalone width="50%"}
 
 ### Other resources
 
@@ -126,42 +126,42 @@ I opened the terminal: two screws in the front unlock the top of the terminal, w
 
 The CRT remains in the top case, with the terminal's power supply on the left, and the video control board on the right. The CRT is braced by a rusty spring:
 
-![The CRT spring](/assets/posts/televideo-912/2x/IMG_2770.jpg){:standalone width="60%"}
+![The CRT spring](/assets/posts/televideo-912/2x/IMG_2770.webp){:standalone width="60%"}
 
 I took a look at the control board. It is a beautiful large board, but it looked very dirty, with signs of corrosion.
 
-![The dirty main control board](/assets/posts/televideo-912/2x/IMG_2775.jpg){:standalone}
+![The dirty main control board](/assets/posts/televideo-912/2x/IMG_2775.webp){:standalone}
 
 Here is a close-up of the main video chip, before any cleaning:
 
-![The main video chip](/assets/posts/televideo-912/2x/IMG_2776.jpg){:standalone}
+![The main video chip](/assets/posts/televideo-912/2x/IMG_2776.webp){:standalone}
 
 I blew some air inside the case and on the board. I also did a first pass at cleaning the board with isopropyl alcohol. There was no change in behavior after that, unsurprisingly. But I took more detailed pictures of the terminal. Here is the terminal's two parts:
 
-![The open terminal](/assets/posts/televideo-912/2x/IMG_3057.jpg){:standalone}
+![The open terminal](/assets/posts/televideo-912/2x/IMG_3057.webp){:standalone}
 
 Here is the back of the terminal. The RS-232 port is visible, as well as configuration DIP switches, a contrast button, the power button, and a fuse. I believe that there should be a cover over the connector area, and if so it is missing. Instances of the terminal could have a printer port as well, but this one doesn't have it. Some of the labels had fallen off, but they were stored in a small ziploc bag attached to the terminal.
 
-![The back of the terminal](/assets/posts/televideo-912/2x/IMG_3035.jpg){:standalone}
+![The back of the terminal](/assets/posts/televideo-912/2x/IMG_3035.webp){:standalone}
 
 The keyboard of this 912 terminal has 84 keys in the "teletype" layout. Documentation shows that there were two main layout options:
 
 - "teletype" layout, for models "B" (912B)
 - "typewriter" layout, for models "C" (912C)
 
-![The "teletype" layout](/assets/posts/televideo-912/2x/912-teletype-keyboard.jpg){:standalone}
+![The "teletype" layout](/assets/posts/televideo-912/2x/912-teletype-keyboard.webp){:standalone}
 
-![The "typewriter" layout](/assets/posts/televideo-912/2x/912-typewriter-keyboard.jpg){:standalone}
+![The "typewriter" layout](/assets/posts/televideo-912/2x/912-typewriter-keyboard.webp){:standalone}
 
 These options might not have been available from the start. Indeed, my terminal doesn't show a "B" or "C" suffix.
 
 Model 920 was identical to the 912 except that it had, in addition, function keys, edit keys, and transmission keys. It, too, came in a "B" or "C" version matching the "teletype" or "typewriter" layouts.
 
-![The "teletype" keyboard of my 912](/assets/posts/televideo-912/2x/IMG_3043.jpg){:standalone}
+![The "teletype" keyboard of my 912](/assets/posts/televideo-912/2x/IMG_3043.webp){:standalone}
 
 The board looks nicer after a basic cleaning.
 
-![The board after cleaning](/assets/posts/televideo-912/2x/IMG_3045.jpg){:standalone}
+![The board after cleaning](/assets/posts/televideo-912/2x/IMG_3045.webp){:standalone}
 
 I recognized the video output and power supply input on the board. I disconnected both, and measured the voltage on the input connector, with values close to:
 
@@ -171,11 +171,11 @@ I recognized the video output and power supply input on the board. I disconnecte
 
 This means the power supply is in decent shape. Here is a picture of it, attached to the upper part of the case:
 
-![The power supply](/assets/posts/televideo-912/2x/IMG_3052.jpg){:standalone}
+![The power supply](/assets/posts/televideo-912/2x/IMG_3052.webp){:standalone}
 
 The other side of the upper case consists of the video control board:
 
-![The video control board](/assets/posts/televideo-912/2x/IMG_3053.jpg){:standalone}
+![The video control board](/assets/posts/televideo-912/2x/IMG_3053.webp){:standalone}
 
 I note that the terminal's serial number appears in multiple places, and it is consistent: 79061208. Can we infer from that series of digits a production date of June 1979? Or week 6 of 1979? It would make sense! Comparing with serial numbers of other similar terminals could help validating the format.
 
@@ -216,25 +216,25 @@ The rest of the chips consists mainly of 7400-series TTL chips. In the 1978 Comp
 
 I annotated the picture of the board with what I found.
 
-![The main board, with annotations](/assets/posts/televideo-912/2x/board-chips.jpg){:standalone}
+![The main board, with annotations](/assets/posts/televideo-912/2x/board-chips.webp){:standalone}
 
 The CRT chip, in particular, is quite beautiful, although it too shows signs of corrosion. On a couple of pictures I found online of the 912/920 board, the chip is a regular black plastic package. Here we have what is probably a ceramic package, with golden pins and a golden cover (but then how is it that it appears corroded?). This might be an earlier version of the chip.
 
-![The CRT chip](/assets/posts/televideo-912/2x/IMG_3054.jpg){:standalone}
+![The CRT chip](/assets/posts/televideo-912/2x/IMG_3054.webp){:standalone}
 
 It's interesting that the terminal uses a fairly simple microcontroller. I thought it might have used a Z80 or similar microprocessor, but apparently a much simpler MCU was enough to drive the system. The DEC VT100, for comparison, used an Intel 8080 CPU.
 
-![The Intel 8035 MCU](/assets/posts/televideo-912/2x/IMG_3048.jpg){:standalone}
+![The Intel 8035 MCU](/assets/posts/televideo-912/2x/IMG_3048.webp){:standalone}
 
 Reading up on the [Intel MCS-48 family of microcontrollers](https://en.wikipedia.org/wiki/Intel_MCS-48), it turns out that these were often used in keyboards, including the original IBM PC keyboard (which, of course, came out after this terminal, in 1981). A Philips derivative was used in Philips's first CD player, the CD-100. In short, this was a very popular microcontroller family.
 
 The 8035 is a ROM-less version of the microcontroller: there is no mask ROM or EPROM on the chip, and the ROM has to be external, as is clearly the case with the TeleVideo 912. An Intel manual is available (396 pages), dated July 1978:
 
-![The Intel MCS-48 manual](/assets/posts/televideo-912/2x/intel-mcs-48-users-manual.jpg){:standalone width="60%"}
+![The Intel MCS-48 manual](/assets/posts/televideo-912/2x/intel-mcs-48-users-manual.webp){:standalone width="60%"}
 
 Here is a picture of the main ROMs and the UART:
 
-![The ROMs and UART](/assets/posts/televideo-912/2x/IMG_3055.jpg){:standalone}
+![The ROMs and UART](/assets/posts/televideo-912/2x/IMG_3055.webp){:standalone}
 
 I found that there are dumps of ROMs online, although I don't know if they match my terminal exactly. It could be interesting to read and reverse-engineer the code! The third ROM (actually the first one, called A3) is a character ROM, I think - that is, a ROM containing the bitmaps (7x10, from the marketing brochures) of the characters that can be displayed on the screen.
 

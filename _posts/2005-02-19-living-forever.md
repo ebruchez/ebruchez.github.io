@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/living_forever"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/immortal01a.jpg" alt="The Immortal Cell" width="161" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/immortal01a.webp" alt="The Immortal Cell" width="161" height="250" loading="lazy"></figure>
 
 I just finished reading *The Immortal Cell* by Michael D. West and wrote a short [review](/posts/the-immortal-cell/) (also at [Amazon](http://www.amazon.com/gp/cdp/member-reviews/A80L38RKIE38J/)) of it. Coincidentally, I came today across an [article](http://www.cnn.com/2005/HEALTH/diet.fitness/02/15/one.mans.immortality.ap/index.html) about Ray Kurzweil, famous inventor, and author of a book I read last year, *The Age of Spiritual Machines*.
 

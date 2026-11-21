@@ -12,7 +12,7 @@ redirect_from:
 - "/roller/page/ebruchez/boukreev_s_explanation_the_climb"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/the-climb-01a.jpg" alt="The Climb" width="150" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/the-climb-01a.webp" alt="The Climb" width="150" height="250" loading="lazy"></figure>
 
 Many have read *Into Thin Air* by Jon Krakauer, the true story of a disastrous day on Mount Everest in May 1996, when several expeditions were caught in a storm that killed eleven people, including team leaders Scott Fisher and Rob Hall.
 

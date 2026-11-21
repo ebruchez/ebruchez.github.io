@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/holiday_online_shopping"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/yamahaclp280.jpg" alt="Yamaha CLP-280" width="250" height="199" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/yamahaclp280.webp" alt="Yamaha CLP-280" width="250" height="199" loading="lazy"></figure>
 
 The world has progressed much in terms of shopping thanks to online resources, but there is still progress to make. A few recent cases in point:
 

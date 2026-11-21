@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/flying_with_a_cat"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/cat01a.jpg" alt="Bubbles" width="250" height="165" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/cat01a.webp" alt="Bubbles" width="250" height="165" loading="lazy"></figure>
 
 Last October, I brought my cat, Bubbles, from California to Switzerland.
 

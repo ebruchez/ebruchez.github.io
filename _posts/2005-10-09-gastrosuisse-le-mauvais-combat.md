@@ -28,7 +28,7 @@ archived_comments:
     <http://archquo.nouvelobs.com/cgi/articles?ad=societe/20051008.FAP7605.html>
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/tobaccohands.jpg" alt="Hands" width="140" height="180" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/tobaccohands.webp" alt="Hands" width="140" height="180" loading="lazy"></figure>
 
 Un récent [article](http://www.24heures.ch/vqhome/le_journal/suisse/gastrosuisse_081005.edition=ls.html) de *24 heures* , un quotidien Suisse, fait mention de la campagne anti-tabac de GastroSuisse, la "fédération nationale leader de l'hôtellerie et de la restauration" en Suisse. En résumé, voici la situation: par crainte de voir les cantons passer des lois interdisant entièrement la fumée dans les établissements publics (Genève en particulier discute d'une telle loi), qui supposément entraîneraient une baisse de la fréquentation de ceux-ci, GastroSuisse s'est lancée dans une campagne antitabac ayant pour but de maximiser le nombre d'établissements proposant aux visiteurs des espaces non-fumeur, tout en conservant des espaces fumeur.
 

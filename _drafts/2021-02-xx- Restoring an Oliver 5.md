@@ -10,7 +10,7 @@ category: Typewriters
 
 Back in September 2018, I saw an Oliver 5 for sale a few hours away for a good price. We took a family trip and we got the machine, which came complete with base, cover, and manuals. And it had its two ribbon spool covers as well! It was sold by a really nice 98 year-old gentleman, who said the machine had been his father's. I love this kind of history! This became my acquisition number 45.
 
-![The machine just after I got it](/assets/posts/restoring-oliver5/2x/IMG_0784.jpg){:standalone}
+![The machine just after I got it](/assets/posts/restoring-oliver5/2x/IMG_0784.webp){:standalone}
 
 ## The Oliver 5
 
@@ -23,7 +23,7 @@ The machine is from about 1911-1912 based on its 255684 serial number, which you
 - on the carriage
 - on the main body of the machine
 
-![The serial on the carriage](/assets/posts/restoring-oliver5/2x/IMG_0772.jpg){:standalone}
+![The serial on the carriage](/assets/posts/restoring-oliver5/2x/IMG_0772.webp){:standalone}
 
 I read that the backspace key was "added about 282,000 approximately 1911." My serial is under that, and my machine does not have a backspace key, so I think that 1911 is a solid guess.
 
@@ -31,11 +31,11 @@ I read that the backspace key was "added about 282,000 approximately 1911." My s
 
 You might think that the machine looked good based on the first picture above. But a closer examination reveals problems. The machine was in fact very dusty and grimy, in spite of having the protection of a cover.
 
-![Grime](/assets/posts/restoring-oliver5/2x/IMG_0909.jpg){:standalone}
+![Grime](/assets/posts/restoring-oliver5/2x/IMG_0909.webp){:standalone}
 
 It didn't work at all. Part of this was, obviously, the broken draw cord.
 
-![Broken draw cord](/assets/posts/restoring-oliver5/2x/IMG_0771.jpg){:standalone}
+![Broken draw cord](/assets/posts/restoring-oliver5/2x/IMG_0771.webp){:standalone}
 
 But was anything else broken?
 
@@ -43,19 +43,19 @@ I got started on it the initial dusting and disassembly.
 
 I derusted and polished the bell as an early win.
 
-![Polished bell](/assets/posts/restoring-oliver5/2x/IMG_0917.jpg){:standalone}
+![Polished bell](/assets/posts/restoring-oliver5/2x/IMG_0917.webp){:standalone}
 
 xxx
 
 I removed parts on the back of the machine to clean them and under them. There was a lot of caked dirt there.
 
-![Caked dirt](/assets/posts/restoring-oliver5/2x/IMG_0936.jpg){:standalone}
+![Caked dirt](/assets/posts/restoring-oliver5/2x/IMG_0936.webp){:standalone}
 
 xxx spaceship
 
 I noticed soon that, unfortunately, one of the escapement wheel's teeth was broken.
 
-![Broken escapement tooth](/assets/posts/restoring-oliver5/2x/IMG_0939.jpg){:standalone}
+![Broken escapement tooth](/assets/posts/restoring-oliver5/2x/IMG_0939.webp){:standalone}
 
 This would prevent the machine from working properly. Luckily, I found a kind typewriter collector who provided me with a replacement part. I removed the "spaceship" assembly and replaced the wheel. Success!
 
@@ -67,7 +67,7 @@ xxx
 
 I did a few more tasks, when I noticed that the spring was broken in two places.
 
-![Broken spring](/assets/posts/restoring-oliver5/2x/IMG_1001.jpg){:standalone}
+![Broken spring](/assets/posts/restoring-oliver5/2x/IMG_1001.webp){:standalone}
 
 I considered fixing it: grinding a hole at the end of the non-broken part. But I was told it might break again. I was also directed to look at clock springs. I started looking, but other things happened and the project was paused in February 2019.
 
@@ -77,29 +77,29 @@ In the meanwhile, I acquired a couple of parts Oliver 9 machines. It dawned on m
 
 xxx
 
-![The naked back](/assets/posts/restoring-oliver5/2x/IMG_0953.jpg){:standalone}
+![The naked back](/assets/posts/restoring-oliver5/2x/IMG_0953.webp){:standalone}
 
 ## Carriage
 
 In 2018-2019, I had started disassembling the carriage and I cleaned a few parts. The paper fingers came out better than anticipated:
 
-![Paper fingers](/assets/posts/restoring-oliver5/2x/IMG_1046.jpg){:standalone}
+![Paper fingers](/assets/posts/restoring-oliver5/2x/IMG_1046.webp){:standalone}
 
 
 but I had not completed the task. So I finished this first.
 
 
-![Grime on the carriage](/assets/posts/restoring-oliver5/2x/IMG_1004.jpg){:standalone}
+![Grime on the carriage](/assets/posts/restoring-oliver5/2x/IMG_1004.webp){:standalone}
 
 ## Removing rust
 
 I put a number of rusted parts in Evapo-Rust. I even dunked the entire "spaceship":
 
-![Removing rust](/assets/posts/restoring-oliver5/2x/IMG_1104.jpg){:standalone}
+![Removing rust](/assets/posts/restoring-oliver5/2x/IMG_1104.webp){:standalone}
 
 It came out pretty nice:
 
-![After rust removal](/assets/posts/restoring-oliver5/2x/IMG_1132.jpg){:standalone}
+![After rust removal](/assets/posts/restoring-oliver5/2x/IMG_1132.webp){:standalone}
 
 ## The base
 
@@ -107,35 +107,35 @@ This Oliver 5 came with a base. Looking at TWDB for reference, about 20% of Oliv
 
 But the base was in poor cosmetic shape. That means it has "history" and "personality" but also, well, it's just plain ugly.
 
-![Top](/assets/posts/restoring-oliver5/2x/IMG_0915.jpg){:standalone}
+![Top](/assets/posts/restoring-oliver5/2x/IMG_0915.webp){:standalone}
 
-![Bottom](/assets/posts/restoring-oliver5/2x/IMG_5005.jpg){:standalone}
+![Bottom](/assets/posts/restoring-oliver5/2x/IMG_5005.webp){:standalone}
 
 What to do? To restore or not to restore? This can be controversial. I think that you could make the case either way. The Oliver 5 is not a rare machine, but one with a base is slightly more rare. Still, it's definitely not unique.
 
 I have recently restored the base of my Model-121 Vertical Adder.
 
-![The Model-121 base board after applying Danish oil](/assets/posts/restoring-oliver5/2x/IMG_2823.jpg){:standalone}
+![The Model-121 base board after applying Danish oil](/assets/posts/restoring-oliver5/2x/IMG_2823.webp){:standalone}
 
 I also have a Smith Premier 2 which has a base in really good condition. I don't think I would restore that one, for example, as it is in really good condition.
 
-![Smith Premier 2 with original base](/assets/posts/restoring-oliver5/2x/IMG_7290.jpg){:standalone}
+![Smith Premier 2 with original base](/assets/posts/restoring-oliver5/2x/IMG_7290.webp){:standalone}
 
 In any case, I decided that to restore the Oliver 5's base. After removing the screws (see below), I sanded it with 80 grit first. I discovered that the base is made of oak. The wood was in quite good condition underneath the dust, grime, and coating.
 
 Then I sanded two sides more aggressively, as the wood had expanded and some parts of the board were no longer aligned. I also used wood filler to fill the biggest holes. Here, my lack of skill is obvious. For the 121, I had just used existing wood filler. I figured I would be smarter this time and mix sawdust from the sanding, glue, and make my own filler. So I did, but the result was not great: the filler ended up having the clear color of the glue, which I didn't like. I tried to patch things up with the original filler, but I think it is a little too clear. Also, I only figured later that it would be a good idea to use masking tape before filling. Live and learn - although I am still not sure how to make my own wood filler, even though the videos appear to make it sound so easy.
 
-![Masking tape to try to fix things](/assets/posts/restoring-oliver5/2x/IMG_5071.jpg){:standalone}
+![Masking tape to try to fix things](/assets/posts/restoring-oliver5/2x/IMG_5071.webp){:standalone}
 
 After that, I sanded the board down to 120, 220, and 400. I then applied a few coats of natural Danish oil. However, I was really not happy with the result, which was too dark, and highlighted imperfections in the wood. I would have preferred a finish as close as possible as the original natural wood as possible. In fact, I would leave the board without any finish whatsoever as I like the look of the freshly sanded wood. But I think that it needs some protection.
 
 So I decided to re-sand the board. Luckily, that removed the Danish oil finish, even though the oak has large pores. After researching finishes, I figured that water-based matte polyurethane might be the closest I can get to natural wood: it's very clear, it doesn't darken the wood much, it protects it, and it gives the wood a nice sheen. So I watched a few videos and bought some Varathane polyurethane.
 
-![The product](/assets/posts/restoring-oliver5/2x/IMG_5111.jpg){:standalone}
+![The product](/assets/posts/restoring-oliver5/2x/IMG_5111.webp){:standalone}
 
 I practiced a little on a piece of 2x4. I was really happy with what I saw, so I immediately went ahead with doing the board. I applied 4 coats of the product (3 only on the bottom). You only have to wait 2 hours between coats. Then a quick scuffing with 400 grit sandpaper, tack cloth, and you can do the next coat. You have to brush it with a really good brush and go slowly, but it's not really hard. I am really happy with the result. It makes the oak look really nice.
 
-![Close-up of the surface](/assets/posts/restoring-oliver5/2x/IMG_5126.jpg){:standalone}
+![Close-up of the surface](/assets/posts/restoring-oliver5/2x/IMG_5126.webp){:standalone}
 
 Here is the finished board. I does look restored, that's certain, or even modern. But I like the natural, clean look and the constrast with the machine on top which, while clean, shows the passing of time. In short, I couldn't be happier with the look of the board now. I didn't think, when I started restoring it, that I would get such a nice result.
 
@@ -147,13 +147,13 @@ Interestingly, the base was originally not manufactured perfectly. In particular
 
 The base has 4 screws, 2 on each side. The cover of the machine attaches to those. In order to sand the board, I decided to try to remove them. It turned out to be easy.
 
-![The screws before bluing](/assets/posts/restoring-oliver5/2x/IMG_5038.jpg){:standalone}
+![The screws before bluing](/assets/posts/restoring-oliver5/2x/IMG_5038.webp){:standalone}
 
 I cleaned them, and then figured I would try cold bluing them as I had just acquired a bluing solution. Cold bluing is a method that turns some metals blue or, in fact, black. The black is some kind of oxide that protects the surface from rust. Using the cold method does not offer as much protection as the hot method, in which you heat up the part and then drench it in oil. So cold bluing is often done more for cosmetic reason than anything else. Still, it does offer some level of protection in addition to the cosmetic aspect.
 
 So I went for it. I Dremeled the screws, cleaned them, dried them, applied the bluing solution as per [this video](), which calls for letting the parts covered in oil overnight after that. The result is fine I believe. I used Super Blue, which gets you the darker color. Wear gloves, eye protection, etc. for using this product.
 
-![2 screws after bluing](/assets/posts/restoring-oliver5/2x/IMG_5041.jpg){:standalone}
+![2 screws after bluing](/assets/posts/restoring-oliver5/2x/IMG_5041.webp){:standalone}
 
 ## Polishing and waxing
 
@@ -165,17 +165,17 @@ As you know, decals are fragile. You can easily scratch them or remove their gol
 
 I figured I would try waxing the paper table. I've had poor experience with Renaissance wax. But this time, it worked fairly well. It doesn't hide defect but makes things shinier and protects what's underneath. I think the result is acceptable. I did the same for the front cover, and eventually I applied this to the whole machine, although to be fair, it doesn't do much on the parts where the paint is in poor condition. But it doesn't seem to hurt. This said, I still think there are ways to do a better job at cleaning this paint and around the decals, as well as polishing.
 
-![The logo on the paper table](/assets/posts/restoring-oliver5/2x/IMG_4982.jpg){:standalone}
+![The logo on the paper table](/assets/posts/restoring-oliver5/2x/IMG_4982.webp){:standalone}
 
 ## Towers
 
 The towers were in decent shape, but the shields had clearly bent.
 
-![The shields are clearly out of shape](/assets/posts/restoring-oliver5/2x/IMG_0957.jpg){:standalone}
+![The shields are clearly out of shape](/assets/posts/restoring-oliver5/2x/IMG_0957.webp){:standalone}
 
 I took them out and straightened them as well as I could.
 
-![Straightening and shaping](/assets/posts/restoring-oliver5/2x/IMG_4924.jpg){:standalone}
+![Straightening and shaping](/assets/posts/restoring-oliver5/2x/IMG_4924.webp){:standalone}
 
 xxx
 
@@ -193,15 +193,15 @@ xxx
 
 I had sets of Oliver feet which I bought from a collector a while back.
 
-![New feet](/assets/posts/restoring-oliver5/2x/IMG_5065.jpg){:standalone}
+![New feet](/assets/posts/restoring-oliver5/2x/IMG_5065.webp){:standalone}
 
 The feet on this machine were hard but otherwise ok. Did I need to replace them? I considered keeping the original feet, since the machine would rest on its base anyway most of the time. But when trying the machine on the base, I realized that it was sinking too much into the cups, because the feet had obviously flattened over time.
 
-![The old feet are too flat](/assets/posts/restoring-oliver5/2x/IMG_5043.jpg){:standalone}
+![The old feet are too flat](/assets/posts/restoring-oliver5/2x/IMG_5043.webp){:standalone}
 
 So my options were either to put some rounds at the bottom of the cups to make them less shallow, or to replace the feet. This machine deserves new feet, so I replaced them, and they are tall enough so that the machine's frame doesn't touch the base.
 
-![The new feet allow for some clearance](/assets/posts/restoring-oliver5/2x/IMG_5057.jpg){:standalone}
+![The new feet allow for some clearance](/assets/posts/restoring-oliver5/2x/IMG_5057.webp){:standalone}
 
 In addition, this allows you to use the machine off its base as well, as the new feet offer protection for a table and help with slipping.
 

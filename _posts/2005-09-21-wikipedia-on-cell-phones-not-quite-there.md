@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/wikipedia_on_cell_phones_not"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/nokia7610.jpg" alt="Nokia 7610" width="169" height="240" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/nokia7610.webp" alt="Nokia 7610" width="169" height="240" loading="lazy"></figure>
 
 There is no doubt that [Wikipedia](http://en.wikipedia.org/wiki/Main_Page) is one of the great projects of the moment. Many articles are still lacking, but there is regular progress made with regards to the quantity and the quality of the information. If the next four years of Wikipedia are as productive as the last four years, the results will be astonishing.
 

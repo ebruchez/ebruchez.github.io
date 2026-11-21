@@ -8,7 +8,7 @@ comments: true
 
 *This page describes part of the Bruchez typewriter collection.*
 
-![Disassembled Varityper A-20 from 1940](/assets/pages/typewriter-varityper/IMG_4833.jpg){:standalone width="50%"}
+![Disassembled Varityper A-20 from 1940](/assets/pages/typewriter-varityper/IMG_4833.webp){:standalone width="50%"}
 
 ## Introduction
 
@@ -35,7 +35,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
 <div class="tw-table">
 
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_3148.jpg"/>
+    <img src="/assets/pages/typewriter-varityper/IMG_3148.webp"/>
     <figcaption>1927 - This beautiful Varityper Folding, labeled "VARITYPER INCORPORATED" is essentially identical to the Hammond Folding, and even shows a "Hammond Patents" label. This machine has signs of previous paint touch-ups, and dirty key legends. But it has been cleaned as well as possible and looks pretty good.
     <br>
     <a href="https://photos.app.goo.gl/3Jkv8W4UhDeZeqob7">During</a>
@@ -46,7 +46,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_9971.jpg"/>
+    <img src="/assets/pages/typewriter-varityper/IMG_9971.webp"/>
     <figcaption>1930s - This Varityper, like the Folding machine, is also labeled "VARITYPER INCORPORATED". However, this is not a folding machine, but one of the first electrified versions. Its smooth black paint contrasts with later machines. This instance has a mathematical keyboard with 4-row shuttles. It is in beautiful cosmetic condition, but needs fixing its carriage return lever. It does not support right-margin justification.
     <br>
     <a href="https://photos.app.goo.gl/g6VjoBoXwKvw81mf6">Pics</a>
@@ -55,7 +55,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_9103.jpg"/>
+    <img src="/assets/pages/typewriter-varityper/IMG_9103.webp"/>
     <figcaption>1940s - This 9-inch machine is now labeled "VARI-TYPER", and the name "Ralph C. Coxhead" appears. Based on a catalog, this matches the "Secretarial" model name. It does not support right-margin justification. This machine needs refurbishing.
     <br>
     <a href="https://photos.app.goo.gl/yx5iTCqY2g4q2Qw68">Pics</a>
@@ -64,7 +64,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_2882.jpg"/>
+    <img src="/assets/pages/typewriter-varityper/IMG_2882.webp"/>
     <figcaption>1940s - This 20-inch machine, model A-20, is also labeled "VARI-TYPER". This is a parts machine which I have almost entirely disassembled with the idea of doing a full restoration. It does support right-margin justification.
     <br>
     <a href="https://photos.app.goo.gl/nrFYrZg8D3BVqJncA">Before</a>
@@ -75,7 +75,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_4989.jpg"/>
+    <img src="/assets/pages/typewriter-varityper/IMG_4989.webp"/>
     <figcaption>1940s - This 20-inch machine, model A-20, is also labeled "VARI-TYPER". This machine is in very good condition, but needs refurbishing. It does supports right-margin justification.
     <br>
     <a href="https://photos.app.goo.gl/LLNrgS6J3eML2R448">Pics</a>
@@ -84,7 +84,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_4254.jpg"/>
+    <img src="/assets/pages/typewriter-varityper/IMG_4254.webp"/>
     <figcaption>1950x - This is an "Engineering" machine, which supports neither justification nor proportional spacing. It is in very poor condition, and might not be salvageable. However, some fonts from its drawer were rescued.
     <br>
     <a href="https://photos.app.goo.gl/cCvbNRe1parJp2xm7">Pics</a>
@@ -105,7 +105,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_3360.jpg"/>
+    <img src="/assets/pages/typewriter-varityper/IMG_3360.webp"/>
     <figcaption>1962 - This beautiful VariTyper (notice yet another name variation) is a model 610 F. The "F" indicates the "forms" function for creating lines, embodied in the box to the right of the machine. It supports right-margin justification and proportional (differential) fonts, two capabilities that Varityper named "DSJ" (Differential Spacing and Justifying). This machine is refurbished.
     <br>
     <a href="https://photos.app.goo.gl/GUmYxr92cdLTffL48">During</a>
@@ -126,7 +126,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
     </figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-varityper/IMG_4228.jpg"/>
+    <img src="/assets/pages/typewriter-varityper/IMG_4228.webp"/>
     <figcaption>1988 - As a bonus, this is a CPU board for the AM Varityper EPICS system. This board is based on the MC 68000 microprocessor. By that time, Varityper was still producing machines in the domain of cold typesetting, but these machines had become in effect computers.
     <br>
     <a href="https://photos.app.goo.gl/Cx66yh8HvzxkpW6eA">Pics</a>
@@ -139,7 +139,7 @@ As of April 2026,  the collection includes 9 machines spanning about 40 years, a
 
 I have a small collection of about 100 varityper fonts (previously known as *shuttles* on the Hammond). Varityper fonts, except for the very early ones, are gray rather than black, made of metal, and typically will not work in older Hammond typewriters.[^hammond-shuttles]
 
-![Varityper fonts](/assets/pages/typewriter-varityper/IMG_1171.jpg){:standalone style="max-width: 75%; width: 100%"}
+![Varityper fonts](/assets/pages/typewriter-varityper/IMG_1171.webp){:standalone style="max-width: 75%; width: 100%"}
 
 ## Manuals collection
 
@@ -149,7 +149,7 @@ In progress.
 
 I have a few Varityper artifacts and manuals, which I also plan to document. An example is this beautiful Varityper ribbon box, probably from the 1940s.
 
-![Varityper paper ribbon](/assets/pages/typewriter-varityper/IMG_4908.jpg){:standalone style="max-width: 75%; width: 100%"}
+![Varityper paper ribbon](/assets/pages/typewriter-varityper/IMG_4908.webp){:standalone style="max-width: 75%; width: 100%"}
 
 <!--
 

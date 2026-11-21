@@ -11,7 +11,7 @@ redirect_from:
 
 78 rpm records can be quite fun, and I have now acquired a few dozens of them over time. The big question is: what do you do with them? The answer appears simple: transfer them to some digital audio format, and just keep the originals safe in a closet. But how do you get from a hundred years old record to an mp3 file?
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/thorens01a.jpg" alt="Thorens TD-170" width="250" height="157" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/thorens01a.webp" alt="Thorens TD-170" width="250" height="157" loading="lazy"></figure>
 
 First, you need to play the record. For this purpose, I have a Thorens turntable which supports a rotating speed of 78 rpm, and a stylus appropriate for 78 rpm records (those are bigger than the needles used for LP records). Ideally, you should have a collection of styli and choose the one best adapted to the record you are playing, depending on type of record and condition, but I have not yet experimented with different styli.
 
@@ -19,7 +19,7 @@ The speed of the turntable is 78 rpm and not adjustable. Many web sites out ther
 
 All mainstream phono preamps have a built-in RIAA equalization curve. More modern microgroove LPs are recorded with reduced bass and increased treble, for technical reasons not worth discussing here. So the preamp pumps up the bass and attenuates the treble. 78 rpm records were not recorded with the RIAA curve in mind, so you should not use that curve during playback. Again, you are often advised to use a special phono preamp which doesn't apply that curve or can apply a bunch of different equalizations. My solution instead: digitally apply a reverse RIAA curve after the sound is recorded!
 
-<figure class="roller-figure roller-figure--left" data-no-lightbox><img src="/assets/posts/roller/audigy01a.jpg" alt="Audigy 2 NX" width="250" height="157" loading="lazy"></figure>
+<figure class="roller-figure roller-figure--left" data-no-lightbox><img src="/assets/posts/roller/audigy01a.webp" alt="Audigy 2 NX" width="250" height="157" loading="lazy"></figure>
 
 To actually go from the analog world to the digital world, I use my notebook computer. The internal sound card is absolutely awful by any standard you can imagine, so using it is not an option. I use an Audigy 2 NX instead, an external USB 2 sound "card", which so far has worked very well. So here you go: with a fixed-speed turntable, a stock phono preamp, and a computer with a sound card, you can record a 78 rpm at the correct speed and with a flat response curve.
 
@@ -31,7 +31,7 @@ Even a clean record will likely produce many audible clicks and pops. One first 
 
 Another technique consists in using "declicking" software. I have tried Cool Edit Pro's built-in declicker as well as Dart XP Pro. As is the case with noise reduction tools, it is a question of balance: you can quickly get to a point where the clicks or the noise are gone, but where the signal is also noticeably modified. For example, the music can sound boxy, or have "holes" instead of clicks. Removing clicks also doesn't make the sound perfectly clean: the sound may be almost "click"-free, yet remain very noisy due to other factors. Beyond automatic tools, it is useful to try to manually fill-in larger clicks. You do this by selecting an audible click or "dirty" area of the recording, which is then replaced with audio content coming from just before or after that area. The results are often surprisingly good.
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/stornelli01a.jpg" alt="Stornelli Marini 78 rpm" width="200" height="199" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/stornelli01a.webp" alt="Stornelli Marini 78 rpm" width="200" height="199" loading="lazy"></figure>
 
 Finally, some equalization of the resulting audio file may be needed. This is an art which I have not mastered yet. In fact, most of the time I have not done any equalization at all. But even though there was no standard equalization curve at the time of 78 rpm records, record companies did apply some type of equalization before recording. Eventually, what matters is how good the music sounds, and a strategy for equalization can consist in just listening and trying to obtain a natural sound.
 

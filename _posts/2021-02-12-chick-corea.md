@@ -12,11 +12,11 @@ category: Link Blog
 
 > It is with great sadness that we announce that on February 9th, Chick Corea passed away at the age of 79, from a rare form of cancer which was only discovered very recently.
 
-![Chick Corea](/assets/posts/chick-corea/chick-corea.jpg){:standalone width="50%"}
+![Chick Corea](/assets/posts/chick-corea/chick-corea.webp){:standalone width="50%"}
 
 I saw Chick Corea in 2019 in Montreux with my wife, dad, brother and sister-in-law. It was the first time I saw him live.
 
-![Montreux Jazz Festival Chick Corea concert ticket](/assets/posts/chick-corea/chick-corea-montreux-ticket.jpg){:standalone}
+![Montreux Jazz Festival Chick Corea concert ticket](/assets/posts/chick-corea/chick-corea-montreux-ticket.webp){:standalone}
 
 It was a beautiful concert. Chick was so cool and at ease. The members of his bands looked up to him in a way that reminded me of how Miles's band members looked at Miles. He was one of those legends that have so much history behind them that they can only attract respect. I remember checking his age before the concert, only then realizing that he was about 78, and being impressed. He looked healthy, energetic, and at his best.
 

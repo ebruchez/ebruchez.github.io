@@ -14,19 +14,19 @@ I previously [wrote about my IBM Memory Typewriter](../ibm-memory-typewriter/) a
 
 The ribbon mechanism was very dirty and at first I couldn't remove the ribbon cartridge.
 
-![Filth](/assets/posts/ibm-memory-typewriter/2x/IMG_8378.jpg){:standalone}
+![Filth](/assets/posts/ibm-memory-typewriter/2x/IMG_8378.webp){:standalone}
 
 Luckily the service manual has detailed instruction about the ribbon mechansim and how things fit together.
 
-![Ribbon mechanism removal instructions](/assets/posts/ibm-memory-typewriter/2x/ribbon-mechanism-removal.jpg){:standalone}
+![Ribbon mechanism removal instructions](/assets/posts/ibm-memory-typewriter/2x/ribbon-mechanism-removal.webp){:standalone}
 
 Still, I had to pull out the cartridge in an unorthodox way! It turned out that the swing arm on the ribbon mechanism was the part causing problems. It was completely stuck. I decided to take everything apart for in-depth cleaning.
 
-![Cleaning the ribbon mechanism](/assets/posts/ibm-memory-typewriter/2x/IMG_8382.jpg){:standalone}
+![Cleaning the ribbon mechanism](/assets/posts/ibm-memory-typewriter/2x/IMG_8382.webp){:standalone}
 
 The parts came out really clean.
 
-![The ribbon mechanism after cleaning](/assets/posts/ibm-memory-typewriter/2x/IMG_8416.jpg){:standalone}
+![The ribbon mechanism after cleaning](/assets/posts/ibm-memory-typewriter/2x/IMG_8416.webp){:standalone}
 
 Unlike the regular Selectric, this ribbon mechanism also has a a reed switch and magnet to detect the end of the ribbon! Here is what the manual says:
 
@@ -36,11 +36,11 @@ Unlike the regular Selectric, this ribbon mechanism also has a a reed switch and
 
 At first I thought that this was over-engineered, but in fact this makes sense for a machine that is able to print an entire page out of memory.
 
-![The "ribbon end" reed switch and magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_8417.jpg){:standalone}
+![The "ribbon end" reed switch and magnet](/assets/posts/ibm-memory-typewriter/2x/IMG_8417.webp){:standalone}
 
 The type element had a broken tab, which is 100% certain to happen on elements with the metal hinge. I got it out following instructions [in this video](https://www.youtube.com/watch?v=-FiFpZFgcV4).
 
-![Bookface Acad 72 10 CPI type element](/assets/posts/ibm-memory-typewriter/2x/IMG_8419.jpg){:standalone}
+![Bookface Acad 72 10 CPI type element](/assets/posts/ibm-memory-typewriter/2x/IMG_8419.webp){:standalone}
 
 I found the broken tab inside the carrier! Not that it helps, because you can't really glue it back.
 
@@ -48,33 +48,33 @@ I found the broken tab inside the carrier! Not that it helps, because you can't 
 
 Below the ribbon mechanism, things were pretty scary.
 
-![Gunk](/assets/posts/ibm-memory-typewriter/2x/IMG_8413.jpg){:standalone}
+![Gunk](/assets/posts/ibm-memory-typewriter/2x/IMG_8413.webp){:standalone}
 
 There is a plastic accordion “print shaft cover” which I detached.
 
-![Accordion](/assets/posts/ibm-memory-typewriter/2x/IMG_8428.jpg){:standalone}
+![Accordion](/assets/posts/ibm-memory-typewriter/2x/IMG_8428.webp){:standalone}
 
 This part required cleaning. But I don't know how good it's going to look in the end. I might have to consider replacing it.
 
-![Cleaning the accordion](/assets/posts/ibm-memory-typewriter/2x/IMG_8773.jpg){:standalone}
+![Cleaning the accordion](/assets/posts/ibm-memory-typewriter/2x/IMG_8773.webp){:standalone}
 
 Underneath, there are actual print shaft covers. Those are metal, unlike the plastic ones of some Selectrics! I removed those easily and cleaned them.
 
-![Print shaft covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8438.jpg){:standalone}
+![Print shaft covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8438.webp){:standalone}
 
 The paper pan and feed rollers also got the same treatment.
 
-![Paper pan and rollers](/assets/posts/ibm-memory-typewriter/2x/IMG_8441.jpg){:standalone}
+![Paper pan and rollers](/assets/posts/ibm-memory-typewriter/2x/IMG_8441.webp){:standalone}
 
 I removed two more covers, including one for the fuses.
 
-![More covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8444.jpg){:standalone}
+![More covers](/assets/posts/ibm-memory-typewriter/2x/IMG_8444.webp){:standalone}
 
 ## Cleaning the mechanical parts
 
 I wondered whether I should disassemble more of the machine to clean it. I was advised to clean things in place. I put rags to absorb liquids just in case, as I really don't want liquids to reach the planar, and I used mineral spirits and a toothbrush to loosen grime and grease. I used compressed air to get the stuff out. It's a slow and tiresome process, which I did with a headlight to see what I was doing. Here is an example of what I have to deal with.
 
-![Gunk](/assets/posts/ibm-memory-typewriter/2x/IMG_8426.jpg){:standalone}
+![Gunk](/assets/posts/ibm-memory-typewriter/2x/IMG_8426.webp){:standalone}
 
 Halfway through the process, I tried the machine again. Things on the carrier appear to move much better.
 
@@ -111,7 +111,7 @@ DATE:           1974
 
 For one thing, this confirms the 1974 date!
 
-![Markings](/assets/posts/ibm-memory-typewriter/2x/IMG_9148.jpg){:standalone}
+![Markings](/assets/posts/ibm-memory-typewriter/2x/IMG_9148.webp){:standalone}
 
 ## The planar and its support
 
@@ -123,15 +123,15 @@ I decided that I should remove and clean the planar even as I wasn't done cleani
 
 Removing it is very easy. It was designed to be removed and swapped if anything goes wrong with it. Remove the connectors, a couple of screws, and that's it!
 
-![The planar removed](/assets/posts/ibm-memory-typewriter/2x/IMG_9157.jpg){:standalone}
+![The planar removed](/assets/posts/ibm-memory-typewriter/2x/IMG_9157.webp){:standalone}
 
 This clearly provides better access to the motor and other mechanical parts.
 
-![The AC motor after removing the planar](/assets/posts/ibm-memory-typewriter/2x/IMG_9150.jpg){:standalone}
+![The AC motor after removing the planar](/assets/posts/ibm-memory-typewriter/2x/IMG_9150.webp){:standalone}
 
 Now the planar is a thing of beauty. It is full of custom, unfortunately undocumented IBM chips. The planar would deserve its own post, but I'll mention here that we identified the memory chips. It is pretty clear that these chips are shift-registers, and that each of those probably holds 4,000 (or maybe 4,096) bits of data. 7 chips provide 4,000 (or maybe 4,096) 7-bit characters or codes, which is the advertised memory capacity of the machine.
 
-![The 7 memory chips](/assets/posts/ibm-memory-typewriter/2x/IMG_9237.jpg){:standalone}
+![The 7 memory chips](/assets/posts/ibm-memory-typewriter/2x/IMG_9237.webp){:standalone}
 
 The memory chips are all labeled as follows:
 
@@ -146,35 +146,35 @@ Note that the IBM Electronic Composer, a machine in the same lineage is the IBM 
 
 The planar is attached to a polycarbonate (maybe?) back. It had some soundproofing or insulation, which was all crumbling. I removed what I could, but it left a hard residue.
 
-![The planar backing and its ugly glue residue](/assets/posts/ibm-memory-typewriter/2x/IMG_9159.jpg){:standalone}
+![The planar backing and its ugly glue residue](/assets/posts/ibm-memory-typewriter/2x/IMG_9159.webp){:standalone}
 
 I removed the metal and plastic hardware.
 
-![Parts from the top of the frame](/assets/posts/ibm-memory-typewriter/2x/IMG_9165.jpg){:standalone}
+![Parts from the top of the frame](/assets/posts/ibm-memory-typewriter/2x/IMG_9165.webp){:standalone}
 
 Removing this residue was not easy. I didn't want to damage the plastic. I tried various cleaners and solvents, including Simple Green and Goo Gone, which did nothing. In the end, I found that Hoppe's #9 was slowly softening the residue. I could apply it, and, using a plastic blade, scrape it a little.
 
-![Scraping](/assets/posts/ibm-memory-typewriter/2x/IMG_9257.jpg){:standalone}
+![Scraping](/assets/posts/ibm-memory-typewriter/2x/IMG_9257.webp){:standalone}
 
 It took many passes over the course of one week to finally get all of it out. If you look closely and with the right light you will still see some scratches, but overall it's a beautiful part!
 
-![The result](/assets/posts/ibm-memory-typewriter/2x/IMG_9404.jpg){:standalone}
+![The result](/assets/posts/ibm-memory-typewriter/2x/IMG_9404.webp){:standalone}
 
 The planar is attached to its support with brackets.
 
-![Bracket](/assets/posts/ibm-memory-typewriter/2x/IMG_9479.jpg){:standalone}
+![Bracket](/assets/posts/ibm-memory-typewriter/2x/IMG_9479.webp){:standalone}
 
 Note the air guide, which connects to the fan in the power supply, and which ensures that air reaches the planar.
 
-![Air guide](/assets/posts/ibm-memory-typewriter/2x/IMG_9917.jpg){:standalone}
+![Air guide](/assets/posts/ibm-memory-typewriter/2x/IMG_9917.webp){:standalone}
 
 The result is pretty neat.
 
-![The assembly all clean](/assets/posts/ibm-memory-typewriter/2x/IMG_9906.jpg){:standalone}
+![The assembly all clean](/assets/posts/ibm-memory-typewriter/2x/IMG_9906.webp){:standalone}
 
 In the following picture you can see the memory chips at the top.
 
-![View including the shift-register chips](/assets/posts/ibm-memory-typewriter/2x/IMG_9910.jpg){:standalone}
+![View including the shift-register chips](/assets/posts/ibm-memory-typewriter/2x/IMG_9910.webp){:standalone}
 
 The planar bears several numbers:
 
@@ -189,25 +189,25 @@ I don't know what they mean. Could some of the stickers be IBM service stickers?
 
 This is the part that "reads" the keyboard.
 
-![The transmit block](/assets/posts/ibm-memory-typewriter/2x/IMG_8308.jpg){:standalone}
+![The transmit block](/assets/posts/ibm-memory-typewriter/2x/IMG_8308.webp){:standalone}
 
 once you remove the PCB, you can see that it consists of seven magnets and seven reed switches. The magnets are activated mechanically.
 
-![The magnets](/assets/posts/ibm-memory-typewriter/2x/IMG_0135.jpg){:standalone}
+![The magnets](/assets/posts/ibm-memory-typewriter/2x/IMG_0135.webp){:standalone}
 
 The board with the reed switches was very dirty, no doubt in part due to my own cleaning of other parts of the machine.
 
-![Dirty reed board](/assets/posts/ibm-memory-typewriter/2x/IMG_0133.jpg){:standalone}
+![Dirty reed board](/assets/posts/ibm-memory-typewriter/2x/IMG_0133.webp){:standalone}
 
 I cleaned it a little, but some black residues remain.
 
-![Cleaner reed board](/assets/posts/ibm-memory-typewriter/2x/IMG_0136.jpg){:standalone}
+![Cleaner reed board](/assets/posts/ibm-memory-typewriter/2x/IMG_0136.webp){:standalone}
 
 ## Conclusion so far
 
 Here is a picture of the bottom of the machine as of September 2021, with the planar and power supply off.
 
-![The machine's bottom](/assets/posts/ibm-memory-typewriter/2x/IMG_4522.jpg){:standalone}
+![The machine's bottom](/assets/posts/ibm-memory-typewriter/2x/IMG_4522.webp){:standalone}
 
 I made a lot of progress, but I am not done yet. Here are tentative next steps:
 

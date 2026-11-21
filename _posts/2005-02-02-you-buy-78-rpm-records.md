@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/you_buy_78_rpm_records"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/78rpm02a.jpg" alt="The new MSN Search page" width="200" height="198" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/78rpm02a.webp" alt="The new MSN Search page" width="200" height="198" loading="lazy"></figure>
 
 Friends of mine have had a good laugh more than once watching me listen to vintage audio recordings on my computer headphones. None of them of course would listen to muffled, crackling and popping, monophonic audio records. After all, this is the century of digital audio, where a $50 piece of equipment records at 24-bit / 96 kHz, and where your look dumb if your audio system does not have six or height speakers.
 

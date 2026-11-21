@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/sad_day_for_journalism_and"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/politkovskaya.jpg" alt="Anna Politkovskaya" width="250" height="198" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/politkovskaya.webp" alt="Anna Politkovskaya" width="250" height="198" loading="lazy"></figure>
 
 Journalist [Anna Politkovskaya](http://en.wikipedia.org/wiki/Anna_Politkovskaya) was [murdered yesterday](http://edition.cnn.com/2006/WORLD/europe/10/08/russia.murder.ap/index.html) in Moscow.
 

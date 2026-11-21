@@ -21,22 +21,25 @@ title: Typewriter bucket list
 
 I have a typewriter collection which [you can see to a large extent on TWDB](https://typewriterdatabase.com/typewriters.php?hunter_search=3614&collection_search=My+Collection). But a collector is never entirely satisfied, and there are several machines I'd love to find, if they are affordable and/or in restorable condition. Below is a list of such machines.[^shippping]
 
-See also my [computer bucket list](../computer-bucket-list/).
+See also:
+
+- [Computer bucket list](/pages/computer-bucket-list/)
+- [Typewriter bucket list items found](/pages/typewriter-bucket-list-found/)
 
 ## IBM Magnetic Tape/Selectric Typewriter
 
 I'd love to find the rare IBM Magnetic Tape/Selectric Typewriter (MT/ST, also known as MT72 in Europe), which came out in 1964.[^mtst-ebay][^mtst-diagrams][^mtsc] It is a large machine, with a special desk and a large console, as you can see on the picture below.
 
-![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.jpg){:standalone style="max-width: 75%; width: 100%"}
+![IBM Magnetic Tape/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmtst.webp){:standalone style="max-width: 75%; width: 100%"}
 
-[//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.jpg&#41;{:standalone})
+[//]: # (![IBM Magnetic Tape/Selectric Typewriter]&#40;/assets/pages/typewriter-bucket-list/ibmmtsc.webp&#41;{:standalone})
 [//]: # (*Credit: [Norsk Teknisk Museum]&#40;https://digitaltmuseum.org/011015239416/7-0-ibm-op-fotografier&#41;*)
 
 ## Original IBM Mag Card typewriter
 
 The first IBM Magnetic Card/Selectric Typewriter (MC/ST), which came out in 1969, seems to be quite rare. I am aware of a museum in Europe that has an instance (alongside an MT/ST). It had a different style of console compared to the newer and more stylish Mag Card/II console. In fact it looks more like the MT/ST, although possibly a little smaller.
 
-![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.jpg){:standalone style="max-width: 75%; width: 100%"}
+![IBM Mag Card/Selectric Typewriter](/assets/pages/typewriter-bucket-list/ibmmcst.webp){:standalone style="max-width: 75%; width: 100%"}
 
 
 ## IBM Displaywriter System
@@ -53,7 +56,7 @@ I own a [Remington Model-121 Vertical Adder](https://typewriterdatabase.com/192x
 
 I know that a few of those are around, as I've seen them for sale a couple of times: once in Europe, and once in the US, but too far away from me. Hopefully one is waiting form me somewhere.
 
-![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.png){:standalone style="max-width: 60%; width: 100%"}
+![Remington 11 with Adding and Subtracting mechanism](/assets/pages/typewriter-bucket-list/remington11wahl.webp){:standalone style="max-width: 60%; width: 100%"}
 
 *Credit: [National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_904253?fbclid=IwAR02VU29QBYN5V7w2-Z0fcxLodE5XzPoDFhsFpXcw-2eqcN21Ns-3nRcbDo)*
 
@@ -66,17 +69,17 @@ I have seen a few 1010 for sale, but in places too far for me, and shipping is a
 
 I am also interested in completing my collection of Varityper shuttles (or fonts). Those are sometimes sold as "Hammond" shuttles, but they are typically not compatible with Hammond typewriters. They have a gray metal look, unlike the original black Hammond shuttles.
 
-[//]: # (![The current &#40;2022&#41; Varityper collection]&#40;/assets/posts/varityper-610f/2x/montage.jpg&#41;{:standalone width="50%"})
+[//]: # (![The current &#40;2022&#41; Varityper collection]&#40;/assets/posts/varityper-610f/2x/montage.webp&#41;{:standalone width="50%"})
 
-![VariTyper Model 660F](/assets/pages/typewriter-bucket-list/varityper660.jpg){:standalone style="max-width: 75%; width: 100%"}
+![VariTyper Model 660F](/assets/pages/typewriter-bucket-list/varityper660.webp){:standalone style="max-width: 75%; width: 100%"}
 
-![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.jpg){:standalone style="max-width: 75%; width: 100%"}
+![VariTyper Model 1010](/assets/pages/typewriter-bucket-list/varityper1010.webp){:standalone style="max-width: 75%; width: 100%"}
 
 ## Hermes 10
 
 The Hermes 10 is a typewriter which is the electric twin of the Hermes 3000. It is a beautiful machine, and I'd love to find one in good condition for a decent price.
 
-![Hermes 10](/assets/pages/typewriter-bucket-list/hermes10.jpg){:standalone}
+![Hermes 10](/assets/pages/typewriter-bucket-list/hermes10.webp){:standalone}
 
 *Credit: [Joe Van Cleave](https://typewriterdatabase.com/typewriters.php?hunter_search=1775&collection_search=My+Collection)*
 
@@ -95,50 +98,7 @@ The following machines would be nice to complete that collection:
 - Mag Card Executive
 - Mag Card Composer
 
-![IBM Mag Card II](/assets/pages/typewriter-bucket-list/ibmcstii.jpg){:standalone style="max-width: 75%; width: 100%"}
-
----
-
-## Bucket list items I have found
-
-### IBM MT/SC
-
-_FOUND: March 2024._
-
-In March 2024, I stumbled on an extraordinary find: an IBM MT/SC system, complete with input station and output station. Read more about it in the following blog posts:
-
-- [The IBM Magnetic Tape Selectric Composer - Part 1](/posts/ibm-mt-sc-1/)
-- [The IBM Magnetic Tape Selectric Composer - Part 2](/posts/ibm-mt-sc-2/)
-
-![IBM MT/SC system as found](/assets/posts/ibm-mtsc/2x/IMG_2686.jpg){:standalone}
-
-### Remington 2
-
-_FOUND: May 2024._
-
-In addition to owning a beautiful [Remington 6 from 1902](https://photos.app.goo.gl/5YyJJKtP9Reda8eg2), which I restored myself, I was lucky to find, in May 2024, an early  Remington 2 from 1885! It is missing the wooden roller and paper table (for which I acquired parts in September 2024). It will need restoration. For more, see my [TWDB gallery](https://typewriterdatabase.com/1885-remington-2.23048.typewriter) and the [photo album](https://photos.app.goo.gl/6Laua3aeqrwNpVqGA).
-
-![Remington 2 from 1885](/assets/pages/typewriter-bucket-list/remington2.jpg){:standalone}
-
-The Remington 3 and 5 are wide-carriage versions, and much rarer. The Remington 4 only did capital letters and 35,000 were made, approximately. Needless to say, I'd be happy to find one of those as well!
-
-### IBM Input/Output (I/O) Selectric Typewriter
-
-_FOUND: May 2025._
-
-[My IBM MT/SC](/posts/ibm-mt-sc-1/) includes a variant of an IBM I/O Selectric Typewriter, called the MT/SR. I'd love to find an actual I/O typewriter. These look like a regular Selectric, but with a fatter bottom containing extra hardware. Inside, there are contacts and solenoids that allow the machine to transmit information, and to act as a printer. These machines were connected to IBM MT/ST machines, or to a computer.
-
-![IBM I/O Selectric Typewriter](/assets/pages/typewriter-bucket-list/mt-sr-no-background.jpg){:standalone style="max-width: 75%; width: 100%"}
-
-### VariTyper Models 160 and 720
-
-_FOUND: April 2026_
-
-I was very lucky to be able to purchase these machines together in April 2026, especially model 720, which features the latest body and keyboard style. I also got some manuals, fonts, and accessories as part of that purchase.
-
-![VariTyper Model 160](/assets/pages/typewriter-varityper/IMG_2945.webp){:standalone style="max-width: 75%; width: 100%"}
-
-![VariTyper Model 720](/assets/pages/typewriter-varityper/IMG_2894.webp){:standalone style="max-width: 75%; width: 100%"}
+![IBM Mag Card II](/assets/pages/typewriter-bucket-list/ibmcstii.webp){:standalone style="max-width: 75%; width: 100%"}
 
 ## See also
 

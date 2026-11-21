@@ -17,7 +17,7 @@ In a [previous post](../typewriter-shipping/), I covered the shipping of seven b
 
 The first box packed a Victor 3 typewriter from the 1910s. This machine was shipped within Switzerland first. It was crated, as I had asked the seller to use special care for packing (and to pay a little more for that), and it survived the local shipment perfectly.
 
-![The Victor 3 just before shipping](/assets/posts/shipping-typewriters-update/2x/IMG_3055.jpg){:standalone}
+![The Victor 3 just before shipping](/assets/posts/shipping-typewriters-update/2x/IMG_3055.webp){:standalone}
 
 Because this is not a typewriter one finds every day, I wanted to pack it particularly well. Learning from my 2021 experience, I didn't use bubble wrap or packing peanuts. Instead, I mainly used styrofoam. [^styrofoam]
 
@@ -30,29 +30,29 @@ I then cut a 4 cm-thick styrofoam board to size and placed the machine on it, pu
 
 I tied the carriage release levers to avoid any pressure on the escapement.
 
-![Tying up the carriage release](/assets/posts/shipping-typewriters-update/2x/IMG_3120.jpg){:standalone}
+![Tying up the carriage release](/assets/posts/shipping-typewriters-update/2x/IMG_3120.webp){:standalone}
 
 I packed all spaces inside the open-framed machine with crumbled newspaper so that nothing would move. This included underneath the keyboard. I also covered the machine with soft paper to protect the machine's exterior from contact with the styrofoam.
 
 Then I added styrofoam boards and smaller blocks all over: sides, front, back, and over the keyboard. I finished with thick styrofoam boards above the whole machine, and placed all of that to fit snugly in the box.
 
-![Inner box almost entirely packed up](/assets/posts/shipping-typewriters-update/2x/IMG_3124.jpg){:standalone}
+![Inner box almost entirely packed up](/assets/posts/shipping-typewriters-update/2x/IMG_3124.webp){:standalone}
 
 I had decided to double-box from the get go. I also followed what I did in the past for the Smith Premier 5, and built a frame, in the outer box, using plywood at the bottom and 4 posts screwed in the corners. On that base, I placed another 2 cm board of styrofoam.
 
-![The frame in the outer box](/assets/posts/shipping-typewriters-update/2x/IMG_3143.jpg){:standalone}
+![The frame in the outer box](/assets/posts/shipping-typewriters-update/2x/IMG_3143.webp){:standalone}
 
 Then I put the first box in, and padded the sides with more styrofoam. I had a few books I wanted to ship as well, so I padded them and placed them on two of the sides, sandwiched between styrofoam and the inner box.
 
-![Box within a box](/assets/posts/shipping-typewriters-update/2x/IMG_3144.jpg){:standalone}
+![Box within a box](/assets/posts/shipping-typewriters-update/2x/IMG_3144.webp){:standalone}
 
 Finally, I screwed the top plywood board.
 
-![Plywood top](/assets/posts/shipping-typewriters-update/2x/IMG_3145.jpg){:standalone}
+![Plywood top](/assets/posts/shipping-typewriters-update/2x/IMG_3145.webp){:standalone}
 
 I reinforced all the outer box's corners, and more, with reinforced tape.
 
-![The reinforced package ready to ship](/assets/posts/shipping-typewriters-update/2x/IMG_3155.jpg){:standalone}
+![The reinforced package ready to ship](/assets/posts/shipping-typewriters-update/2x/IMG_3155.webp){:standalone}
 
 ### Box 2
 
@@ -66,33 +66,33 @@ However, I didn't want to just ship the cover as it's obviously empty inside, an
 
 You might notice on the picture below that the typewriter is wrapped in bubble wrap, which I said I wouldn't use. Laziness mostly accounts for this! I had already previously wrapped that machine, and I figured that the styrofoam below and above would be enough. In addition, the bubble wrap had already deflated to some degree. There was a risk that the bubble wrap would deflate fully and cause unwanted movement inside the big Yost cover, but it seemed fine, and I took the risk not to rewrap it.
 
-![Piling up the two machines](/assets/posts/shipping-typewriters-update/2x/IMG_3986.jpg){:standalone}
+![Piling up the two machines](/assets/posts/shipping-typewriters-update/2x/IMG_3986.webp){:standalone}
 
 I shaped the styrofoam to approximate the inner contours of the Yost 20 cover.
 
-![The inside](/assets/posts/shipping-typewriters-update/2x/IMG_3992.jpg){:standalone}
+![The inside](/assets/posts/shipping-typewriters-update/2x/IMG_3992.webp){:standalone}
 
 I protected the cover with paper, and filled the gaps with styrofoam.
 
-![Filling the gaps](/assets/posts/shipping-typewriters-update/2x/IMG_3998.jpg){:standalone}
+![Filling the gaps](/assets/posts/shipping-typewriters-update/2x/IMG_3998.webp){:standalone}
 
 Here again, I added a few books where there was space, and then packed everything tight.
 
-![Full box](/assets/posts/shipping-typewriters-update/2x/IMG_4001.jpg){:standalone}
+![Full box](/assets/posts/shipping-typewriters-update/2x/IMG_4001.webp){:standalone}
 
 Finally, I screwed the top plywood board. I was getting the hang of this!
 
-![Finishing the box](/assets/posts/shipping-typewriters-update/2x/IMG_4002.jpg){:standalone}
+![Finishing the box](/assets/posts/shipping-typewriters-update/2x/IMG_4002.webp){:standalone}
 
 ### Box 3
 
 In box 3, I placed two portable typewriters, a Hermes 3000 cover, and some more books. I used plywood, but no posts, assuming the rigidity of the portables' boxes would be sufficient. I know I said I wouldn't use peanuts but I sprinkled a few leftover ones on top.
 
-![The portables' box](/assets/posts/shipping-typewriters-update/2x/IMG_4014.jpg){:standalone}
+![The portables' box](/assets/posts/shipping-typewriters-update/2x/IMG_4014.webp){:standalone}
 
 Here are boxes 2 and 3 ready to go (with the exception so some more reinforcement tape added just after).
 
-![Almost ready to ship](/assets/posts/shipping-typewriters-update/2x/IMG_4016.jpg){:standalone}
+![Almost ready to ship](/assets/posts/shipping-typewriters-update/2x/IMG_4016.webp){:standalone}
 
 ## The result
 
@@ -100,11 +100,11 @@ Here are boxes 2 and 3 ready to go (with the exception so some more reinforcemen
 
 Box 2 arrived after 20 days. It was in decent shape, much better than last year's boxes. I suspect that the tape reinforcements really helped.
 
-![Box 2 just after arrival](/assets/posts/shipping-typewriters-update/2x/IMG_4553.jpg){:standalone}
+![Box 2 just after arrival](/assets/posts/shipping-typewriters-update/2x/IMG_4553.webp){:standalone}
 
 One corner of the top plywood board had broken, without consequences.
 
-![Broken corner](/assets/posts/shipping-typewriters-update/2x/IMG_4557.jpg){:standalone}
+![Broken corner](/assets/posts/shipping-typewriters-update/2x/IMG_4557.webp){:standalone}
 
 But the contents of the box was in perfect condition, and that's what matters!
 
@@ -112,11 +112,11 @@ But the contents of the box was in perfect condition, and that's what matters!
 
 Box 3 arrived after 22 days. I noticed that the box was a little compressed. This is obviously the box without the wooden posts.
 
-![Box 3 just after arrival](/assets/posts/shipping-typewriters-update/2x/IMG_4752.jpg){:standalone}
+![Box 3 just after arrival](/assets/posts/shipping-typewriters-update/2x/IMG_4752.webp){:standalone}
 
 Here the top plywood board cracked.
 
-![Cracked plywood](/assets/posts/shipping-typewriters-update/2x/IMG_4755.jpg){:standalone}
+![Cracked plywood](/assets/posts/shipping-typewriters-update/2x/IMG_4755.webp){:standalone}
 
 The packing peanuts I had put inside proved useless again, in that they were completely flattened. Luckily, I hadn't truly relied on them and here again, the contents were in perfect condition. I definitely won't put any such packing peanuts next time.
 
@@ -132,25 +132,25 @@ To my delight, I finally got a tracking update: the box would be finally deliver
 
 The box wasn't in bad shape at all!
 
-![The Victor 3's box](/assets/posts/shipping-typewriters-update/2x/IMG_4927.jpg){:standalone}
+![The Victor 3's box](/assets/posts/shipping-typewriters-update/2x/IMG_4927.webp){:standalone}
 
 I found the contents in perfect condition: the top and bottom plywood boards were in the best shape so far, and the inner box was pristine.
 
-![Carefully pulling out the Victor 3](/assets/posts/shipping-typewriters-update/2x/IMG_4945.jpg){:standalone}
+![Carefully pulling out the Victor 3](/assets/posts/shipping-typewriters-update/2x/IMG_4945.webp){:standalone}
 
 The styrofoam and double-boxing had done their job!
 
-![The cosy interior where the Victor 3 spent over a month](/assets/posts/shipping-typewriters-update/2x/IMG_4948.jpg){:standalone}
+![The cosy interior where the Victor 3 spent over a month](/assets/posts/shipping-typewriters-update/2x/IMG_4948.webp){:standalone}
 
 ## Conclusion
 
 The Victor 3 is now on the workbench, slowly getting cleaned and very lightly restored.
 
-![The Victor 3 on the workbench](/assets/posts/shipping-typewriters-update/2x/IMG_5179.jpg){:standalone}
+![The Victor 3 on the workbench](/assets/posts/shipping-typewriters-update/2x/IMG_5179.webp){:standalone}
 
 The Yost 20 cover is safe, although I plan to leave it alone for now.
 
-![The Yost 20 cover](/assets/posts/shipping-typewriters-update/2x/IMG_4577.jpg){:standalone}
+![The Yost 20 cover](/assets/posts/shipping-typewriters-update/2x/IMG_4577.webp){:standalone}
 
 I think that I can claim 100% success in this year's shipment! I am especially happy with the Victor 3, while at the same time the other two boxes travelled safely as well. This gives me confidence that, should I need to ship a particularly precious typewriter again, I will be able to do so.
 

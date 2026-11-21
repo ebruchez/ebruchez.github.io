@@ -15,7 +15,7 @@ The [Lear Siegler ADM-3A](https://terminals-wiki.org/wiki/index.php/Lear_Siegler
 
 Jerry Walker has amazing video series on that terminal, and Usagi Electric has a restoration video as well.
 
-![Lear Siegler ADM-3A](/assets/pages/typewriter-bucket-list/lear-siegler-adm3a.jpg){:standalone style="max-width: 75%; width: 100%"}
+![Lear Siegler ADM-3A](/assets/pages/typewriter-bucket-list/lear-siegler-adm3a.webp){:standalone style="max-width: 75%; width: 100%"}
 
 *Credit: [Chris Jacobs, CC BY-SA 3.0](https://en.wikipedia.org/wiki/ADM-3A#/media/File:Adm3aimage.jpg)*
 
@@ -30,7 +30,7 @@ In addition to the VT100, The VT-52 and VT-220 are also iconic terminals, be it 
 
 I own a Smaky 130, as Swiss-made and designed microcomputer. I'd love to find the first 68000-based machine, the Smaky 8. However, only a very small number of those were made. At least one is at the [Bolo Computer Museum](https://www.museebolo.ch/) in Switzerland.
 
-![Smaky 8](/assets/pages/typewriter-bucket-list/smaky8.jpg){:standalone}
+![Smaky 8](/assets/pages/typewriter-bucket-list/smaky8.webp){:standalone}
 
 *Credit: [Musée Bolo](https://www.museebolo.ch/projet-smaky/)*
 
@@ -38,7 +38,7 @@ I own a Smaky 130, as Swiss-made and designed microcomputer. I'd love to find th
 
 The Smaky 6 was a Z80-based machine, and the first Smaky to be produced in "large" numbers (about 450 units). It's the first computer on which I wrote a small working program, in 1986.
 
-![Smaky 6](/assets/pages/typewriter-bucket-list/smaky6.jpg){:standalone}
+![Smaky 6](/assets/pages/typewriter-bucket-list/smaky6.webp){:standalone}
 
 *Credit: [Musée Bolo](https://www.museebolo.ch/projet-smaky/)*
 
@@ -48,7 +48,7 @@ This is probably a very long shot, but I'd love to find an affordable Olivetti P
 
 *UPDATE: One sold on eBay in September 2023 for $7,408.49. So I won't hold my breath about finding a cheap one.*
 
-![Olivetti Programma 101](/assets/pages/typewriter-bucket-list/olivetti-programma-101.jpg){:standalone}
+![Olivetti Programma 101](/assets/pages/typewriter-bucket-list/olivetti-programma-101.webp){:standalone}
 
 *Credit: [Museoscienza.org. Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano](https://www.museoscienza.org/it)*
 
@@ -62,7 +62,7 @@ _FOUND: August 2022._
 
 Ever since I watched [CuriousMarc's series of videos on the ASR-33](https://www.youtube.com/watch?v=QzfjT1mCRww&list=PL-_93BVApb5-84G5kmgfuu7TQduTMc73H), I've wanted one. And in August 2022, I got three of them, in various conditions! As you can see here, the condition is a little rough:
 
-![ASR-33 Teletype, due for restoration](/assets/posts/asr-33/2x/IMG_5151.jpg){:standalone style="max-width: 75%; width: 100%"}
+![ASR-33 Teletype, due for restoration](/assets/posts/asr-33/2x/IMG_5151.webp){:standalone style="max-width: 75%; width: 100%"}
 
 See also:
 
@@ -76,13 +76,13 @@ I own a TeleVideo TVI-912 from 1979. See the following posts:
 - [The TeleVideo TVI-912 terminal - Part 2](/posts/televideo-912-terminal-2/)
 - [The TeleVideo TVI-912 terminal - Part 3](/posts/televideo-912-terminal-3/)
 
-![TeleVideo TVI-912](/assets/posts/televideo-912/2x/IMG_4030.jpg){:standalone style="max-width: 75%; width: 100%"}
+![TeleVideo TVI-912](/assets/posts/televideo-912/2x/IMG_4030.webp){:standalone style="max-width: 75%; width: 100%"}
 
 I also own a TeleVideo TS-800A (TVI-950-compatible, and includes a CP-M system) from 1983, see the following blog post:
 
 - [Restoring a TeleVideo TS-800A Terminal](/posts/televideo-800a-terminal/)
 
-![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.jpg){:standalone style="max-width: 75%; width: 100%"}
+![TeleVideo TS-800A](/assets/posts/televideo-800a/2x/IMG_6693.webp){:standalone style="max-width: 75%; width: 100%"}
 
 Those can be connected to vintage computers. I have a CompuPro System 8/16, but it's not working yet. In the meanwhile, I have connected them to an [Altair-Duino](https://adwaterandstir.com/product/altair-8800-emulator-kit/) kit and a [PiDP-11](https://obsolescence.wixsite.com/obsolescence/pidp-11) kit via RSR-232.[^rs232]
 
@@ -90,7 +90,7 @@ Those can be connected to vintage computers. I have a CompuPro System 8/16, but 
 
 _FOUND: June 2025. I bought locally two VT100-AA in fairly rough and non-working condition. One of the keyboards is almost complete, the other not._
 
-![VT100 terminals as I bought them](/assets/pages/computer-bucket-list/vt100-rough.jpg){:standalone style="max-width: 75%; width: 100%"}
+![VT100 terminals as I bought them](/assets/pages/computer-bucket-list/vt100-rough.webp){:standalone style="max-width: 75%; width: 100%"}
 
 ## See also
 
@@ -100,6 +100,7 @@ _FOUND: June 2025. I bought locally two VT100-AA in fairly rough and non-working
 - [Typewriter collection: IBM Typewriters](/pages/typewriter-collection-ibm/)
 - [Typewriter collection: Varityper](/pages/typewriter-collection-varityper/)
 - [Typewriter bucket list](/pages/typewriter-bucket-list/)
+- [Typewriter  bucket list items found](/pages/typewriter-bucket-list-found/)
 
 ---
 

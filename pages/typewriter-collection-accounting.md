@@ -36,19 +36,19 @@ I am not showing here later machines like the IBM Memory Typewriter which includ
 <div class="tw-table">
 
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_9110.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_9110.webp"/>
     <figcaption>1896 - This is a very early Remington 7 with tabulator (presumably Gorin) with serial 3397. It has a broken key and a missing tabulator plaque in the back, but otherwise is in great condition.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_4492.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_4492.webp"/>
     <figcaption>1907 - This Smith Premier 5 features a Gorin tabulator. It has broken parts, missing carriage bearings, and needs serious restoration, but otherwise looks quite good.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_1510.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_1510.webp"/>
     <figcaption>1907 - This second Remington 7 with Gorin tabulator is in good condition but needs some in-depth cleaning.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_5592.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_5592.webp"/>
     <figcaption>1920s - This Remington Vertical Adder Model-21 needs moderate restoration. It includes two totalizers.</figcaption>
 </figure>
 <figure>
@@ -56,7 +56,7 @@ I am not showing here later machines like the IBM Memory Typewriter which includ
     <figcaption>1920s - This second Remington Vertical Adder Model-21 needs restoration. It didn't come with totalizers and is missing its paper table, but it features an electric carriage return like my Model-23.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-future-restorations/IMG_7771.jpg"/>
+    <img src="/assets/pages/typewriter-future-restorations/IMG_7771.webp"/>
     <figcaption>1920s - This massive Remington Bookkeeping Machine Model-23 is one of the heaviest machines I own. I have since obtained spare totalizers from a parts Model-23. It features an electric carriage return.</figcaption>
 </figure>
 <figure>
@@ -68,7 +68,7 @@ I am not showing here later machines like the IBM Memory Typewriter which includ
     <figcaption>1920s - This  Underwood bookkeeping machine, or the remnants of it, is very rare. It is missing its carriage.</figcaption>
 </figure>
 <figure>
-    <img src="/assets/pages/typewriter-completed-restorations/IMG_3006.jpg"/>
+    <img src="/assets/pages/typewriter-completed-restorations/IMG_3006.webp"/>
     <figcaption>1930s - This Remington Model-121 is one of my favorite completed projects. The machine needed significant work (at my level of skill), but turned out beautiful. I refinished the wooden base, recreated the colored key legends, which had disintegrated. The machine's paint turned out beautiful once polished.
     <br/>
     <a href="https://photos.app.goo.gl/QfYYWSdk8cfJqmEF9">During</a>

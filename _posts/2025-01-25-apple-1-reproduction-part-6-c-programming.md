@@ -16,7 +16,7 @@ This is part of a series of posts about building an Apple-1 reproduction in 2024
 - [Building an Apple-1 Reproduction in 2024 - Part 5: Monitor, Keyboard, Power-Up](../apple-1-reproduction-part-5-monitor-keyboard-power-up/)
 - [Building an Apple-1 Reproduction in 2024/2025 - Part 7: The Audio Cassette Adapter](../apple-1-reproduction-part-7-audio-cassette-adapter/)
 
-![Demo application written in C](/assets/posts/apple1/2x/IMG_1490.jpg){:standalone width="75%"}
+![Demo application written in C](/assets/posts/apple1/2x/IMG_1490.webp){:standalone width="75%"}
 
 ## Programming the Apple-1
 
@@ -26,7 +26,7 @@ BASIC was much easier to learn, but you needed to get the Apple-1 ACI (Audio Cas
 
 Here is part of the cover of the Apple BASIC manual reproduction, made with love by Armin in Germany: 
 
-![Apple-1 BASIC manual cover (reproduction)](/assets/posts/apple1/2x/IMG_3042.jpg){:standalone}
+![Apple-1 BASIC manual cover (reproduction)](/assets/posts/apple1/2x/IMG_3042.webp){:standalone}
 
 In any case, after building my Apple-1 reproduction, I wanted to write some software for it, however simple.
 
@@ -132,7 +132,7 @@ Finally, here is how I write the EPROM, using my very basic USB EPROM programmer
 minipro -s -p 2732A@DIP24 -w eprom_e000.bin
 ```
 
-![EPROM programming and erasing setup](/assets/posts/apple1/2x/IMG_1591.jpg){:standalone}
+![EPROM programming and erasing setup](/assets/posts/apple1/2x/IMG_1591.webp){:standalone}
 
 Note that you don't want to type or rerun individual commands all the time, so I wrote a simple [Makefile](https://github.com/ebruchez/apple1-party/blob/main/Makefile) for this.
 
@@ -150,7 +150,7 @@ pla
 
 The reason for this was that the `supervision.lib` I used as the base for my C library was not compiled with plain 6502 instructions. In particular, it used the `INC A` increment instruction, [available with the 65C02](https://en.wikipedia.org/wiki/WDC_65C02#New_and_modified_instructions) which came out in 1983, but not my 1979 6502!
 
-![My Synertek 6502 CPU made in July 1979](/assets/posts/apple1/2x/IMG_3044.jpg){:standalone}
+![My Synertek 6502 CPU made in July 1979](/assets/posts/apple1/2x/IMG_3044.webp){:standalone}
 
 So I had to do it the hard way and recompile the library for a plain 6502 target:
 
@@ -262,7 +262,7 @@ If the solution is limited to 8 KB, it is possible to use the `S` and `T` signa
 
 I am really happy that I was able to write a small C program for the Apple-1. It uses functions, `malloc`, standard string manipulation functions, creates a linked list, and flawlessly reads from the keyboard and writes to the video terminal.
 
-![Demo application written in C](/assets/posts/apple1/2x/IMG_1490.jpg){:standalone}
+![Demo application written in C](/assets/posts/apple1/2x/IMG_1490.webp){:standalone}
 
 You can find the source code for the "Apple-1 Party" app on [GitHub](https://github.com/ebruchez/apple1-party/tree/main).
 

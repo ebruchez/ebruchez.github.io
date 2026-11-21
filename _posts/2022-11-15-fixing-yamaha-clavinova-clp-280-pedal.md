@@ -11,29 +11,29 @@ category: Technology
 
 Last year, I [fixed my Yamaha Clavinova CLP-280](2021-11-07-fixing-yamaha-clavinova-clp-280.md). But recently, I encountered a new problem: the damper pedal started working erratically. At first, I wasn't sure it was a problem with the piano: could it be that I was not pressing the pedal all the way? But after a while I became sure that it was actually an issue with the pedal. So of course, I decided to investigate.
 
-![The Clavinova CLP-280PE keyboard with the potentiometer](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8688.jpg){:standalone}
+![The Clavinova CLP-280PE keyboard with the potentiometer](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8688.webp){:standalone}
 
 ## Diagnostic
 
 The first thing to do was to look at the pedal mechanism. I laid the piano on its back (it's heavy!).
 
-![The piano on its back](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8675.jpg){:standalone}
+![The piano on its back](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8675.webp){:standalone}
 
 This allowed me to remove the 8 screws that hold the pedal assembly.
 
-![Top of the pedal assembly](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_7869.jpg){:standalone}
+![Top of the pedal assembly](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_7869.webp){:standalone}
 
-![Bottom of the pedal assembly](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8676.jpg){:standalone}
+![Bottom of the pedal assembly](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8676.webp){:standalone}
 
 It is connected to the electronics with a cable attached with a connector.
 
-![Cable and connector](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8678.jpg){:standalone}
+![Cable and connector](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8678.webp){:standalone}
 
 To my surprise, the damper pedal, unlike the other two pedals, is connected to a 10 kΩ potentiometer. The use of a potentiometer is so that the piano can simulate [half pedaling](https://en.wikipedia.org/wiki/Sustain_pedal#Half_pedaling). I hadn't paid attention to that feature of the piano until now!
 
 Given the absence of any other obvious damage, I immediately suspected that the potentiometer must have gotten worn or dirty due to use.
 
-![The damper pedal potentiometer](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_7874.jpg){:standalone}
+![The damper pedal potentiometer](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_7874.webp){:standalone}
 
 I checked the availability of the part online: either just the potentiometer, or the potentiometer with its small PCB assembly. The good news is that similar parts are available on eBay. The bad news is that they are fairly expensive: with shipping, I ended up paying about $30. But I figured that it was worth trying, and I ordered the part.
 
@@ -45,11 +45,11 @@ The new part appears to be an original Yamaha part. Both the new and old parts a
 
 I loosened the nut holding the original potentiometer to its bracket, and also loosened the two screws holding the bracket in place. I then desoldered the small PCB from the larger PCB, and was able to take out the presumably failing part.
 
-![New and old parts](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8684.jpg){:standalone}
+![New and old parts](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8684.webp){:standalone}
 
 I then soldered the new part in place, which went smoothly, taking care of securing the parts properly.
 
-![The new potentiometer assembly installed](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8685.jpg){:standalone}
+![The new potentiometer assembly installed](/assets/posts/fixing-yamaha-clavinova-clp-280-pedal/2x/IMG_8685.webp){:standalone}
 
 I plugged back the connector and after a quick test that things were working, I installed new cable ties, screwed back the pedal assembly and put the piano back to its vertical position.
 

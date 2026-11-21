@@ -9,7 +9,7 @@ redirect_from:
 - "/roller/page/ebruchez/web_browsers_still_suck"
 ---
 
-<figure class="roller-figure"><img src="/assets/posts/roller/printing01.jpg" alt="Printing Press" width="250" height="197" loading="lazy"></figure>
+<figure class="roller-figure"><img src="/assets/posts/roller/printing01.webp" alt="Printing Press" width="250" height="197" loading="lazy"></figure>
 
 It is no news that web browsers suck. For example, Netscape 4 sucked big time (it was rushed out), which was one of the causes of its demise. Nowadays, it's the turn of Internet Explorer to suck, having stalled for over five years due to a lack of competition allowed by Microsoft's monopoly abuse. But with all the hype around [Firefox](http://www.mozilla.org/), [Opera](http://www.opera.com/), and [Safari](http://www.apple.com/macosx/features/safari/), you would think that at last, we are in good shape. Well, yes and no.
 

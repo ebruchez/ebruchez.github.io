@@ -14,7 +14,7 @@ redirect_from:
 - "/roller/page/ebruchez/une_bonne_et_attendue_biographie"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/la-damnation-d-edgar-p-jacobs-01a.jpg" alt="La damnation d&#39;Edgar P. Jacobs" width="162" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/la-damnation-d-edgar-p-jacobs-01a.webp" alt="La damnation d&#39;Edgar P. Jacobs" width="162" height="250" loading="lazy"></figure>
 
 Jusqu'à *La Damnation d'Edgar P. Jacobs*, le célèbre auteur de bandes dessinées était resté mystérieux pour ses lecteurs pourtant nombreux et enthousiastes. Jacobs avait publié de son vivant ses mémoires, *Un Opéra de Papier*, mais ceux-ci ne présentaient que la perspective du maître lui-même. La disponibilité d'une véritable biographie est donc un événement à saluer.
 

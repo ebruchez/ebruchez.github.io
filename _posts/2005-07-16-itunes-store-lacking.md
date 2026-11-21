@@ -15,7 +15,7 @@ archived_comments:
     tracker. :-)'
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/itunes01a.jpg" alt="iTunes Store" width="250" height="199" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/itunes01a.webp" alt="iTunes Store" width="250" height="199" loading="lazy"></figure>
 
 Credit is clearly due to Apple for being the first popular and legal music download site. They are now nearing 500 million downloaded songs. Maybe against all odds, they managed to convince backward-thinking music labels executives that downloading music was the future of music distribution and that there was money to make, not to lose, on the internet.
 

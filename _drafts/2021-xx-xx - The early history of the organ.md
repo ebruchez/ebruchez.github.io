@@ -20,7 +20,7 @@ TODO:
 
 In October 2013, as part of a quest to know more about the origins of the modern piano keyboard, I set as a goal to read a book by Jean Perrot about the early history of the *pipe organ*.[^perrot]
 
-![Jean Perrot's book](/assets/posts/early-history-of-the-organ/perrot.jpg){:standalone width="50%"}
+![Jean Perrot's book](/assets/posts/early-history-of-the-organ/perrot.webp){:standalone width="50%"}
 
 You might think that this is an obscure topic! However, there is a lot of fascinating information in this book. It took me about four months to finish it, relatively leisurely, after which I started writing an article about what I learned. I then left the draft untouched until 2021![^meanwhile] Finally, I am publishing this attempt at summarizing some key takeaways.
 
@@ -89,7 +89,7 @@ Here are a few common misconceptions:
 - __Misconception 2: The water was going through the pipes to produce sound.__ False, of course: the hydraulis produced sound like any organ: with *air* flowing through the pipes.
 - __Misconception 3: A constant supply of water was needed.__ False: the *amount* of water was constant: you just needed enough water to fill the cistern, and to refill it when there was loss due to evaporation or leaks. It is the *weight* of the water which was used to regulate the air pressure. This made the hydraulis a relatively mobile instrument.
 
-![Children shown in the Tarsus Terracotta](/assets/posts/early-history-of-the-organ/children.jpg){:standalone}
+![Children shown in the Tarsus Terracotta](/assets/posts/early-history-of-the-organ/children.webp){:standalone}
 
 ![Creative reconstruction of a hydraulic organ by Barbaro (1556)](https://raw.githubusercontent.com/ebruchez/public/master/Reading/images/Baroque%20reconstruction%20by%20Barbaro.jpg){:standalone width="50%"}
 
@@ -101,7 +101,7 @@ In the hydraulis, the water is used as part of a mechanism to regulate air press
 
 In the hydraulis, air is pushed through pipes and also goes to an inverted funnel or dome (called the pnigeus) submerged in water.
 
-![Pnigeus](/assets/posts/early-history-of-the-organ/pnigeus.jpg){:standalone width="50%"}
+![Pnigeus](/assets/posts/early-history-of-the-organ/pnigeus.webp){:standalone width="50%"}
 
 This creates a reserve of air. When the pump piston goes back and no more air is pushed in by the pump, the weight of the water surrounding the pnigeus pushes that air up through the windchdest and pipes. This way, even when the pump is inactive, the organ can produce sound, at least for an instant. In the illustration below, you can see how the water (11) and pnigeus (12) relate to the regular path of the air through the hydraulis.
 
@@ -141,13 +141,13 @@ It doesn't look like the organ made it to the church at all during that period e
 
 The organ made it to Baghdad, probably during the 8th century, where it remained known for centuries, and even, in a single documented instance, to China, as a gift to [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan) in the 13th century. That's the same Kublai Khan that Marco Polo says he visited.
 
-![Kublai Khan](/assets/posts/early-history-of-the-organ/kublai.jpg){:standalone width="50%"}
+![Kublai Khan](/assets/posts/early-history-of-the-organ/kublai.webp){:standalone width="50%"}
 
 During its Byzantine period, the organ didn't seem to evolve much if at all, remaining identical to the Roman bellows organ.
 
 The organ returned to the Western world, specifically to France, in the middle of 8th century, when an instrument was shipped from Constantinople to [Pepin the Short](https://en.wikipedia.org/wiki/Pepin_the_Short), king of the Franks. This organ was a gift from Emperor Constantine V (emperor from 741 to 775), no doubt for political reasons.
 
-![Pepin the Short](/assets/posts/early-history-of-the-organ/pepin.jpg){:standalone width="50%"}
+![Pepin the Short](/assets/posts/early-history-of-the-organ/pepin.webp){:standalone width="50%"}
 
 There are accounts of the arrival of the instrument, which impressed a lot: nobody knew about the Greco-Roman organ anymore by then.
 
@@ -209,7 +209,7 @@ The mechanism of this early keyboard is known thanks to Hero's description. It h
 - the keys proper
 - horn spatulas acting as springs, connected with gut to the sliders, which would pull the sliders back to close the air path.
 
-![Basic layout of a key](/assets/posts/early-history-of-the-organ/key-and-wind-chest.jpg){:standalone}
+![Basic layout of a key](/assets/posts/early-history-of-the-organ/key-and-wind-chest.webp){:standalone}
 
 This mechanism has been replicated in modern reconstructions of the hydraulis.
 

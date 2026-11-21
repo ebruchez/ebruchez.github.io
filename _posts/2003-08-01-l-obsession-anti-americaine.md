@@ -14,7 +14,7 @@ redirect_from:
 - "/roller/page/ebruchez/bonne_intention_de_d_eacute"
 ---
 
-<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/l-obsession-anti-americaine-01a.jpg" alt="L&#39;obsession anti-américaine" width="153" height="250" loading="lazy"></figure>
+<figure class="roller-figure" data-no-lightbox><img src="/assets/posts/roller/l-obsession-anti-americaine-01a.webp" alt="L&#39;obsession anti-américaine" width="153" height="250" loading="lazy"></figure>
 
 *L'obsession anti-américaine* part de bonnes intentions: dénoncer une tendance fort répandue de dénigrement gratuit des Etats Unis, en particulier de la part des Européens et des Français, tout en tentant une explication du phénomène.
 
