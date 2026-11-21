@@ -5,7 +5,9 @@ author: Erik Bruchez
 date: '2021-02-12T11:40:00.000-08:00'
 tags:
 - music
-category: Link Blog
+categories:
+- Music
+- Link Blog
 ---
 
 [From Chick Corea's web site](https://chickcorea.com/):
