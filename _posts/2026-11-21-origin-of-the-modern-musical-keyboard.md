@@ -133,7 +133,7 @@ The 14th century is where chromaticism - and a second tier of keys - finally b
 
 - Around **1330**, theorist Jacobus of Liège noted that on certain instruments, including the organ, *"almost everywhere the tone is divided into two unequal semitones"* (in Pythagorean tuning).[^encyclopedia]
 - In the first half of the 14th century, **Johannes de Muris** explicitly mentioned semitone keys for **F♯** and **G♯**.[^grove]
-- Around **1360**, the [Robertsbridge Codex](https://en.wikipedia.org/wiki/Robertsbridge_Codex) preserved the earliest surviving music written specifically for a keyboard instrument (almost certainly the organ), calling for a compass of two octaves and a third, fully chromatic above F.[^grove] Listening to a performance today is a vivid reminder of just how different medieval keyboard music sounded from later Baroque or Classical repertoire:
+- Around **1360**, the [Robertsbridge Codex](https://en.wikipedia.org/wiki/Robertsbridge_Codex) preserved the earliest surviving music written specifically for a keyboard instrument (almost certainly the organ), calling for a compass of two octaves and a third, fully chromatic above F.[^grove] Listening to a performance today is a reminder of just how different medieval keyboard music sounded from later Baroque or Classical repertoire:
 
 <div style="margin: 1.5rem 0;">
   <iframe width="100%" style="aspect-ratio: 16 / 9; border: 0; border-radius: 6px;" src="https://www.youtube.com/embed/3QF4BCKYZxc" title="Robertsbridge Codex (c. 1360) performed on organ" loading="lazy" allowfullscreen></iframe>
@@ -187,11 +187,11 @@ Praetorius's *Syntagma Musicum* gives us another milestone from **1456**: the ke
 
 ![Keyboards of the 1456 Aegidienkirche organ in Brunswick (Plates XXVII and XXVIII of Praetorius's Syntagma Musicum)](/assets/posts/origin-of-the-modern-musical-keyboard/syntagma-brunswick.webp){:standalone width="75%"}
 
-Finally, I cannot resist mentioning the **world's oldest playable organ**, built around **1430–1435** in the Basilica of Valère in **Sion, Switzerland** - not far from where I grew up![^valere] I was lucky enough to have a private visit and demonstration by Edmond Voeffray, titular or the Valère organ. Seeing and photographing the Valère manual up close, my immediate hunch was that the keyboard itself looked far too clean and modern to be untouched from the 1430s:
+Finally, I cannot resist mentioning the **world's oldest playable organ**, built around **1430–1435** in the Basilica of Valère in **Sion, Switzerland** - not far from where I grew up![^valere] I was lucky enough to have a private visit and demonstration by Edmond Voeffray, titular of the Valère organ. Seeing and photographing the Valère manual up close, my immediate hunch was that the keyboard itself looked far too clean and modern to be untouched from the 1430s:
 
 {% include carousel.html id="valere-sion-manual" label="Manual of the historic Valère Basilica organ in Sion" slides=page.valere_sion_slides %}
 
-And indeed, archival records confirm that hunch: while the Gothic swallow's-nest case, the 1435 painted shutters, and several ranks of high-lead pipes are genuinely medieval, the visible 45-note manual dates from a major **1687** rebuild by Solothurn organ builder Christoph Aebi, who enlarged and repositioned the keyboard (notice the Baroque ["short octave"](https://en.wikipedia.org/wiki/Short_octave) at the far left end.[^valere-aebi] Even so, given what we already see at Halberstadt (1361), Norrlanda (c. 1400), Ghent (1432), and Brunswick (1456), the original 1430s Sion organ almost certainly already had a two-row chromatic manual of its own.
+And indeed, archival records confirm that hunch: while the Gothic swallow's-nest case, the 1435 painted shutters, and several ranks of high-lead pipes are genuinely medieval, the visible 45-note manual dates from a major **1687** rebuild by Solothurn organ builder Christoph Aebi, who enlarged and repositioned the keyboard (notice the Baroque ["short octave"](https://en.wikipedia.org/wiki/Short_octave) at the far left end).[^valere-aebi] Even so, given what we already see at Halberstadt (1361), Norrlanda (c. 1400), Ghent (1432), and Brunswick (1456), the original 1430s Sion organ almost certainly already had a two-row chromatic manual of its own.
 
 ## Conclusion
 
