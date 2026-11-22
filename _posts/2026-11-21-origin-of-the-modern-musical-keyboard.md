@@ -70,11 +70,11 @@ valere_sion_slides:
     caption: "Treble end of the manual, with the row of brass tracker wire loops visible behind the keys under the nameboard."
 ---
 
+![A modern digital piano keyboard, set to "Pipe Organ Principal"](/assets/posts/origin-of-the-modern-musical-keyboard/modern-digital-piano-keyboard.webp){:standalone width="75%"}
+
 ## Introduction
 
 Have you ever wondered when the familiar layout of the modern piano keyboard came into existence — that repeating pattern of seven white keys and five raised black keys? When I first went looking for a clear answer, it turned out to be surprisingly hard to pin down online. That question sent me to brick-and-mortar libraries, inter-library loans, and eventually a 300-page history of the ancient and medieval pipe organ.[^perrot]
-
-![A modern digital piano keyboard, set to "Pipe Organ Principal"](/assets/posts/origin-of-the-modern-musical-keyboard/modern-digital-piano-keyboard.webp){:standalone width="75%"}
 
 Why pipe organs? Because the earliest musical keyboards were *organ* keyboards.[^manual] Unlike a flute or a harp, a multi-pipe organ fed by mechanical pumps or bellows needs a valve mechanism so the player can choose which pipe speaks and when. In a companion post, [The Early History of the Organ](/posts/early-history-of-the-organ/), I trace how that remarkable machine traveled from Hellenistic Egypt to medieval cathedrals. Here, I want to follow the interface itself: how a row of ancient organ levers evolved into the chromatic keyboard we play today.
 

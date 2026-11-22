@@ -30,9 +30,9 @@ hero_pneumatics_slides:
     caption: "Venise, Biblioteca Nazionale Marciana, Gr. Z. 516, fol. 184v (fin du XIIIe / début du XIVe siècle) — Le plus ancien témoin manuscrit grec conservé, reproduit en noir et blanc dans le livre de Jean Perrot."
 ---
 
-## Introduction
-
 ![L'hydraulis gréco-romain et un joueur de cor sur la mosaïque de Nennig (IIIe siècle apr. J.-C.)](/assets/posts/early-history-of-the-organ/nennig-mosaic.webp){:standalone width="75%"}
+
+## Introduction
 
 En octobre 2013, dans le cadre d'une quête pour comprendre les origines du clavier de piano moderne, je m'étais [fixé pour objectif](/posts/october-reading-resolution/) de lire un ouvrage de 300 pages recommandé par le conservateur du [Musée Suisse de l'Orgue](https://www.orgue.ch/), Jean-Jacques Gramm[^passed-away] : le classique érudit de Jean Perrot sur l'histoire ancienne de l'*orgue à tuyaux*.[^perrot]
 

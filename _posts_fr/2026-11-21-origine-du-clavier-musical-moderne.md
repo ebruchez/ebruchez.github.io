@@ -73,11 +73,11 @@ valere_sion_slides:
     caption: "Extrémité aiguë du clavier, où l'on aperçoit la rangée de boucles en fil de laiton des vergettes derrière les touches, sous le bandeau."
 ---
 
+![Un clavier de piano numérique moderne, réglé sur « Pipe Organ Principal »](/assets/posts/origin-of-the-modern-musical-keyboard/modern-digital-piano-keyboard.webp){:standalone width="75%"}
+
 ## Introduction
 
 Vous êtes-vous déjà demandé quand était apparue la disposition familière du clavier de piano moderne — ce motif répété de sept touches blanches et cinq touches noires surélevées ? Lorsque j'ai cherché une réponse claire pour la première fois, il s'est avéré étonnamment difficile de la trouver en ligne. Cette question m'a mené vers des bibliothèques bien réelles, des prêts entre bibliothèques et, finalement, un ouvrage de 300 pages consacré à l'histoire de l'orgue à tuyaux antique et médiéval.[^perrot]
-
-![Un clavier de piano numérique moderne, réglé sur « Pipe Organ Principal »](/assets/posts/origin-of-the-modern-musical-keyboard/modern-digital-piano-keyboard.webp){:standalone width="75%"}
 
 Pourquoi les orgues à tuyaux ? Parce que les premiers claviers musicaux étaient des claviers d'*orgue*.[^manual] Contrairement à une flûte ou à une harpe, un orgue à plusieurs tuyaux alimenté par des pompes ou des soufflets mécaniques a besoin d'un système de soupapes permettant au musicien de choisir quel tuyau parle et à quel moment. Dans un article compagnon, [L'histoire ancienne de l'orgue](/fr/posts/histoire-ancienne-de-l-orgue/), je retrace le parcours de cette machine remarquable depuis l'Égypte hellénistique jusqu'aux cathédrales médiévales. Ici, je m'intéresse à l'interface elle-même : comment une rangée de leviers d'orgue antiques a évolué jusqu'au clavier chromatique dont nous jouons aujourd'hui.
 

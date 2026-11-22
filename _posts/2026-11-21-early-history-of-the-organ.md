@@ -27,9 +27,9 @@ hero_pneumatics_slides:
     caption: "Venice, Biblioteca Nazionale Marciana, Gr. Z. 516, fol. 184v (late 13th / early 14th century) — The earliest surviving Greek manuscript witness, reproduced in black and white in Jean Perrot's book."
 ---
 
-## Introduction
-
 ![The Greco-Roman hydraulis and horn player in the Nennig mosaic (3rd century CE)](/assets/posts/early-history-of-the-organ/nennig-mosaic.webp){:standalone width="75%"}
+
+## Introduction
 
 Back in October 2013, as part of a quest to understand the origins of the modern piano keyboard, I [set a goal](/posts/october-reading-resolution/) to read a 300-page book recommended by the curator of the [Musée Suisse de l'Orgue](https://www.orgue.ch/), Jean-Jacques Gramm:[^passed-away] Jean Perrot's scholarly classic on the early history of the *pipe organ*.[^perrot]
 
