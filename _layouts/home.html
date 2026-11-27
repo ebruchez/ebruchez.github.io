@@ -187,7 +187,7 @@ layout: default
       <div class="tile-body">
         <h2 class="tile-title">IBM Typewriters</h2>
         <ul class="tile-post-list">
-          {% assign ibm_paths = "/pages/typewriter-collection-ibm/,/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/" | split: "," %}
+          {% assign ibm_paths = "/pages/typewriter-collection-ibm/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/,/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/" | split: "," %}
           {% for path in ibm_paths %}
             {% if path contains "/posts/" %}
               {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
@@ -291,7 +291,7 @@ layout: default
       <div class="tile-body">
         <h2 class="tile-title">Repairs and Restorations</h2>
         <ul class="tile-post-list">
-          {% assign repair_paths = "/posts/fixing-yamaha-clavinova-clp-280/,/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/,/posts/restoring-yost-20/,/posts/televideo-800a-terminal/,/posts/televideo-912-terminal-1/,/posts/televideo-912-terminal-2/,/posts/televideo-912-terminal-3/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/restoring-ibm-memory-typewriter-1/,/posts/vic-20-key/" | split: "," %}
+          {% assign repair_paths = "/posts/fixing-yamaha-clavinova-clp-280/,/posts/fixing-yamaha-clavinova-clp-280-felt-contacts/,/posts/restoring-yost-20/,/posts/televideo-800a-terminal/,/posts/televideo-912-terminal-1/,/posts/televideo-912-terminal-2/,/posts/televideo-912-terminal-3/,/posts/restoring-ibm-electronic-selectric-composer-1/,/posts/restoring-ibm-memory-typewriter-1/" | split: "," %}
           {% for path in repair_paths %}
             {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
             {% if p %}
