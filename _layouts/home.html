@@ -87,8 +87,11 @@ layout: default
       <div class="tile-body">
         <div class="tile-header-row">
           <h2 class="tile-title">Recent Blog Posts</h2>
-          <a href="{{ '/tabs/archives/' | relative_url }}" class="tile-all-link">
-            <i class="fas fa-archive mr-1" aria-hidden="true"></i>All posts →
+          <a href="{{ '/tabs/archives/' | relative_url }}" class="tile-cta-link tile-cta-link--inline">
+            <span class="tile-cta-label">
+              <i class="fas fa-archive mr-2" aria-hidden="true"></i>All posts
+            </span>
+            <span class="tile-cta-arrow" aria-hidden="true">→</span>
           </a>
         </div>
         <ul class="tile-post-list" role="list">
@@ -143,14 +146,16 @@ layout: default
       </div>
       <div class="tile-body">
         <h2 class="tile-title">Pietro Mascagni — Mascagni.org</h2>
+        <a href="https://mascagni.org/" target="_blank" rel="noopener" class="tile-cta-link">
+          <span class="tile-cta-label">
+            <i class="fas fa-globe mr-2" aria-hidden="true"></i>Visit Mascagni.org
+          </span>
+          <span class="tile-cta-arrow" aria-hidden="true">↗</span>
+        </a>
         <ul class="tile-post-list">
           <li>
             <i class="far fa-file-alt mr-2 text-muted" aria-hidden="true"></i>
             <a href="{{ '/posts/reviving-mascagni-org/' | relative_url }}">Reviving Mascagni.org</a>
-          </li>
-          <li>
-            <i class="fas fa-external-link-alt mr-2 text-muted" aria-hidden="true"></i>
-            <a href="https://mascagni.org/" target="_blank" rel="noopener">Mascagni.org Home</a>
           </li>
           <li>
             <i class="fas fa-external-link-alt mr-2 text-muted" aria-hidden="true"></i>
@@ -186,8 +191,14 @@ layout: default
       </div>
       <div class="tile-body">
         <h2 class="tile-title">IBM Typewriters</h2>
+        <a href="{{ '/pages/typewriter-collection-ibm/' | relative_url }}" class="tile-cta-link">
+          <span class="tile-cta-label">
+            <i class="fas fa-keyboard mr-2" aria-hidden="true"></i>IBM collection overview
+          </span>
+          <span class="tile-cta-arrow" aria-hidden="true">→</span>
+        </a>
         <ul class="tile-post-list">
-          {% assign ibm_paths = "/pages/typewriter-collection-ibm/,/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/,/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/" | split: "," %}
+          {% assign ibm_paths = "/posts/ibm-mt-sc-1/,/posts/ibm-mt-sc-2/,/posts/ibm-memory-typewriter/,/posts/restoring-ibm-memory-typewriter-1/,/posts/restoring-ibm-memory-typewriter-2/,/posts/restoring-ibm-electronic-selectric-composer-1/" | split: "," %}
           {% for path in ibm_paths %}
             {% if path contains "/posts/" %}
               {% assign p = site.posts | where_exp: "item", "item.url == path" | first %}
@@ -214,14 +225,15 @@ layout: default
         </figcaption>
       </div>
       <div class="tile-body">
-        <div class="tile-header-row">
-          <h2 class="tile-title">Bruchez Typewriter Collection</h2>
-          {% if site.data.typewriters_stats and site.data.typewriters_stats.total_collection > 0 %}
-          <a href="{{ '/typewriters/' | relative_url }}" class="tile-all-link">
-            <i class="fas fa-keyboard mr-1" aria-hidden="true"></i>Full catalog ({{ site.data.typewriters_stats.total_collection }}) →
-          </a>
-          {% endif %}
-        </div>
+        <h2 class="tile-title">Bruchez Typewriter Collection</h2>
+        {% if site.data.typewriters_stats and site.data.typewriters_stats.total_collection > 0 %}
+        <a href="{{ '/typewriters/' | relative_url }}" class="tile-cta-link">
+          <span class="tile-cta-label">
+            <i class="fas fa-keyboard mr-2" aria-hidden="true"></i>Full catalog ({{ site.data.typewriters_stats.total_collection }})
+          </span>
+          <span class="tile-cta-arrow" aria-hidden="true">→</span>
+        </a>
+        {% endif %}
         <ul class="tile-post-list">
           {% assign tw_paths = "/pages/typewriter-collection-ibm/,/pages/typewriter-collection-hermes/,/pages/typewriter-collection-varityper/,/pages/typewriter-collection-accounting/,/pages/typewriter-collection-completed-restorations/,/pages/typewriter-collection-future-restorations/,/posts/hermes-baby-1961/,/posts/royal-fp-special-order-1960/,/pages/typewriter-bucket-list/" | split: "," %}
           {% for path in tw_paths %}
@@ -251,11 +263,13 @@ layout: default
       </div>
       <div class="tile-body">
         <h2 class="tile-title">Bruchez Computer Collection</h2>
+        <a href="{{ '/pages/computer-collection/' | relative_url }}" class="tile-cta-link">
+          <span class="tile-cta-label">
+            <i class="fas fa-desktop mr-2" aria-hidden="true"></i>Collection overview
+          </span>
+          <span class="tile-cta-arrow" aria-hidden="true">→</span>
+        </a>
         <ul class="tile-post-list">
-          <li>
-            <i class="far fa-file-alt mr-2 text-muted"></i>
-            <a href="{{ '/pages/computer-collection/' | relative_url }}">Computer collection</a>
-          </li>
           <li>
             <i class="far fa-file-alt mr-2 text-muted"></i>
             <a href="{{ '/posts/televideo-800a-terminal/' | relative_url }}">The Televideo 800A Terminal</a>
@@ -330,8 +344,11 @@ layout: default
       <div class="tile-body">
         <div class="tile-header-row">
           <h2 class="tile-title">Comic Books</h2>
-          <a href="{{ '/pages/comic-books/' | relative_url }}" class="tile-all-link">
-            <i class="fas fa-book-open mr-1" aria-hidden="true"></i>Overview &amp; {{ site.data.comics_total_reads }} reads →
+          <a href="{{ '/pages/comic-books/' | relative_url }}" class="tile-cta-link tile-cta-link--inline">
+            <span class="tile-cta-label">
+              <i class="fas fa-book-open mr-2" aria-hidden="true"></i>Overview &amp; {{ site.data.comics_total_reads }} reads
+            </span>
+            <span class="tile-cta-arrow" aria-hidden="true">→</span>
           </a>
         </div>
         <ul class="tile-post-list" role="list">

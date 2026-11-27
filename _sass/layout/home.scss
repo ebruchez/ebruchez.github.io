@@ -408,6 +408,71 @@
         color: var(--text-color);
       }
 
+      .tile-cta-link {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.5rem;
+        padding: 0.5rem 0.75rem;
+        margin-bottom: 0.9rem;
+        background-color: var(--tb-odd-bg);
+        border: 1px solid var(--main-border-color);
+        border-radius: 6px;
+        color: var(--link-color);
+        font-size: 0.86rem;
+        font-weight: 600;
+        text-decoration: none;
+
+        .tile-cta-label {
+          display: inline-flex;
+          align-items: center;
+
+          i {
+            font-size: 0.8rem;
+            color: var(--text-muted-color);
+          }
+        }
+
+        .tile-cta-arrow {
+          flex-shrink: 0;
+        }
+
+        @media (prefers-reduced-motion: no-preference) {
+          transition: background-color 0.15s ease, border-color 0.15s ease;
+
+          .tile-cta-arrow {
+            transition: transform 0.15s ease;
+          }
+
+          &:hover .tile-cta-arrow {
+            transform: translateX(3px);
+          }
+        }
+
+        &:hover {
+          text-decoration: none;
+          background-color: var(--tb-even-bg, var(--card-bg, var(--button-bg)));
+          border-color: var(--link-color);
+
+          .tile-cta-label {
+            text-decoration: underline;
+          }
+        }
+
+        &:focus-visible {
+          outline: 2px solid var(--link-color);
+          outline-offset: 2px;
+        }
+
+        &.tile-cta-link--inline {
+          display: inline-flex;
+          padding: 0.35rem 0.7rem;
+          margin-bottom: 0;
+          gap: 0.55rem;
+          font-size: 0.84rem;
+        }
+      }
+
       .tile-post-list {
         list-style: none;
         padding-left: 0;
@@ -454,7 +519,7 @@
 
       .tile-header-row {
         display: flex;
-        align-items: baseline;
+        align-items: center;
         justify-content: space-between;
         flex-wrap: wrap;
         gap: 0.5rem;
@@ -462,17 +527,6 @@
 
         .tile-title {
           margin-bottom: 0;
-        }
-
-        .tile-all-link {
-          font-size: 0.88rem;
-          font-weight: 600;
-          color: var(--link-color);
-          text-decoration: none;
-
-          &:hover {
-            text-decoration: underline;
-          }
         }
       }
 
