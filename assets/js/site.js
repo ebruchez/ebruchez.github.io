@@ -573,23 +573,8 @@
   }
 
   /* --------------------------------------------------------------------------
-   * 6. Back-to-Top, Categories Collapse & Email Link
+   * 6. Email Link
    * -------------------------------------------------------------------------- */
-  const backToTop = document.getElementById('back-to-top');
-  if (backToTop) {
-    const syncBackToTop = () => {
-      backToTop.classList.toggle('is-visible', window.scrollY > 120);
-    };
-    syncBackToTop();
-    window.addEventListener('scroll', syncBackToTop, { passive: true });
-    backToTop.addEventListener('click', () => {
-      window.scrollTo({
-        top: 0,
-        behavior: reducedMotion.matches ? 'instant' : 'smooth'
-      });
-    });
-  }
-
   document.addEventListener('click', (event) => {
     if (!(event.target instanceof Element)) return;
 
